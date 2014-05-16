@@ -997,8 +997,8 @@ Key:  position; team; games; wins; ties; losses; goals_for; goals_against; gd; p
 15   ;         San Luis         ; 17     ; 3      ; 6      ; 8      ; 14     ; 24     ; −10    ; 15;
 16   ;         Puebla           ; 17     ; 3      ; 4      ; 10     ; 16     ; 26     ; −10    ; 13;
 17   ;         Atlas            ; 17     ; 1      ; 9      ; 7      ; 16     ; 27     ; −11    ; 12;
-18   ;         Querétaro        ; 17     ; 1      ; 4      ; 12     ; 11     ; 30     ; −19    ; 7
-;
+18   ;         Querétaro        ; 17     ; 1      ; 4      ; 12     ; 11     ; 30     ; −19    ; 7;
+
 
 Season: 2012-2013 Clasura
 BlockSource: http://en.wikipedia.org/wiki/2012%E2%80%9313_Liga_MX_season
@@ -1051,7 +1051,7 @@ Key: position; team; games; wins; ties; losses; goals_for; goals_against; gd; po
 Season: 2013-2014 Clausura
 
 1   ;    Cruz Azul           ; 17     ; 11     ; 3      ; 3      ; 28     ; 19     ; +9;      36;      Advance to the Liguilla
-2   ;    Toluca              ; 17     ; 10     ; 2      ; 5      ; 25     ; 14     ; +1;1     32;
+2   ;    Toluca              ; 17     ; 10     ; 2      ; 5      ; 25     ; 14     ; +11;     32;
 3   ;    UNAM                ; 17     ; 7      ; 4      ; 6      ; 26     ; 20     ; +6;      25;
 4   ;    Santos Laguna       ; 17     ; 6      ; 7      ; 4      ; 33     ; 29     ; +4;      25;
 5   ;    América             ; 17     ; 7      ; 4      ; 6      ; 21     ; 17     ; +4;      25;
@@ -1066,5 +1066,5 @@ Season: 2013-2014 Clausura
 14  ;    UANL                   ; 17     ; 5      ; 6      ; 6      ; 13     ; 17     ; −4;      21;
 15  ;    Guadalajara            ; 17     ; 5      ; 6      ; 6      ; 13     ; 18     ; −5;      21;
 16  ;    Puebla                 ; 17     ; 4      ; 6      ; 7      ; 14     ; 19     ; −5;      18;
-17  ;    Atlante (R)            ; 17     ; 5      ; 3      ; 9      ; 22     ; 34     ; −1;2     18;      Relegated to Ascenso MX
-18  ;    Veracruz               ; 17     ; 3      ; 7      ; 7      ; 14     ; 25     ; −1;1     16;
+17  ;    Atlante (R)            ; 17     ; 5      ; 3      ; 9      ; 22     ; 34     ; −12;     18;      Relegated to Ascenso MX
+18  ;    Veracruz               ; 17     ; 3      ; 7      ; 7      ; 14     ; 25     ; −11;     16;
