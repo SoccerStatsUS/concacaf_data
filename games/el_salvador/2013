@@ -18,7 +18,7 @@ Round: 1
 Date: 8/3/2013
 
 ; Luis Ángel Firpo; 1-1; Águila           
-;; Isidro-Metapán;   3-3 Santa Tecla      
+; Isidro-Metapán;   3-3; Santa Tecla      
 
 Date: 8/4/2013
 
@@ -45,7 +45,7 @@ Date: 8/14/2013
 ; Alianza         ; 0-0; Dragón           
 ; Juventud Ind.   ; 0-0; UES              
 ; Luis Ángel Firpo; 1-1; FAS              
-;; Isidro-Metapán;   0-0 Marte            
+; Isidro-Metapán;   0-0; Marte            
 
 Round: 4
 Date: 8/17/2013
@@ -64,7 +64,7 @@ Date: 8/24/2013
 
 ; Águila          ; 1-1; Marte            
 ; Luis Ángel Firpo; 1-0; UES              
-;; Isidro-Metapán;   2-1 Dragón           
+; Isidro-Metapán;   2-1; Dragón           
 ; Santa Tecla     ; 2-3; FAS              
 
 Date: 8/25/2013
@@ -100,7 +100,7 @@ Date: 9/14/2013
 
 ; UES             ; 0-0; FAS              
 ; Dragón          ; 1-0; Santa Tecla      
-;; Isidro-Metapán;   1-0 Luis Ángel Firpo 
+; Isidro-Metapán;   1-0; Luis Ángel Firpo 
 
 Date: 9/15/2013
 
@@ -134,7 +134,7 @@ Date: 9/29/2013
 Round: 11
 Date: 10/5/2013
 
-;; Isidro-Metapán;   4-2 FAS              
+; Isidro-Metapán;   4-2; FAS              
 ; Luis Ángel Firpo; 2-1; Santa Tecla      
 
 Date: 10/6/2013
@@ -160,7 +160,7 @@ Date: 10/19/2013
 
 ; Águila          ; 0-0; FAS              
 ; Luis Ángel Firpo; 0-3; Marte            
-;; Isidro-Metapán;   3-2 UES              
+; Isidro-Metapán;   3-2; UES              
 
 Date: 10/20/2013
 
@@ -185,7 +185,7 @@ Date: 11/2/2013
 ; Luis Ángel Firpo; 0-1; Dragón           
 ; Santa Tecla     ; 2-4; Marte            
 ; Águila          ; 0-1; UES              
-;; Isidro-Metapán;   1-2 Juventud Ind.    
+; Isidro-Metapán;   1-2; Juventud Ind.    
 
 Date: 11/3/2013
 
@@ -196,7 +196,7 @@ Date: 11/9/2013
 
 ; UES             ; 1-2; Santa Tecla      
 ; Dragón          ; 1-0; Águila           
-;; Isidro-Metapán;   2-2 Alianza          
+; Isidro-Metapán;   2-2; Alianza          
 
 Date: 11/10/2013
 
@@ -218,7 +218,7 @@ Date: 11/24/2013
 ; UES             ; 4-1; Marte            
 ; Dragón          ; 1-0; FAS              
 ; Juventud Ind.   ; 2-1; Santa Tecla      
-;; Isidro-Metapán;   2-2 Águila           
+; Isidro-Metapán;   2-2; Águila           
 ; Alianza         ; 4-2; Luis Ángel Firpo 
 
 
@@ -240,7 +240,7 @@ Round:: Repechaje
 
 Date: 11/27/2013
 
-;; Isidro-Metapán;   1-0 Alianza          
+; Isidro-Metapán;   1-0; Alianza          
 
 *NB: Isidro-Metapán qualified for playoff stage
 
@@ -249,7 +249,7 @@ Leg: 1
 Date: 12/1/2013
 
 ; Juventud Ind.   ; 2-2; FAS              
-;; Isidro-Metapán;   1-0 Marte            
+; Isidro-Metapán;   1-0; Marte            
 
 Leg: 2
 Date: 12/7/2013
@@ -283,7 +283,7 @@ Season: 2013-2014 Clausura
 Round: 1
 Date: 1/18/2014
 
-;; Isidro-Metapán;   3-1 Juventud Ind.    
+; Isidro-Metapán;   3-1; Juventud Ind.    
 ; UES             ; 1-2; Alianza          
 
 Date: 1/19/2014
@@ -311,7 +311,7 @@ Date: 1/29/2014
 ; Santa Tecla     ; 0-1; Luis Ángel Firpo 
 ; UES             ; 0-1; FAS              
 ; Marte           ; 1-3; Juventud Ind.    
-;; Isidro-Metapán;   1-1 Dragón           
+; Isidro-Metapán;   1-1; Dragón           
 
 Round: 4
 Date: 2/8/2014
@@ -330,7 +330,7 @@ Date: 2/15/2014
 
 ; Águila          ; 0-0; FAS              
 ; UES             ; 0-3; Dragón           
-;; Isidro-Metapán;   1-3 Marte            
+; Isidro-Metapán;   1-3; Marte            
 
 Date: 2/16/2014
 
@@ -356,13 +356,13 @@ Date: 2/26/2014
 ; Alianza         ; 0-0; Juventud Ind.    
 ; Águila          ; 1-1; Dragón           
 ; Santa Tecla     ; 0-0; Marte            
-;; Isidro-Metapán;   1-2 UES              
+; Isidro-Metapán;   1-2; UES              
 
 Round: 8
 Date: 3/1/2014
 
 ; UES             ; 2-3; Santa Tecla      
-;; Isidro-Metapán;   1-0 FAS              
+; Isidro-Metapán;   1-0; FAS              
 ; Marte           ; 1-2; Águila           
 
 Date: 3/2/2014
@@ -397,7 +397,7 @@ Date: 3/23/2014
 Round: 11
 Date: 3/29/2014
 
-;; Isidro-Metapán;   0-2 Águila           
+; Isidro-Metapán;   0-2; Águila           
 ; UES             ; 3-1; Luis Ángel Firpo 
 
 Date: 3/30/2014
@@ -419,7 +419,7 @@ Round: 13
 Date: 4/5/2014
 
 ; Águila          ; 2-2; Luis Ángel Firpo 
-;; Isidro-Metapán;   2-0 Alianza          
+; Isidro-Metapán;   2-0; Alianza          
 ; UES             ; 0-2; Juventud Ind.    
 
 Date: 4/6/2014

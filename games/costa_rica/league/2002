@@ -1,12 +1,14 @@
 Competition: Costa Rican Primera División
 Season: 2002-2003 Apertura
+BlockSource: http://www.rsssf.com/tablesc/cos03.html
 home-first
 
 Round: 1 
-[Aug 3-4]
+*[Aug 3-4]
+Date: 8/3/2002
+
 ; San Carlos   ; 3-2; Alajuelense   
-Luis Martínez, Pedro Bonilla, Julio Víquez (pen);
-                                 Pablo Chinchilla, Steven Bryce
+Luis Martínez, Pedro Bonilla, Julio Víquez (pk);  Pablo Chinchilla, Steven Bryce
 
 ; Guanacasteca ; 2-1; Liberia       
 John Quiñones, Rodolfo Arnáez; William Vargas
@@ -14,357 +16,461 @@ John Quiñones, Rodolfo Arnáez; William Vargas
 ; Osa          ; 0-0; Pérez Zeledón
 
 ; Cartaginés   ; 1-0; Santos        
-Danny Fonseca (pen)
+Danny Fonseca (pk);
 
 ; Carmelita    ; 0-3; Herediano     
-Mauricio Alpízar, Kurt Bernard, Leonardo González
+; Mauricio Alpízar, Kurt Bernard, Leonardo González
 
 ; Santa Bárbara; 1-0; Saprissa      
-Pablo Tiscornia
+Pablo Tiscornia;
 
 Round: 2 
-[Aug 11]
-Saprissa      2-1 Cartaginés    
-[Amado Guevara (pen), Jeaustin Campos; Claudio Ciccia]
-Alajuelense   8-2 Guanacasteca  
-[Erick Jiménez (3), Erick Scott (2), Josef Miso, 
-                                 Pablo Izaguirre, Wílmer López; Freeman Zúñiga, 
-                                 Alfonso Martínez (pen)]
-Herediano     2-1 Santa Bárbara 
-[Mauricio Alpízar, Daniel Vallejos; Kenneth Vargas]
-Santos        3-1 Osa           
-[José Alfaro, Reyner Robinson, Christian Blanco;
-                                 Leonardo Moreira]
-Pérez Zeledón 0-0 San Carlos
-Liberia       1-1 Carmelita     
-[Percibal Piggot; Hugo Soto (pen)]
+Dat: 8/11/2002
+
+; Saprissa     ; 2-1; Cartaginés    
+Amado Guevara (pk), Jeaustin Campos; Claudio Ciccia
+
+; Alajuelense  ; 8-2; Guanacasteca  
+Erick Jiménez, Erick Jiménez, Erick Jiménez, Erick Scott, Erick Scott, Josef Miso, Pablo Izaguirre, Wílmer López; Freeman Zúñiga, Alfonso Martínez (pk)
+
+; Herediano    ; 2-1; Santa Bárbara 
+Mauricio Alpízar, Daniel Vallejos; Kenneth Vargas
+
+; Santos       ; 3-1; Osa           
+José Alfaro, Reyner Robinson, Christian Blanco; Leonardo Moreira
+
+; Pérez Zeledón; 0-0; San Carlos
+
+; Liberia      ; 1-1; Carmelita     
+Percibal Piggot; Hugo Soto (pk)
 
 Round: 3 
-[Aug 18]
-Cartaginés    2-3 Herediano     
-[Claudio Ciccia (2, 1 pen); Mario Peralta,
-                                 William Sunsing, Daniel Vallejos]
-Santos        1-1 Saprissa      
-[Reyner Robinson; Amado Guevara]
-Osa           5-1 San Carlos    
-[Albán Gómez (2), Fárlem Ilama (2, 1 pen),
-                                 Alexánder Calvo; Evance Benwell]
-Santa Bárbara 2-2 Liberia       
-[Wálter Cordero, José Torres; Pércibal Piggot,
-                                 Randall Row]
-Guanacasteca  0-3 Pérez Zeledón 
-[Michael Myers (2, 1 pen), ?]
-Carmelita     0-1 Alajuelense   
-[Erick Scott]
+Date: 8/18/2002
+
+; Cartaginés   ; 2-3; Herediano     
+Claudio Ciccia, Claudio Ciccia (pk); Mario Peralta, William Sunsing, Daniel Vallejos
+                                 
+; Santos       ; 1-1; Saprissa      
+Reyner Robinson; Amado Guevara
+
+; Osa          ; 5-1; San Carlos    
+Albán Gómez, Alban Gomez, Fárlem Ilama, Farlem Ilama (pk), Alexánder Calvo; Evance Benwell
+
+; Santa Bárbara; 2-2; Liberia       
+Wálter Cordero, José Torres; Pércibal Piggot,  Randall Row
+
+; Guanacasteca ; 0-3; Pérez Zeledón 
+; Michael Myers, Michael Myers (pk)
+
+; Carmelita    ; 0-1; Alajuelense   
+; Erick Scott
 
 Round: 4 
-[Aug 24-25]
-Herediano     5-1 Santos        
-[Mauricio Alpízar, Mínor Díaz (2), William Sunsing (pen),
-                                 Daniel Vallejos; Roberto Wong]
-Alajuelense   4-1 Santa Bárbara 
-[Erick Jiménez, Sandro Alfaro (2, 1 pen),
-                                 Erick Scott; Roy Ramírez]
-Saprissa      1-0 Osa           
-[Hernán Medford]
-Liberia       1-2 Cartaginés    
-[Rándall Row; Claudio Ciccia, Allan Oviedo]
-San Carlos    0-1 Guanacasteca  
-[Bernard Mullings]
-Pérez Zeledón 1-3 Carmelita     
-[Michael Myers; Freddy Gutiérrez, Richard Smith,
-                                 Marvin Calvo]
+*[Aug 24-25]
+Date: 8/24/2002
+
+; Herediano    ; 5-1; Santos        
+Mauricio Alpízar, Mínor Díaz, Minor Diaz, William Sunsing (pk), Daniel Vallejos; Roberto Wong
+
+; Alajuelense  ; 4-1; Santa Bárbara 
+Erick Jiménez, Sandro Alfaro, Sandro Alfaro (pk), Erick Scott; Roy Ramírez
+
+; Saprissa     ; 1-0; Osa           
+Hernán Medford;
+
+; Liberia      ; 1-2; Cartaginés    
+Rándall Row; Claudio Ciccia, Allan Oviedo
+
+; San Carlos   ; 0-1; Guanacasteca  
+; Bernard Mullings
+
+; Pérez Zeledón; 1-3; Carmelita     
+Michael Myers; Freddy Gutiérrez, Richard Smith,  Marvin Calvo
 
 Round: 5 
-[Aug 31-Sep 1]
-Saprissa      1-3 Herediano     
-[Marco Cardoso; William Sunsing,
-                                 Austin Berry (pen), Kurt Bernard]
-Cartaginés    0-1 Alajuelense   
-[Érick Jiménez]
-Santos        2-1 Liberia       
-[Reyner Robinson, Andy Herron; Pércibal Piggot]
-Carmelita     1-0 San Carlos    
-[José Luis González]
-Osa           0-0 Guanacasteca  
-Santa Bárbara 2-2 Pérez Zeledón 
-[Osman López, Kenneth Vargas; Henry Fajardo,
-                                 Táylor Morales]
+*[Aug 31-Sep 1]
+Date: 8/31/2002
+
+; Saprissa     ; 1-3; Herediano     
+Marco Cardoso; William Sunsing, Austin Berry (pk), Kurt Bernard
+
+; Cartaginés   ; 0-1; Alajuelense   
+; Érick Jiménez
+
+; Santos       ; 2-1; Liberia       
+Reyner Robinson, Andy Herron; Pércibal Piggot
+
+; Carmelita    ; 1-0; San Carlos    
+José Luis González;
+
+; Osa          ; 0-0; Guanacasteca  
+
+; Santa Bárbara; 2-2; Pérez Zeledón 
+Osman López, Kenneth Vargas; Henry Fajardo, Táylor Morales
 
 Round: 6 
-[Sep 7-8]
-Herediano     2-1 Osa           
-[Kurt Bernard, José Humberto Ugarte; Austin Berry (OG)]
-Guanacasteca  1-0 Carmelita     
-[Román Vargas]
-Alajuelense   4-0 Santos        
-[Luis Marín, Pablo Chinchilla, Steven Bryce,
-                                 Pablo Izaguirre]
-Liberia                                2-2 Saprissa      
-[Mario Víquez, Johnatan Bolaños (pen); 
-                                 Marco Cardoso, Gerald Drummond]
-Pérez Zeledón 0-4 Cartaginés    
-[Claudio Ciccia (2), Olman Oviedo, Sergio Martínez]
-San Carlos    2-1 Santa Bárbara 
-[Wílberth Castro, Luis Martínez; Nelson Fonseca]
+*[Sep 7-8]
+Date: 9/7/2002
+
+; Herediano    ; 2-1; Osa           
+Kurt Bernard, José Humberto Ugarte; Austin Berry (og)
+
+; Guanacasteca ; 1-0; Carmelita     
+Román Vargas;
+
+; Alajuelense  ; 4-0; Santos        
+Luis Marín, Pablo Chinchilla, Steven Bryce, Pablo Izaguirre;
+
+; Liberia                               ; 2-2; Saprissa      
+Mario Víquez, Johnatan Bolaños (pk); Marco Cardoso, Gerald Drummond
+
+; Pérez Zeledón; 0-4; Cartaginés    
+; Claudio Ciccia, Claudio Ciccia, Olman Oviedo, Sergio Martínez
+
+; San Carlos   ; 2-1; Santa Bárbara 
+Wílberth Castro, Luis Martínez; Nelson Fonseca
 
 Round: 7 
+*[Sep 14-15]
+Date: 9/14/2002
 
-[Sep 14-15]
-Saprissa      0-1 Alajuelense   
-[Erick Scott]
-Cartaginés    3-1 San Carlos    
-[Danny Fonseca (pen), Greivin Portuguez,
-                                 Claudio Ciccia; Andrey Campos]
-Santos        1-0 Pérez Zeledón 
-[José F. Alfaro]
-Santa Bárbara 2-2 Guanacasteca  
-[Kenneth Vargas, Osman López; Andrés Mercury,
-                                 Freiman Zúñiga]
-Osa           1-2 Carmelita     
-[Alessandro Moreira; Alfredo Alves, Dennis Valverde]
+; Saprissa     ; 0-1; Alajuelense   
+;Erick Scott
 
-[Sep 25]
-Herediano     3-0 Liberia       
-[Kurt Bernard, Rodrigo Cordero, Mario Peralta]
+; Cartaginés   ; 3-1; San Carlos    
+Danny Fonseca (pk), Greivin Portuguez, Claudio Ciccia; Andrey Campos
+
+; Santos       ; 1-0; Pérez Zeledón 
+José F. Alfaro;
+
+; Santa Bárbara; 2-2; Guanacasteca  
+Kenneth Vargas, Osman López; Andrés Mercury, Freiman Zúñiga
+
+; Osa          ; 1-2; Carmelita     
+Alessandro Moreira; Alfredo Alves, Dennis Valverde
+
+9/25/2002; Herediano    ; 3-0; Liberia       
+Kurt Bernard, Rodrigo Cordero, Mario Peralta;
 
 Round: 8 
-[Sep 21-22]
-Alajuelense   0-0 Herediano
-San Carlos    0-0 Santos
-Pérez Zeledón 3-4 Saprissa      
-[Taylor Morales 2, Jorge Ramírez; Douglas Sequeira,
-                                 Marco Cardoso 2 (1pen), Gerald Drummond]
-Guanacasteca  1-4 Cartaginés    
-[Vinicio Alvarado; Allan Oviedo, Danny Fonseca (pen),
-                                 Claudio Ciccia, Hugo Madrigal]
-Liberia       2-0 Osa           
-[Mario Víquez, Evaristo Contreras]
-Carmelita     1-2 Santa Bárbara 
-[Richard Smith; Pablo Tiscornia, Pablo Gabas]
+*[Sep 21-22]
+Date: 9/21/2002
+
+; Alajuelense  ; 0-0; Herediano
+
+; San Carlos   ; 0-0; Santos
+
+; Pérez Zeledón; 3-4; Saprissa      
+Taylor Morales, Taylor Morales, Jorge Ramírez; Douglas Sequeira, Marco Cardoso, Marco Cardoso (pk), Gerald Drummond
+
+; Guanacasteca ; 1-4; Cartaginés    
+Vinicio Alvarado; Allan Oviedo, Danny Fonseca (pk), Claudio Ciccia, Hugo Madrigal
+
+; Liberia      ; 2-0; Osa           
+Mario Víquez, Evaristo Contreras;
+
+; Carmelita    ; 1-2; Santa Bárbara 
+Richard Smith; Pablo Tiscornia, Pablo Gabas
 
 Round: 9 
-[Sep 28-29]
-Herediano     3-0 Pérez Zeledón 
-[Mario Peralta, Tray Bennett, Mínor Díaz]
-Liberia       0-3 Alajuelense   
-[Pablo Izaguirre (2), Erick Scott]
-Saprissa      3-2 San Carlos    
-[Nimrod Medina, Álvaro Saborío, Víctor Núñez;
-                                 Evance Benwell (2)]
-Santos        3-3 Guanacasteca  
-[Ronald Rodríguez, Jacob Sloth, Richard Mahoney;
-                                 Mauricio Méndez, Berny Peña, Rodolfo Arnáez]
-Cartaginés    5-0 Carmelita     
-[Danny Fonseca, Claudio Ciccia,
-                                 Kenneth Paniagua (2), Olman Oviedo]
-Osa           1-2 Santa Bárbara 
-[Luis Quirós; Luis Venegas,  Osman López]
+*[Sep 28-29]
+Date: 9/28/2002
+
+; Herediano    ; 3-0; Pérez Zeledón 
+Mario Peralta, Tray Bennett, Mínor Díaz;
+
+; Liberia      ; 0-3; Alajuelense   
+; Pablo Izaguirre, Pablo Izaguirre, Erick Scott
+
+; Saprissa     ; 3-2; San Carlos    
+Nimrod Medina, Álvaro Saborío, Víctor Núñez; Evance Benwell, Evance Benwell
+
+; Santos       ; 3-3; Guanacasteca  
+Ronald Rodríguez, Jacob Sloth, Richard Mahoney;  Mauricio Méndez, Berny Peña, Rodolfo Arnáez
+
+; Cartaginés   ; 5-0; Carmelita     
+Danny Fonseca, Claudio Ciccia, Kenneth Paniagua, Kenneth Panigua, Olman Oviedo;
+                                 
+; Osa          ; 1-2; Santa Bárbara 
+Luis Quirós; Luis Venegas,  Osman López
 
 Round: 10 
-[Oct 5-6]
-San Carlos    1-0 Herediano     
-[Juan José Rodríguez]
-Osa           0-1 Alajuelense   
-[Vicente Rocela]
-Guanacasteca  0-2 Saprissa      
-[Álvaro Saborío (2)]
-Santa Bárbara 2-1 Cartaginés    
-[Manrique Hernández, Osman López; Danny Fonseca]
-Carmelita     1-0 Santos        
-[Dennis Valverde (pen)]
-Pérez Zeledón 0-0 Liberia
+*[Oct 5-6]
+Date: 10/5/2002
+
+; San Carlos   ; 1-0; Herediano     
+Juan José Rodríguez;
+
+; Osa          ; 0-1; Alajuelense   
+;Vicente Rocela
+
+; Guanacasteca ; 0-2; Saprissa      
+; Álvaro Saborío, Alvaro Saborio
+
+; Santa Bárbara; 2-1; Cartaginés    
+Manrique Hernández, Osman López; Danny Fonseca
+
+; Carmelita    ; 1-0; Santos        
+Dennis Valverde (pk);
+
+; Pérez Zeledón; 0-0; Liberia
 
 Round: 11 
-[Oct 12-13]
-Herediano     0-1 Guanacasteca  
-[Bernald Mullins]
-Alajuelense   3-0 Pérez Zeledón 
-[Josef Miso, Érick Jiménez, Sandro Alfaro]
-Saprissa      4-1 Carmelita     
-[Álvaro Saborío (2), Amado Guevara, Erick Lonnis (pen); Marcelo Donato]
-Cartaginés    3-2 Osa           
-[Hugo Madrigal, Claudio Ciccia (2); Roberto Porras]
-Liberia       3-1 San Carlos    
-[Percibal Piggot, Hárold Miranda, Johnatan Bolaños; Alejandro Alfaro]
-Santos        4-1 Santa Bárbara 
-[Jacob Sloth (3), Wayne Wilson; Kendall Wilson (pen)]
+*[Oct 12-13]
+Date: 10/12/2002
+
+; Herediano    ; 0-1; Guanacasteca  
+; Bernald Mullins
+
+; Alajuelense  ; 3-0; Pérez Zeledón 
+Josef Miso, Érick Jiménez, Sandro Alfaro;
+
+; Saprissa     ; 4-1; Carmelita     
+Álvaro Saborío, Álvaro Saborío, Amado Guevara, Erick Lonnis (pk); Marcelo Donato
+
+; Cartaginés   ; 3-2; Osa           
+Hugo Madrigal, Claudio Ciccia, Claudio Ciccia; Roberto Porras
+
+; Liberia      ; 3-1; San Carlos    
+Percibal Piggot, Hárold Miranda, Johnatan Bolaños; Alejandro Alfaro
+
+; Santos       ; 4-1; Santa Bárbara 
+Jacob Sloth, Jacob Sloth, Jacob SLoth, Wayne Wilson; Kendall Wilson (pk)
 
 Round: 12 
-[Oct 19-20]
-Herediano     0-1 Carmelita     
-[Marcelo Donato]
-Alajuelense   3-0 San Carlos    
-[Josef Miso, Sandro Alfaro (2)]    
-Saprissa      2-1 Santa Bárbara 
-[Álvaro Saborío, Víctor Núñez; Pablo Gabas]
-Santos        1-2 Cartaginés    
-[Rayner Robinson; Esteban Santana, Allan Oviedo]
-Liberia       1-2 Guanacasteca  
-[Carlos Espinoza; David Diach, Rodolfo Arnáez]
-Pérez Zeledón 2-3 Osa           
-[Leonardo Moreira, Floyd Guthrie (pen); Jairo Esquivel, Roberto Porras (2, 1 pen)]
+*[Oct 19-20]
+Date: 10/19/2002
+
+; Herediano    ; 0-1; Carmelita     
+; Marcelo Donato
+
+; Alajuelense  ; 3-0; San Carlos    
+Josef Miso, Sandro Alfaro, Sandro Alfaro
+    
+; Saprissa     ; 2-1; Santa Bárbara 
+Álvaro Saborío, Víctor Núñez; Pablo Gabas
+
+; Santos       ; 1-2; Cartaginés    
+Rayner Robinson; Esteban Santana, Allan Oviedo
+
+; Liberia      ; 1-2; Guanacasteca  
+Carlos Espinoza; David Diach, Rodolfo Arnáez
+
+; Pérez Zeledón; 2-3; Osa           
+Leonardo Moreira, Floyd Guthrie (pk); Jairo Esquivel, Roberto Porras, Roberto Porras (pk)
 
 Round: 13 
+*[Oct 26-27]
+Date: 10/26/2002
 
-[Oct 26-27]
-Santa Bárbara 1-1 Herediano     
-[Pablo Gabas; Mario Peralta]
-Guanacasteca  1-1 Alajuelense   
-[David Diach; Wílmer López]
-Cartaginés    2-2 Saprissa      
-[Allan Oviedo, Cristian Santamaría; Álvaro Saborío, Amado Guevara]
-Carmelita     2-1 Liberia       
-[Johnny Mendoza, Marvin Calvo; Mario Víquez (pen)]       
-San Carlos    1-1 Pérez Zeledón 
-[Andrey Campos; Michel Myers]
+; Santa Bárbara; 1-1; Herediano     
+Pablo Gabas; Mario Peralta
 
-[Nov 27]
-Osa           0-1 Santos        
-[Gustavo Martínez] 
+; Guanacasteca ; 1-1; Alajuelense   
+David Diach; Wílmer López
 
+; Cartaginés   ; 2-2; Saprissa      
+Allan Oviedo, Cristian Santamaría; Álvaro Saborío, Amado Guevara
+
+; Carmelita    ; 2-1; Liberia       
+Johnny Mendoza, Marvin Calvo; Mario Víquez (pk)
+       
+; San Carlos   ; 1-1; Pérez Zeledón 
+Andrey Campos; Michel Myers
+
+11/27/2002; Osa          ; 0-1; Santos        
+; Gustavo Martínez
+ 
 Round: 14 
 
-[Oct 23]
-Alajuelense   1-0 Carmelita     
-[Javier Delgado]
+10/23/2002; Alajuelense  ; 1-0; Carmelita     
+Javier Delgado;
 
-[Nov 2-3]
-Saprissa      4-1 Santos        
-[Víctor Núñez (3), Álvaro Saborío; Andy Herron]
-Liberia       1-2 Santa Bárbara 
-[Hárold Miranda; Nelson Fonseca, Kenneth Vargas]
-Pérez Zeledón 4-1 Guanacasteca  
-[Taylor Morales, Pablo Brenes, Michel Myers; David Diach]
+*; [Nov; 2-3]
+Date: 11/2/2002
 
-[Nov 13]
-Herediano     2-2 Cartaginés    
-[Austin Berry (pen), Robert Arias; José Pablo Fonseca, Arnold Cruz]
-San Carlos    0-0 Osa           
+Saprissa;      4-1 Santos        
+Víctor Núñez, Víctor Núñez, Víctor Núñez, Álvaro Saborío; Andy Herron
+
+; Liberia      ; 1-2; Santa Bárbara 
+Hárold Miranda; Nelson Fonseca, Kenneth Vargas
+
+; Pérez Zeledón; 4-1; Guanacasteca  
+Taylor Morales, Pablo Brenes, Michel Myers; David Diach
+
+11/13/2002; Herediano    ; 2-2; Cartaginés    
+Austin Berry (pk), Robert Arias; José Pablo Fonseca, Arnold Cruz
+
+11/13/2002; San Carlos   ; 0-0; Osa           
 
 Round: 15 
-[Nov 9-10]
-Santos        3-1 Herediano     
-[Gustavo Martínez, Andy Herron, Andy Furtado; Austin Berry (pen)]
-Santa Bárbara 3-3 Alajuelense   
-[Kenneth Vargas, Erick Solís (2, 1 pen); Erick Scott (2), Alejandro Alpízar]
-Osa           1-2 Saprissa      
-[Jairo Esquivel; Douglas Sequeira, Amado Guevara (pen)]
-Carmelita     1-0 Pérez Zeledón 
-[Javier Gutiérrez]
-Cartaginés    1-0 Liberia       
-[Hugo Madrigal]
-Guanacasteca  0-0 San Carlos
+*Nov 9-10
+Date: 11/9/2002
+
+; Santos       ; 3-1; Herediano     
+Gustavo Martínez, Andy Herron, Andy Furtado; Austin Berry (pk)
+
+; Santa Bárbara; 3-3; Alajuelense   
+Kenneth Vargas, Erick Solís, Erick Solís (pk); Erick Scott, Erick Scott, Alejandro Alpízar
+
+; Osa          ; 1-2; Saprissa      
+Jairo Esquivel; Douglas Sequeira, Amado Guevara (pk)
+
+; Carmelita    ; 1-0; Pérez Zeledón 
+Javier Gutiérrez;
+
+; Cartaginés   ; 1-0; Liberia       
+Hugo Madrigal;
+
+; Guanacasteca ; 0-0; San Carlos
 
 Round: 16 
-[Nov 16-17]
-Herediano     1-3 Saprissa      
-[Austin Berry; Jervis Drummond, Gerald Drummond, Álvaro Saborío]
-Alajuelense   3-2 Cartaginés    
-[Erick Scott, Wílmer López (pen), Pablo Chinchilla; Claudio Ciccia, Allan Oviedo]
-Liberia       0-1 Santos        
-[Andy Furtado]
-San Carlos    1-0 Carmelita     
-[Ricardo Vargas]
-Guanacasteca  1-0 Osa           
-[David Diach]
-Pérez Zeledón 0-0 Santa Bárbara
+*[Nov 16-17]
+Date: 11/16/2002
+
+; Herediano    ; 1-3; Saprissa      
+Austin Berry; Jervis Drummond, Gerald Drummond, Álvaro Saborío
+
+; Alajuelense  ; 3-2; Cartaginés    
+Erick Scott, Wílmer López (pk), Pablo Chinchilla; Claudio Ciccia, Allan Oviedo
+
+; Liberia      ; 0-1; Santos        
+; Andy Furtado
+
+; San Carlos   ; 1-0; Carmelita     
+Ricardo Vargas;
+
+; Guanacasteca ; 1-0; Osa           
+David Diach;
+
+; Pérez Zeledón; 0-0; Santa Bárbara
 
 Round: 17 
+Date: 11/24/2002
 
-[Nov 24]
-Osa           0-4 Herediano     
-[Cristian Badilla (pen), Mario Peralta, Geovanni Jara, Marcos Hernández]
-Saprissa      1-1 Liberia       
-[Amado Guevara (pen); Félix Montoya]
-Santa Bárbara 0-1 San Carlos    
-[Julio Víquez (pen)]
-Carmelita     2-5 Guanacasteca  
-[Marcelo Donato (2); Román Vargas (2), Rodolfo Arnáez, Bernald Mullins]
-Cartaginés    2-3 Pérez Zeledón 
-[Julio Morales, Claudio Ciccia (pen); Leonardo Moreira, Jorge Ramírez (2)]
+; Osa          ; 0-4; Herediano     
+; Cristian Badilla (pk), Mario Peralta, Geovanni Jara, Marcos Hernández
 
-[Dec 10]
-Santos        0-0 Alajuelense   
+; Saprissa     ; 1-1; Liberia       
+Amado Guevara (pk); Félix Montoya
+
+; Santa Bárbara; 0-1; San Carlos    
+; Julio Víquez (pk)
+
+; Carmelita    ; 2-5; Guanacasteca  
+Marcelo Donato, Marcelo Donato; Román Vargas, Román Vargas, Rodolfo Arnáez, Bernald Mullins
+
+; Cartaginés   ; 2-3; Pérez Zeledón 
+Julio Morales, Claudio Ciccia (pk); Leonardo Moreira, Jorge Ramírez, Jorge Ramirez
+
+12/10/2002; Santos       ; 0-0; Alajuelense   
 
 Round: 18 
-[Nov 29-30] 
-Liberia       1-0 Herediano     
-[Randall Row]
-Alajuelense   1-1 Saprissa      
-[Steven Bryce; Amado Guevara]
-San Carlos    1-0 Cartaginés    
-[Wilberth Castro]
-Guanacasteca  3-1 Santa Bárbara 
-[Rodolfo Arnáez 2 (1 pen), Berny Peña; Nelson Fonseca]
-Pérez Zeledón 1-2 Santos        
-[Rafael Gutiérrez; Gustavo Martínez, Andy Furtado]
-Carmelita     2-0 Osa           
-[Javier Gutiérrez, Alfredo Alves]
+*[Nov 29-30] 
+Date: 11/29/2002
+
+; Liberia      ; 1-0; Herediano     
+Randall Row;
+
+; Alajuelense  ; 1-1; Saprissa      
+Steven Bryce; Amado Guevara
+
+; San Carlos   ; 1-0; Cartaginés    
+Wilberth Castro;
+
+; Guanacasteca ; 3-1; Santa Bárbara 
+Rodolfo Arnáez, Rodolfo Arnáez (pk), Berny Peña; Nelson Fonseca
+
+; Pérez Zeledón; 1-2; Santos        
+Rafael Gutiérrez; Gustavo Martínez, Andy Furtado
+
+; Carmelita    ; 2-0; Osa           
+Javier Gutiérrez, Alfredo Alves;
  
 Round: 19 
+Date: 12/4/2002
 
-[Dec 4]
-Herediano     0-0 Alajuelense 
-Saprissa      1-1 Pérez Zeledón 
-[Marco Cardoso (pen); Michael Myers]
-Cartaginés    2-0 Guanacasteca  
-[Danny Fonseca (pen), Claudio Ciccia]
-Osa           1-2 Liberia       
-[Roberto Porras; Carlos Rodríguez, Bill González]
-Santa Bárbara 2-0 Carmelita     
-[Manrique Hernández, Jeffrey Espinoza]
+; Herediano    ; 0-0; Alajuelense 
 
-[Dec 18]
-Santos        2-2 San Carlos    
-[Whayne Wilson (pen), Gustavo Martínez (pen); Víctor Abelenda, Jeison Jiménez]
- 
+; Saprissa     ; 1-1; Pérez Zeledón 
+Marco Cardoso (pk); Michael Myers
+
+; Cartaginés   ; 2-0; Guanacasteca  
+Danny Fonseca (pk), Claudio Ciccia;
+
+; Osa          ; 1-2; Liberia       
+Roberto Porras; Carlos Rodríguez, Bill González
+
+; Santa Bárbara; 2-0; Carmelita     
+Manrique Hernández, Jeffrey Espinoza;
+
+12/18/2002; Santos       ; 2-2; San Carlos    
+Whayne Wilson (pk), Gustavo Martínez (pk); Víctor Abelenda, Jeison Jiménez
+
 Round: 20 
-[Dec 7-8]
-Pérez Zeledón 1-0 Herediano     
-[Floyd Guthrie (pen)]
-Alajuelense   3-0 Liberia       
-[Josef Miso 2, Pablo Izaguirre]
-San Carlos    0-1 Saprissa      
-[Douglas Sequeira]
-Carmelita     3-2 Cartaginés    
-[Diego Giacone, Dennis Valverde (pen), Luis Mejías; César Obando, Danny Fonseca (pen)]
-Guanacasteca  1-0 Santos        
-[Freiman Zúñiga]
-Santa Bárbara 4-1 Osa           
-[Manrique Hernández, Nelson Fonseca, Kenneth Vargas, Luis Venegas; Alessandro Moreira]
- 
+*[Dec 7-8]
+Date; 12/7/2002
+
+; Pérez Zeledón; 1-0; Herediano     
+Floyd Guthrie (pk);
+
+; Alajuelense  ; 3-0; Liberia       
+Josef Miso, Josef Miso, Pablo Izaguirre;
+
+; San Carlos   ; 0-1; Saprissa      
+; Douglas Sequeira
+
+; Carmelita    ; 3-2; Cartaginés    
+Diego Giacone, Dennis Valverde (pk), Luis Mejías; César Obando, Danny Fonseca (pk)
+
+; Guanacasteca ; 1-0; Santos        
+Freiman Zúñiga;
+
+; Santa Bárbara; 4-1; Osa           
+Manrique Hernández, Nelson Fonseca, Kenneth Vargas, Luis Venegas; Alessandro Moreira
+
 Round: 21 
+Date: 12/11/2002
 
-[Dec 11]
-Herediano     5-0 San Carlos    
-[Mauricio Alpízar, Tray Benneth 3, Kurt Bernard]
-Alajuelense   2-1 Osa           
-[Erick Scott 2; Johnny Woodly]
-Saprissa      3-0 Guanacasteca  
-[Amado Guevara, Víctor Núñez, Max Sánchez]
-Liberia       2-1 Pérez Zeledón 
-[Bill González, Carlos Rodríguez; Michael Myers]
-Cartaginés    1-0 Santa Bárbara 
-[José Pablo Fonseca]
+; Herediano    ; 5-0; San Carlos    
+Mauricio Alpízar, Tray Benneth, Tray Benneth, Tray Bennth, Kurt Bernard;
 
-[Dec 21]
-Santos        0-1 Carmelita     
-[Javier Gutiérrez]
+; Alajuelense  ; 2-1; Osa           
+Erick Scott, Erick Scott; Johnny Woodly
+
+; Saprissa     ; 3-0; Guanacasteca  
+Amado Guevara, Víctor Núñez, Max Sánchez;
+
+; Liberia      ; 2-1; Pérez Zeledón 
+Bill González, Carlos Rodríguez; Michael Myers
+
+; Cartaginés   ; 1-0; Santa Bárbara 
+José Pablo Fonseca;
+
+12/21/2002; Santos       ; 0-1; Carmelita     
+; Javier Gutiérrez
+
  
 Round: 22 
-[Dec 14-15]
-Guanacasteca  1-1 Herediano     
-[Logan Santamaría; Mauricio Alpízar]
-Pérez Zeledón 2-2 Alajuelense   
-[Taylor Morales, Keylor Quesada; Alejandro Alpízar 2]
-Carmelita     0-3 Saprissa      
-[Álvaro Saborío 2, Amado Guevara (pen)]
-Osa           0-1 Cartaginés    
-[César Obando]
-San Carlos    1-0 Liberia       
-[Víctor Abelenda (pen)]
-Santa Bárbara 0-0 Santos 
+*[Dec 14-15]
+Date: 12/14/2002
+
+; Guanacasteca ; 1-1; Herediano     
+Logan Santamaría; Mauricio Alpízar
+
+; Pérez Zeledón; 2-2; Alajuelense   
+Taylor Morales, Keylor Quesada; Alejandro Alpízar, Alejandro Alpízar
+
+; Carmelita    ; 0-3; Saprissa      
+; Álvaro Saborío, Álvaro Saborío, Amado Guevara (pk)
+
+; Osa          ; 0-1; Cartaginés    
+; César Obando
+
+; San Carlos   ; 1-0; Liberia       
+Víctor Abelenda (pk);
+
+; Santa Bárbara; 0-0; Santos 
  
 * 1.Alajuelense       22 14  7  1 47-16 49  Apertura winners             
 * 2.Saprissa          22 13  6  3 43-24 45
@@ -397,209 +503,236 @@ Season: 2002-2003 Clausura
 *NB: 2 more losses than wins due to award San Carlos-Herediano in round 21
 
 Round: 1 
-[Jan 12]
-Herediano     7-0 Carmelita   
-Alajuelense   2-0 San Carlos   
-Saprissa      3-1 Santa Bárbara 
-Santos        1-1 Cartaginés
-Liberia       2-1 Guanacasteca 
-Pérez Zeledón 3-0 Osa     
+Date: 1/12/2003
+
+; Herediano    ; 7-0; Carmelita   
+; Alajuelense  ; 2-0; San Carlos   
+; Saprissa     ; 3-1; Santa Bárbara 
+; Santos       ; 1-1; Cartaginés
+; Liberia      ; 2-1; Guanacasteca 
+; Pérez Zeledón; 3-0; Osa     
 
 Round: 2 
-[Jan 15]
-Herediano     3-0 Santa Bárbara 
-Guanacasteca  1-2 Alajuelense
-Cartaginés    3-2 Saprissa  
-Carmelita     0-1 Liberia       
-San Carlos    0-0 Pérez Zeledón 
-Osa           1-3 Santos   
+Date: 1/15/2003
+
+; Herediano    ; 3-0; Santa Bárbara 
+; Guanacasteca ; 1-2; Alajuelense
+; Cartaginés   ; 3-2; Saprissa  
+; Carmelita    ; 0-1; Liberia       
+; San Carlos   ; 0-0; Pérez Zeledón 
+; Osa          ; 1-3; Santos   
 
 Round: 3 
-[Jan 19]
-Alajuelense   2-0 Carmelita    
-Saprissa      1-0 Santos         
-Liberia       1-1 Santa Bárbara 
-Pérez Zeledón 0-2 Guanacasteca 
-Herediano     6-0 Cartaginés  
-San Carlos    2-1 Osa           
+Date: 1/19/2003
+
+; Alajuelense  ; 2-0; Carmelita    
+; Saprissa     ; 1-0; Santos         
+; Liberia      ; 1-1; Santa Bárbara 
+; Pérez Zeledón; 0-2; Guanacasteca 
+; Herediano    ; 6-0; Cartaginés  
+; San Carlos   ; 2-1; Osa           
 
 Round: 4 
-[Jan 26]
-Santos        0-2 Herediano     
-Santa Bárbara 0-2 Alajuelense 
-Osa           4-1 Saprissa    
-Carmelita     3-0 Pérez Zeledón 
-Cartaginés    3-1 Liberia    
-Guanacasteca  1-1 San Carlos
+Date: 1/26/2003
+
+; Santos       ; 0-2; Herediano     
+; Santa Bárbara; 0-2; Alajuelense 
+; Osa          ; 4-1; Saprissa    
+; Carmelita    ; 3-0; Pérez Zeledón 
+; Cartaginés   ; 3-1; Liberia    
+; Guanacasteca ; 1-1; San Carlos
 
 Round: 5 
-[Mar 2]
-Herediano     0-3 Saprissa   
-Alajuelense   2-2 Cartaginés 
-Liberia       0-0 Santos      
-San Carlos    0-1 Carmelita     
-Guanacasteca  0-0 Osa           
-Pérez Zeledón 2-1 Santa Bárbara
+Date: 3/2/2003
+
+; Herediano    ; 0-3; Saprissa   
+; Alajuelense  ; 2-2; Cartaginés 
+; Liberia      ; 0-0; Santos      
+; San Carlos   ; 0-1; Carmelita     
+; Guanacasteca ; 0-0; Osa           
+; Pérez Zeledón; 2-1; Santa Bárbara
 
 Round: 6 
-[Mar 9]
-Osa           3-2 Herediano   
-Saprissa      3-0 Liberia      
-Santa Bárbara 3-2 San Carlos
-Carmelita     3-2 Guanacasteca
-Cartaginés    2-0 Pérez Zeledón 
-Santos        1-0 Alajuelense   
+Date: 3/9/2003
+
+; Osa          ; 3-2; Herediano   
+; Saprissa     ; 3-0; Liberia      
+; Santa Bárbara; 3-2; San Carlos
+; Carmelita    ; 3-2; Guanacasteca
+; Cartaginés   ; 2-0; Pérez Zeledón 
+; Santos       ; 1-0; Alajuelense   
 
 Round: 7
-Alajuelense   4-1 Saprissa
-Carmelita     5-2 Osa
-Liberia       1-4 Herediano
-San Carlos    1-2 Cartaginés
-Guanacasteca  0-0 Santa Bárbara
-Pérez Zeledón 2-0 Santos
+Date: 
+
+; Alajuelense  ; 4-1; Saprissa
+; Carmelita    ; 5-2; Osa
+; Liberia      ; 1-4; Herediano
+; San Carlos   ; 1-2; Cartaginés
+; Guanacasteca ; 0-0; Santa Bárbara
+; Pérez Zeledón; 2-0; Santos
 
 Round: 8
-Herediano     1-1 Alajuelense
-Saprissa      2-1 Pérez Zeledón
-Santa Bárbara 1-1 Carmelita
-Cartaginés    0-1 Guanacasteca
-Santos        0-0 San Carlos
-Osa           1-0 Liberia
+
+; Herediano    ; 1-1; Alajuelense
+; Saprissa     ; 2-1; Pérez Zeledón
+; Santa Bárbara; 1-1; Carmelita
+; Cartaginés   ; 0-1; Guanacasteca
+; Santos       ; 0-0; San Carlos
+; Osa          ; 1-0; Liberia
 
 Round: 9 
 
-[moved forward; Mar 6?]
-Alajuela      3-1 Liberia
+*[moved forward; Mar 6?]
+; Alajuela     ; 3-1; Liberia
 
-[Mar 23?]
-Carmelita     1-4 Cartaginés
-Pérez Zeledón 2-0 Herediano   
-San Carlos    0-1 Saprissa
-Santa Bárbara 2-1 Osa
-Guanacasteca  1-1 Santos
+*[Mar 23?]
+Date: 3/23/2003
+
+; Carmelita    ; 1-4; Cartaginés
+; Pérez Zeledón; 2-0; Herediano   
+; San Carlos   ; 0-1; Saprissa
+; Santa Bárbara; 2-1; Osa
+; Guanacasteca ; 1-1; Santos
  
 Round: 10
-Saprissa      2-2 Guanacasteca
-Herediano     0-1 San Carlos
-Alajuelense   3-1 Osa
-Cartaginés    5-2 Santa Bárbara
-Santos        2-1 Carmelita       
-Liberia       1-1 Pérez Zeledón
+Date: 
+
+; Saprissa     ; 2-2; Guanacasteca
+; Herediano    ; 0-1; San Carlos
+; Alajuelense  ; 3-1; Osa
+; Cartaginés   ; 5-2; Santa Bárbara
+; Santos       ; 2-1; Carmelita       
+; Liberia      ; 1-1; Pérez Zeledón
 
 Round: 11
-Pérez Zeledón 1-2 Alajuelense
-Carmelita     1-0 Saprissa
-Osa           2-1 Cartaginés
-San Carlos    2-3 Liberia
-Guanacasteca  0-2 Herediano
-Santa Bárbara 4-2 Santos
+
+; Pérez Zeledón; 1-2; Alajuelense
+; Carmelita    ; 1-0; Saprissa
+; Osa          ; 2-1; Cartaginés
+; San Carlos   ; 2-3; Liberia
+; Guanacasteca ; 0-2; Herediano
+; Santa Bárbara; 4-2; Santos
 
 Round: 12
-Guanacasteca  1-0 Liberia
-Cartaginés    3-2 Santos
-Carmelita     1-3 Herediano
-Osa           0-1 Pérez Zeledón
-Santa Bárbara 2-2 Saprissa
-San Carlos    1-1 Alajuelense
+
+; Guanacasteca ; 1-0; Liberia
+; Cartaginés   ; 3-2; Santos
+; Carmelita    ; 1-3; Herediano
+; Osa          ; 0-1; Pérez Zeledón
+; Santa Bárbara; 2-2; Saprissa
+; San Carlos   ; 1-1; Alajuelense
 
 Round: 13
-Saprissa      1-1 Cartaginés
-Liberia       2-1 Carmelita
-Santos        3-0 Osa
-Alajuelense   2-0 Guanacasteca
-Pérez Zeledón 1-0 San Carlos
-Herediano     1-2 Santa Bárbara 
+
+; Saprissa     ; 1-1; Cartaginés
+; Liberia      ; 2-1; Carmelita
+; Santos       ; 3-0; Osa
+; Alajuelense  ; 2-0; Guanacasteca
+; Pérez Zeledón; 1-0; San Carlos
+; Herediano    ; 1-2; Santa Bárbara 
 
 Round: 14
-Santos        2-4 Saprissa
-Santa Bárbara 1-1 Liberia
-Carmelita     4-6 Alajuelense
-Osa           3-1 San Carlos
-Guanacasteca  0-2 Pérez Zeledón
-Cartaginés    2-2 Herediano
+
+; Santos       ; 2-4; Saprissa
+; Santa Bárbara; 1-1; Liberia
+; Carmelita    ; 4-6; Alajuelense
+; Osa          ; 3-1; San Carlos
+; Guanacasteca ; 0-2; Pérez Zeledón
+; Cartaginés   ; 2-2; Herediano
 
 Round: 15
+Date: 4/23/2003
 
-[Apr 23]
-Herediano     2-0 Santos
-Saprissa      6-2 Osa
-San Carlos    2-2 Guanacasteca
-Pérez Zeledón 2-1 Carmelita
-Liberia       0-2 Cartaginés
+; Herediano    ; 2-0; Santos
+; Saprissa     ; 6-2; Osa
+; San Carlos   ; 2-2; Guanacasteca
+; Pérez Zeledón; 2-1; Carmelita
+; Liberia      ; 0-2; Cartaginés
 
-[May]
-Alajuelense   3-1 Santa Bárbara
+*[May]
+Date: 
+
+; Alajuelense  ; 3-1; Santa Bárbara
 
 Round: 16
+Date: 4/26/2003
 
-[Apr 26]
-Cartaginés    1-3 Alajuelense
-Saprissa      2-1 Herediano
+; Cartaginés   ; 1-3; Alajuelense
+; Saprissa     ; 2-1; Herediano
 
-[Apr 27]
-Santa Bárbara 1-1 Pérez Zeledón
-Carmelita     0-0 San Carlos
-Santos        1-3 Liberia
-Osa           2-0 Guanacasteca
+Date: 4/27/2003
+
+; Santa Bárbara; 1-1; Pérez Zeledón
+; Carmelita    ; 0-0; San Carlos
+; Santos       ; 1-3; Liberia
+; Osa          ; 2-0; Guanacasteca
 
 Round: 17
-Pérez Zeledón 1-6 Cartaginés
-Alajuelense   2-1 Santos
-Liberia       2-2 Saprissa
-San Carlos    2-0 Santa Bárbara
-Guanacasteca  2-1 Carmelita
-Herediano     awd Osa           
-[awarded 5-0, originally 5-3]
-NB: presumably award due to non-payment of fines
+
+; Pérez Zeledón; 1-6; Cartaginés
+; Alajuelense  ; 2-1; Santos
+; Liberia      ; 2-2; Saprissa
+; San Carlos   ; 2-0; Santa Bárbara
+; Guanacasteca ; 2-1; Carmelita
+*Herediano     awd Osa           
+*[awarded 5-0, originally 5-3]
+*NB: presumably award due to non-payment of fines
 
 Round: 18 
+Date: 5/10/2003
 
-[May 10]
-Santos        2-1 Pérez Zeledón 
-Saprissa      0-0 Alajuelense 
+; Santos       ; 2-1; Pérez Zeledón 
+; Saprissa     ; 0-0; Alajuelense 
 
-[May 11]
-Cartaginés    0-1 San Carlos
-Osa           2-1 Carmelita 
-Santa Bárbara 4-2 Guanacasteca 
-Herediano     2-1 Liberia 
+Date: 5/11/2003
+
+; Cartaginés   ; 0-1; San Carlos
+; Osa          ; 2-1; Carmelita 
+; Santa Bárbara; 4-2; Guanacasteca 
+; Herediano    ; 2-1; Liberia 
 
 Round: 19
-Pérez Zeledón 2-2 Saprissa
-Carmelita     2-1 Santa Bárbara
-Liberia       2-1 Osa
-Guanacasteca  0-1 Cartaginés
-San Carlos    1-1 Santos
-Alajuelense   1-2 Herediano
+Date: 
+
+; Pérez Zeledón; 2-2; Saprissa
+; Carmelita    ; 2-1; Santa Bárbara
+; Liberia      ; 2-1; Osa
+; Guanacasteca ; 0-1; Cartaginés
+; San Carlos   ; 1-1; Santos
+; Alajuelense  ; 1-2; Herediano
 
 Round: 20
-Alajuelense   1-1 Liberia
-Cartaginés    1-0 Carmelita
-Osa           0-3 Santa Bárbara
-Saprissa      2-1 San Carlos
-Santos        4-1 Guanacasteca
-Herediano     1-1 Pérez Zeledón
+
+; Alajuelense  ; 1-1; Liberia
+; Cartaginés   ; 1-0; Carmelita
+; Osa          ; 0-3; Santa Bárbara
+; Saprissa     ; 2-1; San Carlos
+; Santos       ; 4-1; Guanacasteca
+; Herediano    ; 1-1; Pérez Zeledón
 
 Round: 21
-Guanacasteca  awd Saprissa      
-[awarded 2-0, originally 2-2]
-Carmelita     awd Santos        
-[awarded 1-0, originally 1-1]
-San Carlos    awd Herediano     
-[awarded goalless loss to both teams;
-Osa           1-3 Alajuelense    actual result 1-2]
-Santa Bárbara 2-3 Cartaginés
-Pérez Zeledón awd Liberia       
-[awarded 2-0, originally 2-1]
-NB: presumably all awards due to non-payment of fines (certain for Saprissa)
+
+*Guanacasteca  awd Saprissa      
+*[awarded 2-0, originally 2-2]
+*Carmelita     awd Santos        
+*[awarded 1-0, originally 1-1]
+*San Carlos    awd Herediano     
+*[awarded goalless loss to both teams;
+*Osa           1-3 Alajuelense    actual result 1-2]
+*Santa Bárbara 2-3 Cartaginés
+*Pérez Zeledón awd Liberia       
+*[awarded 2-0, originally 2-1]
+*NB: presumably all awards due to non-payment of fines (certain for Saprissa)
 
 Round: 22
-Alajuelense   4-1 Pérez Zeledón
-Cartaginés    2-0 Osa
-Santos        3-2 Santa Bárbara
-Liberia       0-0 San Carlos
-Herediano     3-1 Guanacasteca
-Saprissa      4-2 Carmelita
+
+; Alajuelense  ; 4-1; Pérez Zeledón
+; Cartaginés   ; 2-0; Osa
+; Santos       ; 3-2; Santa Bárbara
+; Liberia      ; 0-0; San Carlos
+; Herediano    ; 3-1; Guanacasteca
+; Saprissa     ; 4-2; Carmelita
 
 *Final Table:
 * 1.Alajuelense       22 15  5  2 49-22 50  Clausura winners

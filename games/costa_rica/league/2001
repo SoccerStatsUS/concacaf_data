@@ -1,224 +1,317 @@
 Competition: Costa Rican Primera División
+BlockSource: http://www.rsssf.com/tablesc/cos02.html
+
 Season: 2001-2002 Apertura
 
+* 1.AD Santos            22 12  8  2 44-24 44  Apertura Winners
+* 2.CD Saprissa          22 11  8  3 46-32 41
+* 3.LD Alajuelense       22 11  7  4 49-28 40
+* 4.Herediano            22  8  8  6 36-28 32
+* 5.AD San Carlos        22  7  9  6 38-36 30
+* 6.Santa Bárbara        22  7  7  8 34-33 28
+* 7.Carmelita            22  7  6  9 30-34 27
+* 8.Liberia              22  7  5 10 25-33 26 
+* 9.Osa                  22  6  5 11 22-37 23
+*10.ADM Pérez Zeledón    22  5  6 11 23-34 21
+*11.Cartaginés           22  4  9  9 29-43 21
+*12.AD Limonense         22  5  6 11 28-42 21
+
+
 Round: 1
-[Jul 28]
-Santos        3-0 Limonense
-[Jul 29]
-Pérez Zeledón 1-0 Osa          
-Herediano     1-1 Santa Bárbara
-Alajuelense   1-0 Carmelita
-Liberia       2-2 Saprissa
-Cartaginés    0-0 San Carlos    
+Date: 7/28/2001
+
+; Santos       ; 3-0; Limonense
+
+Date: 7/29/2001
+
+; Pérez Zeledón; 1-0; Osa          
+; Herediano    ; 1-1; Santa Bárbara
+; Alajuelense  ; 1-0; Carmelita
+; Liberia      ; 2-2; Saprissa
+; Cartaginés   ; 0-0; San Carlos    
 
 Round: 2
-[Aug 5]
-Santos        2-1 Alajuelense
-San Carlos    4-1 Herediano
-Carmelita     3-3 Cartaginés
-Santa Bárbara 1-0 Pérez Zeledón
-Osa           2-0 Liberia
-[Aug 8]
-Saprissa      3-2 Limonense
+Date: 8/5/2001
+
+; Santos       ; 2-1; Alajuelense
+; San Carlos   ; 4-1; Herediano
+; Carmelita    ; 3-3; Cartaginés
+; Santa Bárbara; 1-0; Pérez Zeledón
+; Osa          ; 2-0; Liberia
+
+Date: 8/8/2001
+
+; Saprissa     ; 3-2; Limonense
 
 Round: 3 
-[Aug 12]
-Cartaginés    1-1 Santos
-Saprissa      3-1 Osa
-Pérez Zeledón 2-3 San Carlos
-Herediano     4-2 Carmelita
-Liberia       1-0 Santa Bárbara
-[Sep 12]
-Limonense     1-4 Alajuelense   
+Date: 8/12/2001
+
+; Cartaginés   ; 1-1; Santos
+; Saprissa     ; 3-1; Osa
+; Pérez Zeledón; 2-3; San Carlos
+; Herediano    ; 4-2; Carmelita
+; Liberia      ; 1-0; Santa Bárbara
+
+Date: 9/12/2001
+
+; Limonense    ; 1-4; Alajuelense   
 
 Round: 4 
-[Aug 15]
-Alajuelense   1-1 Cartaginés
-Santos        1-1 Herediano
-San Carlos    1-1 Liberia
-Osa           2-1 Limonense
-Carmelita     0-1 Pérez Zeledón
-[Sep 19]
-Santa Bárbara 0-1 Saprissa
+Date: 8/15/2001
+
+; Alajuelense  ; 1-1; Cartaginés
+; Santos       ; 1-1; Herediano
+; San Carlos   ; 1-1; Liberia
+; Osa          ; 2-1; Limonense
+; Carmelita    ; 0-1; Pérez Zeledón
+
+Date: 9/19/2001
+
+; Santa Bárbara; 0-1; Saprissa
 
 Round: 5
-[Aug 19]
-Herediano     3-3 Alajuelense   
-Pérez Zeledón 1-1 Santos
-Liberia       0-0 Carmelita
-Osa           2-1 Santa Bárbara
-Limonense     2-1 Cartaginés
-[Sep 26]
-Saprissa      4-1 San Carlos
+Date: 8/19/2001
+
+; Herediano    ; 3-3; Alajuelense   
+; Pérez Zeledón; 1-1; Santos
+; Liberia      ; 0-0; Carmelita
+; Osa          ; 2-1; Santa Bárbara
+; Limonense    ; 2-1; Cartaginés
+
+Date: 9/26/2001
+
+; Saprissa     ; 4-1; San Carlos
 
 Round: 6 
-[Sep 8]
-Santos        3-2 Liberia
-San Carlos    2-1 Osa
-[Sep 9]
-Cartaginés    0-3 Herediano
-Carmelita     2-2 Saprissa
-Santa Bárbara 1-1 Limonense
-Alajuelense   5-0 Pérez Zeledón
+Date: 9/8/2001
+
+; Santos       ; 3-2; Liberia
+; San Carlos   ; 2-1; Osa
+
+Date: 9/9/2001
+
+; Cartaginés   ; 0-3; Herediano
+; Carmelita    ; 2-2; Saprissa
+; Santa Bárbara; 1-1; Limonense
+; Alajuelense  ; 5-0; Pérez Zeledón
 
 Round: 7
-[Sep 16]
-Liberia       2-1 Alajuelense  
-Limonense     0-0 Herediano  
-Santa Bárbara 0-0 San Carlos  
-Pérez Zeledón 0-1 Cartaginés  
-Osa           3-1 Carmelita 
-[Oct 10]
-Saprissa      0-1 Santos
+Date: 9/16/2001
 
-Round: 8 [Sep 23]
-Alajuelense   0-0 Saprissa  
-Santos        5-1 Osa 
-Limonense     2-1 San Carlos  
-Liberia       2-2 Cartaginés 
-Herediano     2-1 Pérez Zeledón  
-Carmelita     1-2 Santa Bárbara 
+; Liberia      ; 2-1; Alajuelense  
+; Limonense    ; 0-0; Herediano  
+; Santa Bárbara; 0-0; San Carlos  
+; Pérez Zeledón; 0-1; Cartaginés  
+; Osa          ; 3-1; Carmelita 
+
+Date: 10/10/2001
+
+; Saprissa     ; 0-1; Santos
+
+Round: 8 
+Date: 9/23/2001
+
+; Alajuelense  ; 0-0; Saprissa  
+; Santos       ; 5-1; Osa 
+; Limonense    ; 2-1; San Carlos  
+; Liberia      ; 2-2; Cartaginés 
+; Herediano    ; 2-1; Pérez Zeledón  
+; Carmelita    ; 1-2; Santa Bárbara 
 
 Round: 9
-[Sep 29]
-Limonense     2-1 Pérez Zeledón  
-San Carlos    0-0 Carmelita  
-[Sep 30]
-Saprissa      3-1 Cartaginés  
-Santa Bárbara 2-2 Santos 
-Liberia       0-2 Herediano 
-Osa           2-2 Alajuelense  
+Date: 9/29/2001
+
+; Limonense    ; 2-1; Pérez Zeledón  
+; San Carlos   ; 0-0; Carmelita  
+
+Date: 9/30/2001
+
+; Saprissa     ; 3-1; Cartaginés  
+; Santa Bárbara; 2-2; Santos 
+; Liberia      ; 0-2; Herediano 
+; Osa          ; 2-2; Alajuelense  
 
 Round: 10
-[Oct 13]
-Santos        3-3 San Carlos 
-Cartaginés    1-1 Osa 
-Limonense     1-2 Carmelita  
-[Oct 14]
-Herediano     4-1 Saprissa  
-Alajuelense   2-2 Santa Bárbara  
-Pérez Zeledón 1-2 Liberia 
+Date: 10/13/2001
+
+; Santos       ; 3-3; San Carlos 
+; Cartaginés   ; 1-1; Osa 
+; Limonense    ; 1-2; Carmelita  
+
+Date: 10/14/2001
+
+; Herediano    ; 4-1; Saprissa  
+; Alajuelense  ; 2-2; Santa Bárbara  
+; Pérez Zeledón; 1-2; Liberia 
 
 Round: 11
-[Oct 20]
-San Carlos    2-2 Alajuelense
-[Oct 21]
-Carmelita     0-2 Santos 
-Saprissa      1-1 Pérez Zeledón  
-Osa           0-0 Herediano  
-Liberia       3-1 Limonense  
-Santa Bárbara 4-2 Cartaginés 
+Date: 10/20/2001
+
+; San Carlos   ; 2-2; Alajuelense
+
+Date: 10/21/2001
+
+; Carmelita    ; 0-2; Santos 
+; Saprissa     ; 1-1; Pérez Zeledón  
+; Osa          ; 0-0; Herediano  
+; Liberia      ; 3-1; Limonense  
+; Santa Bárbara; 4-2; Cartaginés 
 
 Round: 12
-[Oct 27]
-Limonense     1-0 Santos 
-Cartaginés    1-1 San Carlos 
-[Oct 28]
-Carmelita     3-2 Alajuelense  
-Saprissa      4-3 Liberia 
-Santa Bárbara 2-0 Herediano 
-[Nov 11]
-Osa           1-1 Pérez Zeledón
+Date: 10/27/2001
+
+; Limonense    ; 1-0; Santos 
+; Cartaginés   ; 1-1; San Carlos 
+
+Date: 10/28/2001
+
+; Carmelita    ; 3-2; Alajuelense  
+; Saprissa     ; 4-3; Liberia 
+; Santa Bárbara; 2-0; Herediano 
+
+Date: 11/11/2001
+
+; Osa          ; 1-1; Pérez Zeledón
 
 Round: 13
-[Oct 31]
-Alajuelense   0-2 Santos  
-Limonense     3-4 Saprissa  
-Cartaginés    1-1 Carmelita  
-Herediano     3-1 San Carlos
-[Nov 7]
-Pérez Zeledón 2-3 Santa Bárbara 
-Liberia       2-0 Osa           
+Date: 10/31/2001
+
+; Alajuelense  ; 0-2; Santos  
+; Limonense    ; 3-4; Saprissa  
+; Cartaginés   ; 1-1; Carmelita  
+; Herediano    ; 3-1; San Carlos
+
+Date: 11/7/2001
+
+; Pérez Zeledón; 2-3; Santa Bárbara 
+; Liberia      ; 2-0; Osa           
 
 Round: 14
-[Nov 3]
-San Carlos    3-2 Pérez Zeledón
-[Nov 4]
-Alajuelense   5-1 Limonense
-[Nov 10]
-Santa Bárbara 0-0 Liberia
-[Nov 28]
-Santos        5-1 Cartaginés  
-Carmelita     2-1 Herediano     
-[Dec 11]
-Osa           0-2 Saprissa      
+Date: 11/3/2001
 
-Round: 15 [Nov 14]
-Herediano     1-1 Santos 
-Liberia       0-2 San Carlos  
-Cartaginés    1-4 Alajuelense  
-Pérez Zeledón 1-0 Carmelita  
-Limonense     0-1 Osa 
-Saprissa      2-2 Santa Bárbara 
+; San Carlos   ; 3-2; Pérez Zeledón
+
+Date: 11/4/2001
+
+; Alajuelense  ; 5-1; Limonense
+
+Date: 11/10/2001
+
+; Santa Bárbara; 0-0; Liberia
+
+Date: 11/28/2001
+
+; Santos       ; 5-1; Cartaginés  
+; Carmelita    ; 2-1; Herediano     
+
+Date: 12/11/2001
+
+; Osa          ; 0-2; Saprissa      
+
+Round: 15 
+Date: 11/14/2001
+
+; Herediano    ; 1-1; Santos 
+; Liberia      ; 0-2; San Carlos  
+; Cartaginés   ; 1-4; Alajuelense  
+; Pérez Zeledón; 1-0; Carmelita  
+; Limonense    ; 0-1; Osa 
+; Saprissa     ; 2-2; Santa Bárbara 
 
 Round: 16 
-[Nov 18]
-Cartaginés    3-3 Limonense 
-Carmelita     4-1 Liberia
-Alajuelense   2-1 Herediano
-Santa Bárbara 4-0 Osa
-[Dec 4]
-Santos        3-1 Pérez Zeledón
-San Carlos    1-4 Saprissa
+Date: 11/18/2001
+
+; Cartaginés   ; 3-3; Limonense 
+; Carmelita    ; 4-1; Liberia
+; Alajuelense  ; 2-1; Herediano
+; Santa Bárbara; 4-0; Osa
+
+Date: 12/4/2001
+
+; Santos       ; 3-1; Pérez Zeledón
+; San Carlos   ; 1-4; Saprissa
 
 Round: 17
-[Nov 21]
-Herediano     1-2 Cartaginés  
-Liberia       1-2 Santos 
-Saprissa      3-2 Carmelita 
-[Nov 28]
-Limonense     2-1 Santa Bárbara 
-Pérez Zeledón 2-2 Alajuelense
-[Dec 18]  
-Osa           1-1 San Carlos   
+Date: 11/21/2001
+
+; Herediano    ; 1-2; Cartaginés  
+; Liberia      ; 1-2; Santos 
+; Saprissa     ; 3-2; Carmelita 
+
+Date: 11/28/2001
+
+; Limonense    ; 2-1; Santa Bárbara 
+; Pérez Zeledón; 2-2; Alajuelense
+
+Date: 12/18/2001
+
+; Osa          ; 1-1; San Carlos   
 
 Round: 18
-[Nov 24]
-Carmelita     2-0 Osa 
-[Nov 25]
-Alajuelense   2-0 Liberia  
-Herediano     3-3 Limonense 
-Cartaginés    2-1 Pérez Zeledón 
-Santos        abd Saprissa      [abandoned at 1-0]
-[Dec 6]
-Santos        1-1 Saprissa
-[Dec 11]
-San Carlos    5-2 Santa Bárbara 
+Date: 11/24/2001
+
+; Carmelita    ; 2-0; Osa 
+
+Date: 11/25/2001
+
+; Alajuelense  ; 2-0; Liberia  
+; Herediano    ; 3-3; Limonense 
+; Cartaginés   ; 2-1; Pérez Zeledón 
+*; Santos        abd Saprissa      [abandoned at; 1-0]
+
+Date:; 12/6/2001
+
+; Santos       ; 1-1; Saprissa
+
+Date: 12/11/2001
+
+; San Carlos   ; 5-2; Santa Bárbara 
 
 Round: 19
-[Dec 1]
-Limonense     1-1 San Carlos
-Pérez Zeledón 1-0 Herediano
-[Dec 2]
-Saprissa      0-1 Alajuelense 
-Santa Bárbara 4-1 Carmelita 
-Liberia       1-0 Cartaginés 
-[Dec 13]
-Osa           0-1 Santos
+Date: 12/1/2001
 
-Round: 20 [Dec 9]
-Pérez Zeledón 0-0 Limonense 
-Herediano     2-0 Liberia 
-Alajuelense   3-1 Osa 
-Cartaginés    1-3 Saprissa 
-Carmelita     2-1 San Carlos 
-Santos        3-2 Santa Bárbara
+; Limonense    ; 1-1; San Carlos
+; Pérez Zeledón; 1-0; Herediano
 
-Round: 21 [Dec 16]
-San Carlos    3-1 Santos 
-Saprissa      1-1 Herediano
-Santa Bárbara 0-3 Alajuelense
-Osa           3-2 Cartaginés 
-Carmelita     1-0 Limonense
-Liberia       0-1 Pérez Zeledón 
+Date: 12/2/2001
 
-Round: 22 [Dec 20]
-Santos        1-1 Carmelita 
-Cartaginés    2-0 Santa Bárbara 
-Herediano     2-0 Osa 
-Limonense     1-2 Liberia 
-Alajuelense   3-2 San Carlos 
-Pérez Zeledón 2-2 Saprissa 
+; Saprissa     ; 0-1; Alajuelense 
+; Santa Bárbara; 4-1; Carmelita 
+; Liberia      ; 1-0; Cartaginés 
+
+Date: 12/13/2001
+
+; Osa          ; 0-1; Santos
+
+Round: 20 
+Date: 12/9/2001
+
+; Pérez Zeledón; 0-0; Limonense 
+; Herediano    ; 2-0; Liberia 
+; Alajuelense  ; 3-1; Osa 
+; Cartaginés   ; 1-3; Saprissa 
+; Carmelita    ; 2-1; San Carlos 
+; Santos       ; 3-2; Santa Bárbara
+
+Round: 21 
+Date: 12/16/2001
+
+; San Carlos   ; 3-1; Santos 
+; Saprissa     ; 1-1; Herediano
+; Santa Bárbara; 0-3; Alajuelense
+; Osa          ; 3-2; Cartaginés 
+; Carmelita    ; 1-0; Limonense
+; Liberia      ; 0-1; Pérez Zeledón 
+
+Round: 22 
+Date: 12/20/2001
+
+; Santos       ; 1-1; Carmelita 
+; Cartaginés   ; 2-0; Santa Bárbara 
+; Herediano    ; 2-0; Osa 
+; Limonense    ; 1-2; Liberia 
+; Alajuelense  ; 3-2; San Carlos 
+; Pérez Zeledón; 2-2; Saprissa 
 
 * 1.AD Santos            22 12  8  2 44-24 44  Apertura Winners
 * 2.CD Saprissa          22 11  8  3 46-32 41
@@ -250,219 +343,290 @@ Season: 2001-2002 Clausura
 *12.AD Limonense         22  4  7 11 28-46 19
 
 Round: 1
-[Dec 23]
-Saprissa      5-1 Liberia
-San Carlos    1-1 Cartaginés
-Carmelita     1-5 Alajuelense
-Santa Bárbara 0-0 Herediano
-Osa           0-3 Pérez Zeledón
-[Jan 31]
-Santos        2-2 Limonense
+Date: 12/23/2001
+
+; Saprissa     ; 5-1; Liberia
+; San Carlos   ; 1-1; Cartaginés
+; Carmelita    ; 1-5; Alajuelense
+; Santa Bárbara; 0-0; Herediano
+; Osa          ; 0-3; Pérez Zeledón
+
+Date: 1/31/2002
+
+; Santos       ; 2-2; Limonense
 
 Round: 2
-[Jan 31]
-Pérez Zeledón 1-0 Santa Bárbara
-[Feb 2]
-Cartaginés    2-1 Carmelita
-[Feb 5]
-Alajuelense   2-1 Santos
-Liberia       4-1 Osa
-Herediano     3-2 San Carlos
-Limonense     2-2 Saprissa
+Date: 1/31/2002
+
+; Pérez Zeledón; 1-0; Santa Bárbara
+
+Date: 2/2/2002
+
+; Cartaginés   ; 2-1; Carmelita
+
+Date: 2/5/2002
+
+; Alajuelense  ; 2-1; Santos
+; Liberia      ; 4-1; Osa
+; Herediano    ; 3-2; San Carlos
+; Limonense    ; 2-2; Saprissa
 
 Round: 3 
-[Jan 26]
-Osa           2-1 Saprissa
-San Carlos    2-1 Pérez Zeledón
-[Feb 7]
-Santos        2-1 Cartaginés
-Carmelita     1-1 Herediano
-Santa Bárbara 2-1 Liberia
-Alajuelense   1-0 Limonense
+Date: 1/26/2002
+
+; Osa          ; 2-1; Saprissa
+; San Carlos   ; 2-1; Pérez Zeledón
+
+Date: 2/7/2002
+
+; Santos       ; 2-1; Cartaginés
+; Carmelita    ; 1-1; Herediano
+; Santa Bárbara; 2-1; Liberia
+; Alajuelense  ; 1-0; Limonense
 
 Round: 4
-[Feb 9]
-Pérez Zeledón 2-0 Carmelita
-[Feb 10]
-Saprissa      2-2 Santa Bárbara 
-Liberia       2-1 San Carlos 
-Herediano     2-2 Santos 
-Cartaginés    1-1 Alajuelense 
-Limonense     0-0 Osa 
+Date: 2/9/2002
+
+; Pérez Zeledón; 2-0; Carmelita
+
+Date: 2/10/2002
+
+; Saprissa     ; 2-2; Santa Bárbara 
+; Liberia      ; 2-1; San Carlos 
+; Herediano    ; 2-2; Santos 
+; Cartaginés   ; 1-1; Alajuelense 
+; Limonense    ; 0-0; Osa 
 
 Round: 5 
-[Feb 13]
-Santos        2-2 Pérez Zeledón
-Cartaginés    3-1 Limonense
-Carmelita     2-0 Liberia
-Santa Bárbara 1-1 Osa
-San Carlos    2-1 Saprissa
-[Feb 27]
-Alajuelense   2-0 Herediano
+Date: 2/13/2002
+
+; Santos       ; 2-2; Pérez Zeledón
+; Cartaginés   ; 3-1; Limonense
+; Carmelita    ; 2-0; Liberia
+; Santa Bárbara; 1-1; Osa
+; San Carlos   ; 2-1; Saprissa
+
+Date: 2/27/2002
+
+; Alajuelense  ; 2-0; Herediano
 
 Round: 6 
-[Feb 16]
-Pérez Zeledón 1-0 Alajuelense
-[Feb 17]
-Liberia       1-1 Santos
-Osa           1-0 San Carlos  
-Herediano     1-0 Cartaginés
-Saprissa      6-1 Carmelita    
-Limonense     3-3 Santa Bárbara 
+Date: 2/16/2002
 
-Round: 7 [Feb 20]
-Santos        4-1 Saprissa 
-Alajuelense   0-1 Liberia 
-Herediano     4-0 Limonense 
-Cartaginés    1-0 Pérez Zeledón 
-San Carlos    2-0 Santa Bárbara 
-Carmelita     1-0 Osa 
+; Pérez Zeledón; 1-0; Alajuelense
+
+Date: 2/17/2002
+
+; Liberia      ; 1-1; Santos
+; Osa          ; 1-0; San Carlos  
+; Herediano    ; 1-0; Cartaginés
+; Saprissa     ; 6-1; Carmelita    
+; Limonense    ; 3-3; Santa Bárbara 
+
+Round: 7 
+Date: 2/20/2002
+
+; Santos       ; 4-1; Saprissa 
+; Alajuelense  ; 0-1; Liberia 
+; Herediano    ; 4-0; Limonense 
+; Cartaginés   ; 1-0; Pérez Zeledón 
+; San Carlos   ; 2-0; Santa Bárbara 
+; Carmelita    ; 1-0; Osa 
 
 Round: 8
-[Feb 23]
-Pérez Zeledón 3-0 Herediano
-Santa Bárbara 2-1 Carmelita
-[Feb 24]
-Saprissa      1-2 Alajuelense
-Osa           3-3 Santos
-Liberia       1-0 Cartaginés
-Limonense     1-1 San Carlos
+Date: 2/23/2002
+
+; Pérez Zeledón; 3-0; Herediano
+; Santa Bárbara; 2-1; Carmelita
+
+Date: 2/24/2002
+
+; Saprissa     ; 1-2; Alajuelense
+; Osa          ; 3-3; Santos
+; Liberia      ; 1-0; Cartaginés
+; Limonense    ; 1-1; San Carlos
 
 Round: 9
-[Feb 27]
-Carmelita     2-1 San Carlos        
-Santos        0-1 Santa Bárbara
-[Apr 10]
-Herediano     1-1 Liberia
-[Apr 13]
-Pérez Zeledón 2-0 Limonense
-[Apr 14]
-Cartaginés    2-0 Saprissa
-[Apr 26]
-Alajuelense   3-1 Osa
+Date: 2/27/2002
 
-Round: 10 [Mar 3]
-San Carlos    0-0 Santos
-Osa           0-0 Cartaginés  
-Carmelita     2-2 Limonense
-Saprissa      1-0 Herediano
-Santa Bárbara 1-1 Alajuelense  
-Liberia       3-0 Pérez Zeledón 
+; Carmelita    ; 2-1; San Carlos        
+; Santos       ; 0-1; Santa Bárbara
+
+Date: 4/10/2002
+
+; Herediano    ; 1-1; Liberia
+
+Date: 4/13/2002
+
+; Pérez Zeledón; 2-0; Limonense
+
+Date: 4/14/2002
+
+; Cartaginés   ; 2-0; Saprissa
+
+Date: 4/26/2002
+
+; Alajuelense  ; 3-1; Osa
+
+Round: 10 
+Date: 3/3/2002
+
+; San Carlos   ; 0-0; Santos
+; Osa          ; 0-0; Cartaginés  
+; Carmelita    ; 2-2; Limonense
+; Saprissa     ; 1-0; Herediano
+; Santa Bárbara; 1-1; Alajuelense  
+; Liberia      ; 3-0; Pérez Zeledón 
 
 Round: 11
-[Feb 27]
-Pérez Zeledón 0-1 Saprissa
-[Mar 6]
-Santos        2-1 Carmelita
-Herediano     1-0 Osa
-Limonense     1-2 Liberia
-Cartaginés    1-3 Santa Bárbara
-[Apr 11]
-Alajuelense   1-0 San Carlos
+Date: 2/27/2002
+
+; Pérez Zeledón; 0-1; Saprissa
+
+Date: 3/6/2002
+
+; Santos       ; 2-1; Carmelita
+; Herediano    ; 1-0; Osa
+; Limonense    ; 1-2; Liberia
+; Cartaginés   ; 1-3; Santa Bárbara
+
+Date: 4/11/2002
+
+; Alajuelense  ; 1-0; San Carlos
 
 Round: 12
-[Mar 9]
-Pérez Zeledón 1-1 Osa 
-[Mar 10]
-Alajuelense   3-1 Carmelita 
-Limonense     1-2 Santos 
-Liberia       1-1 Saprissa 
-Herediano     3-1 Santa Bárbara 
-Cartaginés    2-1 San Carlos 
+Date: 3/9/2002
 
-Round: 13 [Mar 13]
-Santos        1-3 Alajuelense 
-San Carlos    0-1 Herediano 
-Saprissa      5-0 Limonense
-Carmelita     0-0 Cartaginés 
-Osa           3-1 Liberia 
-Santa Bárbara 1-1 Pérez Zeledón 
+; Pérez Zeledón; 1-1; Osa 
+
+Date: 3/10/2002
+
+; Alajuelense  ; 3-1; Carmelita 
+; Limonense    ; 1-2; Santos 
+; Liberia      ; 1-1; Saprissa 
+; Herediano    ; 3-1; Santa Bárbara 
+; Cartaginés   ; 2-1; San Carlos 
+
+Round: 13 
+Date: 3/13/2002
+
+; Santos       ; 1-3; Alajuelense 
+; San Carlos   ; 0-1; Herediano 
+; Saprissa     ; 5-0; Limonense
+; Carmelita    ; 0-0; Cartaginés 
+; Osa          ; 3-1; Liberia 
+; Santa Bárbara; 1-1; Pérez Zeledón 
 
 Round: 14 
-[Mar 17]
-Saprissa      3-2 Osa
-Cartaginés    1-2 Santos
-Liberia       1-1 Santa Bárbara
-Herediano     2-1 Carmelita
-Pérez Zeledón 4-0 San Carlos
-[Apr 9]
-Limonense     1-2 Alajuelense
+Date: 3/17/2002
+
+; Saprissa     ; 3-2; Osa
+; Cartaginés   ; 1-2; Santos
+; Liberia      ; 1-1; Santa Bárbara
+; Herediano    ; 2-1; Carmelita
+; Pérez Zeledón; 4-0; San Carlos
+
+Date: 4/9/2002
+
+; Limonense    ; 1-2; Alajuelense
 
 Round: 15 
-[Mar 20]
-Santos        1-3 Herediano
-San Carlos    1-1 Liberia
-Alajuelense   4-2 Cartaginés
-Osa           1-0 Limonense
-Carmelita     3-1 Pérez Zeledón
-[Apr 9]
-Santa Bárbara 3-2 Saprissa  
+Date: 3/20/2002
 
-Round: 16 [Mar 24]
-Herediano     1-2 Alajuelense
-Saprissa      2-1 San Carlos
-Pérez Zeledón 0-2 Santos
-Liberia       3-0 Carmelita
-Limonense     3-1 Cartaginés
-Osa           1-1 Santa Bárbara
+; Santos       ; 1-3; Herediano
+; San Carlos   ; 1-1; Liberia
+; Alajuelense  ; 4-2; Cartaginés
+; Osa          ; 1-0; Limonense
+; Carmelita    ; 3-1; Pérez Zeledón
+
+Date: 4/9/2002
+
+; Santa Bárbara; 3-2; Saprissa  
+
+Round: 16 
+Date: 3/24/2002
+
+; Herediano    ; 1-2; Alajuelense
+; Saprissa     ; 2-1; San Carlos
+; Pérez Zeledón; 0-2; Santos
+; Liberia      ; 3-0; Carmelita
+; Limonense    ; 3-1; Cartaginés
+; Osa          ; 1-1; Santa Bárbara
 
 Round: 17 
-[Mar 27]
-San Carlos    1-0 Osa
-[Mar 31]
-Alajuelense   2-1 Pérez Zeledón
-Cartaginés    0-0 Herediano
-Santa Bárbara 2-3 Limonense
-Santos        1-1 Liberia
-Carmelita     0-2 Saprissa
+Date: 3/27/2002
+
+; San Carlos   ; 1-0; Osa
+
+Date: 3/31/2002
+
+; Alajuelense  ; 2-1; Pérez Zeledón
+; Cartaginés   ; 0-0; Herediano
+; Santa Bárbara; 2-3; Limonense
+; Santos       ; 1-1; Liberia
+; Carmelita    ; 0-2; Saprissa
 
 Round: 18 
-[Apr 3]
-Liberia       1-3 Alajuelense
-Limonense     4-2 Herediano
-Osa           1-2 Carmelita
-Pérez Zeledón 1-3 Cartaginés
-Saprissa      0-2 Santos     
-[Apr 14]
-Santa Bárbara 1-2 San Carlos
+Date: 4/3/2002
 
-Round: 19 [Apr 6]
-Alajuelense   2-0 Saprissa
-Herediano     3-0 Pérez Zeledón
-Cartaginés    2-2 Liberia
-Carmelita     2-2 Santa Bárbara
-Santos        1-2 Osa
-San Carlos    1-0 Limonense
+; Liberia      ; 1-3; Alajuelense
+; Limonense    ; 4-2; Herediano
+; Osa          ; 1-2; Carmelita
+; Pérez Zeledón; 1-3; Cartaginés
+; Saprissa     ; 0-2; Santos     
+
+Date: 4/14/2002
+
+; Santa Bárbara; 1-2; San Carlos
+
+Round: 19 
+Date: 4/6/2002
+
+; Alajuelense  ; 2-0; Saprissa
+; Herediano    ; 3-0; Pérez Zeledón
+; Cartaginés   ; 2-2; Liberia
+; Carmelita    ; 2-2; Santa Bárbara
+; Santos       ; 1-2; Osa
+; San Carlos   ; 1-0; Limonense
 
 Round: 20 
-[Apr 21]
-Osa           2-2 Alajuelense
-Liberia       1-2 Herediano
-Limonense     2-1 Pérez Zeledón
-Santa Bárbara 0-0 Santos
-Saprissa      0-1 Cartaginés
-[Apr 22]
-San Carlos    1-1 Carmelita
+Date: 4/21/2002
+
+; Osa          ; 2-2; Alajuelense
+; Liberia      ; 1-2; Herediano
+; Limonense    ; 2-1; Pérez Zeledón
+; Santa Bárbara; 0-0; Santos
+; Saprissa     ; 0-1; Cartaginés
+
+Date: 4/22/2002
+
+; San Carlos   ; 1-1; Carmelita
 
 Round: 21 
-[Apr 27]
-Santos        3-2 San Carlos
-[Apr 28]
-Limonense     2-2 Carmelita
-Herediano     0-1 Saprissa
-Cartaginés    1-1 Osa
-Pérez Zeledón 4-2 Liberia
-Alajuelense   1-2 Santa Bárbara
+Date: 4/27/2002
+
+; Santos       ; 3-2; San Carlos
+
+Date: 4/28/2002
+
+; Limonense    ; 2-2; Carmelita
+; Herediano    ; 0-1; Saprissa
+; Cartaginés   ; 1-1; Osa
+; Pérez Zeledón; 4-2; Liberia
+; Alajuelense  ; 1-2; Santa Bárbara
 
 Round: 22
-[Apr 30]
-San Carlos    1-4 Alajuelense
-[May 1]
-Saprissa      2-3 Pérez Zeledón
-Liberia       5-0 Limonense
-Santa Bárbara 2-2 Cartaginés
-Osa           3-0 Herediano
-Carmelita     2-1 Santos
+Date: 4/30/2002
+
+; San Carlos   ; 1-4; Alajuelense
+
+Date: 5/1/2002
+
+; Saprissa     ; 2-3; Pérez Zeledón
+; Liberia      ; 5-0; Limonense
+; Santa Bárbara; 2-2; Cartaginés
+; Osa          ; 3-0; Herediano
+; Carmelita    ; 2-1; Santos
 
 * 1.LD Alajuelense       22 16  3  3 46-21 51  Clausura Winners
 * 2.Herediano            22 10  5  7 30-26 35
@@ -478,15 +642,15 @@ Carmelita     2-1 Santos
 *12.AD Limonense         22  4  7 11 28-46 19
 
 
-Championship Playoff
+*Championship Playoff
 
-First Leg [May 4]
-Santos        2-2 Alajuelense
-  [Andy Herron 17, Athim Rooper 42; Érick Scott 11, Federico Urrutia 69og]
+*First Leg [May 4]
+5/4/2002; Santos       ; 2-2; Alajuelense
+Andy Herron 17, Athim Rooper 42; Érick Scott 11, Federico Urrutia 69og
 
-Second Leg [May 7]
-Alajuelense   4-0 Santos
-  [Érick Scott (3), Rolando Fonseca 22]
+*Second Leg [May 7]
+5/7/2002; Alajuelense  ; 4-0; Santos
+Érick Scott, Érick Scott, Érick Scott, Rolando Fonseca 22;
 
 *Aggregate Table:
 * 1.LD Alajuelense       44 27 10  7 95-49 91
@@ -504,15 +668,15 @@ Alajuelense   4-0 Santos
 *12.AD Limonense         44  9 13 22 56-88 40  Relegated
 
 
-Concacaf Champions Cup 2003 Qualifying
-(between runners-up of 2001/02 and 2002/03)
-
-First Leg [Jul 25]
-Herediano     1-1 Santos
-  [Austin Berry 71pen; Rayner Robinson 6]
-
-Second Leg [Jul 28 (first half) and Aug 1 (second half)]
-Santos        1-0 Herediano
-  [Rayner Robinson 62; abandoned on Jul 28 at 0-0 in half-time due to rain]
+*Concacaf Champions Cup 2003 Qualifying
+*(between runners-up of 2001/02 and 2002/03)
+*
+*First Leg [Jul 25]
+*Herediano     1-1 Santos
+*  [Austin Berry 71pen; Rayner Robinson 6]
+*
+*Second Leg [Jul 28 (first half) and Aug 1 (second half)]
+*Santos        1-0 Herediano
+*  [Rayner Robinson 62; abandoned on Jul 28 at 0-0 in half-time due to rain]
 
 

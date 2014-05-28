@@ -93,8 +93,8 @@ Date: 10/4/1997
 ; Universidad  ; 0-0; Victoria
 ; Real Maya    ; 2-2; Real Espana
 10/12/1997; Vida         ; 2-2; Olimpia      
-10/12/1997;; Motagua      ; 0-1; Marathon    
-10/12/1997;; Independiente; 1-3; Platense    
+10/12/1997; Motagua      ; 0-1; Marathon    
+10/12/1997; Independiente; 1-3; Platense    
 11/1/1997; Palestino    ; 2-3; Vida          
 
 Round: 8 
@@ -271,13 +271,13 @@ Round: Semifinals
 
 Round: Final
 
-*First Leg [Apr 15]
+*First Leg 
 4/15/1998; Real Espana  ; 0-3; Motagua
 ; Francisco Ramirez 21, Oscar Lagos 55, Amalo Guevera 89
 
-*Second Leg [Apr 19]
+*Second Leg
 4/19/1998; Motagua      ; 2-1; Real Espana
-M Francisco Ramirez 20, Amado Guevara 32 RE: Leonardo Morales 26
+Francisco Ramirez 20, Amado Guevara 32; Leonardo Morales 26
 
 *Motagua winners Apertura 1997/98
 
@@ -296,7 +296,7 @@ Season: 1997-1998 Clausura
 *10.Independiente 20  2  6 12 23-45 12  
 *11.Universidad   20  1  6 13 14-33  9  
 
-Top-6 to Clausura Liguilla.
+*Top-6 to Clausura Liguilla.
 
 Round: 1 
 Date: 4/26/1998
@@ -327,175 +327,218 @@ Date: 5/2/1998
 
 Round: 3 
 *[May 9,10]
+Date: 5/9/1998
 
-Real Espana   1-1 Palestino   [May 6]
-Vida          2-2 Victoria
-Marathon      2-2 Platense
-Independiente 1-3 Real Maya
-Olimpia       2-0 Universidad
+5/6/1998; Real Espana  ; 1-1; Palestino   
+; Vida         ; 2-2; Victoria
+; Marathon     ; 2-2; Platense
+; Independiente; 1-3; Real Maya
+; Olimpia      ; 2-0; Universidad
 *bye: Motagua
 
-Round: 4 [May 16,17]
-Marathon      1-0 Victoria
-Platense      3-2 Motagua   
-Vida          1-1 Real Espana 
-Universidad   0-0 Independiente
-Real Maya     3-0 Palestino 
-bye: Olimpia
+Round: 4 
+*[May 16,17]
+Date: 5/16/1998
 
-Round: 5 [May 23,24]
-Real Espana   1-2 Universidad
-Real Maya     2-2 Olimpia 
-Palestino     1-1 Platense
-Independiente ppd Victoria
-Vida          1-1 Marathon 
-bye: Motagua
+; Marathon     ; 1-0; Victoria
+; Platense     ; 3-2; Motagua   
+; Vida         ; 1-1; Real Espana 
+; Universidad  ; 0-0; Independiente
+; Real Maya    ; 3-0; Palestino 
+*bye: Olimpia
 
-Round: 6 [May 30,31]
-Marathon      1-0 Independiente
-Victoria      0-2 Real Maya
-Universidad   0-2 Vida  
-Platense      2-1 Real Espana
+Round: 5 
+*[May 23,24]
+Date: 5/23/1998
 
-Midweek Matches [Jun 3]
-Platense      1-2 Olimpia
-Vida          1-0 Palestino
+; Real Espana  ; 1-2; Universidad
+; Real Maya    ; 2-2; Olimpia 
+; Palestino    ; 1-1; Platense
+*Independiente ppd Victoria
+; Vida         ; 1-1; Marathon 
+*bye: Motagua
 
-Round: 7 [Jun 3-5]
-Universidad   1-3 Victoria
-Olimpia       0-0 Vida
-Real Maya     0-1 Real Espana
-Motagua       1-0 Marathon
-Platense      5-3 Independiente
-bye: Palestino 
+Round: 6 
+*[May 30,31]
+Date: 5/30/1998
 
-Midweek Matches [Jun 10]
-Olimpia       2-0 Independiente
-Real Espana   2-4 Motagua       [earlier reported 3-5]
-Victoria      3-1 Palestino
+; Marathon     ; 1-0; Independiente
+; Victoria     ; 0-2; Real Maya
+; Universidad  ; 0-2; Vida  
+; Platense     ; 2-1; Real Espana
 
-Round: 8 [Jun 13,14]
-Platense      4-1 Real Maya
-Vida          0-0 Independiente
-Marathon      1-1 Universidad  
-Olimpia       2-1 Motagua
+*Midweek Matches [Jun 3]
+6/3/1998; Platense     ; 1-2; Olimpia
+6/3/1998; Vida         ; 1-0; Palestino
 
-Round: 9 [Jun 20,21]
-Palestino     4-2 Marathon
-Independiente 3-3 Motagua
-Real Maya     0-0 Vida
-Olimpia       3-1 Real Espana
-Platense      3-1 Universidad
-bye: Victoria   
+Round: 7 
+*[Jun 3-5]
+Date: 6/3/1998
 
-Midweek Matches [Jun 24]
-Motagua       2-0 Real Maya
-Victoria      3-1 Independiente
+; Universidad  ; 1-3; Victoria
+; Olimpia      ; 0-0; Vida
+; Real Maya    ; 0-1; Real Espana
+; Motagua      ; 1-0; Marathon
+; Platense     ; 5-3; Independiente
+*bye: Palestino 
 
-Round: 10 [Jun 27,28]
-Palestino     0-1 Motagua
-Marathon      0-3 Olimpia
-Victoria      1-1 Real Espana
+*Midweek Matches [Jun 10]
+Date: 6/10/1998
 
-Midweek Match [Jul 1]
-Olimpia       1-1 Victoria
+; Olimpia      ; 2-0; Independiente
+; Real Espana  ; 2-4; Motagua       
+*[earlier reported 3-5]
+; Victoria     ; 3-1; Palestino
 
-Round: 11 [Jul 4,5]
-Motagua       2-1 Vida
-Marathon      3-3 Real Espana
-Palestino     0-1 Independiente
-Platense      2-2 Victoria
-[Jul 8]
-Independiente 1-4 Olimpia
-[Jul 11]
-Marathon      3-2 Real Maya
+Round: 8 
+*[Jun 13,14]
+Date: 6/13/1998
 
-Round: 12 [Jul 12]
-Palestino     2-0 Universidad
-Vida          2-3 Platense
-[Jul 15]
-Victoria      0-0 Motagua
-[Jul 19]
-Platense      1-2 Marathon
-Real Espana   2-2 Independiente
-[Aug 2]
-Vida          1-1 Victoria
+; Platense     ; 4-1; Real Maya
+; Vida         ; 0-0; Independiente
+; Marathon     ; 1-1; Universidad  
+; Olimpia      ; 2-1; Motagua
 
-Round: 13 [Jul 25,26]
-Real Maya     2-1 Independiente
-Olimpia       1-1 Universidad
-Palestino     0-3 Real Espana
-Victoria      0-2 Marathon
-Midweek Matches [Jul 29,30]
-Real Espana   0-0 Vida
-Universidad   0-1 Motagua
+Round: 9 
+*[Jun 20,21]
+Date: 6/20/1998
+
+; Palestino    ; 4-2; Marathon
+; Independiente; 3-3; Motagua
+; Real Maya    ; 0-0; Vida
+; Olimpia      ; 3-1; Real Espana
+; Platense     ; 3-1; Universidad
+*bye: Victoria   
+
+*Midweek Matches [Jun 24]
+6/24/1998; Motagua      ; 2-0; Real Maya
+6/24/1998; Victoria     ; 3-1; Independiente
+
+Round: 10 
+*[Jun 27,28]
+Date: 6/27/1998
+
+; Palestino    ; 0-1; Motagua
+; Marathon     ; 0-3; Olimpia
+; Victoria     ; 1-1; Real Espana
+
+*Midweek Match [Jul 1]
+7/1/1998; Olimpia      ; 1-1; Victoria
+
+Round: 11 
+*[Jul 4,5]
+Date: 7/4/1998
+
+; Motagua      ; 2-1; Vida
+; Marathon     ; 3-3; Real Espana
+; Palestino    ; 0-1; Independiente
+; Platense     ; 2-2; Victoria
+
+7/8/1998; Independiente; 1-4; Olimpia
+
+7/11/1998; Marathon     ; 3-2; Real Maya
+
+Round: 12 
+Date: 7/12/1998
+
+; Palestino    ; 2-0; Universidad
+; Vida         ; 2-3; Platense
+
+7/15/1998; Victoria     ; 0-0; Motagua
+
+7/19/1998; Platense     ; 1-2; Marathon
+7/19/1998; Real Espana  ; 2-2; Independiente
+
+8/2/1998; Vida         ; 1-1; Victoria
+
+Round: 13 
+*[Jul 25,26]
+Date: 7/25/1998
+
+; Real Maya    ; 2-1; Independiente
+; Olimpia      ; 1-1; Universidad
+; Palestino    ; 0-3; Real Espana
+; Victoria     ; 0-2; Marathon
+
+*Midweek Matches [Jul 29,30]
+7/29/1998; Real Espana  ; 0-0; Vida
+7/29/1998; Universidad  ; 0-1; Motagua
 
 Round: 14 
-[Aug 2]
-Motagua       3-0 Platense
-Independiente 2-0 Universidad
-Palestino     2-3 Real Maya 
-[Aug 5]
-Olimpia       3-0 Real Maya
-Marathon      2-0 Vida
-Victoria      3-2 Independiente
+Date: 8/2/1998
 
-Round: 15 [Aug 8,9]
-Real Maya     0-1 Motagua
-Independiente 1-1 Marathon
-Platense      1-1 Palestino
-Victoria      1-4 Olimpia
-Universidad   0-1 Real Espana
+; Motagua      ; 3-0; Platense
+; Independiente; 2-0; Universidad
+; Palestino    ; 2-3; Real Maya 
 
-Midweek Match [Aug 12]
-Universidad   0-1 Real Maya
+Date: 8/5/1998
+
+; Olimpia      ; 3-0; Real Maya
+; Marathon     ; 2-0; Vida
+; Victoria     ; 3-2; Independiente
+
+Round: 15 
+*[Aug 8,9]
+Date: 8/8/1998
+
+; Real Maya    ; 0-1; Motagua
+; Independiente; 1-1; Marathon
+; Platense     ; 1-1; Palestino
+; Victoria     ; 1-4; Olimpia
+; Universidad  ; 0-1; Real Espana
+
+*Midweek Match [Aug 12]
+8/12/1998; Universidad  ; 0-1; Real Maya
 
 Round: 16
-[Aug 12]
-Real Espana   1-1 Platense
-[Aug 13]
-Motagua       4-1 Palestino
-[Aug 16]
-Real Maya     1-0 Victoria 
-Marathon      0-0 Motagua
-Vida          3-1 Universidad
-Olimpia       1-1 Platense
+
+8/12/1998; Real Espana  ; 1-1; Platense
+8/13/1998; Motagua      ; 4-1; Palestino
+8/16/1998; Real Maya    ; 1-0; Victoria 
+8/16/1998; Marathon     ; 0-0; Motagua
+8/16/1998; Vida         ; 3-1; Universidad
+8/16/1998; Olimpia      ; 1-1; Platense
 
 Round: 17
-[Aug 19]
-Victoria      1-1 Universidad
-[Aug 20]
-Olimpia       4-3 Vida
-[Aug 23]
-Platense      2-2 Independiente
-Universidad   1-1 Marathon
-Palestino     3-2 Vida
-Real Espana   2-1 Real Maya
 
-Midweek Match [Aug 26]
-Motagua       2-0 Real Espana
+8/19/1998; Victoria     ; 1-1; Universidad
+8/20/1998; Olimpia      ; 4-3; Vida
+8/23/1998; Platense     ; 2-2; Independiente
+8/23/1998; Universidad  ; 1-1; Marathon
+8/23/1998; Palestino    ; 3-2; Vida
+8/23/1998; Real Espana  ; 2-1; Real Maya
 
-Round: 18 [Aug 30]
-Motagua       1-1 Olimpia
-Palestino     1-1 Victoria
-Real Maya     0-0 Platense
-Vida          5-2 Independiente
+*Midweek Match [Aug 26]
+8/26/1998; Motagua      ; 2-0; Real Espana
 
-Midweek Match [Sep 3]
-Marathon      4-1 Palestino      [awarded 5-0?]
+Round: 18 
+*[Aug 30]
+Date: 8/30/1998
 
-Round: 19 [Sep 5,6]
-Real Espana   0-1 Olimpia  
-Motagua       6-1 Independiente
-Vida          2-1 Real Maya
-Platense      3-2 Universidad
+; Motagua      ; 1-1; Olimpia
+; Palestino    ; 1-1; Victoria
+; Real Maya    ; 0-0; Platense
+; Vida         ; 5-2; Independiente
 
-Postponed Matches
-[Sep 9]
-Real Espana   0-1 Victoria
-Olimpia       4-0 Palestino
-[Sep 13]
-Olimpia       5-0 Marathon
+*Midweek Match
+9/3/1998; Marathon     ; 4-1; Palestino      
+*[awarded 5-0?]
+
+Round: 19 
+*[Sep 5,6]
+Date: 9/5/1998
+
+; Real Espana  ; 0-1; Olimpia  
+; Motagua      ; 6-1; Independiente
+; Vida         ; 2-1; Real Maya
+; Platense     ; 3-2; Universidad
+
+*Postponed Matches
+
+9/9/1997; Real Espana  ; 0-1; Victoria
+9/9/1998; Olimpia      ; 4-0; Palestino
+
+9/13/1998; Olimpia      ; 5-0; Marathon
 
 
 * 1.Olimpia       20 13  7  0 46-15 46  
@@ -537,40 +580,42 @@ Round: Quarterfinals
 *First Legs [Sep 20,21]
 Date: 9/20/1998
 
-Victoria      1-2 Olimpia
-Marathon      0-0 Platense
-Real Maya     1-4 Motagua
+; Victoria     ; 1-2; Olimpia
+; Marathon     ; 0-0; Platense
+; Real Maya    ; 1-4; Motagua
 
-Second Legs [Sep 27]
-Platense      1-1 Marathon    [Platense qualified on league position]
-Olimpia       0-1 Victoria    [Olimpia qualified on league position]
-Motagua       1-1 Real Maya
+*Second Legs 
+Date: 9/27/1998
+; Platense     ; 1-1; Marathon    
+*[Platense qualified on league position]
+; Olimpia      ; 0-1; Victoria    
+*[Olimpia qualified on league position]
+; Motagua      ; 1-1; Real Maya
 
-Victoria qualified as best loser
+*Victoria qualified as best loser
+*
+Round: Semifinals
 
-Semifinals
+*First Legs [Oct 3,4]
+10/3/1998; Victoria     ; 2-1; Olimpia
+10/3/1998; Platense     ; 3-3; Motagua
 
-First Legs [Oct 3,4]
-Victoria      2-1 Olimpia
-Platense      3-3 Motagua
+*Second Legs [Oct 11]
+10/11/1998; Motagua      ; 2-1; Platense
+10/11/1998; Olimpia      ; 1-0; Victoria    
+*[Olimpia qualified on league position]
 
-Second Legs [Oct 11]
-Motagua       2-1 Platense
-Olimpia       1-0 Victoria    [Olimpia qualified on league position]
+Round: Final 
 
-Final 
+*First Leg [Oct 18]
+10/18/1998; Motagua      ; 0-0; Olimpia
 
-First Leg [Oct 18]
-Motagua       0-0 Olimpia
+*Second Leg [Oct 25]
+10/25/1998; Olimpia      ; 0-1; Motagua     [asdet]
 
-Second Leg [Oct 25]
-Olimpia       0-1 Motagua     [asdet]
-
-Motagua winners Clausura.
-
-Motagua champions as winners of Apertura and Clausura.
-
-Topscorer Overall: W. Velásquez (Olimpia, Honduras) 34 goals.
+*Motagua winners Clausura.
+*Motagua champions as winners of Apertura and Clausura.
+*Topscorer Overall: W. Velásquez (Olimpia, Honduras) 34 goals.
 
 
 *Prepared and maintained by Mikael Jönsson for the Rec.Sport.Soccer Statistics Foundation

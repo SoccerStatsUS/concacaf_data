@@ -151,7 +151,7 @@ Date: 8/17/2003
 Date: 8/27/2003
 
 ; Arima Fire     ; 0-3;     W Connection    
-[date?]
+*[date?]
 ; Caledonia AIA  ; 1-3;     SWIF                    
 *[inferred]
 
@@ -404,7 +404,8 @@ Date: 1/7/2004
 ; Caledonia AIA  ; 1-2;     W Connection
 ; Strikers       ; 1-1;     NE Stars    
 
-Date: 1/9, inferred/2004
+*Date: 1/9, inferred/2004
+Date: 1/9/2004
 
 ; Defence Force  ; 0-2;     Arima Fire
 *[later]
