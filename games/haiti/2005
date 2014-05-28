@@ -21,7 +21,7 @@ Season: 2005-2006
 *15.Roulado (La Gônave)                    15  3  5  7 14-25 14
 *16.AS de Carrefour                        15  3  4  8 10-17 13
 
-Round 1
+Round: 1
 [Nov 4]
 Violette      0-2 Aigle Noir
 [Nov 5]
@@ -34,7 +34,7 @@ Carrefour     0-0 Frères
 Victory       1-0 Capoise
 Racing G      3-1 Roulado
 
-Round 2
+Round: 2
 [Nov 12]
 Don Bosco     2-0 Carrefour
 Dynamite      1-0 Victory
@@ -46,7 +46,7 @@ Capoise       0-0 Racing CH
 Roulado       2-0 Violette
 Aigle Noir    0-1 Racing G
 
-Round 3
+Round: 3
 [Nov 18]
 Racing CH     2-1 Tempête 
 [Nov 19]
@@ -59,7 +59,7 @@ Violette      2-0 Frères
 Carrefour     1-0 Aigle Noir  
 Racing G      2-1 Don Bosco 
 
-Round 4
+Round: 4
 [Nov 26]
 Dynamite      1-1 Racing G
 Aigle Noir    0-2 Victory 
@@ -71,7 +71,7 @@ Don Bosco     0-0 Cavaly
 Roulado       1-1 Racing CH 
 Mirebalais    2-0 Carrefour 
 
-Round 5
+Round: 5
 [Dec 2]
 Don Bosco     0-0 Racing CH
 [Dec 3]
@@ -84,7 +84,7 @@ Zénith        0-0 Aigle Noir
 Carrefour     2-1 Roulado
 Victory       1-1 Frères
 
-Round 6
+Round: 6
 [Dec 9]
 Aigle Noir    1-2 Mirebalais 
 [Dec 10]
@@ -97,7 +97,7 @@ Capoise       0-1 Don Bosco
 Frères        1-2 Dynamite 
 Carrefour     0-2 Racing G
 
-Round 7
+Round: 7
 [Dec 17]
 Dynamite      1-1 Capoise
 Victory       1-1 Cavaly 
@@ -109,7 +109,7 @@ Don Bosco     0-0 Aigle Noir
 Mirebalais    0-1 Tempête 
 Racing CH     1-1 Violette 
  
-Round 8
+Round: 8
 [Dec 21]
 Don Bosco     1-3 Dynamite 
 [Dec 23]
@@ -123,7 +123,7 @@ Victory       0-0 Racing CH
 [Jan 25]
 Tempête       1-0 Aigle Noir 
 
-Round 9
+Round: 9
 [Dec 29]
 Zénith        0-1 Baltimore 
 Frères        3-0 Mirebalais 
@@ -137,7 +137,7 @@ Tempête       1-0 Don Bosco
 [Jan 11]
 Aigle Noir    6-1 Dynamite 
 
-Round 10
+Round: 10
 [Jan 14]
 Victory       0-0 Zénith
 Dynamite      1-1 Roulado  
@@ -149,7 +149,7 @@ Mirebalais    0-1 Don Bosco
 Capoise       1-1 Aigle Noir 
 Frères        1-0 Tempête 
 
-Round 11
+Round: 11
 [Jan 21]
 Violette      1-2 Zénith
 Dynamite      1-1 Tempête
@@ -161,7 +161,7 @@ Don Bosco     1-0 Frères
 Capoise       3-0 Mirebalais
 Aigle Noir    3-0 Roulado
 
-Round 12
+Round: 12
 [Jan 28]
 Racing CH     1-2 Baltimore 
 [Jan 29]
@@ -173,7 +173,7 @@ Frères        0-2 Aigle Noir
 Victory       1-1 Carrefour 
 Roulado       0-3 Don Bosco
  
-Round 13
+Round: 13
 [Feb 3]
 Don Bosco     1-1 Zénith 
 Roulado       1-0 Victory
@@ -185,7 +185,7 @@ Tempête       2-1 Carrefour
 Capoise       1-0 Racing G
 Frères        1-1 Cavaly 
 
-Round 14
+Round: 14
 [Feb 10]
 Victory       2-0 Tempête 
 [Feb 11]
@@ -198,7 +198,7 @@ Racing G      2-0 Frères
 Carrefour     2-2 Capoise
 Zénith        3-0 Dynamite 
 
-Round 15
+Round: 15
 [Feb 18]
 Dynamite      2-1 Carrefour 
   [Eder Sauverain 35, Bouston Pierre 70; Oldens François 7]
@@ -266,7 +266,7 @@ NB: Dynamite had 8 matches awarded 0-3 against them, but with the proviso
     that the awarded goals would be discarded in case of decisions on the
     championship or relegation (which eventually was irrelevant)
 
-Round 1
+Round: 1
 [Mar 11]
 Dynamite      0-0 Racing CH
 Tempête       1-0 Cavaly 
@@ -285,7 +285,7 @@ Capoise       0-1 Victory
 Don Bosco     3-0 Baltimore
   [Michelet Joinéus 55, Yveson Etienne 65, Philbert Dercéus 69]
 
-Round 2
+Round: 2
 [Mar 17]
 Victory       1-1 Dynamite
 [Mar 18]
@@ -298,7 +298,7 @@ Carrefour     0-0 Don Bosco
 Violette      3-0 Roulado  
 Racing G      0-1 Aigle Noir  
 
-Round 3
+Round: 3
 [Mar 25]
 Don Bosco     2-1 Racing G
   [Yveson Etienne 35, 64; Saul Kendy 13]
@@ -317,7 +317,7 @@ Aigle Noir    1-0 Carrefour
 Capoise       1-2 Zénith
   [Renel Mompremier 40; René Floreus 16, Berthony Pierre 79]
 
-Round 4 
+Round: 4 
 [Mar 28]
 Racing CH     0-0 Roulado
 [Mar 29]
@@ -330,7 +330,7 @@ Baltimore     1-0 Tempête
 [Mar 30]
 Victory       2-1 Aigle Noir 
 
-Round 5
+Round: 5
 [Apr 1]
 Racing CH     3-1 Don Bosco  
   [Monès Chéry 3, 88, Maxime Présendieu 78; Walson Augustin 2]
@@ -350,7 +350,7 @@ Frères        2-3 Victory
 Mirebalais    1-1 Violette 
   [Désiré Frantz 78; Fabien Vorbe 47]
  
-Round 6
+Round: 6
 [Apr 8]
 Victory       0-0 Violette 
 Dynamite      1-0 Frères 
@@ -368,7 +368,7 @@ Mirebalais    2-0 Aigle Noir
 Racing G      1-0 Carrefour 
   [Clerçant Clerjuste 47]
 
-Round 7
+Round: 7
 [Apr 13]
 Tempête       0-0 Mirebalais
 [Apr 15]
@@ -391,7 +391,7 @@ NB: Dynamite did not play after round 7 due to a road accident
     their remaining matches were awarded 0-3 against them, but
     without goals being attributed.
 
-Round 8
+Round: 8
 [Apr 19]
 Roulado       2-0 Mirebalais
 Baltimore     2-1 Carrefour
@@ -403,7 +403,7 @@ Zénith        1-0 Racing G
 Racing CH     1-1 Victory
 Dynamite      awd Don Bosco           [awarded 0-3]
 
-Round 9
+Round: 9
 [Apr 22]
 Don Bosco     1-1 Tempête
 [Apr 23]
@@ -416,7 +416,7 @@ Racing CH     2-0 Cavaly
 Victory       2-1 Racing G
 Dynamite      awd Aigle Noir          [awarded 0-3]
  
-Round 10
+Round: 10
 [Apr 28]
 Don Bosco     0-2 Mirebalais 
 [Apr 29]
@@ -429,7 +429,7 @@ Cavaly        0-0 Carrefour
 Violette      0-1 Baltimore 
 Roulado       awd Dynamite            [awarded 3-0]
 
-Round 11
+Round: 11
 [May 2]
 Frères        0-1 Don Bosco 
 Roulado       2-0 Aigle Noir
@@ -442,7 +442,7 @@ Victory       1-0 Baltimore
 [May 4]
 Racing CH     2-1 Carrefour
 
-Round 12 [May 7]
+Round: 12 [May 7]
 Cavaly        1-0 Zénith 
 Violette      1-1 Racing G
 Dynamite      awd Mirebalais          [awarded 0-3]  
@@ -452,7 +452,7 @@ Carrefour     0-2 Victory
 Baltimore     1-0 Racing CH
 Don Bosco     3-1 Roulado 
 
-Round 13
+Round: 13
 [May 12]
 Victory       4-0 Roulado
 [May 13] 
@@ -465,7 +465,7 @@ Violette      awd Dynamite            [awarded 3-0]
 Carrefour     0-1 Tempête
 Racing G      2-1 Capoise
 
-Round 14
+Round: 14
 [May 20]
 Dynamite      awd Zénith              [awarded 0-3] 
 Aigle Noir    3-0 Baltimore
@@ -477,7 +477,7 @@ Frères        0-0 Racing G
 Tempête       2-1 Victory 
 Capoise       4-1 Carrefour 
 
-Round 15
+Round: 15
 [May 27]
 Violette      2-0 Tempête 
 [May 28]
@@ -537,7 +537,7 @@ Final Table:
 15.Dynamite (Saint-Marc)                  15  1  9  5 12-23 12
 16.US Frères (Pétion-Ville)               15  2  3 10  7-26  9
 
-Round 1
+Round: 1
 [Aug 18]
 Victory       abd Capoise             [abandoned at 0-0 due to rain]
 [Aug 19]
@@ -552,7 +552,7 @@ Racing CH     0-0 Dynamite
 [date?]
 Victory       1-2 Capoise   
 
-Round 2
+Round: 2
 [Aug 26]
 Tempête       1-2 Zénith 
 Aigle Noir    0-2 Racing G
@@ -567,7 +567,7 @@ Capoise       1-0 Racing CH
 [Sep 7]
 Roulado       2-1 Violette 
 
-Round 3
+Round: 3
 [Sep 1]
 Racing CH     0-0 Tempête 
 [Sep 2]
@@ -580,7 +580,7 @@ Racing G      0-0 Don Bosco
 Zénith        2-2 Capoise 
 Violette      2-0 Frères
 
-Round 4
+Round: 4
 [Sep 9]
 Tempête       1-0 Baltimore
 Capoise       1-0 Violette
@@ -592,7 +592,7 @@ Mirebalais    1-0 Carrefour
 Dynamite      4-4 Racing G
 Don Bosco     0-2 Cavaly
     
-Round 5
+Round: 5
 [Sep 13]
 Victory       0-1 Frères
 [Sep 19]
@@ -605,7 +605,7 @@ Carrefour     2-0 Roulado
 Baltimore     0-0 Dynamite 
 Violette      3-2 Mirebalais
 
-Round 6
+Round: 6
 [Sep 22]
 Racing CH     1-0 Zénith
 [Sep 23]
@@ -619,7 +619,7 @@ Aigle Noir    1-0 Mirebalais
 [Sep 26]
 Cavaly        1-1 Baltimore 
 
-Round 7
+Round: 7
 [Sep 29]
 Victory       1-1 Cavaly
 [Sep 30]
@@ -645,7 +645,7 @@ Capoise       2-1 Frères
 Tempête       1-0 Aigle Noir
 Violette      1-1 Cavaly
 
-Round 9
+Round: 9
 [Oct 14]
 Violette      2-1 Carrefour 
 [Oct 15]
@@ -657,7 +657,7 @@ Roulado       2-1 Capoise
 Cavaly        1-0 Racing CH
 Aigle Noir    1-0 Dynamite
 
-Round 10
+Round: 10
 [Oct 21]
 Dynamite      1-1 Roulado
 Victory       0-0 Zénith
@@ -669,7 +669,7 @@ Capoise       2-0 Aigle Noir
 Baltimore     1-0 Violette 
 Racing CH     1-0 Racing G
 
-Round 11
+Round: 11
 [Oct 27]
 Aigle Noir    3-0 Roulado
 [Oct 28] 
@@ -683,7 +683,7 @@ Violette      3-0 Zénith
 [Oct 30]
 Don Bosco     3-0 Frères
 
-Round 12
+Round: 12
 [Nov 1]
 Victory       4-0 Carrefour 
 [Nov 2]
@@ -697,7 +697,7 @@ Racing CH     2-1 Baltimore
 [Nov 22]
 Frères        0-3 Aigle Noir          [replay]
 
-Round 13 [Nov 15]
+Round: 13 [Nov 15]
 Roulado       2-0 Victory 
 Aigle Noir    3-1 Racing CH
 Mirebalais    1-1 Baltimore
@@ -707,7 +707,7 @@ Tempête       0-0 Carrefour
 Don Bosco     0-0 Zénith
 Dynamite      0-0 Violette
 
-Round 14
+Round: 14
 [Nov 17]
 Racing CH     1-0 Mirebalais
 [Nov 18]
@@ -720,7 +720,7 @@ Carrefour     1-0 Capoise
 Cavaly        1-1 Roulado 
 Racing G      awd Frères              [apparently awarded 3-0; reported 2-1]
 
-Round 15
+Round: 15
 [Nov 25]
 Dynamite      3-3 Carrefour 
 Don Bosco     0-1 Victory 
@@ -912,7 +912,7 @@ AS Mirebalais         1-2 Tempête
 
 Coupe de la Digicel 2006
 
-Round 1 
+Round: 1 
 [Mar 11]
 Dynamite               -  Racing CH
 Tempête                -  Cavaly 
@@ -949,7 +949,7 @@ Division 2
 
 Groupe Nord (= Groupe A)
 
-Round 1
+Round: 1
 [Dec 10]
 FICA          1-0 Flora 
 [Dec 11]
@@ -959,7 +959,7 @@ ASSL          1-0 AS Verettes
 Vision        1-0 Eclair 
 Racines       0-0 US Papaye 
 
-Round 2
+Round: 2
 [Dec 17]
 JSC           0-0 ASSL
 [Dec 18]
@@ -969,7 +969,7 @@ Flora         3-0 Vision
 US Papaye     0-0 FICA 
 Eclair        1-0 Racines
 
-Round 3
+Round: 3
 [Dec 22]
 FICA          1-0 Eclair
 [Dec 23]
@@ -981,7 +981,7 @@ Racine        1-1 Flora
 [date?]
 ASR           1-0 AS Verettes       
 
-Round 4
+Round: 4
 [Dec 28]
 JSC           1-0 Vision              [also reported 0-0]
 Eclair        2-2 US Arcahaie
@@ -992,7 +992,7 @@ US Papaye     1-0 ASR
 [date?]
 Flora         2-2 ASSL                [inferred]
 
-Round 5
+Round: 5
 [Jan 14]
 JSC           1-1 US Papaye
 [Jan 15]
@@ -1002,7 +1002,7 @@ Eclair        2-1 Triomphe
 Vision        0-0 ASR
 ASSL          2-0 Racine
 
-Round 6
+Round: 6
 [Jan 21]
 FICA          2-0 ASSL
 [Jan 22]
@@ -1012,7 +1012,7 @@ US Papaye     0-1 Vision
 Flora         2-1 Verettes
 Triomphe      1-1 JSC  
 
-Round 7
+Round: 7
 [Jan 28]
 JSC           1-0 FICA
 Eclair        1-0 Flora
@@ -1022,7 +1022,7 @@ US Arcahaie   1-0 ASR
 Vision        0-1 ASSL
 Racine        0-0 Triomphe 
  
-Round 8
+Round: 8
 [Feb 4]
 FICA          2-0 Racine  
 [Feb 5]
@@ -1033,7 +1033,7 @@ Vision        1-0 Verettes
 ASSL          3-0 US Arcahaie         [awarded?]
 Eclair        0-0 JSC
 
-Round 9 [Feb 12]
+Round: 9 [Feb 12]
 Triomphe      0-1 ASSL
 ASR           1-0 FICA
 Verettes      0-0 Eclair
@@ -1041,7 +1041,7 @@ US Arcahaie   2-0 Vision
 US Papaye     1-0 Flora
 JSC           1-0 Racine
 
-Round 10 
+Round: 10 
 [Feb 18]
 FICA          3-0 Vision
   [Smith Louis Arty 33, Rosard Getrhro 51, 67]
@@ -1054,7 +1054,7 @@ US Papaye     1-0 US Arcahaye
 Racine        1-0 ASR   
 Verettes      0-0 Triomphe 
  
-Round 11
+Round: 11
 [Feb 25]
 JSC           0-0 Verettes
 [Feb 26]
@@ -1065,7 +1065,7 @@ Eclair        1-0 US Papaye
 [date?] 
 Triomphe      2-0 Flora   
 
-Round 12
+Round: 12
 [Mar 11]
 JSC           0-0 ASR 
 [Mar 12]
@@ -1075,7 +1075,7 @@ Flora         1-1 FICA
 Eclair        1-0 Vision
 US Papaye     3-2 Racine 
 
-Round 13 
+Round: 13 
 [Mar 18]
 FICA          2-0 US Papaye
 [Mar 19]
@@ -1102,7 +1102,7 @@ Flora         3-1 Racine
   [Wilemson Jean François 22, Edouard Luc Jean Joseph 60,
    Ralph Charles 78; Patrick Petit-Homme 53]
 
-Round 15 [Apr 1,2]
+Round: 15 [Apr 1,2]
 ASR           2-0 US Papaye    
   [Kenny Arisma 37, ?]    
 FICA          0-0 Triomphe
@@ -1115,7 +1115,7 @@ US Arcahaie   1-0 Eclair
 ASSL          2-0 Flora 
   [Carmelle E.J.J. Moïse 49, Kelly Rivert 73]
 
-Round 16
+Round: 16
 [Apr 8]
 FICA          1-0 Verettes
   [Pierre Maurice Fils 42]
@@ -1129,7 +1129,7 @@ ASR           2-1 Vision
 Flora         0-0 US Arcahaie
 Racine        0-0 ASSL
 
-Round 17
+Round: 17
 [Apr 13]
 Eclair        2-0 ASR
 [Apr 15]
@@ -1140,7 +1140,7 @@ Vision        2-0 US Papaye
 Verettes      0-1 Flora
 US Arcahaie   1-0 Racine
 
-Round 18
+Round: 18
 [Apr 22]
 FICA          1-0 JSC
 [Apr 23]
@@ -1150,7 +1150,7 @@ ASSL          4-0 Vision
 Triomphe      6-0 Racine 
 Flora         awd Eclair              [awarded 0-3, forfait Flora]
 
-Round 19 [Apr 30]
+Round: 19 [Apr 30]
 US Arcahaie   3-0 ASSL
 AS Verettes   2-0 Vision
 ASR           3-0 Flora
@@ -1158,7 +1158,7 @@ JSC           1-0 Eclair
 US Papaye     1-2 Triomphe 
 FICA          1-1 Racine  
  
-Round 20
+Round: 20
 [May 6]
 FICA          2-1 ASR
 [May 7]
@@ -1187,7 +1187,7 @@ Promoted: AS Rive Artibonitienne
 
 Groupe Sud (= Groupe B)
 
-Round 1
+Round: 1
 [Dec 10]
 Valencia      2-2 ASPDIF 
 [Dec 11]
@@ -1197,7 +1197,7 @@ AS Jacmel     5-0 Rangers
 ASGG          2-1 Olympic 
 ASVA          2-0 Excelsior 
 
-Round 2 
+Round: 2 
 [Dec 18]
 ASPG          1-1 AS Jacmel 
 Rangers       0-1 Roulado SM 
@@ -1208,7 +1208,7 @@ Bacardi       4-0 Velox
 [date?]
 Excelsior     0-1 Valencia 
   
-Round 3 
+Round: 3 
 [Dec 23]
 Roulado SM    0-1 ASPG
 Velox         2-1 Rangers
@@ -1218,7 +1218,7 @@ ASGG          3-1 Excelsior
 [date?]
 Valencia      0-0 Olympic 
 
-Round 4 [Dec 29]
+Round: 4 [Dec 29]
 ASPG          3-1 ASVA 
 Rangers       2-1 Valencia
 Bacardi       2-1 ASGG
@@ -1226,7 +1226,7 @@ Excelsior     0-1 Roulado SM
 ASPDIF        1-0 Velox 
 Olympic       2-1 AS Jacmel
 
-Round 5 [Jan 15]
+Round: 5 [Jan 15]
 Rangers       0-0 ASGG
 Roulado SM    0-1 Olympic
 ASPG          2-0 ASPDIF
@@ -1234,7 +1234,7 @@ Excelsior     1-2 Bacardi
 ASVA          3-0 Velox
 AS Jacmel     1-0 Valencia
 
-Round 6 [Jan 22]
+Round: 6 [Jan 22]
 Velox         2-1 Excelsior
 ASGG          2-0 AS Jacmel  
 Valencia      2-2 Roulado SM
@@ -1242,7 +1242,7 @@ ASPDIF        1-1 ASVA
 Olympic       1-0 Rangers 
 Bacardi       3-1 ASPG
 
-Round 7 [Jan 29]
+Round: 7 [Jan 29]
 Rangers       0-0 ASPDIF 
 ASPG          1-0 ASGG
 Roulado SM    0-1 Velox
@@ -1250,7 +1250,7 @@ ASVA          1-0 AS Jacmel
 Valencia      1-1 Bacardi 
 Excelsior     1-3 Olympic 
 
-Round 8 [Feb 5]
+Round: 8 [Feb 5]
 ASGG          2-1 Valencia
 Bacardi       0-1 ASPDIF
 Olympic       2-0 Velox
@@ -1258,7 +1258,7 @@ Excelsior     0-0 ASPG
 AS Jacmel     2-1 Roulado SM
 ASVA          1-0 Rangers
      
-Round 9
+Round: 9
 [Feb 12]
 Velox         0-0 ASGG
 Rangers       0-0 Excelsior
@@ -1268,7 +1268,7 @@ ASPDIF        2-1 Olympic
 [Apr 5]
 Bacardi       5-0 AS Jacmel
 
-Round 10 [Feb 19]
+Round: 10 [Feb 19]
 ASGG          0-0 ASVA
 Olympic       2-1 ASPG
   [Ferdinand Sidner 52, Frandy Pierre 62; Nelson Markendy 44]
@@ -1281,7 +1281,7 @@ Valencia      1-1 Velox
 Rangers       2-1 Bacardi  
   [Revolcin Julio 19, Valentin Equil 49; Henry Kenold 4] 
  
-Round 11 [Feb 26]
+Round: 11 [Feb 26]
 Roulado SM    1-0 ASGG
 ASVA          3-1 Valencia
 Bacardi       2-1 Olympic
@@ -1289,7 +1289,7 @@ Velox         3-1 AS Jacmel
 ASPG          1-0 Rangers
 Excelsior     1-0 ASPDIF 
 
-Round 12
+Round: 12
 [Mar 12]
 ASPG          1-0 Velox
 Rangers       2-0 AS Jacmel 
@@ -1299,7 +1299,7 @@ ASPDIF        5-0 Valencia
 [Mar 14]
 Bacardi       4-0 Roulado SM
 
-Round 13 [Mar 19]
+Round: 13 [Mar 19]
 AS Jacmel     1-1 ASPG
 Velox         0-0 Bacardi
 Roulado SM    0-0 Rangers
@@ -1307,7 +1307,7 @@ ASVA          3-0 Olympic
 ASGG          4-1 ASPDIF
 Valencia      2-0 Excelsior
 
-Round 14
+Round: 14
 [Mar 24] 
 Bacardi       1-1 ASVA 
   [Johnsly Pierre-Louis 9; ?]
@@ -1322,7 +1322,7 @@ Olympic       0-0 Valencia
 [tba]
 ASPDIF         -  AS Jacmel
 
-Round 15
+Round: 15
 [Apr 2]
 ASGG          3-1 Bacardi
 Roulado SM    1-1 Excelsior
@@ -1332,7 +1332,7 @@ AS Jacmel     3-1 Olympic
 ASVA          0-1 ASPG  
 Valencia      1-1 Rangers
 
-Round 16 
+Round: 16 
 [Apr 9]
 ASGG          2-1 Rangers             [also reported 2-0]
   [Valdo Normil 13, Robenson Joseph 82; Goldy Souffrant 36]
@@ -1347,7 +1347,7 @@ Bacardi       2-2 Excelsior
 [tba]
 Valencia       -  AS Jacmel
 
-Round 17
+Round: 17
 [Apr 16]
 AS Jacmel     1-0 ASGG
 Roualdo SM    0-0 Valencia
@@ -1357,7 +1357,7 @@ ASPG          0-0 Bacardi
 [tba]
 Excelsior      -  Velox
 
-Round 18 [Apr 23]
+Round: 18 [Apr 23]
 ASPDIF        2-0 Rangers
 ASGG          1-0 ASPG
 Velox         awd Roulado SM          [awarded 3-0 (4-0?), forfait Roulado]
@@ -1365,7 +1365,7 @@ AS Jacmel     1-1 ASVA
 Bacardi       0-0 Valencia            [1-1?]
 Olympic       2-1 Excelsior 
 
-Round 19
+Round: 19
 [Apr 30]
 Velox         0-0 Olympic
 Valencia      0-2 ASGG
@@ -1376,7 +1376,7 @@ Rangers       0-3 ASVA
 [tba]
 Roulado SM     -  AS Jacmel
 
-Round 20
+Round: 20
 [May 7]
 AS Jacmel     2-4 Bacardi
 ASGG          3-1 Velox
@@ -1410,7 +1410,7 @@ Third Level
 
 Division Regional I (DRI)
 
-Round 7 [Mar 18,19]
+Round: 7 [Mar 18,19]
 AS Truitier    1-1 Le Croix FC  
 Racing CH      0-2 Mikado 
 Bastia FC      0-2 AS Estère 
@@ -1426,7 +1426,7 @@ AJSB           0-3 Valencia AC
 Ecofoot        0-0 IHECE 
 Technical      3-2 Accolade FC 
 
-Round 8
+Round: 8
 [Mar 25]
 Montpellier FC -  Cavaly AS
 Le Croix FC    -  AS Cayes Jacmel 
@@ -1447,7 +1447,7 @@ Montpellier FC -  AS Cayes Jacmel
 AS Fontamara   -  Lecroix  
 Accolade       -  Valencia 
  
-Round 10
+Round: 10
 [Apr 7]
 Dynamite AC    -  Tempête FC 
 [Apr 8]
