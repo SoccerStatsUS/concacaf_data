@@ -419,3 +419,186 @@ Season: 2008-2009 Clausura
  9; Petapa                    ; 18;  3;  7;  8;  22; 30;  16
 10; Deportivo Zacapa          ; 18;  3;  7;  8;  14; 23;  16
 
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points; notes
+
+BlockSource: http://www.rsssf.com/tablesg/guat2010.html
+Season: 2009-2010 Apertura
+
+ 1; Xelajú MC                 ; 22; 12;  3;  7;  33; 24;  39;  Semifinals
+ 2; Municipal                 ; 22; 10;  7;  5;  30; 20;  37;  Semifinals
+
+ 3; Deportivo Marquense       ; 22; 10;  7;  5;  31; 27;  37;  Quarterfinals
+ 4; Heredia-Jaguares          ; 22; 10;  5;  7;  40; 28;  35;  Quarterfinals
+ 5; Juventud Retalteca        ; 22; 10;  5;  7;  35; 25;  35;  Quarterfinals
+ 6; Comunicaciones            ; 22;  8;  8;  6;  30; 22;  32;  Quarterfinals
+
+ 7; Suchitepéquez             ; 22;  9;  5;  8;  32; 27;  32;
+ 8; Xinabajul                 ; 22;  8;  4; 10;  22; 30;  28;
+ 9; Deportivo Jalapa          ; 22;  6;  9;  7;  20; 25;  27;
+10; Deportivo Zacapa          ; 22;  8;  2; 12;  24; 45;  26;
+11; USAC                      ; 22;  3;  9; 10;  18; 27;  18;
+12; Peñarol La Mesilla        ; 22;  4;  4; 14;  22; 37;  16;
+
+
+Season: 2009-2010 Clausura
+
+ 1; Comunicaciones            ; 22; 12;  4;  6;  37; 22;  40;  Semifinals
+ 2; Xelajú MC                 ; 22; 11;  6;  5;  32; 26;  39;  Semifinals
+
+ 3; Suchitepéquez             ; 22; 10;  6;  6;  25; 23;  36;  Quarterfinals
+ 4; Municipal                 ; 22;  9;  5;  8;  25; 19;  32;  Quarterfinals
+ 5; USAC                      ; 22;  8;  8;  6;  28; 23;  32;  Quarterfinals
+ 6; Peñarol La Mesilla        ; 22;  8;  7;  7;  30; 25;  31;  Quarterfinals
+
+ 7; Juventud Retalteca        ; 22;  9;  4;  9;  20; 21;  31;
+ 8; Deportivo Marquense       ; 22;  6;  8;  8;  25; 29;  26;
+ 9; Deportivo Jalapa          ; 22;  6;  8;  8;  24; 29;  26;
+10; Heredia-Jaguares          ; 22;  7;  3; 12;  26; 34;  24;
+11; Xinabajul                 ; 22;  5;  8;  9;  25; 36;  23;
+12; Deportivo Zacapa          ; 22;  6;  3; 13;  24; 34;  21;
+
+
+BlockSource: http://www.rsssf.com/tablesg/guat2011.html
+Season: 2010-2011 Apertura
+
+ 1; Municipal                 ; 22;  11;  5;  6;  40; 22;  38;  Semifinals
+ 2; Deportivo Marquense       ; 22;   9;  6;  7;  32; 27;  33;  Semifinals
+
+ 3; Heredia-Jaguares          ; 22;   9;  5;  8;  28; 31;  32;  Quarterfinals
+ 4; Comunicaciones            ; 22;   6; 13;  3;  26; 23;  31;  Quarterfinals
+ 5; Mictlán                   ; 22;   9;  4;  9;  15; 18;  31;  Quarterfinals
+ 6; Suchitepéquez             ; 22;   8;  6;  8;  32; 23;  30;  Quarterfinals
+
+ 7; Juventud Retalteca        ; 22;   7;  9;  6;  28; 25;  30;
+ 8; Xelajú MC                 ; 22;   9;  3; 10;  27; 29;  30;
+ 9; Xinabajul                 ; 22;   8;  3; 11;  22; 29;  27;
+10; USAC                      ; 22;   7;  6;  9;  28; 36;  27;
+11; Malacateco                ; 22;   7;  6;  9;  20; 28;  27;
+12; Peñarol La Mesilla        ; 22;   5;  8;  9;  22; 29;  23;
+
+
+Season: 2010-2011 Clausura
+
+ 1; Municipal                 ; 22;  11;  4;  7;  33; 20;  37;  Semifinals
+ 2; Heredia-Jaguares          ; 22;  11;  4;  7;  32; 19;  37;  Semifinals
+
+ 3; Comunicaciones            ; 22;  11;  3;  8;  39; 28;  36;  Quarterfinals
+ 4; Malacateco                ; 22;  11;  3;  8;  32; 25;  36;  Quarterfinals
+ 5; Mictlán                   ; 22;  10;  5;  7;  24; 23;  35;  Quarterfinals
+ 6; Peñarol La Mesilla        ; 22;  10;  3;  9;  35; 36;  33;  Quarterfinals
+
+ 7; Juventud Retalteca        ; 22;   9;  3; 10;  25; 21;  30;
+ 8; Xelajú MC                 ; 22;   8;  6;  8;  25; 34;  30;
+ 9; Deportivo Marquense       ; 22;   8;  5;  9;  28; 30;  29;
+10; USAC                      ; 22;   6;  8;  8;  22; 23;  26;
+11; Suchitepéquez             ; 22;   6;  5; 11;  21; 28;  23;
+12; Xinabajul                 ; 22;   4;  5; 13;  11; 40;  17;
+
+
+BlockSource: http://www.rsssf.com/tablesg/guat2012.html
+Season: 2011-2012 Apertura
+
+ 1; Suchitepéquez             ; 22;  14;  1;  7;  34; 21;  43;  Semifinals
+ 2; Xelajú MC                 ; 22;  11;  5;  6;  30; 23;  38;  Semifinals
+
+ 3; Deportivo Marquense       ; 22;   9;  9;  4;  31; 20;  36;  Quarterfinals
+ 4; Comunicaciones            ; 22;   8; 11;  3;  27; 20;  35;  Quarterfinals
+ 5; Heredia                   ; 22;  10;  5;  7;  35; 30;  35;  Quarterfinals
+ 6; Municipal                 ; 22;   8; 10;  4;  37; 22;  34;  Quarterfinals
+
+ 7; Peñarol La Mesilla        ; 22;   8;  7;  7;  36; 31;  31;
+ 8; Malacateco                ; 22;   4; 10;  8;  29; 42;  22;
+ 9; Zacapa                    ; 22;   5;  6; 11;  27; 43;  21;
+10; Juventud Retalteca        ; 22;   4;  8; 10;  24; 33;  20;
+11; Mictlán                   ; 22;   5;  5; 12;  23; 39;  20;
+12; Petapa                    ; 22;   3;  9; 10;  24; 33;  18;
+
+
+Season: 2011-2012 Clausura
+
+ 1; Comunicaciones            ; 22;  13;  3;  6;  39; 23;  42;  Semifinals
+ 2; Deportivo Marquense       ; 22;  10;  8;  4;  38; 18;  38;  Semifinals
+
+ 3; Xelajú MC                 ; 22;   8; 10;  4;  27; 22;  34;  Quarterfinals
+ 4; Municipal                 ; 22;   8;  7;  7;  29; 25;  31;  Quarterfinals
+ 5; Suchitepéquez             ; 22;   8;  7;  7;  33; 31;  31;  Quarterfinals
+ 6; Heredia                   ; 22;   9;  4;  9;  30; 35;  31;  Quarterfinals
+
+ 7; Petapa                    ; 22;   8;  6;  8;  23; 23;  30;
+ 8; Mictlán                   ; 22;   9;  2; 11;  25; 37;  29;
+ 9; Malacateco                ; 22;   7;  6;  9;  21; 30;  27;
+10; Peñarol La Mesilla        ; 22;   6;  7;  9;  32; 26;  25;
+11; Zacapa                    ; 22;   6;  7;  9;  28; 36;  25;
+12; Juventud Retalteca        ; 22;   4;  5; 13;  20; 39;  17;
+
+
+BlockSource: http://www.rsssf.com/tablesg/guat2013.html
+Season: 2012-2013 Apertura
+
+ 1; Comunicaciones            ; 22;  15;  5;  2;  39; 16;  50;  Qualified
+ 2; Municipal                 ; 22;  11;  8;  3;  46; 23;  41;  Qualified
+ 3; Xelajú MC                 ; 22;  11;  3;  8;  34; 29;  36;  Qualified
+ 4; Heredia                   ; 22;  10;  5;  7;  33; 24;  35;  Qualified
+ 5; Halcones La Mesilla       ; 22;   9;  6;  7;  30; 24;  33;  [*]  Qualified
+ 6; Malacateco                ; 22;   7;  7;  8;  26; 25;  28;  Qualified
+ 7; Suchitepéquez             ; 22;   7;  7;  8;  36; 40;  28;  Qualified
+ 8; Deportivo Marquense       ; 22;   6;  8;  8;  24; 27;  26;  Qualified
+
+ 9; Petapa                    ; 22;   7;  3; 12;  27; 43;  24;
+10; Mictlán                   ; 22;   6;  4; 12;  22; 40;  22;
+11; Universidad San Carlos    ; 22;   5;  6; 11;  33; 39;  21;
+12; Juventud Escuintleca      ; 22;   5;  4; 13;  23; 43;  19;
+
+*[*] Peñarol La Mesilla were renamed Halcones La Mesilla
+
+
+Season: 2012-2013 Clausura
+
+ 1; Comunicaciones            ; 22;  13;  5;  4;  30; 14;  44;  Qualified
+ 2; Heredia                   ; 22;  11;  6;  5;  44; 25;  39;  Qualified
+ 3; Malacateco                ; 22;  11;  5;  6;  24; 18;  38;  Qualified
+ 4; Suchitepéquez             ; 22;  10;  3;  9;  31; 30;  33;  Qualified
+ 5; Halcones La Mesilla       ; 22;  10;  3;  9;  29; 28;  33;  Qualified
+ 6; Deportivo Marquense       ; 22;  10;  2; 10;  37; 26;  32;  Qualified
+ 7; Universidad San Carlos    ; 22;   9;  3; 10;  28; 32;  30;  Qualified
+ 8; Xelajú MC                 ; 22;   9;  3; 10;  26; 31;  30;  Qualified
+
+ 9; Mictlán                   ; 22;   8;  5;  9;  23; 30;  29;
+10; Petapa                    ; 22;   6;  6; 10;  21; 31;  24;
+11; Municipal                 ; 22;   5;  5; 12;  19; 27;  20;
+12; Juventud Escuintleca      ; 22;   6;  2; 14;  18; 38;  20;
+
+
+BlockSource: http://www.rsssf.com/tablesg/guat2014.html
+Season: 2013-2014 Apertura
+
+ 1; Comunicaciones            ; 22;  14;  2;  6;  44; 15;  44;  Qualified
+ 2; Municipal                 ; 22;  13;  5;  4;  37; 13;  44;  Qualified
+ 3; Heredia                   ; 22;  10;  5;  7;  34; 25;  35;  Qualified
+ 4; Universidad San Carlos    ; 22;  11;  2;  9;  27; 33;  35;  Qualified
+ 5; Deportivo Marquense       ; 22;   9;  7;  6;  26; 22;  34;  Qualified
+ 6; Halcones La Mesilla       ; 22;   8;  5;  9;  23; 33;  29;  Qualified
+ 7; Malacateco                ; 22;   7;  7;  8;  21; 25;  28;  Qualified
+ 8; Suchitepéquez             ; 22;   6;  9;  7;  28; 26;  27;  Qualified
+
+ 9; Xelajú MC                 ; 22;   7;  6;  9;  36; 35;  27;
+10; Mictlán                   ; 22;   6;  6; 10;  20; 39;  24;
+11; Coatepeque                ; 22;   4;  7; 11;  21; 33;  19;
+12; Iztapa                    ; 22;   3;  7; 12;  19; 37;  16;
+
+
+Season: 2013-2014 Clausura
+
+ 1; Heredia                   ; 22;  11;  3;  8;  50; 33;  36;  Qualified
+ 2; Suchitepéquez             ; 22;  10;  6;  6;  26; 20;  36;  Qualified
+ 3; Xelajú MC                 ; 22;   9;  7;  6;  33; 21;  34;  Qualified
+ 4; Comunicaciones            ; 22;   9;  7;  6;  30; 19;  34;  Qualified
+ 5; Coatepeque                ; 22;  10;  4;  8;  32; 37;  34;  Qualified
+ 6; Universidad San Carlos    ; 22;   9;  6;  7;  37; 26;  33;  Qualified
+ 7; Municipal                 ; 22;   8;  7;  7;  22; 19;  31;  Qualified
+ 8; Halcones La Mesilla       ; 22;   8;  5;  9;  19; 31;  29;  Qualified
+
+ 9; Mictlán                   ; 22;   7;  7;  8;  25; 34;  28;
+10; Deportivo Marquense       ; 22;   6;  8;  8;  25; 35;  26;
+11; Malacateco                ; 22;   7;  4; 11;  24; 33;  25;
+12; Iztapa                    ; 22;   3;  6; 13;  24; 39;  15;

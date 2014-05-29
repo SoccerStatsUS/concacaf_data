@@ -445,3 +445,36 @@ Season: 2012-2013 Clausura
  8; CD Isidro Metapán      ; 13;   4;  5;  4;  14; 18;  17
  9; CD Aguila              ; 13;   2;  3;  8;   9; 19;   9
 10; Univ. de El Salvador   ; 13;   0;  3; 10;   7; 27;   3
+
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points; notes
+
+BlockSource: http://www.rsssf.com/tablese/elsal2014.html#1aper
+Season: 2013-2014 Apertura
+
+ 1; Atlético Marte         ; 18  ; 9 ; 8 ; 1 ; 32; 19 ; 35 ; Qualified
+ 2; Juventud Independiente ; 18  ; 8 ; 6 ; 4 ; 40; 23 ; 30 ; Qualified
+ 3; CD FAS                 ; 18  ; 7 ; 7 ; 4 ; 23; 20 ; 28 ; Qualified
+ 4; CD Isidro-Metapán      ; 18  ; 6 ; 8 ; 4 ; 26; 24 ; 26 ; Repechaje
+
+ 5; Alianza FC             ; 18  ; 7 ; 5 ; 6 ; 25; 25 ; 26 ; Repechaje
+ 6; CD Dragón              ; 18  ; 6 ; 4 ; 8 ; 13; 18 ; 22;
+ 7; Univ. de El Salvador   ; 18  ; 6 ; 3 ; 9 ; 22; 25 ; 21;
+ 8; Santa Tecla FC         ; 18  ; 4 ; 7 ; 7 ; 24; 30 ; 19;
+ 9; CD Águila              ; 18  ; 3 ; 8 ; 7 ; 14; 21 ; 17;
+10; Luis Ángel Firpo       ; 18  ; 3 ; 6 ; 9 ; 12; 26 ; 15;
+
+
+Season: 2013-2014 Clausura
+
+ 1; CD FAS                 ; 18  ;11 ; 3 ; 4 ; 25; 21 ; 36;  Qualified
+ 2; CD Isidro-Metapán      ; 18  ;10 ; 4 ; 4 ; 28; 14 ; 34;  Qualified
+ 3; Juventud Independiente ; 18  ; 8 ; 5 ; 5 ; 28; 24 ; 29;  Qualified
+ 4; CD Dragón              ; 18  ; 6 ; 7 ; 5 ; 23; 18 ; 25;  Repechaje
+
+ 5; Santa Tecla FC         ; 18  ; 7 ; 4 ; 7 ; 25; 24 ; 25;  Repechaje
+ 6; Alianza FC             ; 18  ; 5 ; 7 ; 6 ; 18; 25 ; 22;
+ 7; Atlético Marte         ; 18  ; 5 ; 4 ; 9 ; 28; 27 ; 19;
+ 8; CD Águila              ; 18  ; 5 ; 4 ; 9 ; 20; 26 ; 19;
+ 9; Univ. de El Salvador   ; 18  ; 5 ; 4 ; 9 ; 21; 28 ; 19;
+10; Luis Ángel Firpo       ; 18  ; 5 ; 4 ; 9 ; 25; 34 ; 19;

@@ -682,12 +682,67 @@ Season: 2012-2013 Apertura
  4; Limón FC                  ; 22;   9;  6;  7;  31; 30;  33 
  5; SD Santos (Guapiles)      ; 22;   9;  5;  8;  39; 37;  32
  6; CS Uruguay (Coronado)     ; 22;   9;  3; 10;  25; 31;  30
- 7; Perez Zeledon; 22;   8;  4; 10;  35; 31;  28
+ 7; Perez Zeledon             ; 22;   8;  4; 10;  35; 31;  28
  8; Belen Siglo XXI           ; 22;   7;  7;  8;  23; 27;  28
  9; AD Carmelita              ; 22;   6;  7;  9;  21; 33;  25
-10; Puntarenas ; 22;   5;  7; 10;  22; 34;  22
+10; Puntarenas                ; 22;   5;  7; 10;  22; 34;  22
 11; CS Cartagines             ; 22;   5;  6; 11;  24; 25;  21
 12; San Carlos FC             ; 22;   5;  5; 12;  24; 41;  20
+
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points; notes
+
+
+Season: 2012-2013 Clausura
+
+ 1; CS Herediano              ; 22 ; 13 ; 4 ; 5 ; 47; 31 ; 43;  Qualified
+ 2; CS Cartaginés             ; 22 ; 12 ; 5 ; 5 ; 29; 18 ; 41;  Qualified
+ 3; Deportivo Saprissa        ; 22 ; 11 ; 5 ; 6 ; 34; 24 ; 38;  Qualified
+ 4; AD Municipal Pérez Zeledón; 22 ; 10 ; 5 ; 7 ; 31; 28 ; 35;  Qualified
+
+ 5; LD Alajuelense            ; 22 ; 10 ; 4 ; 8 ; 38; 29 ; 34;
+ 6; D Municipal Puntarenas FC ; 22 ;  7 ; 9 ; 6 ; 35; 35 ; 30;
+ 7; SD Santos (Guapilés)      ; 22 ;  8 ; 5 ; 9 ; 22; 30 ; 29;
+ 8; CS Uruguay (Coronado)     ; 22 ;  7 ; 7 ; 8 ; 30; 27 ; 28;
+ 9; San Carlos FC             ; 22 ;  5 ; 7 ;10 ; 23; 33 ; 22;
+10; AD Carmelita              ; 22 ;  6 ; 3 ;13 ; 27; 37 ; 21;
+11; Limón FC                  ; 22 ;  4 ; 9 ; 9 ; 19; 31 ; 21;
+12; Belén Siglo XXI           ; 22 ;  4 ; 7 ;11 ; 27; 39 ; 19;
+
+
+BlockSource: http://www.rsssf.com/tablesc/cos2014.html
+Season: 2013-2014 Apertura
+
+ 1; CS Herediano              ; 22 ; 15 ; 4 ; 3 ; 49; 23 ; 49;  Qualified
+ 2; LD Alajuelense            ; 22 ; 15 ; 2 ; 5 ; 38; 18 ; 47;  Qualified
+ 3; Deportivo Saprissa        ; 22 ; 12 ; 6 ; 4 ; 38; 25 ; 42;  Qualified
+ 4; CS Cartaginés             ; 22 ;  7 ;11 ; 4 ; 24; 23 ; 32;  Qualified
+
+ 5; SD Santos (Guapilés)      ; 22 ;  7 ; 6 ; 9 ; 32; 32 ; 27;
+ 6; Universidad de Costa Rica ; 22 ;  6 ; 9 ; 7 ; 25; 26 ; 27;
+ 7; AD Carmelita              ; 22 ;  6 ; 8 ; 8 ; 29; 33 ; 26;
+ 8; D Municipal Puntarenas FC ; 22 ;  6 ; 7 ; 9 ; 21; 29 ; 25;
+ 9; AD Municipal Pérez Zeledón; 22 ;  6 ; 5 ;11 ; 32; 43 ; 23;
+10; CS Uruguay (Coronado)     ; 22 ;  4 ; 9 ; 9 ; 23; 30 ; 21;
+11; Limón FC                  ; 22 ;  5 ; 5 ;12 ; 23; 39 ; 20;
+12; Belén Siglo XXI           ; 22 ;  3 ; 8 ;11 ; 23; 36 ; 17;
+
+
+Season: 2013-2014 Clausura
+
+ 1; Deportivo Saprissa        ; 22 ; 13 ; 7 ; 2 ; 43; 18 ; 46;  Qualified
+ 2; LD Alajuelense            ; 22 ; 12 ; 6 ; 4 ; 40; 21 ; 42;  Qualified
+ 3; CS Herediano              ; 22 ; 12 ; 5 ; 5 ; 41; 23 ; 41;  Qualified
+ 4; Universidad de Costa Rica ; 22 ; 11 ; 2 ; 9 ; 31; 32 ; 35;  Qualified
+
+ 5; AD Carmelita              ; 22 ;  9 ; 4 ; 9 ; 30; 27 ; 31;
+ 6; Belén Siglo XXI           ; 22 ;  8 ; 5 ; 9 ; 27; 36 ; 29;
+ 7; CS Uruguay (Coronado)     ; 22 ;  8 ; 4 ;10 ; 27; 31 ; 28;
+ 8; Limón FC                  ; 22 ;  6 ; 7 ; 9 ; 26; 31 ; 25;
+ 9; CS Cartaginés             ; 22 ;  5 ; 9 ; 8 ; 21; 29 ; 24;
+10; AD Municipal Pérez Zeledón; 22 ;  5 ; 8 ; 9 ; 28; 36 ; 23;
+11; SD Santos (Guapilés)      ; 22 ;  4 ; 7 ;11 ; 23; 37 ; 19;
+12; D Municipal Puntarenas FC ; 22 ;  3 ; 8 ;11 ; 24; 40 ; 17;
 
 
 

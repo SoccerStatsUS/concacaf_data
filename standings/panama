@@ -203,7 +203,6 @@ Season: 2006 Apertura
 * [*] El Chorrillo FC were renamed Municipal Chorrillo before the season
 
 
-
 Season: 2006 Clausura
 
  1; Tauro FC             ; 18; 10;  7;  1;  31; 17;  37 
@@ -216,3 +215,242 @@ Season: 2006 Clausura
  8; Sporting '89         ; 18;  4;  1; 13;  17; 31;  13
  9; Atletico Chiriqui    ; 18;  2;  4; 12;  14; 30;  10
 10; CD Policía Nacional  ; 18;  3;  1; 14;  17; 39;  10
+
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points; notes
+
+BlockSource: http://www.rsssf.com/tablesp/panama07.html
+Season: 2007 Apertura
+
+ 1; Tauro FC               ; 18; 11;  5;  2;  37; 15;  38;  Qualified
+ 2; CD Árabe Unido         ; 18;  9;  3;  6;  26; 20;  30;  Qualified
+ 3; San Francisco FC       ; 18;  9;  2;  7;  25; 17;  29;  Qualified
+ 4; Chorrillo FC           ; 18;  8;  4;  6;  29; 25;  28;  [*]  Qualified
+
+ 5; Chepo FC               ; 18;  8;  4;  6;  27; 27;  28;
+ 6; Atlético Chiriquí      ; 18;  7;  4;  7;  24; 23;  25;
+ 7; CD Plaza Amador        ; 18;  5;  6;  7;  21; 25;  21;
+ 8; Sporting San Miguelito ; 18;  5;  5;  8;  17; 20;  20;  [*]
+ 9; Alianza FC             ; 18;  5;  2; 11;  25; 36;  17;
+10; Atlético Veragüense    ; 18;  4;  3; 11;  23; 46;  15;
+
+*[*] Municipal Chorrillo reverted to their former name Chorrillo FC;
+*    Sporting '89 returned to their former name Sporting San Miguelito
+
+
+
+Season: 2007 Clausura
+
+ 1; San Francisco FC       ; 18; 11;  4;  3;  27; 16;  37;  Qualified
+ 2; CD Árabe Unido         ; 18;  9;  5;  4;  42; 27;  32;  Qualified
+ 3; Tauro FC               ; 18;  8;  7;  3;  38; 23;  31;  Qualified
+ 4; Chorrillo FC           ; 18;  8;  3;  7;  24; 21;  27;  Qualified
+
+ 5; Atlético Chiriquí      ; 18;  6;  8;  4;  21; 22;  26;
+ 6; Alianza FC             ; 18;  7;  3;  8;  19; 20;  24;
+ 7; Chepo FC               ; 18;  6;  5;  7;  23; 21;  23;
+ 8; Sporting San Miguelito ; 18;  4;  6;  8;  19; 24;  18;
+ 9; CD Plaza Amador        ; 18;  4;  5;  9;  24; 30;  17;
+10; Atlético Veragüense    ; 18;  3;  2; 13;  10; 43;  11;
+
+
+BlockSource: http://www.rsssf.com/tablesp/panama08.html
+Season: 2008 Apertura
+
+ 1; Tauro FC               ; 13;  7;  2;  4;  21; 18;  23;  Qualified
+ 2; San Francisco FC       ; 13;  5;  7;  1;  19; 15;  22;  Qualified
+ 3; Chepo FC               ; 13;  5;  5;  3;  19; 12;  20;  Qualified
+ 4; Sporting San Miguelito ; 13;  6;  2;  5;  18; 16;  20;  Qualified
+
+ 5; CD Árabe Unido         ; 13;  6;  2;  5;  15; 14;  20;
+ 6; CD Plaza Amador        ; 13;  4;  6;  3;  13;  9;  18;
+ 7; Chorrillo FC           ; 13;  3;  7;  3;  14; 13;  16;
+ 8; Atlético Chiriquí      ; 13;  4;  3;  6;  14; 22;  15;
+ 9; Atlético Veragüense    ; 13;  2;  5;  6;  15; 27;  11;
+10; Alianza FC             ; 13;  3;  1;  9;  25; 27;  10;
+
+
+Season: 2008 Clausura
+
+ 1; CD Árabe Unido         ; 18; 11;  4;  3;  39; 17;  37;  Qualified
+ 2; Tauro FC               ; 18;  9;  6;  3;  33; 23;  33;  Qualified
+ 3; San Francisco FC       ; 18;  9;  4;  5;  35; 27;  31;  Qualified
+ 4; Chepo FC               ; 18;  8;  5;  5;  31; 19;  29;  Qualified
+
+ 5; Atlético Veragüense    ; 18;  7;  6;  5;  25; 21;  27;
+ 6; Sporting San Miguelito ; 18;  5;  8;  5;  26; 24;  23;
+ 8; Alianza FC             ; 18;  6;  3;  9;  20; 24;  21;
+ 8; Atlético Chiriquí      ; 18;  5;  4;  9;  19; 42;  19;
+ 9; Chorrillo FC           ; 18;  4;  6;  8;  18; 26;  18;
+10; CD Plaza Amador        ; 18;  2;  2; 14;   9; 32;   8;
+
+
+BlockSource: http://www.rsssf.com/tablesp/panama09.html
+Season: 2009 Apertura
+
+ 1; Tauro FC               ; 18; 10;  6;  2;  40; 23;  36;  Qualified
+ 2; Atlético Chiriquí      ; 18; 10;  3;  5;  35; 19;  33;  Qualified
+ 3; San Francisco FC       ; 18; 10;  3;  5;  29; 16;  33;  Qualified
+ 4; Chorrillo FC           ; 18;  8;  8;  2;  32; 17;  32;  Qualified
+
+ 5; Chepo FC               ; 18; 10;  2;  6;  37; 24;  32;
+ 6; Sporting San Miguelito ; 18;  8;  4;  6;  28; 19;  28;
+ 7; CD Árabe Unido         ; 18;  7;  4;  7;  29; 24;  25;
+ 8; Atlético Veragüense    ; 18;  3;  4; 11;  20; 44;  13;
+ 9; Alianza FC             ; 18;  2;  5; 11;  22; 43;  11;
+10; CD Plaza Amador        ; 18;  2;  1; 15;  13; 56;   7;
+
+
+
+Season: 2009-2010 Apertura
+
+ 1; CD Árabe Unido         ; 18; 11;  5;  2;  28; 12;  38;  Qualified
+ 2; Atlético Chiriquí      ; 18; 11;  2;  5;  36; 26;  35;  Qualified
+ 3; Tauro FC               ; 18;  9;  5;  4;  38; 22;  32;  Qualified
+ 4; Chorrillo FC           ; 18;  7;  6;  5;  21; 21;  27;  Qualified
+
+ 5; San Francisco FC       ; 18;  7;  5;  6;  25; 23;  26;
+ 6; Sporting San Miguelito ; 18;  7;  4;  7;  37; 30;  25;
+ 7; CD Plaza Amador        ; 18;  7;  3;  8;  26; 30;  24;
+ 8; Chepo FC               ; 18;  3;  8;  7;  16; 25;  17;
+ 9; Atlético Veragüense    ; 18;  3;  4; 11;  22; 36;  13;
+10; Alianza FC             ; 18;  1;  6; 11;  12; 36;   9;
+
+
+BlockSource: http://www.rsssf.com/tablesp/panama2010.html
+Season: 2009-2010 Clausura
+
+
+ 1; Atlético Chiriquí      ; 18 ; 10 ; 3 ; 5 ; 28; 21 ; 33;  Qualified
+ 2; CD Árabe Unido         ; 18 ;  8 ; 7 ; 3 ; 24; 18 ; 31;  Qualified
+ 3; Chorrillo FC           ; 18 ;  8 ; 4 ; 6 ; 19; 16 ; 28;  Qualified
+ 4; San Francisco FC       ; 18 ;  7 ; 5 ; 6 ; 32; 15 ; 26;  Qualified
+
+ 5; Alianza FC             ; 18 ;  7 ; 5 ; 6 ; 22; 18 ; 26;
+ 6; CD Plaza Amador        ; 18 ;  5 ; 7 ; 6 ; 23; 21 ; 22;
+ 7; Tauro FC               ; 18 ;  6 ; 4 ; 8 ; 20; 24 ; 22;
+ 8; Sporting San Miguelito ; 18 ;  5 ; 6 ; 7 ; 19; 20 ; 21;
+ 9; Chepo FC               ; 18 ;  4 ; 6 ; 8 ; 17; 28 ; 18;
+10; Atlético Veragüense    ; 18 ;  5 ; 3 ;10 ; 19; 42 ; 18;
+
+
+Season: 2010-2011 Apertura
+
+ 1; Tauro FC               ; 18 ; 11 ; 4 ; 3 ; 27; 14 ; 37;  Qualified
+ 2; CD Árabe Unido         ; 18 ; 10 ; 4 ; 4 ; 22; 17 ; 34;  Qualified
+ 3; San Francisco FC       ; 18 ;  9 ; 6 ; 3 ; 26; 18 ; 33;  Qualified
+ 4; Chorrillo FC           ; 18 ;  7 ; 6 ; 5 ; 23; 20 ; 27;  Qualified
+
+ 5; Sporting San Miguelito ; 18 ;  7 ; 5 ; 6 ; 23; 19 ; 26;
+ 6; CD Plaza Amador        ; 18 ;  7 ; 3 ; 8 ; 24; 28 ; 24;
+ 7; Alianza FC             ; 18 ;  6 ; 5 ; 7 ; 21; 18 ; 23;
+ 8; Atlético Chiriquí      ; 18 ;  4 ; 7 ; 7 ; 22; 29 ; 19;
+ 9; Chepo FC               ; 18 ;  4 ; 2 ;12 ; 12; 21 ; 14;
+10; Atlético Veragüense    ; 18 ;  3 ; 2 ;13 ; 13; 29 ; 11;
+
+
+Season: 2010-2011 Clausura
+
+ 1; Chorrillo FC           ; 18 ;  8 ; 7 ; 3 ; 19; 10 ; 31;  Qualified
+ 2; San Francisco FC       ; 18 ;  7 ; 8 ; 3 ; 31; 21 ; 29;  Qualified
+ 3; Sporting San Miguelito ; 18 ;  7 ; 6 ; 5 ; 20; 15 ; 27;  Qualified
+ 4; Tauro FC               ; 18 ;  7 ; 5 ; 6 ; 25; 21 ; 26;  Qualified
+
+ 5; CD Plaza Amador        ; 18 ;  6 ; 8 ; 4 ; 18; 17 ; 26;
+ 6; Atlético Veragüense    ; 18 ;  7 ; 4 ; 7 ; 16; 19 ; 25;
+ 7; Atlético Chiriquí      ; 18 ;  6 ; 6 ; 6 ; 21; 22 ; 24;
+ 8; Chepo FC               ; 18 ;  6 ; 5 ; 7 ; 21; 23 ; 23;
+ 9; CD Árabe Unido         ; 18 ;  3 ; 8 ; 7 ; 14; 16 ; 17;
+10; Alianza FC             ; 18 ;  3 ; 3 ;12 ; 12; 33 ; 12;
+
+
+BlockSource: http://www.rsssf.com/tablesp/panama2012.html
+Season: 2011-2012 Apertura
+
+ 1; Sporting San Miguelito ; 18 ; 10 ; 4 ; 4 ; 21; 14 ; 34;  Qualified
+ 2; Chorrillo FC           ; 18 ;  9 ; 5 ; 4 ; 26; 19 ; 32;  Qualified
+ 3; San Francisco FC       ; 18 ;  9 ; 4 ; 5 ; 23; 19 ; 31;  Qualified
+ 4; CD Plaza Amador        ; 18 ;  9 ; 4 ; 5 ; 22; 21 ; 31;  Qualified
+
+ 5; Chepo FC               ; 18 ;  9 ; 3 ; 6 ; 24; 15 ; 30;
+ 6; Tauro FC               ; 18 ;  9 ; 1 ; 8 ; 23; 16 ; 28;
+ 7; CD Árabe Unido         ; 18 ;  7 ; 4 ; 7 ; 17; 17 ; 25;
+ 8; Alianza FC             ; 18 ;  3 ; 7 ; 8 ; 20; 27 ; 16;
+ 9; Colón C-3              ; 18 ;  2 ; 5 ;11 ; 13; 27 ; 11;
+10; Atlético Chiriquí      ; 18 ;  2 ; 5 ;11 ; 12; 26 ; 11;
+
+
+Season: 2011-2012 Clausura
+
+ 1; Sporting San Miguelito ; 18 ;  9 ; 6 ; 3 ; 23; 15 ; 33;  Qualified
+ 2; CD Árabe Unido         ; 18 ;  9 ; 5 ; 4 ; 21; 13 ; 32;  Qualified
+ 3; Chepo FC               ; 18 ;  8 ; 7 ; 3 ; 24; 13 ; 31;  Qualified
+ 4; Tauro FC               ; 18 ;  6 ; 8 ; 4 ; 20; 16 ; 26;  Qualified
+
+ 5; Chorrillo FC           ; 18 ;  5 ;10 ; 3 ; 23; 20 ; 25;
+ 6; San Francisco FC       ; 18 ;  5 ; 7 ; 6 ; 17; 18 ; 22;
+ 7; Atlético Chiriquí      ; 18 ;  4 ; 8 ; 6 ; 14; 17 ; 20;
+ 8; Alianza FC             ; 18 ;  5 ; 5 ; 8 ; 21; 28 ; 20;
+ 9; Colón C-3              ; 18 ;  3 ; 6 ; 9 ; 14; 25 ; 15;
+10; CD Plaza Amador        ; 18 ;  2 ; 6 ;10 ; 16; 28 ; 12;
+
+
+BlockSource: http://www.rsssf.com/tablesp/panama2013.html
+Season: 2012-2013 Apertura
+
+ 1; Río Abajo FC           ; 18 ;  9 ; 5 ; 4 ; 28; 20 ; 32;  Qualified
+ 2; CD Árabe Unido         ; 18 ;  8 ; 8 ; 2 ; 25; 20 ; 32;  Qualified
+ 3; CD Plaza Amador        ; 18 ;  6 ; 8 ; 4 ; 22; 23 ; 26;  Qualified
+ 4; Chepo FC               ; 18 ;  5 ;10 ; 3 ; 22; 18 ; 25;  Qualified
+
+ 5; Chorrillo FC           ; 18 ;  5 ;10 ; 3 ; 22; 19 ; 25;
+ 6; Tauro FC               ; 18 ;  5 ; 6 ; 7 ; 25; 27 ; 21;
+ 7; Sporting San Miguelito ; 18 ;  4 ; 8 ; 6 ; 14; 17 ; 20;
+ 8; San Francisco FC       ; 18 ;  4 ; 6 ; 8 ; 20; 22 ; 18;
+ 9; Alianza FC             ; 18 ;  4 ; 6 ; 8 ; 21; 24 ; 18;
+10; Atlético Chiriquí      ; 18 ;  2 ; 9 ; 7 ; 14; 23 ; 15;
+
+
+Season: 2012-2013 Clausura
+
+ 1; Tauro FC               ; 18 ; 10 ; 3 ; 5 ; 30; 25 ; 33;  Qualified
+ 2; San Francisco FC       ; 18 ;  9 ; 5 ; 4 ; 27; 21 ; 32;  Qualified
+ 3; CD Árabe Unido         ; 18 ;  7 ; 6 ; 5 ; 18; 14 ; 27;  Qualified
+ 4; Sporting San Miguelito ; 18 ;  8 ; 3 ; 7 ; 19; 18 ; 27;  Qualified
+
+ 5; Río Abajo FC           ; 18 ;  7 ; 5 ; 6 ; 24; 24 ; 26;
+ 6; CD Plaza Amador        ; 18 ;  6 ; 7 ; 5 ; 21; 18 ; 25;
+ 7; Chorrillo FC           ; 18 ;  7 ; 3 ; 8 ; 25; 28 ; 24;
+ 8; Alianza FC             ; 18 ;  4 ;10 ; 4 ; 13; 10 ; 22;
+ 9; Atlético Chiriquí      ; 18 ;  2 ; 9 ; 7 ; 18; 24 ; 15;
+10; Chepo FC               ; 18 ;  2 ; 5 ;11 ; 12; 25 ; 11;
+
+
+BlockSource: http://www.rsssf.com/tablesp/panama2014.html
+Season: 2013-2014 Apertura
+
+ 1; Tauro FC               ; 18 ; 12 ; 2 ; 4 ; 24; 12 ; 38;  Qualified
+ 2; CD Plaza Amador        ; 18 ; 10 ; 3 ; 5 ; 20; 14 ; 33;  Qualified
+ 3; San Francisco FC       ; 18 ;  9 ; 4 ; 5 ; 20; 12 ; 31;  Qualified
+ 4; C.A.I. FC              ; 18 ;  8 ; 4 ; 6 ; 24; 19 ; 28;  Qualified
+
+ 5; Chepo FC               ; 18 ;  8 ; 4 ; 6 ; 19; 17 ; 28;
+ 6; Chorrillo FC           ; 18 ;  6 ; 7 ; 5 ; 17; 19 ; 25;
+ 7; CD Árabe Unido         ; 18 ;  6 ; 5 ; 7 ; 17; 16 ; 23;
+ 8; Sporting San Miguelito ; 18 ;  6 ; 2 ;10 ; 22; 26 ; 20;
+ 9; Alianza FC             ; 18 ;  4 ; 4 ;10 ; 11; 20 ; 16;
+10; Río Abajo FC           ; 18 ;  2 ; 3 ;13 ;  9; 28 ;  9;
+
+Season: 2013-2014 Clausura
+
+ 1; CD Árabe Unido         ; 18 ;  9 ; 7 ; 2 ; 27; 12 ; 34;  Qualified
+ 2; CD Plaza Amador        ; 18 ;  7 ; 9 ; 2 ; 13;  9 ; 30;  Qualified
+ 3; Chorrillo FC           ; 18 ;  8 ; 7 ; 3 ; 28; 16 ; 28;  Qualified
+ 4; Río Abajo FC           ; 18 ;  6 ; 8 ; 4 ; 20; 16 ; 26;  Qualified
+
+ 5; San Francisco FC       ; 18 ;  7 ; 4 ; 7 ; 18; 15 ; 25;
+ 6; Sporting San Miguelito ; 18 ;  6 ; 6 ; 6 ; 20; 26 ; 24;
+ 7; Alianza FC             ; 18 ;  6 ; 4 ; 8 ; 18; 23 ; 22;
+ 8; Tauro FC               ; 18 ;  5 ; 6 ; 7 ; 16; 17 ; 21;
+ 9; Chepo FC               ; 18 ;  3 ; 5 ;10 ; 17; 24 ; 14;
+10; C.A.I. FC              ; 18 ;  3 ; 4 ;11 ; 13; 32 ; 13;
