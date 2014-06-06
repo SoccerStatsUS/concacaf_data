@@ -544,9 +544,8 @@ Date: 6/17/2001
 * 9.Vida          18  4  6  8 22-31 18
 *10.Dep. Savio    18  3  6  9 14-30 15
 
-*Liguilla
-
-Round: First
+Stage: Liguilla
+Round: 1
 
 *NB: Motagua qualified instead of Broncos because they had to play the
 *    relegation playoff
@@ -560,41 +559,31 @@ Date: 7/4/2001
 *Second Legs
 Date: 7/8/2001
 ; Marathon     ; 0-0; Real Espana  
+Notes: Real Espana progress as best losers
+
 ; Olimpia      ; 1-1; Motagua
 ; Platense     ; 2-1; Victoria
 
-*Real Espana progress as best losers
+
 
 Round: Semifinals
 
 *First Legs
-
-Date: 7/11/2001
-
-; Real Espana  ; 0-0; Olimpia
-
-Date: 7/12/2001
-
-; Marathon     ; 3-1; Platense
+7/11/2001; Real Espana  ; 0-0; Olimpia
+7/12/2001; Marathon     ; 3-1; Platense
 
 *Second Legs 
-Date: 7/15/2001
-
-; Olimpia      ; 1-1; Real Espana
-; Platense     ; 3-0; Marathon
+7/15/2001; Olimpia      ; 1-1; Real Espana
+7/15/2001; Platense     ; 3-0; Marathon
 
 Round: Final
 
 *First Leg 
-Date: 7/19/2001
-
-; Platense     ; 1-0; Olimpia
+7/19/2001; Platense     ; 1-0; Olimpia
 Marcelo Verón 90;
 
 *Second Leg 
-Date: 7/22/2001
-
-; Olimpia      ; 1-1 (asdet); Platense
+7/22/2001; Olimpia      ; 1-1 (asdet); Platense
 Danilo Tosello 10; Rony Morales 91
 
 *Platense winners Clausura
@@ -613,7 +602,7 @@ Danilo Tosello 10; Rony Morales 91
 *-------------------------------------
 *10.Broncos       36  8 12 16 28-56 36  Playoff  
 
-Round: Relegation Playoff 
+Round: Relegation
 Date: 6/21/2001
 
 ; Broncos      ; 1-1; Savio        ; San Pedro Sula

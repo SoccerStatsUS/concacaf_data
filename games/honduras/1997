@@ -571,9 +571,8 @@ Date: 9/5/1998
 *Relegated: Palestino and Independiente.
 *Promoted:  Broncos.
 
-
-
 *Clausura Liguilla
+Stage: liguilla
 
 Round: Quarterfinals
 
@@ -586,31 +585,35 @@ Date: 9/20/1998
 
 *Second Legs 
 Date: 9/27/1998
+
 ; Platense     ; 1-1; Marathon    
-*[Platense qualified on league position]
+Notes: Platense qualified on league position
+
 ; Olimpia      ; 0-1; Victoria    
-*[Olimpia qualified on league position]
+Notes: Olimpia qualified on league position
+
 ; Motagua      ; 1-1; Real Maya
 
 *Victoria qualified as best loser
-*
+
 Round: Semifinals
 
-*First Legs [Oct 3,4]
+*First Legs 
+*[Oct 3,4]
 10/3/1998; Victoria     ; 2-1; Olimpia
 10/3/1998; Platense     ; 3-3; Motagua
 
-*Second Legs [Oct 11]
+*Second Legs
 10/11/1998; Motagua      ; 2-1; Platense
 10/11/1998; Olimpia      ; 1-0; Victoria    
-*[Olimpia qualified on league position]
+Notes: Olimpia qualified on league position
 
 Round: Final 
 
-*First Leg [Oct 18]
+*First Leg
 10/18/1998; Motagua      ; 0-0; Olimpia
 
-*Second Leg [Oct 25]
+*Second Leg
 10/25/1998; Olimpia      ; 0-1 (asdet); Motagu
 
 *Motagua winners Clausura.

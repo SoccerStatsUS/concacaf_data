@@ -19,13 +19,13 @@ Season: 1995-1996
 
 *Top-6 qualify for playoffs; Broncos relegated.
 
-*Playoffs:
+Stage: Playoffs
 
-Platense     2-1 0-2 Motagua
-Olimpia      0-0 0-1 Real España
-Victoria     0-0 2-0 Marathon
+*Platense     2-1 0-2 Motagua
+*Olimpia      0-0 0-1 Real España
+*Victoria     0-0 2-0 Marathon
 
-*Final Round:
+Round: Final
 
 ; Real Espana ; 1-0; Victoria
 ; Victoria    ; 1-0; Motagua
@@ -38,7 +38,8 @@ Victoria     0-0 2-0 Marathon
 * 2.Victoria                 4   2  0  2   5   5    6
 * 3.Motagua                  4   2  0  2   5   6    6
 
-*Championship Playoff (winner first stage v winner second stage)
+Stage: Championship Playoff 
+*(winner first stage v winner second stage)
 
 
 5/19/1996; Real España ; 0-3; Olimpia
