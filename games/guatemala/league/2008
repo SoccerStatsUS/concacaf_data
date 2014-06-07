@@ -224,8 +224,7 @@ Date: 11/30/2008
 ; Xelajú        ; 2-0; Heredia
 ; Xinabajul     ; 2-2; Marquense
 
-* Final Table:
-* 
+
 *  1.Municipal                  18  7  8  3  29-18  29  Semifinals
 *  2.Comunicaciones             18  7  8  3  27-23  29  Semifinals
 *  - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -239,15 +238,14 @@ Date: 11/30/2008
 *  9.Suchitepéquez              18  4  8  6  31-29  20
 * 10.Deportivo Jalapa           18  4  6  8  17-24  18
 
+Stage: Liguilla
 Round: Quarterfinals
+Leg: 1
 
-* First Legs 
-Date: 12/3/2008
+12/3/2008; Xinabajul     ; 1-0; Zacapa
+12/3/2008; Marquense     ; 2-3; Xelajú
 
-; Xinabajul     ; 1-0; Zacapa
-; Marquense     ; 2-3; Xelajú
-
-* Second Legs
+Leg: 2
 
 12/6/2008; Xelajú        ; 3-3; Marquense
 
@@ -255,20 +253,20 @@ Date: 12/3/2008
 Notes: abandoned at 0-1 in 75' due to crowd trouble; result stood]
 Round: Semifinals
 
-* First Legs 
+Leg: 1
 12/10/2008; Xelajú        ; 1-0; Comunicaciones
 12/10/2008; Xinabajul     ; 1-2; Municipal
 
-* Second Legs 
+Leg: 2
 12/14/2008; Comunicaciones; 5-2; Xelajú
 12/14/2008; Municipal     ; 2-1; Xinabajul
 
 Round: Final
 
-*First Leg 
+Leg: 1
 12/17/2008; Comunicaciones; 2-1; Municipal
 
-*Second Leg 
+Leg: 2
 12/21/2008; Municipal     ; 1-1; Comunicaciones
 
 *NB: Comunicaciones champions Apertura 2008/09
@@ -503,8 +501,7 @@ Date: 5/24/2009
 ; Xelajú        ; 1-0; Municipal
 ; Xinabajul     ; 3-2; Marquense 
 
-* Final Table:
-* 
+
 *  1.Municipal                  18  9  5  4  26-13  32  Semifinals
 *  2.Heredia-Jaguares           18  9  2  7  26-24  29  Semifinals
 *  - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -519,46 +516,34 @@ Date: 5/24/2009
 * 10.Deportivo Zacapa           18  3  7  8  14-23  16
 
 Round: Quarterfinals
+Leg: 1
 
-*First Legs 
-Date: 5/27/2009
+5/27/2009; Comunicaciones; 0-1; Jalapa
+5/28/2009; Xelajú        ; 3-1; Suchitepéquez
 
-; Comunicaciones; 0-1; Jalapa
+Leg: 2
 
-Date: 5/28/2009
-
-; Xelajú        ; 3-1; Suchitepéquez
-
-*Second Legs
-
-Date: 5/30/2009
-
-; Jalapa        ; 3-0; Comunicaciones
-
-Date: 5/31/2009
-
-; Suchitepéquez ; 4-0; Xelajú    
+5/30/2009; Jalapa        ; 3-0; Comunicaciones
+5/31/2009; Suchitepéquez ; 4-0; Xelajú    
 
 Round: Semifinals
+Leg: 1
 
-*First Legs 
-Date: 6/4/2009
+6/4/2009; Jalapa        ; 1-0; Heredia
+6/4/2009; Suchitepéquez ; 2-0; Municipal
 
-; Jalapa        ; 1-0; Heredia
-; Suchitepéquez ; 2-0; Municipal
+Leg: 2
 
-*Second Legs 
-Date: 6/7/2009
-
-; Heredia       ; 2-2; Jalapa
-; Municipal     ; 3-0 (aet); Suchitepéquez
+6/7/2009; Heredia       ; 2-2; Jalapa
+6/7/2009; Municipal     ; 3-0 (aet); Suchitepéquez
 
 Round: Final
+Leg: 1
 
-*First Leg 
 6/11/2009; Jalapa        ; 3-1; Municipal
 
-*Second Leg 
+Leg: 2
+
 6/14/2009; Municipal     ; 0-1; Jalapa
 
 *NB: Jalapa champions Clausura 2008/09
@@ -581,15 +566,8 @@ Round: Final
 * NB: only one club relegated as top level extended to 12 clubs
  
 
-
-
-
-* About this document
-* 
 * Prepared and maintained by the RSSSF
-* 
 * Author: RSSSF
 * Last updated: 28 Aug 2009
-* 
 * (C) Copyright RSSSF 2008/09
 * You are free to copy this document in whole or part provided that proper acknowledgement is given to the RSSSF. All rights reserved.

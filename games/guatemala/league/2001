@@ -2,6 +2,23 @@ Competition: Liga Nacional de Guatemala
 BlockSource: http://www.rsssf.com/tablesg/guat02.html
 Season: 2001-2002 Apertura
 
+*Campeonato de Reordenamiento 2001
+
+
+* 1.Municipal                  22 15  3  4  49-18  48
+* 2.Cobán Imperial             22 13  4  5  43-25  43
+* 3.Comunicaciones             22 12  6  4  47-23  42
+* 4.Deportivo Marquense        22 10  4  8  30-29  34  
+* 5.Deportivo Jalapa           22  9  6  7  31-21  33
+* 6.Deportivo Zacapa           22  8  5  9  31-35  29  
+* 7.Aurora FC                  22  8  4 10  33-42  28  
+* 8.Xelajú MC                  22  6  9  7  27-27  27
+* - - - - - - - - - - - - - - - - - - - - - - - - - - 
+* 9.Antigua GFC                22  7  6  9  33-44  27
+*10.Teculután                  22  6  8  8  22-30  26
+*----------------------------------------------------
+*11.Deportivo Petapa           22  3  5 14  18-40  14  Relegated
+*12.Universidad                22  4  2 16  20-50  14  Relegated 
 
 Round: 1
 
@@ -260,54 +277,63 @@ Date: 12/2/2001
 ; Jalapa         ;0-1; Marquense
 ; Petapa         ;0-2; Coban
 
-
-* Playoffs
-
+Stage: liguilla
 Round: Quarterfinals
+Leg: 1
 
-*First Legs
-Date: 12/5/2001
-; Zacapa         ;1-0; Comunicaciones 
-; Xelaju         ;1-1; Municipal 
-; Coban          ;1-1; Aurora
-; Jalapa         ;2-0; Marquense 
+12/5/2001; Zacapa         ;1-0; Comunicaciones 
+12/5/2001; Xelaju         ;1-1; Municipal 
+12/5/2001; Coban          ;1-1; Aurora
+12/5/2001; Jalapa         ;2-0; Marquense 
 
-*Second Legs 
-Date: 12/8/2001
+Leg: 2*Second Legs 
 
-; Comunicaciones ;4-0; Zacapa
-; Marquense      ;2-1; Jalapa
+12/8/2001; Comunicaciones ;4-0; Zacapa
+12/8/2001; Marquense      ;2-1; Jalapa
 
-Date: 12/9/2001
-
-; Municipal      ;3-1; Xelaju
-; Aurora         ;1-2; Coban 
+12/9/2001; Municipal      ;3-1; Xelaju
+12/9/2001; Aurora         ;1-2; Coban 
 
 Round: Semifinals
+Leg: 1
 
-*First Legs
-Date: 12/12/2001
-; Comunicaciones ;1-1; Coban
-; Jalapa         ;0-0; Municipal
+12/12/2001; Comunicaciones ;1-1; Coban
+12/12/2001; Jalapa         ;0-0; Municipal
 
-*Second Legs
-Date: 12/16/2001
-; Coban          ;3-2; Comunicaciones
-; Municipal      ;2-0; Jalapa
+Leg: 2
+
+12/16/2001; Coban          ;3-2; Comunicaciones
+12/16/2001; Municipal      ;2-0; Jalapa
 
 Round: Final
+Leg: 1
 
-*First Leg
 12/19/2001; Coban          ;3-0; Municipal
 
-*Second Leg
+Leg: 2
+
 12/23/2001; Municipal      ;3-0; Coban
-* [4-2 pen]
+Penalty kicks: 4-2
 
 *Municipal are champions of the Campeonato de Reordenamiento 2001.
 *League reduced to 10 clubs for the Clausura 2002.
 
+
 Season: 2001-2002 Clausura
+
+* 1.Municipal                  18 16  2  0  61-11  50  Semifinals
+* 2.Comunicaciones             18 10  2  6  33-28  32  Semifinals
+* - - - - - - - - - - - - - - - - - - - - - - - - - - 
+* 3.Xelajú MC                  18  7  3  8  26-26  24  Quarterfinals
+* 4.Aurora FC                  18  7  3  8  25-26  24  Quarterfinals
+* 5.Deportivo Zacapa           18  7  3  8  30-36  24  Quarterfinals
+* 6.Deportivo Marquense        18  7  3  8  23-29  24  Quarterfinals
+* - - - - - - - - - - - - - - - - - - - - - - - - - - 
+* 7.Cobán Imperial             18  6  5  7  31-29  23
+* 8.Teculután                  18  6  1 11  23-35  19
+* 9.Antigua GFC                18  5  3 10  21-38  18
+*----------------------------------------------------
+*10.Deportivo Jalapa           18  4  5  9  21-36  17  Relegated
 
 Round: 1 
 
@@ -327,7 +353,7 @@ Round: 2
 Date: 2/17/2002
 
 ; Coban; W-L; Zacapa              
-* [awarded ;0-1;; originally 5-1 but Coban fielded suspended player (Eddy Cabrera)]
+Notes: awarded 0-1; originally 5-1 but Coban fielded suspended player (Eddy Cabrera)
 
 ; Aurora         ;2-0; Xelaju                
 ; Teculutan      ;1-2; Jalapa
@@ -522,86 +548,81 @@ Date: 5/26/2002
 ; Municipal      ;2-0; Aurora
 ; Antigua GFC        ;4-3; Coban
 
-*Championship Playoff
 
+Stage: Playoff
 Round: Quarterfinals
+Leg: 1
 
-*First Legs 
-Date: 5/29/2002
-; Marquense      ;2-2; Xelajú
-; Zacapa         ;1-1; Aurora
+5/29/2002; Marquense      ;2-2; Xelajú
+5/29/2002; Zacapa         ;1-1; Aurora
 
-*Second Legs
-Date: 6/2/2002
-; Xelajú         ;1-1; Marquense
-; Aurora         ;2-4; Zacapa
+Leg: 2
 
+6/2/2002; Xelajú         ;1-1; Marquense
+6/2/2002; Aurora         ;2-4; Zacapa
 
 Round: Semifinals 
 
-*First Legs
+Leg: 1
+
 6/5/2002; Zacapa         ;1-1; Municipal       
 6/5/2002; Xelajú         ;3-2; Comunicaciones
 
-*Second Legs
+Leg: 2
 
 6/8/2002; Comunicaciones ;2-0; Xelajú 
-
 6/9/2002; Municipal      ;5-0; Zacapa
 
-*Final
+Round: Final
+Leg: 1
 
-*First Leg
 6/12/2002; Comunicaciones; 2-1; Municipal
 Selvin Ponciano (og) 35, Israel Donis 83; Juan Carlos Plata 47
 
-*Second Leg
+Leg: 2
+
 6/16/2002; Municipal      ;2-0; Comunicaciones
 Selvin Ponciano 28, Juan Carlos Plata 39;
 
 
-Round: Promotion Playoffs
-
+Stage: Promotion/Relegation
 Round: Quarterfinals
+Leg: 1
 
-*First Legs
-Date: 6/12/2002
+6/12/2002; Sacachispas    ;1-2; Juventud R.
+6/12/2002; Coatepeque     ;2-2; USAC
+6/12/2002; Nueva Concepción  ;2-1; Amatitlán
+6/12/2002; Mictlán        ;2-1; Petapa
 
-; Sacachispas    ;1-2; Juventud R.
-; Coatepeque     ;2-2; USAC
-; Nueva Concepción  ;2-1; Amatitlán
-; Mictlán        ;2-1; Petapa
+Leg: 2
 
-*Second Legs
-Date: 6/16/2002
-
-; Juventud R.    ;2-1; Sacachipas
-; USAC           ;3-2; Coatepeque
-; Amatitlán      ;2-1; Nueva Concepción       
+6/16/2002; Juventud R.    ;2-1; Sacachipas
+6/16/2002; USAC           ;3-2; Coatepeque
+6/16/2002; Amatitlán      ;2-1; Nueva Concepción       
 * [Amatitlán on pen?]
-; Petapa         ;5-0; Mictlán
+
+6/16/2002; Petapa         ;5-0; Mictlán
 
 Round: Semifinals
+Leg: 1
 
-*First Legs
-Date: 6/20/2002
+6/20/2002; Amatitlán      ;1-0; Juventud R.
+6/20/2002; Petapa         ;1-0; USAC
 
-; Amatitlán      ;1-0; Juventud R.
-; Petapa         ;1-0; USAC
+Leg: 2
 
-*Second Legs
-Date: 6/23/2002
-
-; Juventud R.    ;1-0; Amatitlán           
+6/23/2002; Juventud R.    ;1-0; Amatitlán           
+Penalty kicks: 5-4
 * [?, Juventud 5-4 on pen]
-; USAC           ;1-2; Petapa
+
+6/23/2002; USAC           ;1-2; Petapa
 
 Round: Final
-
-*First Leg
+Leg: 1
 6/26/2002; Petapa         ;4-1; Juventud R.
 
-* Second Leg
+Leg: 2
+
 6/30/2002; Juventud R.; W-L; Petapa
-*               [Juventud won and were promoted]
+* [Juventud won and were promoted]
 

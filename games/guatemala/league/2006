@@ -2,9 +2,8 @@ BlockSource: http://rsssf.com/tablesg/guat07.html
 Competition: Liga Nacional de Guatemala
 Season: 2006-2007 Apertura
 
-* Regular Stage
-* Final Table:
-* 
+Stage: regular
+
 *  1.Comunicaciones             18 12  4  2  31-13  40  Semifinals
 *  2.Xelajú MC                  18 10  2  6  35-16  32  Semifinals
 *  3.Municipal                  18  8  5  5  30-22  29  Quarterfinals
@@ -15,7 +14,7 @@ Season: 2006-2007 Apertura
 *  7.Petapa                     18  6  5  7  31-30  23
 *  8.Deportivo Heredia          18  5  4  9  24-36  19
 *  9.Suchitepéquez              18  5  3 10  17-29  18
-*10.Mictlán                    18  3  5 10  12-31  14
+* 10.Mictlán                    18  3  5 10  12-31  14
 
 Round: 1
 Date: 7/29/2006
@@ -223,7 +222,6 @@ Date: 11/26/2006
 ; Petapa        ; 1-0; Xelajú 
 ; Zacapa        ; 1-0; Marquense
 
-* Final Table:
 *  1.Comunicaciones             18 12  4  2  31-13  40  Semifinals
 *  2.Xelajú MC                  18 10  2  6  35-16  32  Semifinals
 *  3.Municipal                  18  8  5  5  30-22  29  Quarterfinals
@@ -236,65 +234,46 @@ Date: 11/26/2006
 *  9.Suchitepéquez              18  5  3 10  17-29  18
 * 10.Mictlán                    18  3  5 10  12-31  14
 
+Stage: liguilla
 Round: Quarterfinals
 
-* First Legs
+Leg: 1
 
-Date: 11/29/2006
+11/29/2006; Zacapa        ; 0-1; Municipal
 
-; Zacapa        ; 0-1; Municipal
+11/30/2006; Marquense     ; 3-2; Jalapa
 
-Date: 11/30/2006
-
-; Marquense     ; 3-2; Jalapa
-
-* Second Legs 
+Leg: 2
 Date: 12/3/2006
 
-; Municipal     ; 2-0; Zacapa
-; Jalapa        ; 2-0; Marquense
+12/3/2006; Municipal     ; 2-0; Zacapa
+12/3/2006; Jalapa        ; 2-0; Marquense
 
 Round: Semifinals
+Leg: 1
 
-* First Legs
+12/6/2006; Municipal     ; 3-0; Xelajú
+12/7/2006; Jalapa        ; 1-2; Comunicaciones
 
-Date: 12/6/2006
+Leg: 2
 
-; Municipal     ; 3-0; Xelajú
-
-Date: 12/7/2006
-
-; Jalapa        ; 1-2; Comunicaciones
-
-* Second Legs
-
-Date: 12/9/2006
-
-; Xelajú        ; 1-0; Municipal
-
-Date: 12/10/2006
-
-; Comunicaciones; 3-1; Jalapa
+12/9/2006; Xelajú        ; 1-0; Municipal
+12/10/2006; Comunicaciones; 3-1; Jalapa
 
 Round: Final
 
-* First Leg 
-Date: 12/14/2006
+Leg: 1
 
-; Municipal     ; 0-0; Comunicaciones
+12/14/2006; Municipal     ; 0-0; Comunicaciones
 
-* Second Leg 
-Date: 12/17/2006
+Leg: 2
 
-; Comunicaciones; 1-1; Municipal
-
-* NB: Municipal winners Apertura on away goal
-
+12/17/2006; Comunicaciones; 1-1; Municipal
+Notes: Municipal winners Apertura on away goal
 
 
 Season: 2006-2007 Clausura
 
-* Final Table:
 *  1.Municipal                  18  9  5  4  43-21  32  Semifinals
 *  2.Petapa                     18  9  4  5  31-23  31  Semifinals
 *  3.Deportivo Marquense        18  8  5  5  35-26  29  Quarterfinals
@@ -553,54 +532,38 @@ Date: 5/6/2007
 *  9.Deportivo Jalapa           18  5  5  8  19-27  20
 * 10.Mictlán                    18  3  7  8  21-36  16
 
+Stage: liguilla
 Round: Quarterfinals
 
-* First Legs 
-Date: 5/9/2007
+Leg: 1
 
-; Heredia       ; 2-1; Xelajú
-; Suchitepéquez ; 2-1; Marquense
+5/9/2007; Heredia       ; 2-1; Xelajú
+5/9/2007; Suchitepéquez ; 2-1; Marquense
 
-* Second Legs
+Leg: 2
 
-Date: 5/12/2007
-
-; Marquense     ; 1-0; Suchitepéquez
-
-Date: 5/13/2007
-
-; Xelajú        ; 3-0; Heredia
+5/12/2007; Marquense     ; 1-0; Suchitepéquez
+5/13/2007; Xelajú        ; 3-0; Heredia
 
 Round: Semifinals
+Leg: 1
 
-* First Legs
+5/16/2007; Marquense     ; 3-0; Petapa
+5/17/2007; Xelajú        ; 3-1; Municipal
 
-Date: 5/16/2007
+Leg: 2
 
-; Marquense     ; 3-0; Petapa
-
-Date: 5/17/2007
-
-; Xelajú        ; 3-1; Municipal
-
-* Second Legs 
-Date: 5/20/2007
-
-; Petapa        ; 0-0; Marquense
-; Municipal     ; 1-1; Xelajú
+5/20/2007; Petapa        ; 0-0; Marquense
+5/20/2007; Municipal     ; 1-1; Xelajú
 
 Round: Final
+Leg: 1
 
-* First Leg 
-Date: 5/24/2007
+5/24/2007; Xelajú        ; 0-1; Marquense
 
-; Xelajú        ; 0-1; Marquense
+Leg: 2
 
-* Second Leg 
-Date: 5/26/2007
-
-; Marquense     ; 1-4; Xelajú
-
+5/26/2007; Marquense     ; 1-4; Xelajú
 * NB: Xelajú winners Clausura
 
 * Aggregate Table:
@@ -617,17 +580,17 @@ Date: 5/26/2007
 * ----------------------------------------------------
 * 10.Mictlán                    36  6 12 18  33-67  30  Relegated
 
-Round: Promotion/Relegation Playoff
+Round: Promotion/Relegation
 
-* First Legs 
-Date: 6/6/2007
-; Cobán         ; 1-0; Suchitepéquez
-; Sacachispas   ; 1-1; Heredia
+Leg: 1
 
-* Second Legs 
-Date: 6/10/2007
-; Suchitepéquez ; 2-0; Cobán
-; Heredia       ; 1-0; Sacachispas
+6/6/2007; Cobán         ; 1-0; Suchitepéquez
+6/6/2007; Sacachispas   ; 1-1; Heredia
+
+Leg: 2
+
+6/10/2007; Suchitepéquez ; 2-0; Cobán
+6/10/2007; Heredia       ; 1-0; Sacachispas
 
 
 *About this document

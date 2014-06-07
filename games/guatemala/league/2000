@@ -2,7 +2,23 @@ Competition: Liga Nacional de Guatemala
 BlockSource: http://www.rsssf.com/tablesg/guat01.html
 Season: 2000-2001 Apertura
 
+* 1.Comunicaciones             22 15  6  1  52-15  51
+* 2.Municipal                  22 12  3  7  45-23  39
+* 3.Deportivo Marquense        22 12  3  7  35-38  39  
+* 4.Xelajú MC                  22  9  9  4  26-20  36
+* 5.Antigua GFC                22 11  3  8  32-27  36
+* 6.Deportivo Zacapa           22  8  8  6  36-30  32  
+* 7.Cobán Imperial             22  6  9  7  28-25  27
+* 8.Universidad                22  7  5 10  32-33  26 
+* - - - - - - - - - - - - - - - - - - - - - - - - - - 
+* 9.Deportivo Carchá           22  6  4 12  14-28  22 
+*10.Deportivo Achuapa          22  5  7 10  29-45  22
+*11.Aurora FC                  22  4  8 10  24-31  20  
+*12.Santa Lucía Cotzumalguapa  22  2  5 15  28-66  11
+
+
 Round: 1
+
 7/29/2000; Municipal     ; 2-0; Aurora
 7/29/2000; Xelaju        ; 1-0; Zacapa
 
@@ -246,7 +262,65 @@ Date: 12/10/2000
 ; Santa Lucia   ; 3-2; Universidad de San Carlos 
 
 
+
+Stage: liguilla
+Round: Quarterfinals
+Leg: 1
+
+12/13/2000; Universidad   ; 1-4; Comunicaciones
+12/13/2000; Cobán         ; 0-2; Municipal
+12/13/2000; Zacapa        ; 2-1; Marquense
+12/13/2000; Antigua       ; 1-1; Xelajú
+
+Leg: 2
+
+12/16/2000; Comunicaciones; 3-1; Universidad
+12/16/2000; Xelajú        ; 3-0; Antigua
+12/17/2000; Municipal     ; 3-0; Cobán
+12/17/2000; Marquense     ; 1-1; Zacapa
+
+Round: Semifinals
+Leg: 1
+
+1/10/2000; Zacapa        ; 1-1; Comunicaciones
+1/10/2000; Xelajú        ; 0-0; Municipal
+
+Leg: 2
+
+1/13/2000; Comunicaciones; 4-1; Zacapa
+1/13/2000; Municipal     ; 1-0; Xelajú
+
+Round: Final
+Leg: 1
+
+1/17/2000; Municipal     ; 0-0; Comunicaciones
+
+Leg: 2
+
+1/20/2000; Comunicaciones; 1-1; Municipal
+
+*Municipal winners on away goal (though both matches played in the same
+*stadium, Mateo Flores in Cd. de Guatemala!)
+
+
+
+
 Season: 2000-2001 Clausura
+
+* 1.Comunicaciones             22 15  5  2  53-21  50
+* 2.Municipal                  22 12  6  4  43-19  42
+* 3.Cobán Imperial             22 11  4  7  53-26  37
+* 4.Deportivo Marquense        22 10  6  6  27-32  36
+* 5.Xelajú MC                  22 10  3  9  35-30  33
+* 6.Antigua GFC                22  7  8  7  30-29  29
+* 7.Santa Lucía Cotzumalguapa  22  8  5  9  31-41  29
+* 8.Deportivo Zacapa           22  6  8  8  25-33  26
+* - - - - - - - - - - - - - - - - - - - - - - - - - - 
+* 9.Aurora FC                  22  6  5 11  27-39  23
+*10.Universidad                22  5  5 12  24-35  20
+*11.Deportivo Achuapa          22  4  7 11  22-45  19
+*12.Deportivo Carchá           22  3  8 11  15-35  17
+
 
 Round: 1
 Date: 1/21/2001
@@ -513,45 +587,43 @@ Date: 4/28/2001
 ; Coban          ;2-0; Carcha
 ; Universidad de San Carlos    ;0-0; Antigua GFC
 
+Stage: playoff
 Round: Quarterfinals
 
-* First Legs
-Date: 5/1/2001
+Leg: 1
 
-; Zacapa         ;1-1; Comunicaciones
-; Santa Lucía    ;1-1; Municipal
-; Antigua GFC        ;2-2; Cobán
-; Xelajú         ;2-0; Marquense
+5/1/2001; Zacapa         ;1-1; Comunicaciones
+5/1/2001; Santa Lucía    ;1-1; Municipal
+5/1/2001; Antigua GFC        ;2-2; Cobán
+5/1/2001; Xelajú         ;2-0; Marquense
 
-*Second Legs 
+Leg: 2
 
 5/5/2001; Municipal      ;2-2; Santa Lucía
 
-Date: 5/6/2001
-
-; Comunicaciones ;4-0; Zacapa
-; Marquense      ;1-1; Xelajú
-; Cobán Imperial ;0-2; Antigua GFC
+5/6/2001; Comunicaciones ;4-0; Zacapa
+5/6/2001; Marquense      ;1-1; Xelajú
+5/6/2001; Cobán Imperial ;0-2; Antigua GFC
 
 Round: Semifinals
+Leg: 1
 
-*First Legs
 5/9/2001; Santa Lucía    ;1-2; Comunicaciones
 5/9/2001; Antigua GFC        ;0-0; Xelajú
 
-*Second Legs 
+Leg: 2
 
 5/12/2001; Comunicaciones ;7-2; Santa Lucía
-
 5/13/2001; Xelajú         ;1-2; Antigua GFC
 
 Round: Final
+Leg: 1
 
-*First Leg
 5/16/2001; Antigua GFC        ;0-4; Comunicaciones
 ; Martín Machón 23, Rigoberto Gómez 45, Freddy García 68, Luis Torres 81
 
-*Second Leg
+Leg: 2
+
 5/19/2001; Comunicaciones ;2-3; Antigua GFC
 Fredy García 33, Julio Rodas 53; Anderson do Nacimiento Negreti 8, Anderson do Nacimiento Negreti 51, Miguel Fuentes 35
 
@@ -559,17 +631,19 @@ Fredy García 33, Julio Rodas 53; Anderson do Nacimiento Negreti 8, Anderson do 
 
 
 Round: Promotion/Relegation Playoffs
+Leg: 1
 
-* First Legs
 * [Jun 9,10]
 Date: 6/9/2001
+
 ; Petapa         ;1-1; Santa Lucia
 ; Teculután      ;3-0; Achuapa
 ; Suchitepéquez  ;1-1; Aurora
 
-*Second Legs
+Leg: 2
 * [Jun 23?]
 Date: 6/23/2001
+
 ; Santa Lucia    ;1-2; Petapa
 ; Achuapa        ;2-0; Teculután
 ; Aurora         ;3-0; Suchitepéquez

@@ -2,7 +2,7 @@ BlockSource: http://rsssf.com/tablesg/guat2010.html
 Competition: Liga Nacional de Guatemala
 Season: 2009-2010 Apertura
 
-* 
+
 *  1.Xelajú MC                  22 12  3  7  33-24  39  Semifinals
 *  2.Municipal                  22 10  7  5  30-20  37  Semifinals
 *  - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -309,67 +309,44 @@ Date: 11/29/2009
 * 11.USAC                       22  3  9 10  18-27  18
 * 12.Peñarol La Mesilla         22  4  4 14  22-37  16
 
-*Playoff Stage
-
+Stage: playoff
 Round: Quarterfinals
+Leg: 1
 
-*First Legs 
-Date: 12/2/2009
+12/2/2009; Comunicaciones       ; 2-0; Marquense
+12/2/2009; Juventud Retalteca   ; 4-2; Heredia
 
-; Comunicaciones       ; 2-0; Marquense
-; Juventud Retalteca   ; 4-2; Heredia
+Leg: 2
 
-*Second Legs
-
-Date: 12/5/2009
-
-; Marquense            ; 2-1; Comunicaciones  
-
-Date: 12/6/2009
-
-; Heredia              ; 5-0; Juventud Retalteca   
+12/5/2009; Marquense            ; 2-1; Comunicaciones  
+12/6/2009; Heredia              ; 5-0; Juventud Retalteca   
 
 Round: Semifinals
+Leg: 1
 
-*First Legs 
+12/9/2009; Heredia              ; 0-1; Municipal
+12/10/2009; Comunicaciones       ; 0-0; Xelajú
 
-Date: 12/9/2009
+Leg: 2
 
-; Heredia              ; 0-1; Municipal
-
-Date: 12/10/2009
-
-; Comunicaciones       ; 0-0; Xelajú
-
-*Second Legs 
-Date: 12/13/2009
-
-; Municipal            ; 1-0; Heredia
-; Xelajú               ; 1-1; Comunicaciones
+12/13/2009; Municipal            ; 1-0; Heredia
+12/13/2009; Xelajú               ; 1-1; Comunicaciones
 
 Round: Final
+Leg: 1
 
-*First Leg 
-Date: 12/17/2009
+12/17/2009; Comunicaciones       ; 0-1; Municipal
 
-; Comunicaciones       ; 0-1; Municipal
+Leg: 2
 
-*Second Leg 
-Date: 12/20/2009
-
-; Municipal            ; 0-0; Comunicaciones
+12/20/2009; Municipal            ; 0-0; Comunicaciones
 
 * NB: Municipal Apertura champions
 
 
 Season: 2009-2010 Clausura
+Stage: regular
 
-* Regular Stage | Playoff Stage 
-* 
-* Regular Stage
-* 
-* Final Table:
-* 
 *  1.Comunicaciones             22 12  4  6  37-22  40  Semifinals
 *  2.Xelajú MC                  22 11  6  5  32-26  39  Semifinals
 *  - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -386,7 +363,6 @@ Season: 2009-2010 Clausura
 * 12.Deportivo Zacapa           22  6  3 13  24-34  21
 
 Round: 1
-
 Date: 1/15/2010
 
 ; Jalapa               ; 1-0; Juventud Retalteca   
@@ -688,52 +664,42 @@ Date: 4/25/2010
 * 11.Xinabajul                  22  5  8  9  25-36  23
 * 12.Deportivo Zacapa           22  6  3 13  24-34  21
 
-*Playoff Stage
 
+Stage: playoffs
 Round: Quarterfinals
+Leg: 1
 
-*First Legs
+4/28/2010; Peñarol La Mesilla   ; 1-1; Suchitepéquez         
+4/29/2010; USAC          ; 3-2; Municipal             
 
-Date: 4/28/2010
+Leg: 2
 
-; Peñarol La Mesilla   ; 1-1; Suchitepéquez         
-
-Date: 4/29/2010
-
-; USAC          ; 3-2; Municipal             
-
-*Second Legs 
-Date: 5/2/2010
-
-; Suchitepéquez        ; 2-1; Peñarol La Mesilla    
-; Municipal            ; 2-0; USAC           
+5/2/2010; Suchitepéquez        ; 2-1; Peñarol La Mesilla    
+5/2/2010; Municipal            ; 2-0; USAC           
 
 Round: Semifinals
 
-*First Legs 
-Date: 5/6/2010
+Leg: 1
 
-; Suchitepéquez        ; 2-0; Xelajú
-; Municipal            ; 2-1; Comunicaciones
+5/6/2010; Suchitepéquez        ; 2-0; Xelajú
+5/6/2010; Municipal            ; 2-1; Comunicaciones
 
-*Second Legs 
+Leg: 2
 Date: 5/8/2010
 
-; Xelajú               ; 2-0; Suchitepéquez         
-*[3-1 pen]
-; Comunicaciones       ; 1-1; Municipal
+5/8/2010; Xelajú               ; 2-0; Suchitepéquez         
+Penalty kicks: 3-1
+
+5/8/2010; Comunicaciones       ; 1-1; Municipal
 
 Round: Final
+Leg: 1
 
-*First Leg 
-Date: 5/13/2010
+5/13/2010; Municipal            ; 3-1; Xelajú
 
-; Municipal            ; 3-1; Xelajú
+Leg: 2
 
-*Second Leg 
-Date: 5/15/2010
-
-; Xelajú               ; 0-4; Municipal      
+5/15/2010; Xelajú               ; 0-4; Municipal      
 
 * Tabla Anual 2009/10
 * 

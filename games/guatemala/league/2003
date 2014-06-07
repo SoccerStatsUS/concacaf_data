@@ -2,6 +2,18 @@ BlockSource: http://www.rsssf.com/tablesg/guat04.html
 Season: 2003-2004 Apertura
 Competition: Liga Nacional de Guatemala
 
+* 1.Comunicaciones             18 10  6  2  38-21  36  Semifinals
+* 2.Municipal                  18 10  4  4  36-24  34  Semifinals
+* 3.Cobán Imperial             18  7  5  6  22-19  26  Quarterfinals
+* 4.Xelajú MC                  18  7  3  8  25-26  24  Quarterfinals
+* 5.Teculután                  18  6  6  6  25-27  24  Quarterfinals
+* 6.Deportivo Jalapa           18  6  5  7  36-35  23  Quarterfinals
+* 7.Antigua GFC                18  4  7  7  18-21  19
+* 8.Deportivo Zacapa           18  4  7  7  27-33  19
+* 9.Aurora FC                  18  4  7  7  16-25  19
+*10.Deportivo Marquense        18  5  4  9  23-35  19
+
+
 Round: 1
 Date: 8/2/2003
 
@@ -67,7 +79,7 @@ Date: 9/7/2003
 ; Cobán          ;3-1; Marquense 
 ; Teculután      ;2-0; Aurora
 ; Jalapa; W-L; Zacapa              
-*[awarded 3-0; abandoned at 1-1 in 79' when Zacapa had only 5 players left]
+Notes: awarded 3-0; abandoned at 1-1 in 79' when Zacapa had only 5 players left
 
 ; Municipal      ;4-2; Comunicaciones       
                                         
@@ -89,7 +101,7 @@ Round: 8
 Date: 9/21/2003
 
 ; Zacapa; L-W; Antigua GFC
-* [awarded 0-3; originally 3-2]
+Notes: awarded 0-3; originally 3-2
 
 ; Jalapa         ;4-0; Marquense
 ; Cobán          ;0-1; Comunicaciones
@@ -163,11 +175,14 @@ Date: 11/2/2003
 ; Teculután      ;1-0; Marquense
 
 Date: 11/19/2003
-*Comunicaciones abd Aurora              [abandoned at 2-1 in 59']
+
+; Comunicaciones ; v; Aurora              
+Notes: abandoned at 2-1 in 59
+
 ; Jalapa         ;3-3; Municipal
 
 11/20/2003; Comunicaciones ;4-1; Aurora              
-* [remaining 31']
+Notes: remaining 31 of 11/19 game
 
 Round: 15 
 Date: 11/8/2003
@@ -211,34 +226,35 @@ Date: 11/30/2003
 ; Cobán          ;0-0; Teculután
 ; Xelajú         ;1-2; Comunicaciones
 
+Stage: liguilla
 Round: Quarterfinals
+Leg: 1
 
-* First Legs
 12/3/2003; Jalapa         ;1-2; Cobán
 12/3/2003; Teculután      ;2-0; Xelajú
 
-*Second Legs
+Leg: 2
+
 12/6/2003; Cobán          ;1-1; Jalapa
 12/6/2003; Xelajú         ;2-0; Teculután           
-* [Xelajú qualify on season record]
+Notes: Xelajú qualify on season record
 
 Round: Semifinals
-
-*First Legs
+Leg: 1
 
 12/10/2003; Xelajú         ;2-0; Comunicaciones
-
 12/11/2003; Cobán          ;1-0; Municipal
 
-* Second Legs
+Leg: 2
+
 12/14/2003; Comunicaciones ;3-1; Xelajú              
-* [Comunicaciones qualify on season record]
+Notes: Comunicaciones qualify on season record
 
 12/14/2003; Municipal      ;4-0; Cobán
 
 Round: Final 
+Leg: 1
 
-* First Leg
 12/26/2003; Municipal      ;3-2; Comunicaciones; Estadio Mateo Flores
 Ponciano 12, Figueroa 18, Plata 69; Cubero 33, Pezzarossi 48
 Municipal: Danny Ortiz, Israel Donis, Selvin Ponciano, German Ruano, Dennis Chen, Carlos Figueroa (Mauricio Risso 64), Sergio Guevara, Gonzalo Romero, Cristian Chaparro (Claudio Albizuriz 57), Juan Carlos Plata, Mario Acevedo
@@ -246,7 +262,8 @@ Municipal: Danny Ortiz, Israel Donis, Selvin Ponciano, German Ruano, Dennis Chen
 Comunicaciones: Edgar Estrada, Gustavo Cabrera, Rigoberto Gómez, Jaime Rosales, Edgar Valencia (Selvin De León 82), Carlos Quiñónez, Fredy Thompson, Walter Alegría, Sergio Morales, Dwight Pezzarossi, Johnny Cubero (Uwaldo Pérez 65); 
 * coach: Horacio Cordero (ARG)]
 
-* Second Leg
+Leg: 2
+
 12/30/2003; Comunicaciones ;0-0; Municipal; Estadio Cementos Progreso
 Comunicaciones: Edgar Estrada, Gustavo Cabrera, Ariel Macia, Rigoberto Gómez, Jaime Rosales, Edgar Valencia (Maximiliano Soares 71), Carlos Quiñónez (César Alegría 60), Fredy Thompson, Sergio Morales, Dwight Pezzarossi, Johnny Cubero (Selvin De León 71)
 *  coach: Horacio Cordero (ARG);
@@ -257,6 +274,18 @@ Municipal: Danny Ortiz, Israel Donis, Selvin Ponciano, German Ruano, Dennis Chen
 
 
 Season: 2003-2004 Clausura
+
+* 1.Municipal                  18 10  5  3  42-28  35  Semifinals
+* 2.Cobán Imperial             18  9  4  5  25-23  31  Semifinals
+* 3.Deportivo Jalapa           18  9  2  7  38-30  29  Quarterfinals
+* 4.Deportivo Marquense        18  7  7  4  32-25  28  Quarterfinals
+* 5.Aurora FC                  18  6  6  6  27-29  24  Quarterfinals
+* 6.Comunicaciones             18  5  8  5  22-24  23  Quarterfinals
+* 7.Antigua GFC                18  7  2  9  27-30  23
+* 8.Xelajú MC                  18  5  5  8  27-34  20
+* 9.Deportivo Zacapa           18  5  4  9  32-32  19
+*10.Teculután                  18  4  3 11  28-45  15
+
 
 Round: 1
 Date: 2/1/2004
@@ -457,48 +486,51 @@ Date: 5/16/2004
 ; Cobán          ;1-0; Teculután
 ; Zacapa         ;3-2; Xelajú
 
+Stage: liguilla
 Round: Quarterfinals
+Leg: 1
 
-*First Legs
 5/19/2004; Comunicaciones ;0-1; Jalapa
 5/19/2004; Aurora         ;2-1; Marquense
 
-*Second Legs 
+Leg: 2
 
 5/22/2004; Jalapa         ;3-3; Comunicaciones
-
 5/23/2004; Marquense      ;1-1; Aurora
 
 Round: Semifinals
+Leg: 1
 
-*First Legs 
 5/26/2004; Aurora         ;2-1; Municipal
 5/26/2004; Jalapa         ;1-1; Cobán
 
-*Second Legs
+Leg: 2
+
 5/30/2004; Municipal      ;5-0; Aurora
 5/30/2004; Cobán          ;4-0; Jalapa
 
 Round: Final
+Leg: 1
 
-* First Leg
 6/2/2004; Cobán          ;3-2; Municipal
 Walter Estrada 22, José Mendoza 35, César Trujillo (pk) 57; Mauricio Risso 47, Mauricio Risso 81
 
-* Second Leg
+Leg: 2
+
 6/6/2004; Municipal      ;2-2; Cobán
 Carlos Figueroa 43, Cristian Chaparro 86; Walter Estrada 33, Eduardo Montepeque 97
 
 * Cobán Imperial champions Clausura 2004
 
 
-* Repechaje
+Round: Repechaje
+Leg: 1
 
-* First Legs
 6/16/2004; Heredia Jaguares        ;3-1; Teculután
 6/16/2004; Juv. Retalteca ;2-0; Antigua GFC
 
-* Second Legs
+Leg: 2
+
 6/20/2004; Teculután      ;1-2; Heredia Jaguares
 6/20/2004; Antigua GFC        ;3-0; Juv. Retalteca
 

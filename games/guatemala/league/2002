@@ -2,6 +2,16 @@ Competition: Liga Nacional de Guatemala
 BlockSource: http://www.rsssf.com/tablesg/guat03.html
 Season: 2002-2003 Apertura
 
+* 1.Municipal                  18 13  4  1  32-14  43
+* 2.Comunicaciones             18 12  3  3  43-16  39
+* 3.Cobán Imperial             18  7  2  9  28-21  23
+* 4.Xelajú MC                  18  5  8  5  18-21  23   
+* 5.Deportivo Marquense        18  6  5  7  21-28  23 
+* 6.Aurora FC                  18  5  7  6  22-21  22
+* 7.Deportivo Zacapa           18  6  4  8  22-31  22
+* 8.Teculután                  18  5  4  9  21-27  19  
+* 9.Antigua GFC                18  4  5  9  20-34  17
+*10.Juventud Retalteca         18  4  4 10  19-33  16 
 
 Round: 1
 
@@ -12,7 +22,7 @@ Date: 8/4/2002
 ; Juventud R.    ;1-2; Municipal
 ; Zacapa         ;2-0; Marquense
 ; Xelajú; L-W;          Cobán               
-* [awarded 0-3; originally 2-1 but Xelajú fielded suspended player]
+Notes: awarded 0-3; originally 2-1 but Xelajú fielded suspended player
 
 ; Comunicaciones ;3-0; Teculután            
 
@@ -182,49 +192,65 @@ Date: 11/24/2002
 ; Antigua GFC        ;0-1; Teculután
 
 
+Stage: liguilla
 Round: Quarterfinals
+Leg: 1
 
-*First Legs
 11/27/2002; Aurora         ;0-0; Cobán
 11/27/2002; Marquense      ;0-0; Xelajú
 
-*Second Legs
+Leg: 2
+
 12/1/2002; Cobán          ;3-1; Aurora
 12/1/2002; Xelajú         ;3-2; Marquense
 
 * NB: Municipal and Comunicaciones bye to semifinals
 
 Round: Semifinals
-
-*First Legs 
+Leg: 1
 
 12/4/2002; Xelajú         ;1-1; Municipal
-
 12/5/2002; Cobán          ;1-1; Comunicaciones
 
-* Second Legs
+Leg: 2
+
 12/8/2002; Municipal      ;1-1; Xelajú              
-* [Municipal on better record regular season]
+Notes: Municipal on better record regular season
 
 12/8/2002; Comunicaciones ;3-0; Cobán
 
 Round: Final
+Leg: 1
 
-*First Leg
 12/11/2002; Comunicaciones ;2-1; Municipal
 Edgar Everaldo Valencia 12, Fredy Thompson 78; Juan Carlos Plata 46
 
-*Second Leg
+Leg: 2
+
 12/15/2002; Municipal      ;1-1; Comunicaciones
 Mario Acevedo 45; Mario Rodríguez 38
 
+
 Season: 2002-2003 Clausura
+
+* 1.Comunicaciones             18 13  2  3  37-14  41
+* 2.Cobán Imperial             18  8  6  4  26-18  30
+* 3.Municipal                  18  7  6  5  37-28  27
+* 4.Antigua GFC                18  8  2  8  23-20  26
+* 5.Aurora FC                  18  6  8  4  24-24  26
+* 6.Deportivo Marquense        18  7  2  9  27-33  23
+* 7.Deportivo Zacapa           18  7  2  9  22-38  23
+* 8.Teculután                  18  5  6  7  20-25  21
+* 9.Xelajú MC                  18  5  4  9  21-20  19
+*10.Juventud Retalteca         18  2  6 10  11-28  12
+
+
 
 Round: 1
 Date: 1/26/2003
 ; Juventud R.    ;0-3; Teculután
 ; Zacapa; L-W; Aurora 
-*             [awarded 0-3; originally 0-1]
+Notes: awarded 0-3; originally 0-1
 
 ; Marquense      ;2-1; Antigua GFC
 ; Cobán          ;1-1; Comunicaciones
@@ -359,9 +385,9 @@ Date: 4/16/2003
 ; Xelajú         ;5-1; Aurora
 ; Cobán          ;3-0; Teculután
 ; Zacapa         ;5-3; Marquense
-*[Apr 30]
 
-* [awarded 0-3; originally 2-0; Municipal fielded suspended player]
+4/30/2003; Municipal; 0-3; Antigua
+Notes: awarded 0-3; originally 2-0; Municipal fielded suspended player
 
 Round: 14
 
@@ -373,7 +399,7 @@ Date: 4/27/2003
 ; Marquense      ;3-1; Juventud R.
 ; Zacapa         ;1-0; Cobán
 ; Comunicaciones; W-L; Municipal           
-* [awarded 3-0; abandoned after 5' when 5 of the 11 Municipal players had withdrawn citing stomach problems]
+Nots: awarded 3-0; abandoned after 5' when 5 of the 11 Municipal players had withdrawn citing stomach problems
 
 Round: 15
 
@@ -411,63 +437,59 @@ Date: 5/25/2003
 
 ; Juventud R.    ;1-1; Xelajú
 ; Zacapa         ;2-2; Teculután           
-* [award of 3-0 revoked]
+Notes: award of 3-0 revoked
+
 ; Marquense      ;2-0; Aurora
 ; Cobán          ;2-1; Municipal
 ; Comunicaciones ;4-2; Antigua GFC
 
+Stage: liguilla
 Round: Quarterfinals
-
-*First Legs
+Leg: 1
 
 5/28/2003; Aurora         ;2-2; Antigua GFC
-
 5/29/2003; Marquense      ;1-0; Municipal
 
-* Second Legs
+Leg: 2
+
 6/1/2003; Antigua GFC        ;1-1; Aurora              
-* [Antigua GFC on Clausura record]
+Notes: Antigua GFC on Clausura record
 
 6/1/2003; Municipal      ;2-0; Marquense
 
 * NB: Comunicaciones and Cobán bye to semifinals
 
 Round: Semifinals
+Leg: 1
 
-* First Legs
-Date: 6/4/2003
+6/4/2003; Antigua GFC        ;0-0; Comunicaciones
+6/4/2003; Municipal      ;0-0; Cobán
 
-; Antigua GFC        ;0-0; Comunicaciones
-; Municipal      ;0-0; Cobán
+Leg: 2
 
-* Second Legs
-Date: 6/8/2003
+6/8/2003; Comunicaciones ;1-1; Antigua GFC             
+Notes: Comunicaciones on Clausura record
 
-; Comunicaciones ;1-1; Antigua GFC             
-* [Comunicaciones on Clausura record]
-; Cobán          ;3-2; Municipal
+6/8/2003; Cobán          ;3-2; Municipal
 
 Round: Final
+Leg: 1
 
-*First Leg
 6/11/2003; Cobán          ;0-0; Comunicaciones
 
-* Second Leg
+Leg: 2
 6/15/2003; Comunicaciones ;3-2 (asdet); Cobán
 Ariel Macia 56, Johnny Cubero 90+2, Diego Latorre 103; Sergio Morales 44, Jorge Dos Santos 55
 
-* Promotion/Relegation Playoffs
-
-* First Legs
+Round: Promotion/Relegation
+Leg: 1
 
 6/7/2003; USAC           ;2-1; Teculután
-
 6/8/2003; Chimaltenango  ;0-3; Xelajú
 
-* Second Legs
+Leg: 2
 
 6/14/2003; Xelajú         ;3-1; Chimaltenango
-
 6/15/2003; Teculután      ;3-1; USAC
 
 * Xelajú and Teculután remain at 1st level.

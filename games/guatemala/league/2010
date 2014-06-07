@@ -1,11 +1,8 @@
 BlockSource: http://rsssf.com/tablesg/guat2011.html
 Competition: Liga Nacional de Guatemala
 
-
 Season: 2010 Apertura
-
-
-* Regular Stage
+Stage: regular
 
 *  1.Municipal                  22  11  5  6  40-22  38  Semifinals
 *  2.Deportivo Marquense        22   9  6  7  32-27  33  Semifinals
@@ -23,47 +20,39 @@ Season: 2010 Apertura
 * 12.Peñarol La Mesilla         22   5  8  9  22-29  23
 
 Stage: Playoff
-
 Round: Quarterfinals
 
-*First Legs 
-
+Leg: 1
 12/1/2010; Mictlán              ; 1-0; Comunicaciones 
-
 12/2/2010; Suchitepéquez        ; 1-0; Heredia-Jaguares  
 
-*Second Legs [Dec 5]
+Leg: 2
 12/5/2010; Comunicaciones       ; 3-0; Mictlán  
 12/5/2010; Heredia-Jaguares;      3-3; Suchitepéquez  
 
 Round: Semifinals
+Leg: 1
 
-*First Legs [Dec 9]   
 12/9/2010; Comunicaciones       ; 3-0; Marquense 
 12/9/2010; Suchitepéquez        ; 2-3; Municipal 
 
-*Second Legs [Dec 12]
+Leg: 2
 12/12/2010; Marquense            ; 2-3; Comunicaciones
 12/12/2010; Municipal            ; 2-0; Suchitepéquez 
 
 Round: Final
 
-*First Leg [Dec 16]
+Leg: 1
 12/16/2010; Comunicaciones       ; 1-1; Municipal
 
-*Second Leg [Dec 19]
+Leg: 2
 12/19/2010; Municipal            ; 2-2; Comunicaciones        
 Penalty kicks: 3-4
 
 *NB: Comunicaciones Apertura champions
 
 Season: 2011 Clausura
-
-*Regular Stage | Playoff Stage 
-*
-*Regular Stage
-
-* Final Table:
+Stage: regular
 * 
 *  1.Municipal                  22  11  4  7  33-20  37  Semifinals
 *  2.Heredia-Jaguares           22  11  4  7  32-19  37  Semifinals
@@ -81,41 +70,37 @@ Season: 2011 Clausura
 * 12.Xinabajul                  22   4  5 13  11-40  17
 
 Stage: Playoff
-
 Round: Quarterfinals
 
-*First Legs
+Leg: 1
 4/28/2011; Mictlán              ; 2-1; Malacateco  
 4/28/2011; Peñarol LM           ; 0-1; Comunicaciones 
 
-*Second Legs
-
+Leg: 2
 4/30/2011; Comunicaciones       ; 7-0; Peñarol LM 
-
 5/1/2011; Malacateco           ; 2-0; Mictlán     
 
 Round: Semifinals
 
-*First Legs
+Leg: 1
 5/5/2011; Comunicaciones       ; 2-0; Heredia-Jaguares  
 5/5/2011; Malacateco           ; 0-0; Municipal  
 
-*Second Legs
+Leg: 2
 5/8/2011; Heredia-Jaguares;      1-0; Comunicaciones  
 5/8/2011; Municipal            ; 1-0; Malacateco  
 
 Round: Final
 
-*First Leg
+Leg: 1
 5/12/2011; Comunicaciones       ; 3-0; Municipal    
 
-*Second Leg
+Leg: 2
 5/15/2011; Municipal            ; 0-3; Comunicaciones  
 
 *NB: Comunicaciones Clausura champions
 
 * Tabla Anual 2010/11
-* 
 *  1.Municipal                  44  22  9 13  73-42  75
 *  2.Heredia-Jaguares           44  20  9 15  60-50  69
 *  3.Comunicaciones             44  17 16 11  65-51  67
@@ -132,12 +117,8 @@ Round: Final
 * 
 * Promoted: Petapa, Zacapa
 
-* About this document
-* 
 * Prepared and maintained by Karel Stokkermans for the Rec.Sport.Soccer Statistics Foundation
-* 
 * Author: Karel Stokkermans 
 * Last updated: 11 Oct 2012
-* 
 * (C) Copyright Karel Stokkermans and RSSSF 2012
 * You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
