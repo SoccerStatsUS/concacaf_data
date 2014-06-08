@@ -342,35 +342,27 @@ Date: 11/25/2012
 *12.San Carlos FC              22   5  5 12  24-41  20
 
 Stage: Playoff
-
 Round: Semifinals
 
-*First Legs
-Date: 12/2/2012
+Leg: 1
 
-; Herediano    ; 1-1; Saprissa      
+12/2/2012; Herediano    ; 1-1; Saprissa      
 
-Date: 12/5/2012
+12/5/2012; Limón        ; 0-1; Alajuelense   
 
-; Limón        ; 0-1; Alajuelense   
+Leg: 2
 
-*Second Legs 
-Date: 12/9/2012
-
-; Saprissa     ; 0-1; Herediano     
-; Alajuelense  ; 0-0; Limón         
+12/9/2012; Saprissa     ; 0-1; Herediano     
+12/9/2012; Alajuelense  ; 0-0; Limón         
 
 Round: Final
+Leg: 1
 
-*First Leg 
-Date: 12/16/2012
+12/16/2012; Herediano    ; 1-2; Alajuelense
 
-; Herediano    ; 1-2; Alajuelense
+Leg: 2
 
-*Second Leg 
-Date: 12/22/2012
-
-; Alajuelense  ; 1-1 (aet); Herediano
+12/22/2012; Alajuelense  ; 1-1 (aet); Herediano
 
 *NB: Alajuelense champions Apertura
 
@@ -720,39 +712,26 @@ Date: 5/5/2013
 *12.Belén Siglo XXI            22   4  7 11  27-39  19
 
 Stage: Playoff
-
 Round: Semifinals
+Leg: 1
 
-*First Legs
-Date: 5/8/2013
+5/8/2013; Pérez Zeledón; 3-4; Herediano     
+5/9/2013; Saprissa     ; 1-1; Cartaginés    
 
-; Pérez Zeledón; 3-4; Herediano     
+Leg: 2
 
-Date: 5/9/2013
-
-; Saprissa     ; 1-1; Cartaginés    
-
-*Second Legs
-
-Date: 5/11/2013
-; Herediano    ; 1-0; Pérez Zeledón 
-
-Date: 5/12/2013
-; Cartaginés   ; 0-0; Saprissa      
-
-*NB: Cartaginés qualified on better record regular stage
+5/11/2013; Herediano    ; 1-0; Pérez Zeledón 
+5/12/2013; Cartaginés   ; 0-0; Saprissa      
+Notes: Cartaginés qualified on better record regular stage
 
 Round: Final
+Leg: 1
 
-*First Leg 
-Date: 5/19/2013
+5/19/2013; Cartaginés   ; 3-1; Herediano     
 
-; Cartaginés   ; 3-1; Herediano     
+Leg: 2
 
-*Second Leg 
-Date: 5/25/2013
-
-; Herediano    ; 3-1 (aet); Cartaginés    
+5/25/2013; Herediano    ; 3-1 (aet); Cartaginés    
 Penalty kicks: 5-4
 
 *Champions: Herediano

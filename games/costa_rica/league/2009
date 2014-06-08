@@ -269,48 +269,39 @@ Date: 12/6/2009
 * 5.AD Ramonense               16   3  7  6  13-16  16
 * 6.San Carlos FC              16   2  5  9   9-23  11
 
-*Playoff Stage
-
+Stage: Playoff
 Round: Quarterfinals
+Leg: 1
 
-*First Legs 
-Date: 12/9/2009
 
-; Liberia      ; 1-2; Brujas
-; Puntarenas   ; 2-1; Cartaginés    
+12/9/2009; Liberia      ; 1-2; Brujas
+12/9/2009; Puntarenas   ; 2-1; Cartaginés    
 
-*Second Legs 
-Date: 12/13/2009
+Leg: 2
 
-; Brujas       ; 3-1; Liberia
-; Cartaginés   ; 1-1; Puntarenas
+12/13/2009; Brujas       ; 3-1; Liberia
+12/13/2009; Cartaginés   ; 1-1; Puntarenas
 
 Round: Semifinals
+Leg: 1
 
-*First Legs 
-Date: 12/16/2009
+12/16/2009; Brujas       ; 2-1; Pérez Zeledón 
+12/16/2009; Puntarenas   ; 3-1; Herediano
 
-; Brujas       ; 2-1; Pérez Zeledón 
-; Puntarenas   ; 3-1; Herediano
+Leg: 2
 
-*Second Legs 
-Date: 12/20/2009
-
-; Pérez Zeledón; 1-2; Brujas
-; Herediano    ; 2-1; Puntarenas
+12/20/2009; Pérez Zeledón; 1-2; Brujas
+12/20/2009; Herediano    ; 2-1; Puntarenas
  
 Round: Final
+Leg: 1
 
-*First Leg 
-Date: 12/23/2009
+12/23/2009; Puntarenas   ; 0-0; Brujas
 
-; Puntarenas   ; 0-0; Brujas
+Leg: 2
 
-*Second Leg 
-Date: 12/28/2009
-
-; Brujas       ; 1-1 (aet); Puntarenas     
-*[aet, 5-4 pen]
+12/28/2009; Brujas       ; 1-1 (aet); Puntarenas     
+Penalty kicks: 5-4
 
 
 
@@ -582,47 +573,38 @@ Date: 4/18/2010
 * 5.AD Ramonense               16   2 10  4  15-18  16
 * 6.Brujas FC Escazú           16   2  7  7  11-18  13
 
-*Playoff Stage
-
+Stage: playoff
 Round: Quarterfinals
+Leg: 1
 
-*First Legs 
-Date: 4/21/2010
+4/21/2010; Santos       ; 2-1; Herediano
+4/21/2010; Puntarenas   ; 1-2; Alajuelense
 
-; Santos       ; 2-1; Herediano
-; Puntarenas   ; 1-2; Alajuelense
+Leg: 2
 
-*Second Legs 
-Date: 4/25/2010
-
-; Herediano    ; 1-1; Santos       
-; Alajuelense  ; 3-2; Puntarenas
+4/25/2010; Herediano    ; 1-1; Santos       
+4/25/2010; Alajuelense  ; 3-2; Puntarenas
 
 Round: Semifinals
 
-*First Legs 
-Date: 4/28/2010
+Leg: 1
 
-; Alajuelense  ; 1-1; San Carlos   
-; Santos       ; 0-1; Saprissa      
+4/28/2010; Alajuelense  ; 1-1; San Carlos   
+4/28/2010; Santos       ; 0-1; Saprissa      
 
-*Second Legs 
-Date: 5/2/2010
+Leg: 2
 
-; San Carlos   ; 2-1; Alajuelense  
-; Saprissa     ; 0-0; Santos
+5/2/2010; San Carlos   ; 2-1; Alajuelense  
+5/2/2010; Saprissa     ; 0-0; Santos
  
 Round: Final
+Leg: 1
 
-*First Leg 
-Date: 5/9/2010
+5/9/2010; San Carlos   ; 2-4; Saprissa
 
-; San Carlos   ; 2-4; Saprissa
+Leg: 2
 
-*Second Leg 
-Date: 5/15/2010
-
-; Saprissa     ; 3-0; San Carlos
+5/15/2010; Saprissa     ; 3-0; San Carlos
 
 
 *Aggregate Table 2009/10 

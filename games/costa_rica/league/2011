@@ -16,28 +16,27 @@ home-first
 *10.Limón FC                   20   5  4 11  19-30  19
 *11.Orión FC                   20   4  5 11  20-34  17
 
-* Playoff Stage
-
+Stage: Playoff
 Round: Semifinals
+Leg: 1
 
-*First Legs
-Date: 11/27/2011
-; Cartaginés   ; 1-2; Herediano  
-; Saprissa     ; 0-1; Alajuelense  
+11/27/2011; Cartaginés   ; 1-2; Herediano  
+11/27/2011; Saprissa     ; 0-1; Alajuelense  
 
-*Second Legs
-Date: 12/4/2011
-; Herediano    ; 1-0; Cartaginés  
-; Alajuelense  ; 2-2; Saprissa  
+Leg: 2
+
+12/4/2011; Herediano    ; 1-0; Cartaginés  
+12/4/2011; Alajuelense  ; 2-2; Saprissa  
 
 Round: Final
+Leg: 1
 
-*First Leg
 12/11/2011; Alajuelense  ; 1-1; Herediano 
 
-*Second Leg
+Leg: 2
+
 12/18/2011; Herediano    ; 1-1 (aet); Alajuelense    
-*[aet, 4-5 pen]
+Penalty kicks: 4-5
 
 
 Season: 2011-2012 Clausura
@@ -56,28 +55,28 @@ Season: 2011-2012 Clausura
 *10.Limón FC                   20   4  4 12  18-37  16
 *11.Orión FC                   20   2  2 16  12-42   8
 
-*Playoff Stage
-
+Stage: Playoff
 Round: Semifinals
+Leg: 1
 
-*First Legs 
 4/28/2012; Herediano    ; 1-1; Pérez Zeledón  
 
 4/29/2012; Saprissa     ; 1-0; Santos  
 
-*Second Legs 
+Leg: 2
+
 5/5/2012; Santos       ; 1-0; Saprissa  
+Notes: Santos qualify on better record regular stage
 
 5/6/2012; Pérez Zeledón; 0-2; Herediano 
 
-*NB: Santos qualify on better record regular stage
- 
 Round: Final
+Leg: 1
 
-*First Leg
 5/12/2012; Herediano    ; 4-2; Santos 
 
-*Second Leg
+Leg: 2
+
 5/19/2012; Santos       ; 1-2; Herediano 
 
 
