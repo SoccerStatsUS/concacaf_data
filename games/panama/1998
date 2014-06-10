@@ -1,4 +1,4 @@
-http://www.rsssf.com/tablesp/panama99.html
+BlockSource: http://www.rsssf.com/tablesp/panama99.html
 Competition: Panama Liga Profesional de Fútbol
 Season: 1998-1999
 
@@ -84,7 +84,7 @@ Round: 5
 ; Tauro        ; 0-0; Chiriqui   
 
 ; Arabe Unido  ; 3-0; Panama Viejo
-  Cadena 36, Bartley 60, Blackman 79
+  Cadena 36, Bartley 60, Blackman 79;
 
 ; Sporting 89  ; 1-3; S Francisco 
    Brown 42; Calamaris 1, Calamaris 8, Calamaris 53
@@ -101,12 +101,12 @@ Round: 6
   Guevara 25; Echevers 90
 
 ; Chiriqui     ; 1-1; Eurokickers
-  F.Chavez 31, Ardinas 37
+  F.Chavez 31; Ardinas 37
 
 ; Arabe Unido  ; 0-0; Sporting 89
 
 ; Nacional     ; 0-4; Panama Viejo
-   Dasent 42,  Phillips 48,  Morato 82, V.Herrera 86
+; Dasent 42, Phillips 48, Morato 82, V.Herrera 86
 
 ; P Amador     ; 1-3; S Francisco
   Lorenzo 27; A. Ortega 21, A.Ortega 77, Calamaris 83
@@ -115,7 +115,7 @@ Round: 7
 *[inter-group]
 
 ; Tauro        ; 0-3; Eurokickers
-  Torres 43, Torres 56, Torres 67
+; Torres 43, Torres 56, Torres 67
 
 ; Sporting 89  ; 1-0; Chiriqui
 M.Munoz (pk) 61;
@@ -140,10 +140,10 @@ Round: 8
   Calamaris 63; Barrera 45
 
 ; Panama Viejo ; 2-0; Pan Azucar
-   Aparicio 6, Phillips 17
+   Aparicio 6, Phillips 17;
 
 ; Eurokickers  ; 2-0; P Amador
-   Ardines 2, N.Diaz 60
+   Ardines 2, N.Diaz 60;
 
 Round: 9 
 *[inter-group]
@@ -176,7 +176,7 @@ N.Diaz 77;
 Aparicio 4;
 
 ; Nacional     ; 2-0; P Amador
-  M. Rodriguez 61, M.Rodriguez 79
+  M. Rodriguez 61, M.Rodriguez 79;
 
 Round: 11
 
