@@ -94,17 +94,20 @@ Round: 10
 *NB: Sporting '89 renamed Sporting SM (Sporting San Miguelito)
 *Top-2 of each group qualify for semifinal
 
+Stage: liguilla
 Round: Semifinals
+Leg: 1
 
-*First Legs
 ; Sporting SM          ; 1-2; Deportivo Árabe Unido 
 ; Tauro FC             ; 1-0; San Francisco 
 
-*Second Legs
+Leg: 2
+
 ; Deportivo Árabe Unido; 1-2; Sporting               
-*[4-2 pen]
+Penalty kicks: 4-2
+
 ; San Francisco FC     ; 2-1; Tauro                  
-*[4-2 pen]
+Penalty kicks: 4-2
 
 Round: Final
 
@@ -221,14 +224,14 @@ Round: 14
 *NB: Sporting SM renamed Sporting Coclé
 *Top-4 qualify for semifinals
 
-Round: Semifinals
 
-*Table:
 * 1.Tauro FC               6  4  0  2  12-10  12  [Pedregal, Panamá City]
 * 2.CD Plaza Amador        6  3  1  2  10- 9  10
 *- - - - - - - - - - - - - - - - - - - - - - - -
 * 3.El Chorrillo FC        6  3  0  3  11- 8   9  [Balboa, Panamá City]
 * 4.Deportivo Árabe Unido  6  1  1  4   8-14   4  [Colón City]
+
+Stage: Semifinals
 
 Round: 1
 ; Plaza Amador         ; 1-0; El Chorrillo 
@@ -261,16 +264,17 @@ Round: 6
 * 4.Deportivo Árabe Unido  6  1  1  4   8-14   4  [Colón City]
 
 Round: Final
+Leg: 1
 
-*First Leg
 11/24/2002; Plaza Amador         ; 2-1; Tauro FC; Estadio Balboa
 
-*Second Leg
+Leg: 2
+
 11/27/2002; Tauro FC             ; 1-0; Plaza Amador   ; Estadio Giancarlo Gronchi
-*[1-4 pen]
+Penalty kicks: 1-4
 
+Stage: Championship Final
 
-Round: Championship Final
 11/30/2002; Plaza Amador         ; 2-0; Deportivo Árabe Unido; Estadio Agustin Muquita Sanchez
 
 *Plaza Amador champions 2002.

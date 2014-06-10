@@ -235,35 +235,26 @@ Date: 11/24/2013
 *10.Luis Ángel Firpo        18   3  6  9  12-26  15
 
 Stage: Playoff
+Round: Repechaje
 
-Round:: Repechaje
-
-Date: 11/27/2013
-
-; Isidro-Metapán;   1-0; Alianza          
+11/27/2013; Isidro-Metapán;   1-0; Alianza          
 
 *NB: Isidro-Metapán qualified for playoff stage
 
-Round:: Semifinals
+Round: Semifinals
 Leg: 1
-Date: 12/1/2013
 
-; Juventud Ind.   ; 2-2; FAS              
-; Isidro-Metapán;   1-0; Marte            
+12/1/2013; Juventud Ind.   ; 2-2; FAS              
+12/1/2013; Isidro-Metapán;   1-0; Marte            
 
 Leg: 2
-Date: 12/7/2013
 
-; FAS             ; 2-1; Juventud Ind.    
+12/7/2013; FAS             ; 2-1; Juventud Ind.    
+12/8/2013; Marte           ; 2-2; Isidro-Metapán   
 
-Date: 12/8/2013
+Round: Final 
 
-; Marte           ; 2-2; Isidro-Metapán   
-
-Round:: Final 
-Date: 12/15/2013
-
-; FAS             ; 0-1; Isidro-Metapán   
+12/15/2013; FAS             ; 0-1; Isidro-Metapán   
 
 
 Season: 2013-2014 Clausura

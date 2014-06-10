@@ -214,13 +214,15 @@ Date: 11/25/2012
 *  9.Juventud Independiente  18   4  7  7  27-34  19
 * 10.Once Municipal          18   1  2 15  16-50   5
 
+Stage: liguilla
 Round: Semifinals
+Leg: 1
 
-* First Legs
 12/1/2012; FAS             ; 1-1; Alianza          
 12/1/2012; Águila          ; 1-2; Isidro-Metapán   
 
-* Second Legs
+Leg: 2
+
 12/8/2012; Isidro-Metapán; 3-2; Águila           
 12/9/2012; Alianza         ; 0-0; FAS              
 
@@ -231,7 +233,6 @@ Penalty kicks: 5-4
 
 
 Season: 2012-2013 Clausura
-
 
 * 1.CD FAS                  18  11  3  4  29-17  36  Qualified
 * 2.Luis Ángel Firpo        18  10  2  6  19-19  32  Qualified
@@ -462,37 +463,26 @@ Date: 5/4/2013
 
 
 Stage: Playoffs
-
 Round: Fourth Place
-Date: 5/8/2013
 
-; Juventud Ind.   ; 1-0 (aet); Santa Tecla
-
-*Playoff Stage
+5/8/2013; Juventud Ind.   ; 1-0 (aet); Santa Tecla
 
 Round: Semifinals
+Leg: 1
 
-*First Legs 
-Date: 5/12/2013
+5/12/2013; Alianza         ; 1-0; Luis Ángel Firpo 
+5/12/2013; Juventud Ind.   ; 2-1; FAS              
 
-; Alianza         ; 1-0; Luis Ángel Firpo 
-; Juventud Ind.   ; 2-1; FAS              
+Leg: 2
 
-*Second Legs 
-Date: 5/18/2013
+5/18/2013; FAS             ; 1-0; Juventud Ind.    
 
-; FAS             ; 1-0; Juventud Ind.    
-
-Date: 5/19/2013
-
-; Luis Ángel Firpo; 1-0; Alianza          
-
-*NB: Luis Ángel Firpo qualify on better record regular stage
+5/19/2013; Luis Ángel Firpo; 1-0; Alianza          
+Notes: Luis Ángel Firpo qualify on better record regular stage
 
 Round: Final 
-Date: 5/26/2013
 
-; FAS             ; 0-3; Luis Ángel Firpo 
+5/26/2013; FAS             ; 0-3; Luis Ángel Firpo 
 
 
 *Tabla Anual 2012/13

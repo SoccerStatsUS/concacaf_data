@@ -1,8 +1,5 @@
 BlockSource: http://www.rsssf.com/tablesp/panama2010.html
 Competition: Liga Panameña de Fútbol
-
-
-
 Season: 2010-2011 Apertura
 
 *  1.Atlético Chiriquí       18  10  3  5  28-21  33  Qualified
@@ -265,31 +262,22 @@ Date: 4/25/2010
 *  9.Chepo FC                18   4  6  8  17-28  18
 * 10.Atlético Veragüense     18   5  3 10  19-42  18
 
-* Playoff Stage
-
+Stage: playoffs
 Round: Semifinals
+Leg: 1
 
-* First Legs
+4/30/2010; San Francisco   ; 1-0; Chiriquí
+5/2/2010; Chorrillo       ; 1-0; Árabe Unido
 
-Date: 4/30/2010
+Leg: 2
 
-; San Francisco   ; 1-0; Chiriquí
-
-Date: 5/2/2010
-
-; Chorrillo       ; 1-0; Árabe Unido
-
-* Second Legs 
-Date: 5/9/2010
-
-; Chiriquí        ; 2-2; San Francisco
-; Árabe Unido     ; 2-0 (aet); Chorrillo
+5/9/2010; Chiriquí        ; 2-2; San Francisco
+5/9/2010; Árabe Unido     ; 2-0 (aet); Chorrillo
 
 Round: Final 
 Date: 5/14/2010
-*, Estadio Rommel Fernández/2010
 
-; Arabe Unido     ; 1-0; San Francisco
+; Arabe Unido     ; 1-0; San Francisco; Estadio Rommel Fernandez
 José Justavino 46;
 Arabe Unido: Carlos Bejarano; Eric Davis, Andrés Santamaría, Harold Cummings, David Daniels, Angel Luis Rodríguez, Alejandro Vélez, Armando Cooper, José Omar Justavino (Camilo Aguirre 75), René Víctor Mendieta hijo (Orlando Rodríguez 65), Publio Rodríguez; 
 San Francisco: William Negrete; Osvaldo González (Boris Alfaro 65), Rolando Algandona, Carlos Rubén Rivera, Wess Torres, Ricardo Phillips, Juan Ramón Solis, Manuel Torres, Victor Herrera Piggot, Johan De Avila,   Alberto Jesús Zapata (Luis Felipe Olivardia 80); 
@@ -315,36 +303,29 @@ San Francisco: William Negrete; Osvaldo González (Boris Alfaro 65), Rolando Alg
 *  9.Chepo FC                18   4  2 12  12-21  14
 * 10.Atlético Veragüense     18   3  2 13  13-29  11
  
-* Playoff Stage
-
+Stage: playoffs
 Round: Semifinals
+Leg: 1
 
-*First Legs 
-Date: 12/3/2010
+12/3/2010; Chorrillo       ; 0-0; Tauro
+12/3/2010; San Francisco   ; 0-0; Árabe Unido
 
-; Chorrillo       ; 0-0; Tauro
-; San Francisco   ; 0-0; Árabe Unido
-
-*Second Legs 
+Leg: 2
 
 12/12/2010; Tauro           ; 0-0 (aet); Chorrillo        
-*[aet, 4-2 pen]
+Penalty kicks: 4-2
 
 12/12/2010; Árabe Unido     ; 0-0 (aet); San Francisco    
-*[aet, 2-3 pen]
+Penalty kicks: 2-3
 
 Round: Final
+
 12/17/2010; Tauro           ; 1-0; San Francisco 
 
 
 Season: 2010-2011 Clausura
+Stage: regular
 
-* Regular Stage | Playoff Stage
-* 
-* Regular Stage
-* 
-* Final Table:
-* 
 *  1.Municipal Chorrillo     18   8  7  3  19-10  31  Qualified
 *  2.San Francisco FC        18   7  8  3  31-21  29  Qualified
 *  3.Sporting San Miguelito  18   7  6  5  20-15  27  Qualified
@@ -357,30 +338,21 @@ Season: 2010-2011 Clausura
 *  9.CD Árabe Unido          18   3  8  7  14-16  17
 * 10.Alianza FC              18   3  3 12  12-33  12
 
-*Playoff Stage
-
+Stage: playoffs
 Round: Semifinals
+Leg: 1
 
-*First Legs
+4/29/2010; Sporting SM     ; 1-2; San Francisco
+4/30/2010; Tauro           ; 1-1; Chorrillo   
 
-Date: 4/29/2010
+Leg: 2
 
-; Sporting SM     ; 1-2; San Francisco
-
-Date: 4/30/2010
-
-; Tauro           ; 1-1; Chorrillo   
-
-*Second Legs 
-Date: 5/6/2010
-
-; San Francisco   ; 2-1; Sporting SM      
-; Chorrillo       ; 4-0; Tauro
+5/6/2010; San Francisco   ; 2-1; Sporting SM      
+5/6/2010; Chorrillo       ; 4-0; Tauro
 
 Round: Final 
-Date: 5/14/2010
 
-; San Francisco   ; 3-2 (aet); Chorrillo 
+5/14/2010; San Francisco   ; 3-2 (aet); Chorrillo 
 
 
 *Aggregate Table
@@ -399,13 +371,8 @@ Date: 5/14/2010
 *Promoted: Colón C-3
 
 
-
-* About this document
-* 
 * Prepared and maintained by Adán De Gracia and Karel Stokkermans for the Rec.Sport.Soccer Statistics Foundation
-* 
 * Authors: Adán De Gracia and Karel Stokkermans 
 * Last updated: 11 Oct 2012
-* 
 * (C) Copyright Adán De Gracia, Karel Stokkermans and RSSSF 2010/12
 * You are free to copy this document in whole or part provided that proper acknowledgement is given to the authors. All rights reserved.

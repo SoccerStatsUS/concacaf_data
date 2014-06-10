@@ -222,7 +222,7 @@ Date: 4/26/2006
 ; Municipal Chorrillo  ; 3-0; Alianza         
 ; Tauro           ; 3-1; Plaza Amador    
 
-*Final Table:
+
 * 1.Tauro FC              18 10  5  3  25-14  35  Qualified
 * 2.CD Plaza Amador       18  9  4  5  30-18  31  Qualified
 * 3.Sporting '89          18  8  6  4  19-13  30  Qualified
@@ -235,22 +235,21 @@ Date: 4/26/2006
 * 9.Atlético Chiriquí     18  4  6  8  18-29  18
 *10.CD Policía Nacional   18  0  5 13  10-35   5
 *[*] El Chorrillo FC were renamed Municipal Chorrillo before the season
-  
+
+Stage: liguilla  
 Round: Semifinals
+Leg: 1
 
-*First Legs 
-Date: 4/29/2006
+4/29/2006; San Francisco   ; 0-0; Tauro
+4/29/2006; Sporting        ; 0-2; Plaza Amador
 
-; San Francisco   ; 0-0; Tauro
-; Sporting        ; 0-2; Plaza Amador
+Leg: 2
 
-*Second Legs 
-Date: 5/7/2006
-
-; Tauro           ; 1-2; San Francisco
-; Plaza Amador    ; 2-1; Sporting
+5/7/2006; Tauro           ; 1-2; San Francisco
+5/7/2006; Plaza Amador    ; 2-1; Sporting
 
 Round: Final
+
 5/13/2006; San Francisco   ; 3-0; Plaza Amador; Estadio Rommel Fernandez ; Walter Quezada
 Joel Jiménez 67, Gabriel Torres 74, Gabriel Torres 82;
 San Francisco: William Negrete; Eduardo Jiménez, Gilberto Walter, Santiago Alba, Carlos Rivera; Rubén Gamboa (Juan Ramón Solís 88), Manuel Torres, West Torres, Antonio Ortega (Jair Carrasquilla 71); Héctor Nazarith (Temístocles Pérez 79), Gabriel Torres
@@ -535,25 +534,22 @@ Date: 11/9/2006
 * 9.Atlético Chiriquí     18  2  4 12  14-30  10
 *10.CD Policía Nacional    18  3  1 14  17-39  10
 
-
+Stage: liguilla
 Round: Semifinals
+Leg: 1
 
-*First Legs 
-Date: 11/12/2006
-
-; Árabe Unido     ; 1-2; San Francisco
+11/12/2006; Árabe Unido     ; 1-2; San Francisco
 Alberto Cerezo 20; Gabriel Torres 47, Rubén Gamboa 59
 
-; Atlético Veragüense ; 1-1; Tauro 
+11/12/2006; Atlético Veragüense ; 1-1; Tauro 
 Erick Quiroz 19; Alberto Skinner 22
 
-*Second Legs 
-Date: 11/17/2006
+Leg: 2
 
-; San Francisco   ; 1-3 (aet); Àrabe Unido
+11/17/2006; San Francisco   ; 1-3 (aet); Àrabe Unido
 Carlos Rivera; Edgar Tem, Jair Medina, Roberto Goodman 120
 
-; Tauro           ; 2-0; Atlético Veragüense 
+11/17/2006; Tauro           ; 2-0; Atlético Veragüense 
 Héctor Nazarit 89, Rolando Escobar 93;
 
 Round: Final 
@@ -563,10 +559,10 @@ Héctor Nazarith 22, Rolando Escobar 30;
 Tauro: Oscar McFarlane; Luis Moreno, Rolando Palma, Ubaldo Guardia, Luis Henríquez; Dorian López, Juan De Dios Pérez, Rolando Escobar (Williams Aguilar 65), Reggie Arosemena; Alberto Skinner (Richard Dixon 72), Héctor Nazarith (Edwin Aguilar 22)
 Árabe Unido: Johan Cerón; Reynaldo Anderson (Roberto Goodman 70), Nahir Miranda, Edgar Tem, Nahil Carroll; Amílkar Henríquez, Víctor Castillo (Antony Basile 46), Julio Medina III, René Mendieta Jr.; Alberto Cerezo (Armando Cooper 46), Orlando Rodríguez
 
-*Championship Final
+Stage: Championship Final
 
 12/3/2006; Tauro           ; 0-1; San Francisco; Estadio Rommel Fernandez; Rolando Vidal
-;Alberto Zapata 73
+; Alberto Zapata 73
 Tauro: Oscar McFarlane; Rolando Palma, Ubaldo Guardia, Luis Moreno, Víctor Suárez, Juan de Dios Pérez, Dorian López, Rolando Escobar (Brunet Hay 78), Reggie Arosemena, William Aguilar (Joan Melo 74), Alberto Skinner (Edwin Aguilar 67)
 San Francisco: William Negrete; Eduardo Jiménez, Santiago De Alba, Raúl Loo, Carlos Rivera, Rubén Gamboa (Víctor Herrera 61), Juan Ramón Solís, Manuel Torres, Gabriel Torres, Ricardo Phillips,  Alberto Zapata (West Torres 84)
 

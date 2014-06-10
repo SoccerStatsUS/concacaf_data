@@ -313,6 +313,7 @@ Date: 12/20/2001
 ; Alajuelense  ; 3-2; San Carlos 
 ; Pérez Zeledón; 2-2; Saprissa 
 
+
 * 1.AD Santos            22 12  8  2 44-24 44  Apertura Winners
 * 2.CD Saprissa          22 11  8  3 46-32 41
 * 3.LD Alajuelense       22 11  7  4 49-28 40
@@ -642,13 +643,14 @@ Date: 5/1/2002
 *12.AD Limonense         22  4  7 11 28-46 19
 
 
-*Championship Playoff
+Stage: Championship
+Leg: 1
 
-*First Leg [May 4]
 5/4/2002; Santos       ; 2-2; Alajuelense
 Andy Herron 17, Athim Rooper 42; Érick Scott 11, Federico Urrutia 69og
 
-*Second Leg [May 7]
+Leg: 2
+
 5/7/2002; Alajuelense  ; 4-0; Santos
 Érick Scott, Érick Scott, Érick Scott, Rolando Fonseca 22;
 
@@ -668,15 +670,19 @@ Andy Herron 17, Athim Rooper 42; Érick Scott 11, Federico Urrutia 69og
 *12.AD Limonense         44  9 13 22 56-88 40  Relegated
 
 
-*Concacaf Champions Cup 2003 Qualifying
+Stage: Concacaf Champions Cup 2003 Qualifying
+Leg: 1
 *(between runners-up of 2001/02 and 2002/03)
-*
-*First Leg [Jul 25]
-*Herediano     1-1 Santos
-*  [Austin Berry 71pen; Rayner Robinson 6]
-*
-*Second Leg [Jul 28 (first half) and Aug 1 (second half)]
-*Santos        1-0 Herediano
-*  [Rayner Robinson 62; abandoned on Jul 28 at 0-0 in half-time due to rain]
+
+7/25/2002; Herediano    ; 1-1; Santos
+Austin Berry (pk) 71; Rayner Robinson 6
+
+Leg: 2
+
+7/28/2002; Santos       ; v; Herediano
+Notes: abandoned at 0-0 in half-time due to rain
+
+8/1/2002; Santos       ; 1-0; Herediano
+Rayner Robinson 62; 
 
 

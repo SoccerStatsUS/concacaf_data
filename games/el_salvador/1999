@@ -237,34 +237,26 @@ Date: 12/5/1999
 *10.Juventud Olimpica      18  2  3 13  8-47  9
 *[*] Arabe Marte reverted to its old name Atlético Marte.
 
-
+Stage: playoffs
 Round: Semifinals 
+Leg: 1
 
-*First Legs 
-Date: 12/9/1999
-
-; Alianza         ; 1-1; Limeño; Estadio Cuscatlan
+12/9/1999; Alianza         ; 1-1; Limeño; Estadio Cuscatlan
 Oscar Navarro 44; Rudy Corrales 85
 
-Date: 12/10/1999
-
-; Aguila          ; 3-2; FAS       ; Estadio Oscar Quiteno
+12/10/1999; Aguila          ; 3-2; FAS       ; Estadio Oscar Quiteno
 Marcio Sampaio 35, Roberto Hernandez 55, Hector Baloyes 58; Emiliano Pedrozo 10, Miguel Mariano 74
 
-*Second Legs
-Date: 12/18/1999
+Leg: 2
 
-; FAS             ; 2-1; Aguila; Estadio Oscar Quiteno
+12/18/1999; FAS             ; 2-1; Aguila; Estadio Oscar Quiteno
 Miguel Mariano 9, Emiliano Pedrozo 59; Carlos Navarro 90
 
-Date: 12/19/1999
-
-; Limeño          ; 0-0; Alianza    ; Estadio Jose Ramon Flores
+12/19/1999; Limeño          ; 0-0; Alianza    ; Estadio Jose Ramon Flores
 
 Round: Final 
-Date: 12/26/1999
 
-; Aguila          ; 1-0 (aet); Limeño; Estadio La Flor Blanca
+12/26/1999; Aguila          ; 1-0 (aet); Limeño; Estadio La Flor Blanca
 Ever Burgos 110;
 
 
@@ -507,16 +499,18 @@ Date: 6/3/2000
 * 9.Juventud Olimpica      18  2  7  9 19-38 13
 *10.Santa Clara            18  2  6 10 16-33 12
 
+Stage: playoffs
 Round: Semifinals
+Leg: 1
 
-*First Legs
 6/22/2000; Firpo           ; 2-2; Aguila; Estadio Cuscatlan
 Misael Alfaro (pk) 38, Mauricio Dos Santos 73; Paul Cominges 11, Paul Cominges 48
 
 6/22/2000; FAS             ; 2-0; ADET; Estadio Cuscatlan
 Marlon Medrano 25, Marlon Medrano 80;
 
-*Second Legs 
+Leg: 2
+
 6/23/2000; Aguila          ; 0-2; Firpo; Estadio Cuscatlan
 ; Mauricio Dos Santos 50, Washington Hernández 75
 
@@ -527,7 +521,7 @@ Round: Final
 
 7/1/2000; ADET            ; 1-1 (aet); Firpo     ; Estadio Cuscatlan
 Juan Carlos Panameño (pk) 61; Mauricio Dos Santos 39
-* 9-10 pen]
+Penalty kicks: 9-10
 
 
 *Aggregate Table:

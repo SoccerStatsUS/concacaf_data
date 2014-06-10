@@ -27,27 +27,31 @@ Stage: 1
 Date: 9/8/1996
 Round: 1
 
-*Grupo A           
+Group: A           
+
 ; Carmelita    ; 5-0; San Carlos   
 ; Heredia      ; 4-2; Turrialba  
 ; Alajuela     ; 1-2; Belen      
 
-*Grupo B
+Group: B
+
 ; Perez Zeledon; 5-0; Ramonense
 ; Cartagines   ; 1-0; Goicoechea
 ; Saprissa     ; 0-0; Puntarenas 
-*(Puntarenas on pen)
+Penalty kicks: L-W
 
 Date: 9/15/1996
 Round: 2
 
-*Grupo A
+Group: A
+
 ; Turrialba    ; 1-2; Carmelita 
 ; Alajuelense  ; 4-0; San Carlos 
 ; Herediano    ; 1-1; Belen 
-*(Belen on pen)
+Penalty kicks: L-W
 
-*Grupo B
+Group: B
+
 ; Puntarenas   ; 2-0; Cartagines 
 ; Perez Zeledon; 3-2; Goicoechea 
 
@@ -57,6 +61,7 @@ Date: 9/18/1996
 Date:9/22/1996
 Round: 3
 
+Group: intergroup
 * Grupo B v A
 ; Saprissa     ; 1-0; Alajuelense
 ; Puntarenas   ; 1-1; Belen 
@@ -64,17 +69,19 @@ Round: 3
 ; Perez Zeledon; 2-1; San Carlos 
 ; Goicoechea   ; 1-3; Herediano 
 ; Cartagines   ; 1-1; Turrialba 
-*(Turrialba 1-4 on pen)
+Penlty kicks: 1-4
 ; Ramonense    ; 0-3; Carmelita 
 
 Date: 9/29/1996
 Round: 4
 
-*Grupo A
+Group: A
+
 ; Carmelita    ; 1-0; Belen
 ; Alajuelense  ; 3-1; Herediano
 ; San Carlos   ; 2-0; Turrialba
-*Grupo B
+Group: B
+
 ; Saprissa     ; 3-0; Cartagines
 ; Perez Zeledon; 3-0; Puntarenas
 ; Ramonense    ; 3-1; Goicoechea
@@ -82,11 +89,13 @@ Round: 4
 Date: 10/5/1996
 Round: 5
 * [Oct 5,6]
-*Grupo A
+Group: A
+
 ; Herediano    ; 2-1; Carmelita
 ; Belen        ; 3-0; San Carlos
 ; Alajuelense  ; 6-1; Turrialba
-*Grupo B
+Group: B
+
 ; Puntarenas   ; 2-0; Ramonense
 ; Cartagines   ; 1-0; Perez Zeledon
 ; Saprissa     ; 3-1; Goicoechea
@@ -94,11 +103,12 @@ Round: 5
 Date: 10/19/1996
 Round: 6
 * [Oct 19,20]
-*Grupo A v B
+Group: A v B
+
 ; Belen        ; 1-1; Cartagines 
-*(Belen on pen)
+Penalty kicks: W-L
 ; San Carlos   ; 1-1; Saprissa 
-*(San Carlos on pen)
+Penalty kicks: W-L
 ; Carmelita    ; 3-0; Goicoechea
 ; Herediano    ; 7-0; Puntarenas
 ; Alajuelense  ; 7-2; Ramonense
@@ -107,56 +117,72 @@ Round: 6
 Date:10/26/1996
 Round: 7
 * [Oct 26,27]
-*Grupo A
+Group: A
+
 ; Carmelita    ; 0-0; Alajuelense 
-*(Alajuelense on pen)
+Penalty kicks: L-W
+
 ; San Carlos   ; 0-0; Herediano 
-*(Herediano on pen)
+Penalty kicks: L-W
+
 ; Turrialba    ; 2-1; Belen
-*Grupo B
+
+Group: B
+
 ; Ramonense    ; 1-2; Cartagines
 ; Goicoechea   ; 0-0; Puntarenas 
-*(Goicoechea on pen)
+Penalty kicks: W-L
+
 ; Perez Zeledon; 2-2; Saprissa 
-*(Perez Zeledon on pen)
+Penalty kicks: W-L
 
 Date: 11/3/1996
 Round: 8
 * [Nov 3,4]
-*Grupo A v B
+Group: A v B
+
 ; Saprissa     ; 2-0; Turrialba
 ; Alajuelense  ; 3-0; Goicoechea
 ; Puntarenas   ; 2-0; Carmelita
 ; Cartagines   ; 3-0; Herediano
 ; Perez Zeledon; 1-1; Belen 
-*(Perez Zeledon on pen)
+Penalty kicks: W-L
+
 ; Ramonense    ; 1-1; San Carlos 
-*(Ramonense on pen)
+Penalty kicks: W-L
 
 Date: 11/10/1996
 Round: 9
 * [Nov 10,11]
-*Grupo A
+Group: A
+
 ; San Carlos   ; 0-1; Carmelita
 ; Belen        ; 0-1; Alajuelense
 ; Turrialba    ; 1-1; Herediano 
-*(Herediano on pen)
-*Grupo B
+Penalty kicks: L-W
+
+Group: B
+
 ; Ramonense    ; 2-1; Perez Zeledon
 ; Goicoechea   ; 1-1; Cartagines 
-*(Cartagines on pen)
+Penalty kicks: L-W
+
 ; Puntarenas   ; 1-1; Saprissa 
-*(Saprissa on pen)
+Penalty kicks: L-W
 
 Date: 11/24/1996
 Round: 10
 * [Nov 24,27]
-*Grupo A
+Group: A
+
 ; Carmelita    ; 0-0; Turrialba 
-(Turrialba on pen)
+Penalty kicks: L-W
+
 ; Belen        ; 0-1; Herediano 
 ; Alajuelense  ; 2-0; San Carlos
-*Grupo B
+
+Group: B
+
 ; Perez Zeledon; 3-4; Goicoechea
 11/29/1996; Ramonense    ; 4-2; Saprissa  
 12/4/1996; Cartagines   ; 1-0; Puntarenas 
@@ -164,76 +190,100 @@ Round: 10
 Round: 11
 Date: 12/7/1996
 * [Dec 7,8]
-*Grupo A v B
+Group: A v B
+
 ; Alajuelense  ; 2-0; Puntarenas
 ; Herediano    ; 1-0; Perez Zeledon
 ; Carmelita    ; 0-0; Cartegines 
-*(Carmelita 6-5 pen)
+Penalty kicks: 6-5
+
 ; Ramonense    ; 2-1; Turrialba
 ; Saprissa     ; 2-2; Belen 
-*(Saprissa 4-2 pen)
+Penalty kicks: 4-2
+
 ; Goicoechea   ; 3-2; San Carlos
 
 Date: 12/28/1996
 Round: 12
 * [Dec 28,29]
-*Grupo A
+Group: A
+
 ; Herediano    ; 3-1; Alajuela
 ; Turrialba    ; 0-0; San Carlos 
-*(San Carlos 7-6 pen)
+Penalty kicks: 6-7
+
 ; Belen        ; 0-0; Carmelita 
-*(Carmelita 5-4 pen)
-*Grupo B
+Penalty kicks: 4-5
+
+Group: B
+
 ; Cartagines   ; 1-1; Saprissa 
-*(Saprissa on pen)
+Penalty kicks: L-W
+
 ; Goicoechea   ; 3-1; Ramonense
 ; Puntarenas   ; 2-1; Perez Zeledon
 
 Date: 1/3/1997
 Round: 13
 * [Jan 3,4]
-*Grupo A
+Group: A
+
 ; Carmelita    ; 0-2; Herediano
 ; San Carlos   ; 1-1; Belen 
-*(Belen on pen)
+Penalty kicks: L-W
+
 1/15/1997; Turrialba    ; 1-2; Alajuela
-*Grupo B
+
+Group: B
+
 ; Perez Zeledon; 1-1; Cartagines 
-*(Cartagines 6-5 pen)
+Penalty kicks: 5-6
+
 ; Ramonense    ; 2-0; Puntarenas
 ; Goicoechea   ; 0-2; Saprissa
 
 Date: 1/8/1997
 Round: 14
-*Grupo B v A
+Group: B v A
+
 ; Belen        ; 2-1; Ramonense
 ; Goicoechea   ; 0-0; Turrialba 
-*(Turrialba 13-12 pen)
+Penalty kicks: 12-13
+
 ; Puntarenas   ; 3-1; San Carlos
 ; Perez Zeledon; 3-1; Carmelita
-1/15/1997; Saprissa     ; 3-1;
-1/29/1997; Cartagines   ; 1-1;
-* Alajuela (Alajuela on pen)
+
+*FIXME
+*1/15/1997; Saprissa     ; 3-1;
+*1/29/1997; Cartagines   ; 1-1;
+*Penalty kicks: L-W
+
 
 Date: 1/10/1997
 Round: 15
 * [Jan 10,11]
-*Grupo A
+Group: A
+
 ; Herediano    ; 5-0; San Carlos
 ; Belen        ; 2-0; Turrialba 
 ; Alajuelense  ; 3-0; Carmelita 
-*Grupo B
+
+Group: B
+
 ; Saprissa     ; 2-2; Perez Zeledon 
-*(Perez Zeledon 4-3 pen)
+Penalty kicks: 3-4
+
 ; Cartagines   ; 2-1; Ramonense 
 ; Puntarenas   ; 3-1; Goicoechea
 
 Date: 1/17/1997
 Round: 16
 * [Jan 17,18]
-*Grupo A v B
+Group: A v B
+
 ; Carmelita    ; 1-1; Saprissa 
-*(Saprissa on pen)
+Penalty kicks: L-W
+
 ; Alajuelense  ; 2-0; Perez Zeledon
 ; Cartagines   ; 2-1; San Carlos
 ; Belen        ; 2-1; Goicoechea
@@ -242,56 +292,72 @@ Round: 16
 
 Date: 1/22/1997
 Round: 17
-* [Jan 22]
-*Grupo A
+Group: A
+
 ; Alajuelense  ; 0-0; Belen 
-*(Belen on pen)
+Penalty kicks: L-W
+
 ; Carmelita    ; 2-2; San Carlos 
-*(San Carlos 4-3 pen)
+Penalty kicks: 3-4
+
 ; Herediano    ; 1-1; Turrialba 
-*(Herediano 7-6 pen)
-*Grupo B
+Penalty kicks: 7-6
+
+Group: B
+
 ; Saprissa     ; 3-1; Puntarenas
 ; Cartagines   ; 0-0; Goicoechea 
-*(Cartagines 4-2 pen)
+Penalty kicks: 4-2
+
 ; Perez Zeledon; 2-1; Ramonense
 
 Date: 1/24/1997
 Round: 18
 * [Jan 24,25]
-*Grupo A
+Group: A
+
 ; San Carlos   ; 3-3; Alajuelense 
-*(Alajuelense 4-5 pen)
+Penalty kicks: 4-5
+
 ; Turrialba    ; 1-2; Carmelita
 ; Belen        ; 1-1; Herediano 
-*(Herediano on pen)
-*Grupo B
+Penalty kicks: L-W
+
+Group: B
+
 ; Puntarenas   ; 0-0; Cartagines 
-*(Cartagines on pen)
+Penalty kicks: L-W
+
 ; Ramonense    ; 0-0; Saprissa 
-*(Saprissa on pen)
+Penalty kicks: L-W
+
 ; Goicoechea   ; 1-2; Perez Zeledon
 
 Date: 2/1/1997
 Round: 19
 * [Feb 1,2]
-*Grupo A v B
+Group: A v B
+
 ; Alajuelense  ; 2-1; Saprissa
 ; Herediano    ; 1-0; Goicoechea
 ; Turrialba    ; 0-1; Cartagines
 ; San Carlos   ; 2-0; Perez Zeledon
 ; Belen        ; 1-1; Puntarenas 
-*(Puntarenas on pen)
+Penalty kicks: L-W
+
 ; Ramonense    ; 1-0; Carmelita
 
 Date: 2/8/1997
 Round: 20
 * [Feb 8,9]
-*Grupo A
+Group: A
+
 ; San Carlos   ; 2-1; Turrialba
 ; Carmelita    ; 1-0; Belen
 ; Alajuelense  ; 2-1; Herediano
-*Grupo B
+
+Group: B
+
 ; Perez Zeledon; 1-0; Puntarenas
 ; Ramonense    ; 0-1; Goicoechea
 ; Saprissa     ; 0-2; Cartagines
@@ -299,37 +365,46 @@ Round: 20
 Date: 2/12/1997
 Round: 21
 
-*Grupo A
+Group: A
+
 ; Alajuelense  ; 5-1; Turrialba
 ; Herediano    ; 2-0; Carmelita
 ; Belen        ; 2-1; San Carlos
-*Grupo B
+
+Group: B
+
 ; Saprissa     ; 4-0; Goicoechea
 ; Cartagines   ; 1-0; Perez Zeledon
 ; Ramonense    ; 0-0; Puntarenas 
-*(Ramonense on pen)
+Penalty kicks: W-L
 
 Date: 2/15/1997
 Round: 22
 * [Feb 15,16]
-*Grupo B v A
+Group: B v A
+
 ; Perez Zeledon; 3-2; Turrialba
 ; Cartagines   ; 1-0; Belen
 ; Puntarenas   ; 0-2; Herediano
 ; Goicoechea   ; 1-1; Carmelita 
-*(Goicoechea on pen)
+Penalty kicks: W-L
+
 ; Ramonense    ; 1-3; Alajuelense
 ; Saprissa     ; 2-1; San Carlos
 
 Date: 2/22/1997
 Round: 23
 * [Feb 22,23]
-*Grupo A
+Group: A
+
 ; Carmelita    ; 0-3; Alajuelense
 ; San Carlos   ; 0-0; Herediano
-*(Herediano on pen)
+Penalty kicks: L-W
+
 3/12/1997; Turrialba    ; 1-2; Belen
-*Grupo B
+
+Group: B
+
 ; Perez Zeledon; 0-2; Saprissa
 ; Ramonense    ; 1-1; Cartagines 
 *(Ramonense on pen)
@@ -339,53 +414,68 @@ Round: 23
 Date: 2/26/1997
 Round: 24
 * [Feb 26,27]
-*Grupo A v B
+Group: A v B
+
 ; Alajuelense  ; 3-1; Goicoechea
 ; Herediano    ; 2-0; Cartagines
 ; San Carlos   ; 1-1; Ramonense 
-*(San Carlos 4-3 on pen)
+Penalty kicks: 4-3
+
 ; Carmelita    ; 1-1; Puntarenas 
-*(Carmelita on pen)
+Penalty kicks: W-L
+
 ; Perez Zeledon; 1-0; Belen
 ; Turrialba    ; 2-1; Saprissa
 
 Date: 3/1/1997
 Round: 25
 * [Mar 1,2]
-*Grupo A
+Group: A
+
 ; Belen        ; 0-0; Alajuelense 
-*(Alajuelense 15-14 on pen)
+Penalty kicks: 14-15
+
 ; Turrialba    ; 1-1; Herediano 
-* (Turrialba on pen)
+Penalty kicks: W-L
+
 ; San Carlos   ; 2-1; Carmelita
-*Grupo B
+
+Group: B
+
 ; Ramonense    ; 1-1; Perez Zeledon 
-*(Perez Zeledon 6-5 on pen)
+Penalty kicks: 5-6
+
 ; Puntarenas   ; 2-2; Saprissa 
-*(Puntarenas on pen)
+Penalty kikcs: W-L
+
 ; Goicoechea   ; 0-3; Cartagines
 
 Date: 3/5/1997
 Round: 26
-* [Mar 5]
-*Grupo A
+Group: A
+
 ; Alajuelense  ; 1-1; San Carlos 
-*(Alajuelense on pen)
+Penalty kikcs: W-L
+
 ; Herediano    ; 3-0; Belen
 ; Carmelita    ; 2-2; Turrialba 
-*(Carmelita on pen)
-*Grupo B
+Penalty kicks: W-L
+
+Group: B
+
 ; Cartagines   ; 2-3; Puntarenas
 ; Saprissa     ; 2-2; Ramonense 
-*(Saprissa on pen)
+Penalty kicks: W-L
+
 3/7/1997; Perez Zeledon; 0-1; Goicoechea
 
 Date: 3/26/1997
 Round: 27
-* [Mar 26]
-*Grupo B v A
+Group: B v A
+
 ; Puntarenas   ; 2-2; Alajuelense
-* (Puntarenas 10-9 pen)
+Penalty kicks: 10-9
+
 ; Perez Zeledon; 1-2; Herediano
 ; Cartagines   ; 1-0; Carmelita
 ; Saprissa     ; 2-0; Belen
@@ -395,58 +485,80 @@ Round: 27
 Date: 3/30/1997
 Round: 28
 * [Mar 30]
-*Grupo A
+Group: A
+
 ; Herediano    ; 3-1; Alajuelense
 ; Turrialba    ; 1-1; San Carlos 
-*(San Carlos 4-3 pen)
+Penalty kicks: 3-4
+
 ; Belen        ; 0-0; Carmelita 
-*(Belen 5-4 pen)              [1-1?]
-*Grupo B
+*[1-1?]
+Penalty kicks: 5-4
+
+Group: B
+
 ; Cartagines   ; 1-2; Saprissa
-; Goicoechea   ; 1-1; Ramonense (Goicoechea 5-3 pen)
-; Puntarenas   ; 2-2; Perez Zeledon (Perez Zeledon 8-7 pen)
+
+; Goicoechea   ; 1-1; Ramonense 
+Penalty kicks: 5-3
+
+; Puntarenas   ; 2-2; Perez Zeledon 
+Penalty kicks: 7-8
 
 Date: 4/1/1997
 Round: 29
 * [Apr 1,2]
-*Grupo A
+Group: A
+
 ; Carmelita    ; 1-0; Herediano
 ; Turrialba    ; 0-1; Alajuelense
 ; San Carlos   ; 0-0; Belen 
-*(San Carlos 3-1 pen)
-*Grupo B
+Penalty kicks: 3-1
+
+Group: B
+
 ; Goicoechea   ; 1-0; Saprissa
 ; Perez Zeledon; 1-2; Cartagines
 ; Ramonense    ; 1-1; Puntarenas 
-*(Ramonense 5-4 pen)
+Penalty kicks: 5-4
 
 Date: 4/6/1997
 Round: 30
-*Grupo A v B
+Group: A v B
+
 ; Herediano    ; 2-0; Saprissa
+
 ; Carmelita    ; 1-1; Perez Zeledon 
-*(Carmelita 4-3 pen)
+Penalty kicks: 4-3
+
 ; Alajuelense  ; 5-3; Cartagines
+
 ; San Carlos   ; 1-0; Puntarenas
+
 ; Turrialba    ; 2-2; Goicoechea 
-*(Turrialba 3-2 pen)
+Penalty kicks: 3-2
+
 ; Ramonense    ; 0-3; Belen
 
 Date: 4/9/1997
 Round: 31
-*Grupo A
+Group: A
+
 ; Alajuelense  ; 2-0; Carmelita
 ; Belen        ; 2-1; Turrialba
 ; Herediano    ; 5-0; San Carlos
-*Grupo B
+
+Group: B
+
 ; Saprissa     ; 3-1; Perez Zeledon
 ; Cartagines   ; 4-0; Ramonense
 ; Puntarenas   ; 1-1; Goicoechea 
-*(Goicoechea 7-6 pen)
+Penalty kicks: 6-7
 
 Date: 4/13/1997
 Round: 32
-*Grupo B v A
+Group: B v A
+
 ; Saprissa     ; 3-1; Carmelita
 ; Perez Zeledon; 0-1; Alajuelense
 ; San Carlos   ; 1-2; Cartagines
@@ -454,84 +566,110 @@ Round: 32
 ; Puntarenas   ; 1-0; Turrialba
 ; Goicoechea   ; 0-2; Belen
 
-*Round: Second Stage
+Stage: 2
 
 Date: 5/14/1997
 Round: 1
-*Grupo C
+Group: C
+
 ; Carmelita    ; 1-0; Saprissa
 ; Perez Zeledon; 0-1; Alajuelense
-*Grupo D
+
+Group: D
+
 ; Belen        ; 1-1; Cartagines 
-*(Belen 3-2 pen)
+Penalty kicks: 3-2
+
 ; Puntarenas   ; 1-0; Herediano
 
 Date: 5/18/1997
 Round: 2
-*Grupo C
+Group: C
+
 ; Saprissa     ; 2-2; Perez Zeledon 
-*(Perez Zeledon 7-6 pen)
+Penalty kicks: 7-6
+
 ; Alajuelense  ; 3-0; Carmelita
-*Grupo D
+
+Group: D
+
 ; Cartagines   ; 2-0; Puntarenas
 ; Herediano    ; 3-0; Belen
 
 Date: 5/21/1997
 Round: 3
-*Grupo C
+Group: C
+
 ; Alajuelense  ; 1-0; Saprissa
 ; Perez Zeledon; 1-1; Carmelita 
-*(Perez Zeledon 4-3 pen)
-*Grupo D
+Penalty kicks: 4-3
+
+Group: D
+
 ; Herediano    ; 2-0; Cartagines
 ; Puntarenas   ; 1-1; Belen 
-*(Puntarenas 4-1 pen)
+Penalty kicks: 4-1
 
 Date: 5/25/1997
 Round: 4
-*Grupo C
+Group: C
+
 ; Saprissa     ; 1-0; Alajuelense
 ; Carmelita    ; 0-2; Perez Zeledon
-*Grupo D
+
+Group: D
+
 ; Cartagines   ; 2-1; Herediano
 ; Belen        ; 4-2; Puntarenas
 
 Date: 6/4/1997
 Round: 5
-*Grupo C
+Group: C
+
 ; Perez Zeledon; 0-1; Saprissa
 ; Carmelita    ; 0-1; Alajuelense
-*Grupo D
+
+Group: D
+
 ; Belen        ; 1-1; Herediano 
-*(Belen 4-3 pen)
+Penalty kicks: 4-3
+
 ; Puntarenas   ; 1-2; Cartagines
 
 Date: 6/9/1997
 Round: 6
-*Grupo C
+Group: C
+
 ; Saprissa     ; 1-0; Carmelita
 ; Perez Zeledon; 1-0; Alajuelense
-*Grupo D
+Group: D
+
+
 ; Cartagines   ; 1-1; Belen 
-*(Cartagines 4-2 on pen)
+Penalty kicks: 4-2
+
 ; Herediano    ; 2-0; Puntarenas
 
 Round: Semifinals
+Leg: 1
 
-* First Leg
 6/22/1997; Cartagines    ; 1-0; Saprissa
 Jewisson Bennett 11;
 
 6/25/1997; Herediano     ; 1-1; Alajuelense
 
-* Second Leg
+Leg: 2
+
 6/25/1997; Saprissa      ; 2-0; Cartagines
 6/29/1997; Alajuelense   ; 3-1; Herediano
 
 Round: Final
+Leg: 1
 
 7/2/1997; Saprissa      ; 3-1; Alajuelense
 Mahia 46, Mahia 57, Drummond 70; Badilla 37
+
+Leg: 2
 
 7/6/1997; Alajuelense   ; 1-0; Saprissa
 Mullins 8;
@@ -539,14 +677,14 @@ Mullins 8;
 *Saprissa win second stage.
 
 
-Round: Championship Playoff
+Stage: Championship Playoff
+Leg: 1
 
-
-*First Leg
 7/13/1997; Saprissa      ; 2-3; Alajuelense
 Mahia 2, Drummond 6; Miso 14, Mullins 17, Mullins 27
 
-Second Leg
+Leg: 2
+
 7/16/1997; Alajuelense   ; 1-1; Saprissa
 Miso 20; Mahia 31
 

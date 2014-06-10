@@ -3,7 +3,7 @@ Competition: Costa Rican Primera División
 
 Season: 1997-1998 Apertura
 
-First Stage:
+Stage: 1
 
 *Group A:
 * 1.LD Alajuelense       16 11  2  3 37-14 35
@@ -239,49 +239,48 @@ Date: 12/20/1997
 *11.AD Belén             16  2  8  6  9-15 14  [A]
 *12.AD San Carlos        16  3  5  8 18-26 14  [B]
 
-*Second Stage:
-
+Stage: 2
 Round: Quarterfinals
+Leg: 1
 
-*First Legs [Dec 22]
-Date: 12/22/1997
+12/22/1997; Puntarenas   ; 1-1; Alajuelense 
+12/22/1997; Perez Zeledon; 0-0; Herediano 
+12/22/1997; S Barbara    ; 0-2; Saprissa
+12/22/1997; Goicoechea   ; 1-1; Cartagines
 
-; Puntarenas   ; 1-1; Alajuelense 
-; Perez Zeledon; 0-0; Herediano 
-; S Barbara    ; 0-2; Saprissa
-; Goicoechea   ; 1-1; Cartagines
-
+Leg: 2
 *Second Legs [Dec 27,28]
-Date: 12/27/1997
 
-; Alajuelense  ; 1-0 (aet); Puntarenas   
-; Saprissa     ; 4-1; S Barbara  
-; Herediano    ; 1-0 (aet); Perez Zeledon
-; Cartagines   ; 4-0; Goicoechea 
+12/27/1997; Alajuelense  ; 1-0 (aet); Puntarenas   
+12/27/1997; Saprissa     ; 4-1; S Barbara  
+12/27/1997; Herediano    ; 1-0 (aet); Perez Zeledon
+12/27/1997; Cartagines   ; 4-0; Goicoechea 
 
 Round: Semifinals
+Leg: 1
 
-*First Legs [Dec 30]
 12/30/1997; Saprissa     ; 3-0; Herediano
 12/30/1997; Cartagines   ; 1-2; Alajuelense
 
-*Second Legs [Jan 4]
+Leg: 2
+
 1/4/1998; Herediano    ; 0-0; Saprissa
 1/4/1998; Alajuelense  ; 3-0; Cartagines
 
 Round: Final
+Leg: 1
 
-*First Leg [Jan 7]
 1/7/1998; Saprissa     ; 1-1; Alajuelense
 Walter Centeno 14; Josef Miso 51
 
-*Second Leg [Jan 11]
+Leg: 2
+
 1/11/1998; Alajuelense  ; 2-1; (aet) Saprissa
 Luis Diego Arnaez (pk) 54, Adrian Mahia (og) 115; Alejandro Larrea 5
 
 *Alajuelense winners of Apertura.
 
-Season: 1998 Clausura
+Season: 1997-1998 Clausura
 
 * 1.LD Alajuelense       16 14  1  1 42-11 43
 * 2.CD Saprissa          16 12  3  1 44-12 39
@@ -499,59 +498,57 @@ Date: 4/16/1998
 *--------------------------------------------
 *12.AD Belén             32  3 15 14 17-33 24  Relegated
 
-*Second Stage:
-
+Stage: 2
 Round: Quarterfinals
 
-*First Legs 
 *[Apr 25,26]
-Date: 4/25/1998
+Leg: 1
 
-; Perez Zeledon; 1-0; Cartagines
-; Puntarenas   ; 1-1; Herediano
-; S Carlos     ; 0-2; Alajuelense
-; Ramonense    ; 0-3; Saprissa
+4/25/1998; Perez Zeledon; 1-0; Cartagines
+4/25/1998; Puntarenas   ; 1-1; Herediano
+4/25/1998; S Carlos     ; 0-2; Alajuelense
+4/25/1998; Ramonense    ; 0-3; Saprissa
 
-*Second Legs 
-Date: 4/29/1998
+Leg: 2
 
-; Cartagines   ; 5-0; Perez Zeledon
-; Herediano    ; 3-0; Puntarenas
-; Alajuela     ; 7-2; S Carlos
-; Saprissa     ; 8-0; Ramonense
+4/29/1998; Cartagines   ; 5-0; Perez Zeledon
+4/29/1998; Herediano    ; 3-0; Puntarenas
+4/29/1998; Alajuela     ; 7-2; S Carlos
+4/29/1998; Saprissa     ; 8-0; Ramonense
 
 Round: Semifinals
-
-*First Legs [May 3]
+Leg: 1
 
 5/3/1998; Herediano    ; 0-0; Saprissa
 5/3/1998; Cartagines   ; 1-0; Alajuelense
 
-*Second Legs [May 10]
+Leg: 2
+
 5/10/1998; Saprissa     ; 5-1; Herediano
 5/10/1998; Alajuela     ; 2-1 (aet); Cartagines 
-*   [aet, 3-4 pen]
+Penalty kicks: 3-4
 
 Round: Final
+Leg: 1
 
-*First Leg [May 17]
 5/17/1998; Cartagines   ; 0-0; Saprissa
 
-*Second Leg [May 24]
+Leg: 2
+
 5/24/1998; Saprissa     ; 1-0; Cartagines
 Myes 43;
 
 *Saprissa winners of Clausura.
 
 
+Stage: Championship Final
+Leg: 1
 
-*Championship Final
-
-*First Leg [May 31]
 5/31/1998; Saprissa     ; 0-1; Alajuela
 ; Martins 80
 
-*Second Leg [Jun 7]
+Leg: 2
+
 6/7/1998; Alajuela     ; 0-2; Saprissa
 ; Sequera 68, Drummond 83
 

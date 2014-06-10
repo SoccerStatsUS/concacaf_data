@@ -1,7 +1,6 @@
 BlockSource: http://www.rsssf.com/tablesc/cos06.html
 Competition: Costa Rican Primera División
 home-first
-
 Season: 2005-2006 Apertura
 
 
@@ -386,7 +385,6 @@ Date: 11/23/2005
 ; Cartaginés   ; 3-1; Santos
   Víctor Nuñez (pk) 11, Victor Nunez 20, Armando Alonso 35; Ronald Rodríguez 10
 
-
 Date: 12/4/2005
 
 ; Alajuelense  ; 0-0; Santacruceña
@@ -415,44 +413,33 @@ Date: 12/4/2005
 * 6.AD Carmelita               16   2  4 10  11-25  10
 
 Round: Semifinals
+Leg: 1
 
-*First Legs
-
-Date: 12/11/2005
-
-; Pérez Zeledón; 1-0; Alajuelense
+12/11/2005; Pérez Zeledón; 1-0; Alajuelense
 Alexander Madrigal 49+;
 
-Date: 12/23/2005
-
-; Puntarenas   ; 2-0; Saprissa
+12/23/2005; Puntarenas   ; 2-0; Saprissa
   Mario Víquez (pk) 20, Max Sánchez 80;
 
-*Second Legs
-Date: 12/17/2005
+Leg: 2
 
-; Alajuelense  ; 1-0; Pérez Zeledón       
+12/17/2005; Alajuelense  ; 1-0; Pérez Zeledón       
   Alexander Madrigal (og) 34;
-*[4-5 pen]
+Penalty kicks: 4-5
 
-Date: 12/26/2005
-
-; Saprissa     ; 4-1; Puntarenas
+12/26/2005; Saprissa     ; 4-1; Puntarenas
   Walter Centeno 20, Walter Centeno 84, Cristián Bolaños 40, Alonso Solís 46;   Kurt Bernard 9
 
 Round: Final
+Leg: 1
 
-*First Leg 
-Date: 12/28/2005
-
-; Pérez Zeledón; 1-1; Saprissa
+12/28/2005; Pérez Zeledón; 1-1; Saprissa
   Bill González 69; Gerald Drummond 40
 
-*Second Leg 
-Date: 12/31/2005
+Leg: 2
 
-; Saprissa     ; 1-1; Pérez Zeledón       
-*[4-2 pen]
+12/31/2005; Saprissa     ; 1-1; Pérez Zeledón       
+Penalty kicks: 4-2
   Ronald Gómez 94+; Kenny Cunnhingan 24
 
 *  [penalties: Walter Centeno   1-0, Freddy Fernández 1-0;
@@ -860,42 +847,33 @@ Date: 4/2/2006
 * 5.CS Cartaginés              16   4  5  7  15-22  17
 * 6.SD Santos                  16   4  3  9  15-29  15
 
-
+Stage: playoffs
 Round: Semifinals
+Leg: 1
 
-*First Legs 
-
-Date: 4/5/2006
-
-; Alajuelense  ; 2-0; Puntarenas
+4/5/2006; Alajuelense  ; 2-0; Puntarenas
   Luis Marín 42, Mínor Díaz 75;
 
-Date: 4/6/2006
-
-; Saprissa     ; 1-0; Brujas
+4/6/2006; Saprissa     ; 1-0; Brujas
   Álvaro Saborío (pk) 61;
 
-*Second Legs 
-Date: 4/9/2006
+Leg: 2
 
-; Puntarenas   ; 1-1; Alajuelense
+4/9/2006; Puntarenas   ; 1-1; Alajuelense
   Kurt Bernard (pk) 65; Rolando Fonseca 80
 
-; Brujas       ; 1-2; Saprissa
+4/9/2006; Brujas       ; 1-2; Saprissa
   Juan Luis Hernández 94; Walter Centeno 64, Walter Centeno 80
 
 Round: Final
+Leg: 1
 
-*First Leg 
-Date: 4/17/2006
-
-; Alajuelense  ; 1-1; Saprissa
+4/17/2006; Alajuelense  ; 1-1; Saprissa
   Rolando Fonseca 56; Álvaro Saborío 86
 
-*Second Leg 
-Date: 4/23/2006
+Leg: 2
 
-; Saprissa     ; 2-1; Alajuelense
+4/23/2006; Saprissa     ; 2-1; Alajuelense
   Walter Centeno 8, Walter Centeno 42; Carlos Hernández 19
 
 

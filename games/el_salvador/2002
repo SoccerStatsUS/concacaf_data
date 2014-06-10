@@ -191,21 +191,25 @@ Date: 12/1/2002
 * 9.Alianza FC             18  3  7  8 17-22 16
 *10.CD Dragón              18  3  7  8 20-31 16
 
-*Playoff
+Stage: Playoff
+
 12/8/2002; Águila    ; 1-3; Firpo
 
 Round: Semifinals
+Leg: 1
 
-*First Legs
 12/12/2002; San Salvador; 4-3; Limeño   
 12/12/2002; Firpo     ; 0-2; FAS
 
-*Second Legs
+Leg: 2
+
 12/15/2002; Limeño    ; 2-1; San Salvador        
-*[2-3 pen]
+Penalty kicks: 2-3
+
 12/15/2002; FAS       ; 3-0; Firpo
 
 Round: Final
+
 12/22/2002; FAS       ; 3-1; San Salvador
 William Reyes 6, William Reyes 15, William Reyes (pk) ; Orlando Garces 5
 * PK in second half.
@@ -391,16 +395,18 @@ Date: 5/25/2003
 *10.CD Dragón              18  1  5 12 18-43  8
 *[*] on January 26, 2003, between Apertura and Clausura, L.A. Firpo  were relocated from Usulután to San Salvador
 
+Stage: playoffs
 Round: Semifinals
+Leg: 1
 
-*First Legs
 6/1/2003; Firpo     ; 2-1; FAS
 6/1/2003; Alianza   ; 2-2; San Salvador
 
-*Second Legs
+Leg: 2
+
 6/8/2003; FAS       ; 2-1; Firpo             
 Bentos 81, Murgas 90; Sevillano 91
-**[3-4 pen]
+Penalty kicks: 3-4
 *  [pen: Murgas 1-0, Henríquez 1-1; López (miss) 1-1,
 *        Gustavo Cabrera (saved) 1-1; Tobar 2-1, Castro (saved) 2-1;
 *        Mafla 3-1, Canjura 3-2; Velásquez (miss) 3-2, 
@@ -410,6 +416,7 @@ Bentos 81, Murgas 90; Sevillano 91
 Garcés 19, Pedrozo 74; Merino 90
 
 Round: Final
+
 6/15/2003; San Salvador; 3-1 (aet); Firpo
 Guillermo García (og) 7, Victor Merino Dubón 113, José Martínez 116; Santos Cabrera 48
 

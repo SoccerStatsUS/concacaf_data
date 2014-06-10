@@ -1,7 +1,5 @@
 BlockSource: http://www.rsssf.com/tablesp/panama08.html
 Competition: Liga Panameña de Fútbol
-
-
 Season: 2008 Apertura
 
 * 
@@ -21,7 +19,7 @@ Round: 1
 Date: 2/22/2008
 
 ; Árabe Unido     ; 0-1; Chorrillo 
-;Jhonny Ríos 10
+; Jhonny Ríos 10
 
 Date: 2/23/2008
 
@@ -299,8 +297,6 @@ Lionel Parrish 65; Gabriel Ríos 20
 ; Sporting SM     ; 5-2; Atlético Veragüense 
 Luis Ángel Rodríguez 13, Luis Angel Rodriguez 90, Luis Valderrama 36, Luis Morales 66, Osvaldo Solanilla 81; Neftalí Díaz 44, Cristian Vega 58
 
-* Final Tables:
-* 
 * Grupo A
 *  1.San Francisco FC        13  5  7  1  19-15  22  Qualified
 *  2.CD Plaza Amador         13  4  6  3  13- 9  18
@@ -331,31 +327,23 @@ Luis Ángel Rodríguez 13, Luis Angel Rodriguez 90, Luis Valderrama 36, Luis Mor
 *  9.Atlético Veragüense     13  2  5  6  15-27  11
 * 10.Alianza FC              13  3  1  9  25-27  10
 
+Stage: liguilla
 Round: Semifinals
+Leg: 1
 
-* First Legs 
-
-Date: 5/16/2008
-
-; Sporting SM     ; 0-1; Tauro
+5/16/2008; Sporting SM     ; 0-1; Tauro
 ; Edwin Aguilar 90
 
-Date: 5/18/2008
-
-; Chepo           ; 2-0; San Francisco
+5/18/2008; Chepo           ; 2-0; San Francisco
 Carlos Martínez 65, Carlos Martinez 69;
 
-* Second Legs 
+Leg: 2
 
-Date: 5/24/2008
-
-; San Francisco   ; 2-0 (aet); Chepo                 
+5/24/2008; San Francisco   ; 2-0 (aet); Chepo                 
 Manuel Torres 14, Eduardo Jiménez 52;
-*[aet, 3-1 pen]
+Penalty kicks: 3-1
 
-Date: 5/25/2008
-
-; Tauro           ; 2-0; Sporting SM 
+5/25/2008; Tauro           ; 2-0; Sporting SM 
 Rolando Blackburn 10, Erick Quiroz 48;
 
 Round: Final 
@@ -776,29 +764,26 @@ Date: 11/9/2008
 *  9.Municipal Chorrillo     18  4  6  8  18-26  18
 * 10.CD Plaza Amador         18  2  2 14   9-32   8
 
+Stage: liguilla
 Round: Semifinals
+Leg: 1
 
-* First Legs 
-Date: 11/16/2008
-
-; San Francisco   ; 0-1; Tauro
+11/16/2008; San Francisco   ; 0-1; Tauro
 ; Luis Fernando Escobar 22
 
-; Chepo           ; 5-4; Árabe Unido
+11/16/2008; Chepo           ; 5-4; Árabe Unido
 Luis Jaramillo 31, Luis Jaramillo 68, Luis Jaramillo 90, Ismael Menal 77, Armando Gum 89; Omar Camargo 2, Manuel Mosquera 23, Nelson Barahona 33, Orlando Rodríguez 46
 
-* Second Legs 
+Leg: 2
 
-Date: 11/22/2008
-
-; Árabe Unido     ; 2-0; Chepo
+11/22/2008; Árabe Unido     ; 2-0; Chepo
 Víctor René Mendieta Jr. 9, José Justavino 80;
 
 Date: 11/23/2008
 
-; Tauro           ; 0-1 (aet); San Francisco         
+11/23/2008; Tauro           ; 0-1 (aet); San Francisco         
 ; Alberto Zapata 16
-*[aet, 4-2 pen]
+Penalty kicks: 4-2
 
 Round: Final 
 
@@ -824,12 +809,12 @@ Tauro: Junior Torres; Luis Moreno, Rolando Palma (Silvio Morelos 77), Alberto Ma
 * NB: worst team in overall table enters promotion/relegation playoff against second level (Primera A) champions
 
 
-*Promotion/Relegation Playoff
-
-*First Leg
+Stage: Promotion/Relegation Playoff
+Leg: 1
 11/22/2008; Río Abajo       ; 2-2; Plaza Amador; Estadio Bernardo Gil
 
-*Second Leg
+Leg: 2
+
 12/6/2008; Plaza Amador    ; 1-0; Río Abajo; Estadio Bernardo Gil 
 Nestor Murrillo 56;
 

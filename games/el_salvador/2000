@@ -266,26 +266,22 @@ Date: 12/10/2000
 *----------------------------------------------
 *10.Santa Clara            18  1  4 13 13-53  7  Relegated
 
+Stage: playoffs
 Round: Semifinals
+Leg: 1
 
-*First Legs
-Date: 12/16/2000
+12/16/2000; Aguila          ; 3-0; Firpo
 
-; Aguila          ; 3-0; Firpo
+12/17/2000; Municipal       ; 3-0; Balboa
 
-Date: 12/17/2000
-; Municipal       ; 3-0; Balboa
+Leg: 2
 
-*Second Legs 
-Date: 12/23/2000
-
-; Firpo           ; 2-2; Aguila
-; Balboa          ; 1-4; Municipal
+12/23/2000; Firpo           ; 2-2; Aguila
+12/23/2000; Balboa          ; 1-4; Municipal
 
 Round: Final 
-Date: 12/30/2000
 
-; Aguila          ; 3-2; Municipal
+12/30/2000; Aguila          ; 3-2; Municipal
 Adrián Mahía 22, Deonel Bordón 50, Deonel Bordon 84; César Cahrún 63, Josué Galdámez 66
 
 *Promoted: San Luis
@@ -512,7 +508,6 @@ Date: 5/17/2001
 ; Balboa          ; 4-0; Aguila
 ; Firpo           ; 1-1; FAS
 
-*Table:
 * 1.CD FAS                 18  9  5  4 31-14 32
 * 2.CD Águila              18  9  5  4 28-23 32
 * 3.Municipal Limeño       18  9  3  6 31-22 30
@@ -526,26 +521,27 @@ Date: 5/17/2001
 *----------------------------------------------
 *10.San Luis               18  4  5  9 13-26 17  Relegated
 
-*Clausura Playoff
 
+Stage: playoff
 Round: Semifinals
 
-*First Legs
+Leg: 1
+
 ; Firpo           ; 1-1; Aguila           
-*Municipal         -  FAS
+; Municipal       ; v;  FAS
 
-*Second Legs 
-Date: 6/21/2001
+Leg: 2
 
-; Aguila          ; 2-1; Firpo
-*FAS               -  Municipal
+6/21/2001; Aguila          ; 2-1; Firpo
+6/21/2001; FAS             ; v;  Municipal
 
 Round: Final 
+Leg: 1
 
-*First Leg 
 6/24/2001; Aguila          ; 1-1; FAS; Estadio Nacional de la Flor Blanca
 
-*Second Leg 
+Leg: 2
+
 6/30/2001; Aguila          ; 2-1; FAS; Estadio Nacional de la Flor Blanca
 
 

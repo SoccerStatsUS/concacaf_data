@@ -277,33 +277,21 @@ Stage: Playoff
 Round: Semifinals
 Leg: 1
 
-Date: 11/15/2013
-
-; San Francisco   ; 1-1; Plaza Amador     
-
-Date: 11/16/2013
-
-; C.A.I.          ; 0-1; Tauro            
+11/15/2013; San Francisco   ; 1-1; Plaza Amador     
+11/16/2013; C.A.I.          ; 0-1; Tauro            
 
 Leg: 2
 
-Date: 11/22/2013
-
-; Tauro           ; 3-2 (aet); C.A.I. 
-
-Date: 11/23/2013
-
-; Plaza Amador    ; 1-3 (aet); San Francisco 
+11/22/2013; Tauro           ; 3-2 (aet); C.A.I. 
+11/23/2013; Plaza Amador    ; 1-3 (aet); San Francisco 
 
 Round: Final 
-Date: 11/29/2013 
 
-; Tauro           ; 1-0; San Francisco    ; Estadio Rommel Fernández
+11/29/2013; Tauro           ; 1-0; San Francisco    ; Estadio Rommel Fernández
 Israel Sanjur 28;
 
 
 *Awards
-*
 *Best Goalkeeper LPF Apertura 2013: Carlos Valdés (PAN) - Chepo FC
 *Best Coach LPF Apertura 2013: Rolando Palma (PAN) - Tauro FC
 *Top goalscorer LPF Apertura 2013: Ernesto Sinclair (PAN) - Club Atlético Independiente La Chorrera
@@ -586,27 +574,18 @@ Date: 4/27/2014
 *10.C.A.I. FC               18   3  4 11  13-32  13
 
 
-Stage: Playoff Stage
+Stage: Playoff
 
 Round: Semifinals
 Leg: 1
-Date: 5/2/2014
 
-; Río Abajo        ; v;  Árabe Unido      
-
-Date: 5/6/2014
-
-; Plaza Amador     ; v;  Chorrillo        
+5/2/2014; Río Abajo        ; v;  Árabe Unido      
+5/6/2014; Plaza Amador     ; v;  Chorrillo        
 
 Leg: 2
 
-Date: 5/9/2014
-
-; Árabe Unido      ; v;  Río Abajo        
-
-Date: 5/10/2014
-
-; Chorrillo        ; v;  Plaza Amador     
+5/9/2014; Árabe Unido      ; v;  Río Abajo        
+5/10/2014; Chorrillo        ; v;  Plaza Amador     
  
 Round: Final 
 Date: 5/16/2014

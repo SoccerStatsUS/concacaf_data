@@ -34,8 +34,10 @@ Date: 7/28/2007
 Date: 7/29/2007
 
 ; Alajuelense  ; 4-1; Liberia
-*Cartaginés    awd Brujas                  
-*Notes: awarded 3-0, originally 1-1
+
+; Cartaginés; 1-1; Brujas                  
+Notes: awarded 3-0, originally 1-1
+
 ; Carmelita    ; 2-2; Santos
 
 Date: 9/5/2007
@@ -257,53 +259,39 @@ Date: 11/25/2007
 
 *NB: Municipal Liberia changed name to Liberia Mía
 
+Stage: playoffs
 Round: Quarterfinals
+Leg: 1
 
-*First Legs
-Date: 12/1/2007
+12/1/2007; Pérez Zeledón; 1-2; Alajuelense
+12/2/2007; Carmelita    ; 1-0; Brujas
 
-; Pérez Zeledón; 1-2; Alajuelense
+Leg: 2
 
-Date: 12/2/2007
-
-; Carmelita    ; 1-0; Brujas
-
-*Second Legs 
-Date: 12/9/2007
-
-; Brujas       ; 2-0; Carmelita
-; Alajuelense  ; 3-0; Pérez Zeledón
+12/9/2007; Brujas       ; 2-0; Carmelita
+12/9/2007; Alajuelense  ; 3-0; Pérez Zeledón
 
 Round: Semifinals
+Leg: 1
 
-*First Legs 
-Date: 12/12/2007
+12/12/2007; Brujas       ; 0-0; Herediano
+12/12/2007; Alajuelense  ; 0-1; Saprissa
 
-; Brujas       ; 0-0; Herediano
-; Alajuelense  ; 0-1; Saprissa
+Leg: 2
 
-*Second Legs
-
-Date: 12/15/2007
-
-; Herediano    ; 1-0 (aet); Brujas  
-
-Date: 12/16/2007
-
-; Saprissa     ; 1-1; Alajuelense
+12/15/2007; Herediano    ; 1-0 (aet); Brujas  
+12/16/2007; Saprissa     ; 1-1; Alajuelense
 
 Round: Final
 
-*First Leg 
-Date: 12/19/2007
+Leg: 1
 
-; Herediano    ; 0-2; Saprissa
+12/19/2007; Herediano    ; 0-2; Saprissa
 ; Alonso Solis 40, Celso Borges 46
 
-*Second Leg 
-Date: 12/23/2007
+Leg: 2
 
-; Saprissa     ; 2-2; Herediano
+12/23/2007; Saprissa     ; 2-2; Herediano
 Try Bennet 3, José Villalobos 33; Marvin Angulo 45, Félix Montoya 90+5
 
 *NB: Saprissa Apertura champions
@@ -588,44 +576,37 @@ Date: 5/4/2008
 * 5.CS Cartaginés              16   4  5  7  14-19  17
 * 6.SD Santos                  16   3  5  8  16-20  14
 
+Stage: playoffs
 Round: Quarterfinals
+Leg: 1
 
-*First Legs 
-Date: 5/11/2008
+5/11/2008; UCR          ; 2-3; Brujas
+5/11/2008; Pérez Zeledón; 1-1; Herediano
 
-; UCR          ; 2-3; Brujas
-; Pérez Zeledón; 1-1; Herediano
+Leg: 2
 
-*Second Legs 
-Date: 5/14/2008
-
-; Brujas       ; 1-0; UCR
-; Herediano    ; 1-2; Pérez Zeledón
+5/14/2008; Brujas       ; 1-0; UCR
+5/14/2008; Herediano    ; 1-2; Pérez Zeledón
 
 Round: Semifinals
+Leg: 1
 
-*First Legs 
-Date: 5/18/2008
+5/18/2008; Pérez Zeledón; 0-0; Alajuelense
+5/18/2008; Brujas       ; 0-5; Saprissa
 
-; Pérez Zeledón; 0-0; Alajuelense
-; Brujas       ; 0-5; Saprissa
+Leg: 2
 
-*Second Legs 
-Date: 5/21/2008
-
-; Alajuelense  ; 5-3; Pérez Zeledón
-; Saprissa     ; 1-2; Brujas
+5/21/2008; Alajuelense  ; 5-3; Pérez Zeledón
+5/21/2008; Saprissa     ; 1-2; Brujas
 
 Round: Final
+Leg: 1
 
-*First Leg 
-Date: 5/25/2008
+5/25/2008; Saprissa     ; 1-0; Alajuelense
 
-; Saprissa     ; 1-0; Alajuelense
+Leg: 2
 
-*Second Leg 
-Date: 6/1/2008
-; Alajuelense  ; 0-1; Saprissa
+6/1/2008; Alajuelense  ; 0-1; Saprissa
 
 *NB: Saprissa Clausura champions
 

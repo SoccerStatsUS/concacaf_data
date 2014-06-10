@@ -213,24 +213,21 @@ Forfeit
 *10.Colón River FC        18  1  2 15  14-47   5  Excluded
 *[*] Sporting Coclé were renamed Sporting '89 before the season
 
+Stage: liguilla
 Round: Semifinals
+Leg: 1
 
-*First Legs 
-Date: 5/11/2005
+5/11/2005; Plaza Amador       ; 1-0; Tauro
+5/11/2005; Árabe Unido        ; 2-1; San Francisco
 
-; Plaza Amador       ; 1-0; Tauro
-; Árabe Unido        ; 2-1; San Francisco
+Leg: 2
 
-*Second Legs 
-Date: 5/15/2005
-
-; Tauro              ; 0-0; Plaza Amador
-; San Francisco      ; 1-2; Árabe Unido
+5/15/2005; Tauro              ; 0-0; Plaza Amador
+5/15/2005; San Francisco      ; 1-2; Árabe Unido
 
 Round: Final 
-Date: 5/21/2005
 
-; Árabe Unido        ; 1-3; Plaza Amador; Estadio Rommel Fernandez
+5/21/2005; Árabe Unido        ; 1-3; Plaza Amador; Estadio Rommel Fernandez
 Juan Carlos Riley 59og; Engie Mitre 45, César Aguilar 47, José Justavino 74
 
 *Plaza Amador Apertura 2005 champions.
@@ -469,35 +466,32 @@ Date: 10/26/2005
 * -.Colón River FC        withdrew or excluded
 
 Round: Semifinals
+Leg: 1
 
-*First Legs 
 Date: 10/30/2005
 
-; Tauro              ; 1-3; San Francisco
-; Alianza            ; 1-1; Atlético Veragüense
+10/30/2005; Tauro              ; 1-3; San Francisco
+10/30/2005; Alianza            ; 1-1; Atlético Veragüense
 
-*Second Legs
-Date: 11/5/2005
+Leg: 2
 
-; Atlético Veragüense; 2-1; Alianza
-
-Date: 11/6/2005
-
-; San Francisco      ; 1-0; Tauro
+11/5/2005; Atlético Veragüense; 2-1; Alianza
+11/6/2005; San Francisco      ; 1-0; Tauro
 
 Round: Final 
-Date: 11/12/2005
 
-; San Francisco      ; 2-0; Atlético Veragüense; Estadio Rommel Fernandez
+11/12/2005; San Francisco      ; 2-0; Atlético Veragüense; Estadio Rommel Fernandez
 Manuel Torres 4, José Garcés 89;
 
 *NB: first final for Atlético Veragüense since 12 years
 
-Round: Superfinal ANAPROF
+Stage: : Superfinal ANAPROF
+
 11/20/2005; San Francisco      ; 0-2; Plaza Amador; Estadio Rommel Fernandez; Rolando Vidal
 ; Ángel Lombardo 47, José Justavino 90+
 Plaza Amador: Andy Arrue; Leonel Parris, Juan Carlos Riley, Jaime Cox, Juan De la Cruz; César Aguilar (Luis Góndola 59), Engin Mitre, Jean McLean, David Arrue (Cristian Vega 73), Ángel Lombardo (Jonathan Bramwell 80), José Justavino
 San Francisco: William Negrete; Miguel Olivares, Santiago De Alba, Román Torres, Antonio Ortega; Víctor Herrera (Rodrigo Tello 75), Rubén Gamboa, Manuel Torres, Eduardo Jiménez (Víctor René  Mendieta, hijo 52), Héctor Nazarit, José Luis Garcés
+
 *   red cards:
 *     San Francisco: Cristian Vega 70 (direct);
 *     Plaza Amador: Román Torres 70 (direct), Juan Carlos Riley 79 (2 yellow),
@@ -526,12 +520,13 @@ San Francisco: William Negrete; Miguel Olivares, Santiago De Alba, Román Torres
 *-----------------------------------------------
 *10.Colón River FC        18  1  2 15  14-47   5  Excluded after Apertura
 
-Round: Promotion/Relegation Playoff
+Stage: : Promotion/Relegation Playoff
+Leg: 1
 
-*First Leg
 ; Sporting (Panama)          ; 1-0; Atalanta (Panama)
 
-*Second Leg
+Leg: 2
+
 ; Atalanta (Panama)           ; 1-2; Sporting (Panama)
 
 *Sporting remain at 1st level

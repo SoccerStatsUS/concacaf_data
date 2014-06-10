@@ -195,20 +195,21 @@ Date: 11/30/2003
 *10.Atlético Balboa         18  4  3 11 15-31 15
 *NB: Firpo qualified due to having best goal difference; San Salvador and Alianza play off for fourth playoff spot.
 
+Stage: playoff
 Round: Qualifying Playoff 
 
 12/3/2003; San Salvador  ; 0-1; Alianza 
 
 Round: Semifinals 
+Leg: 1
 
-*First Legs 
 12/7/2003; Alianza       ; 0-3; FAS
 ; William Reyes 1, William Reyes 46, William Reyes (pk) 60
 
 12/7/2003; Firpo         ; 1-1; Águila
 Víctor Merino 2; Alexander Amaya del Cid 51
 
-*Second Legs
+Leg: 2
 
 12/13/2003; FAS           ; 0-0; Alianza
 
@@ -219,12 +220,12 @@ Round: Final
 
 12/21/2003; FAS           ; 2-2 (aet); Águila     
 William Reyes 13, William Reyes 123; Ludwin Meraz 86, Alexander Campos 92
-* 5-3 pen]
+FAS: Luis Castro; Víctor Velásquez, Marvin González, Rafael Tobar; William Osorio, Ernesto Góchez (Messías 75), Cristian Álvarez (Reina 84), Gilberto Murgas, Alfredo Pacheco; William Reyes,Alejandro Bentos (Umaña 72); 
+Águila: Juan José Gómez; Marvin Benítez, Luis Almada, Jorge Rodríguez, Néstor Morales (Meraz 66); Kílmar Jiménez, Darío Larrosa, Anderson da Silva (Perla 73), Alexander Amaya; Alexander Campos, Pablo Medina (Romaña 113)
+Penalty kicks: 5-3
 *  [penalties:
 *   FAS: Reyes, Tobar, Murgas, Umaña, Pacheco (all scored)
 *   Águila: Larrosa, Amaya, Rodríguez (scored), Campos (missed)] 
-FAS: Luis Castro; Víctor Velásquez, Marvin González, Rafael Tobar; William Osorio, Ernesto Góchez (Messías 75), Cristian Álvarez (Reina 84), Gilberto Murgas, Alfredo Pacheco; William Reyes,Alejandro Bentos (Umaña 72); 
-Águila: Juan José Gómez; Marvin Benítez, Luis Almada, Jorge Rodríguez, Néstor Morales (Meraz 66); Kílmar Jiménez, Darío Larrosa, Anderson da Silva (Perla 73), Alexander Amaya; Alexander Campos, Pablo Medina (Romaña 113)
 
 
 Season: 2003-2004 Clausura
@@ -441,7 +442,7 @@ Date: 5/16/2004
 ; Isidro-Metapán; 1-2; Firpo
 ; Limeño        ; 1-1; Alianza
 
-*Final Table:
+
 * 1.CD FAS                  18  9  8  1 34-16 35  Qualified
 * 2.Luis Ángel Firpo        18  9  4  5 27-19 31  Qualified
 * 3.Alianza FC              18  8  5  5 31-21 29  Qualified
@@ -453,14 +454,16 @@ Date: 5/16/2004
 * 8.CD Chalatenango         18  4  9  5 20-23 21
 * 9.CD Arcense              18  4  6  8 16-23 18
 *10.San Salvador FC         18  2  4 12 18-39 10
- 
-Round: Semifinals
 
-*First Legs 
+Stage: playoffs 
+Round: Semifinals
+Leg: 1
+
 5/23/2004; Águila        ; 2-3; FAS
 5/23/2004; Alianza       ; 1-1; Firpo
 
-*Second Legs 
+Leg: 2
+
 5/30/2004; FAS           ; 1-0; Águila
 5/30/2004; Firpo         ; 2-3; Alianza
 
@@ -468,12 +471,12 @@ Round: Final
 
 6/6/2004; FAS           ; 1-1 (aet); Alianza       
 Velásquez 110; Espíndola 115
-* 2-3 pen
+FAS: Luis Castro; Víctor Velásquez, Marvin González, Marcelo Messías; William Osorio (Cristian Álvarez 66), Gilberto Murgas, Alfredo Pacheco (Emerson Umaña, 53), Víctor Mafla (Ramón Flores 102), Ernesto Góchez; Bentos, Reyes;
+Alianza: Miguel Montes; Wálter Álvarez, Mario Guevara, Luis Espíndola,  Bladimir Cubías (Danilo Martínez 23); Alejandro Curbelo, Rafael Barrientos, Mario Quintanilla (Óscar Navarro 45), Nelson Nerio; Martín García, Ariel Fontela (Alex Erazo 70)
+Penalty kicks: 2-3
 *  [penalties:
 *   FAS: Reyes (missed), Góchez, Umaña, González (missed), Murgas (missed) 
 *   Alianza: García, Navarro, Erazo (missed), Montes (missed), Curbelo] 
-FAS: Luis Castro; Víctor Velásquez, Marvin González, Marcelo Messías; William Osorio (Cristian Álvarez 66), Gilberto Murgas, Alfredo Pacheco (Emerson Umaña, 53), Víctor Mafla (Ramón Flores 102), Ernesto Góchez; Bentos, Reyes;
-Alianza: Miguel Montes; Wálter Álvarez, Mario Guevara, Luis Espíndola,  Bladimir Cubías (Danilo Martínez 23); Alejandro Curbelo, Rafael Barrientos, Mario Quintanilla (Óscar Navarro 45), Nelson Nerio; Martín García, Ariel Fontela (Alex Erazo 70)
 
 
 *Aggregate Table:
@@ -492,19 +495,17 @@ Alianza: Miguel Montes; Wálter Álvarez, Mario Guevara, Luis Espíndola,  Bladi
 * NB: Chalatenango and San Salvador play off against 9th place;  the losers play the second level runners-up in a promotion/ relegation playoff
 
 Round: Playoff Against Ninth Place 
-Date: 5/22/2004
 
-; Chalatenango  ; 2-3; San Salvador
+5/22/2004; Chalatenango  ; 2-3; San Salvador
 
 Round: Promotion/Relegation Playoff
+Leg: 1
 
-*First Leg 
-Date: 6/1/2004
-; Once Lobos    ; 2-2; Chalatenango
- 
-*Second Leg 
-Date: 6/5/2004
-; Chalatenango  ; 0-1; Once Lobos
+6/1/2004; Once Lobos    ; 2-2; Chalatenango
+
+Leg: 2 
+
+6/5/2004; Chalatenango  ; 0-1; Once Lobos
  
 *Chalatenango relegated
 

@@ -379,8 +379,7 @@ Date: 6/3/2009
 ; Veragüense      ; 0-1; Tauro 
 ;  Rolando Manrique Blackburn 3
 
-* Final Table:
-* 
+
 *  1.Tauro FC                18 10  6  2  40-23  36  Qualified
 *  2.Atlético Chiriquí       18 10  3  5  35-19  33  Qualified
 *  3.San Francisco FC        18 10  3  5  29-16  33  Qualified
@@ -394,35 +393,33 @@ Date: 6/3/2009
 * 10.CD Plaza Amador         18  2  1 15  13-56   7
 
 
+Stage: playoffs
 Round: Semifinals
+Leg: 1
 
-* First Legs 
-Date: 6/6/2009
-
-; San Francisco   ; 0-1; Chiriquí
+6/6/2009; San Francisco   ; 0-1; Chiriquí
 ; Auriel Antonio Gallardo 3
 
-; Chorrillo       ; 3-1; Tauro
+6/6/2009; Chorrillo       ; 3-1; Tauro
 Angel Lombardo 31, Johnny Ruiz 38, Bernardo Palma 85; Edwin Aguilar 45
 
-* Second Legs 
-Date: 6/10/2009
+Leg: 2
 
-; Chiriquí        ; 1-3; San Francisco   
+6/10/2009; Chiriquí        ; 1-3; San Francisco   
 Clive Trottman 76; Ricardo Philips 12, Brunet Hay Pino 47, Boris Alfaro 55
 
-; Tauro           ; 0-3; Chorrillo
+6/10/2009; Tauro           ; 0-3; Chorrillo
 ; Johnny Ruíz 60, Johnny Ruiz 82, Renan Addles 76
 
 Round: Final 
-Date: 6/13/2009
 
 6/13/2009; San Francisco   ; 0-0 (aet); Chorrillo       ; Estadio Agustin Muquita Sanchez; Jaffet Perea; Benigno Paneso, Hairo Fuentes
 San Francisco: Erick Hugues (William Cliff Negrete 119); Miguel Olivares, Alberto Manotas, Rolando Algandona, Wess Torres, Manuel Torres, Ricardo Amor (Juan Ramón Solìs 68), Vìctor Manuel Herrera Piggott,  Ricardo Phillips, Brunet Hay Pino, Temìstocles Pérez (Amir White 58)
 Chorrillo: Diego Armando Mosquera; Dereck James, César Blackman,   Cristián Vergara, Marco Villarreal, Caio José Milan, Juan Carlos Riley, Engie Alberto Mitre, Alberto Lombardo (Renán Addles 46, Bernardo Palma 112), Johnny Ruiz, Alcibíades Rojas (Julio Medina III 62)
 *   yellow cards: 30 Alberto Lombardo (Ch), 70 Rolando Algandona (SF), 80 Engie Alberto Mitre (Ch), 97 Juan Carlos Riley (ch); 
 Red Card: Rolando Algandona
-*[aet, 5-4 pen]
+Penalty kicks: 5-4
+
 *  [penalties: Herrera Piggott (miss) 0-0, Mitre (held)      0-0;
 *              Hay Pino (held)        0-0, Milan             0-1;
 *              W. Torres              1-1, Johnny Ruiz (bar) 1-1;
@@ -432,10 +429,9 @@ Red Card: Rolando Algandona
 *              White                  4-3, Medina III        4-4;
 *              Phillips               5-4, Blackman (miss)   5-4]
 
+
 Season: 2009-2010 Clausura
 
-
-* 
 *  1.CD Árabe Unido          18 11  5  2  28-12  38  Qualified
 *  2.Atlético Chiriquí       18 11  2  5  36-26  35  Qualified
 *  3.Tauro FC                18  9  5  4  38-22  32  Qualified
@@ -843,26 +839,20 @@ Date: 11/22/2009
 * 10.Alianza FC              18  1  6 11  12-36   9
 
 Round: Semifinals
+Leg: 1
 
-* First Legs 
-Date: 11/28/2009
-
- ; Tauro           ; 3-0; Chiriquí
+11/28/2009 ; Tauro           ; 3-0; Chiriquí
 Luis Fernando Escobar 25, Luis Fernando Escobar 39, Luis Fernando Escobar 72;
 
-; Chorrillo       ; 3-0; Árabe Unido 
+11/28/2009; Chorrillo       ; 3-0; Árabe Unido 
 Johnny Ruiz 15, Johnny Ruiz 47, Alcibiades Rojas 77;
 
-* Second Legs 
+Leg: 2
 
-Date: 12/5/2009
-
-; Chiriquí        ; 4-4; Tauro   
+12/5/2009; Chiriquí        ; 4-4; Tauro   
 Auriel Gallardo 10, Davis Granado 56, Gabriel Avila 62, Javier Mercado 65; Ricardo Amor 9, Luis Carlos Tejada 41, Luis Carlos Tejada 59, Temistocles Pérez 90
 
-Date: 12/6/2009
-
-; Árabe Unido     ; 4-0 (aet); Chorrillo 
+12/6/2009; Árabe Unido     ; 4-0 (aet); Chorrillo 
 Orlando Rodríguez 24, Víctor René Mendieta 28, Alejandro Vélez 43, Camilo Aguirre 113;
 
 Round: Final 
@@ -872,7 +862,6 @@ Victor René Mendieta 14, Nahir Carroll 77, Orlando Rodríguez 89; Temistocles P
 
 
 * Aggregate Table:
-* 
 *  1.Tauro FC                36 19 11  6  78-45  68
 *  2.Atlético Chiriquí       36 21  5 10  71-45  68
 *  3.CD Árabe Unido          36 18  9  9  57-36  63
@@ -885,30 +874,23 @@ Victor René Mendieta 14, Nahir Carroll 77, Orlando Rodríguez 89; Temistocles P
 * - - - - - - - - - - - - - - - - - - - - - - - - -
 * 10.Alianza FC              36  3 11 22  34-79  20  Relegation Playoff
 
-*Round: Promotion/Relegation Playoff
-Round: p/r
+Stage: Promotion/Relegation Playoff
+Leg: 1
 
-* First Leg
 12/16/2009; Alianza         ; 1-1; Río Abajo; Ciudad Deportiva Irving Saladino
 Francisco López; Jefferson Viveros
 
-* Second Leg
+Leg: 2
+
 12/19/2009; Río Abajo       ; 0-1; Alianza; Ciudad Deportiva Irving Saladino
 ; William Aguilar 90+1
 
 * NB: Alianza remain at 1st level
 
 
-
-
-* About this document
-* 
 * With thanks to Mikael Jönsson
-* 
 * Prepared and maintained by Javier Aizpurúa for the Rec.Sport.Soccer Statistics Foundation
-* 
 * Author: Javier Aizpurúa
 * Last updated: 6 Mar 2008
-* 
 * (C) Copyright Javier Aizpurúa and RSSSF 1998/2008
 * You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved. 

@@ -1,12 +1,11 @@
 BlockSource: http://www.rsssf.com/tablesp/panama07.html
 Competition: Liga Panameña de Fútbol
+Season: 2007 Apertura
 
 *NB: starting from this season there is no playoff between the
 *    Apertura and Clausura winners, but two championships are
 *    awarded each year.
 
-
-Season: 2007 Apertura
 
 * 1.Tauro FC                18 11  5  2  37-15  38  Qualified
 * 2.CD Árabe Unido          18  9  3  6  26-20  30  Qualified
@@ -276,26 +275,21 @@ Date: 5/13/2007
 *[*] Sporting '89 returned to their former name Sporting San Miguelito
 
 Round: Semifinals
+Leg: 1
 
-*First Legs 
-Date: 5/16/2007
-
-; San Francisco   ; 1-1; Árabe Unido
+5/16/2007; San Francisco   ; 1-1; Árabe Unido
 Manuel Torres 38; Eduardo McTaggart 20
 
-; Municipal Chorrillo ; 0-1; Tauro
+5/16/2007; Municipal Chorrillo ; 0-1; Tauro
 ; Edwin Aguilar 84
 
-*Second Legs
-Date: 5/19/2007
+Leg: 2
 
-; Árabe Unido     ; 1-1 (aet); San Francisco        
+5/19/2007; Árabe Unido     ; 1-1 (aet); San Francisco        
 Fausto Scolaro 79; Temístocles Pérez (pk) 82
-*[aet, 0-3 pen]
+Penalty kicks: 0-3
 
-Date: 5/20/2007
-
-; Tauro           ; 1-1; Municipal Chorrillo
+5/20/2007; Tauro           ; 1-1; Municipal Chorrillo
 Rolando Escoba 87; Jhony Ruiz 32
 
 Round: Final 
@@ -304,10 +298,8 @@ Round: Final
 Alberto Skinner 41, Juan de Dios Pérez 79;
 Tauro: Oscar McFarlane; Eduardo Dasent, Rolando Palma, Carlos Rivera, Luis Henríquez; Williams Aguilar (Brunet Hay 78), Juan de Dios Pérez, Joan Melo, Rolando Escobar (Juan Cubilla 67); Alberto Skinner (Héctor Nazarith 87), Edwin Aguilar
 San Francisco: William Negrete; Santiago Alba, Gilberto Walter, Rolando Algandona (Jaime Girón 73), Marcos Aparicio; Wess Torres (Jair Carrasquilla 60), Antonio Ortega, Manuel Torres, Ricardo Phillips; José Justavino, Temístocles Pérez
-*   yellow cards: Tauro: Luis Henríquez, Eduardo Dasent, Rolando Palma,
-*                        Williams Aguilar y Rolando Escobar;
-*                 San Francisco: Ricardo Phillips, José Justavino;
 Red Card: Jaime Giron 89
+*   yellow cards: Tauro: Luis Henríquez, Eduardo Dasent, Rolando Palma, Williams Aguilar y Rolando Escobar; San Francisco: Ricardo Phillips, José Justavino;
 
 
 Season: 2007 Clausura
@@ -669,7 +661,7 @@ Date: 11/7/2007
 
 ; Municipal Chorrillo ; 2-0; San Francisco  
   Johny Ruiz, Jair Medina (pk);
-*replacy
+*replay
 
 Round: 18 
 Date: 11/10/2007
@@ -705,23 +697,21 @@ Date: 11/10/2007
 *    are required by the regulations), the second level is not played and
 *    there will be no promotion or relegation at the end of the 2007 season.
 
+Stage: liguilla
 Round: Semifinals
+Leg: 1
 
-*First Legs 
-Date: 11/18/2007
-
-; Municipal Chorrillo ; 0-1; San Francisco
+11/18/2007; Municipal Chorrillo ; 0-1; San Francisco
 ;  Antonio Ortega 90
 
-; Tauro           ; 0-1; Árabe Unido
+11/18/2007; Tauro           ; 0-1; Árabe Unido
 ;  Manuel Mosquera 33
 
-*Second Legs 
-Date: 11/23/2007
+Leg: 2
 
-; San Francisco   ; 0-1; Municipal Chorrillo      
+11/23/2007; San Francisco   ; 0-1; Municipal Chorrillo      
 ;  Julio Medina 54
-*[4-3 pen]
+Penalty kicks: 4-3
 *  [penalties: Marco Villarreal (held) 0-0, José Darío Julio (missed)  0-0;
 *              Roberto Steward (held)  0-0, Eduardo Jiménez            1-0;
 *              Jean Carlo Cedeño       1-1, José Omar Justavino (post) 1-1;
@@ -730,21 +720,19 @@ Date: 11/23/2007
 *              Christian Vergara (bar) 3-3, Jair Carrasquilla (held)   3-3;
 *              Lionel Parrish (missed) 3-3, Víctor Manuel Suárez       4-3]
 
-Date: 11/25/2007
-
-; Árabe Unido     ; 0-0; Tauro
+11/25/2007; Árabe Unido     ; 0-0; Tauro
 
 Round: Final
 
 12/2/2007; San Francisco   ; 0-0 (aet); Árabe Unido; Estadio Nacional Rod Carew
-*4-2 pen]
+San Francisco: William Negrete; Miguel Angel Olivares, Rolando Algandona, Santiago De Alba, Wess Torres, Eduardo Jiménez, Manuel Torres, José Darío Julio, Alberto Enrique Blanco, Juan Ramón Solís, José Omar Justavino (Marcos Aparicio 72)
+Árabe Unido: Marcos Casagrande (Andy Arrue 12); Reynaldo Anderson (Eduardo McTaggart 96), Marvin Mitchell, Reinaldo Lewis, Ricardo Lozano, Nahír Carroll, Juan Carlos Riley, Armando Cooper (Alberto Cerezo 105), David Daniels, Nelson Barahona, Manuel Mosquera
+Penalty kicks: 4-2
 *  [penalties: José Julio             1-0, Eduardo McTaggart     1-1;
 *              Eduardo Jiménez        2-1, Ricardo Lozano (held) 2-1;
 *              Juan Ramón Solís (bar) 2-1, Nelson Barahona       2-2;
 *              Santiago de Alba       3-2, Nahil Carrol (post)   3-2;
 *              Alberto Blanco         4-2]
-San Francisco: William Negrete; Miguel Angel Olivares, Rolando Algandona, Santiago De Alba, Wess Torres, Eduardo Jiménez, Manuel Torres, José Darío Julio, Alberto Enrique Blanco, Juan Ramón Solís, José Omar Justavino (Marcos Aparicio 72)
-Árabe Unido: Marcos Casagrande (Andy Arrue 12); Reynaldo Anderson (Eduardo McTaggart 96), Marvin Mitchell, Reinaldo Lewis, Ricardo Lozano, Nahír Carroll, Juan Carlos Riley, Armando Cooper (Alberto Cerezo 105), David Daniels, Nelson Barahona, Manuel Mosquera
 
 *Prepared and maintained by Adán De Gracia for the Rec.Sport.Soccer Statistics Foundation
 *Author: Adán De Gracia (adandg@hotmail.com) 

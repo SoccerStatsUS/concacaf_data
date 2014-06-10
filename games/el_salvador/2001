@@ -159,8 +159,6 @@ Round: 18
 ; ADET      ; 2-3; Marte
 ; Dragon    ; 0-1; Municipal
 
-*Table:
-*
 * 1.Alianza FC             18 12  4  2 42-23 40
 * 2.Luis Ángel Firpo       18  9  6  3 36-21 33
 * 3.CD Águila              18  9  5  4 49-26 32 
@@ -174,13 +172,16 @@ Round: 18
 *10.Atlético Marte         18  1  6 11 16-41  9  
 *Top-4 enter playoffs for Apertura title.
 
+Stage: playoffs
 Round: Semifinals 
+Leg: 1
 
-*First Legs [Dec 9]
 12/9/2001; Municipal ; 2-2; Alianza
 12/9/2001; Aguila    ; 2-2; Firpo      
 
-*Second Legs [Dec 16?]
+Leg: 2
+*[Dec 16?]
+
 12/16/2001; Firpo     ; 1-1; Aguila
 12/16/2001; Alianza   ; 0-0; Municipal
 
@@ -375,21 +376,24 @@ Round: 18
 *[*] AD El Tránsito (ADET) were renamed San Salvador FC
 *NB: Marte had 3 points deducted for having 5 players sent off in round 5
 
+Stage: playoffs
 Round: Fourth Place
 
 5/8/2002; Isidro    ; 0-2; FAS; San Salvador, El Salvador
 
 Round: Semifinals
+Leg: 1
 
-*First Legs 
 5/12/2002; Municipal ; 0-1; Alianza   ; La Union, El Salvador
 5/15/2002; FAS       ; 2-1; Aguila     ; Santa Ana, El Salvador
 
-*Second Legs
+Leg: 2
+
 5/18/2002; Aguila    ; 4-4; FAS; San Miguel, El Salvador
 5/19/2002; Alianza   ; 0-0; Municipal; San Salvador, El Salvador
 
 Round: Final
+
 5/26/2002; Alianza   ; 0-4; FAS; San Salvador, El Salvador
 ; William Reyes 25, William Reyes 29, Victor Velasquez 42, Alejandro de la Cruz 55
 
