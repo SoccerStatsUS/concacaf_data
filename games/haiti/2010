@@ -32,13 +32,13 @@ Date: 7/31/2010
 Date: 8/1/2010
 
 ; América       ; 1-0; Eclair
-  Jonhson Jeanbon
+  Jonhson Jeanbon;
 
 ; Racing G      ; 0-0; Cavaly
 
 ; Mirebalais    ; 0-0; AS Capoise
 
-;; St-Louis;       1-1 Violette
+; St-Louis;       1-1; Violette
   Kelly Rivière; Alexandre Boursicot
 
 ; Aigle Noir    ; 0-0; Dynamite
@@ -49,7 +49,7 @@ Date: 8/1/2010
 Date: 8/19/2010
 
 ; Tempête       ; 1-0; Racing CH 
-  Changlet Cadet
+  Changlet Cadet;
 
 Round: 2
 Date: 8/4/2010
@@ -57,67 +57,67 @@ Date: 8/4/2010
 ; Victory       ; 0-0; Mirebalais
 
 ; Carrefour     ; 4-1; América
-  Angelot Dieujuste (2), Fritz Junior, Fabio Testi;
-   Kens Germain
+  Angelot Dieujuste, Angelot Dieujuste, Fritz Junior, Fabio Testi; Kens Germain
 
 ; Violette      ; 1-2; Tempête
   Yvener Guerrier; Charles Hérold Jr, Changler Cadet
  
 ; Dynamite      ; 2-0; Racing G     
-  Aviol Eliassaint (2)
+  Aviol Eliassaint, Aviol Eliassaint;
 
 Date: 8/5/2010
 
 ; Cavaly        ; 0-2; Aigle Noir
-  Anson Cadet, Wedson Anselme
+;  Anson Cadet, Wedson Anselme
 
 ; Eclair        ; 3-2; Baltimore
-  Albert Elisée (3); Luxène Elistin, Peter Germain
+  Albert Elisée, Albert Elisée, Albert Elisée; Luxène Elistin, Peter Germain
 
 ; AS Capoise    ; 0-0; Don Bosco
 
 ; Racing CH     ; 1-0; St-Louis 
-  Crisiano François
+  Crisiano François;
 
- 
 Round: 3
-
 Date: 8/7/2010
 
 ; Carrefour     ; 1-1; Violette
   Angelot Dieujuste; Eve Junior
 
-
 Date: 8/8/2010
 
 ; Cavaly        ; 0-1; Eclair
-  Bertrand Kensley (Bertrand Demsley?)
+;  Bertrand Kensley
+* (Bertrand Demsley?)
 
-;; St-Louis;       0-0 Tempête  
+; St-Louis;       0-0; Tempête  
 
 ; AS Capoise    ; 2-0; Dynamite
-  Reynaldo Gustave, Wilfrid Joseph
+  Reynaldo Gustave, Wilfrid Joseph;
 
 ; Racing G      ; 0-1; Mirebalais
-  Marc André Jean-Baptiste (Samuel Desroches?)
+;  Marc André Jean-Baptiste 
+*(Samuel Desroches?)
 
 *Victory        abd Racing CH      [abandoned at 2-0 due to rain]
-*América        awd Baltimore      [awarded 0-3, América refused to
+*América        awd Baltimore      [awarded 0-3, América refused to 
+*Baltimore changing kits]
 
 Date: 8/9/2010
 
-; Don Bosco     ; 1-2; Aigle Noir      Baltimore changing kits]
+; Don Bosco     ; 1-2; Aigle Noir      
   Teddy Saget; Wedson Anselme, Peterson Clénord
 
-; Victory       ; 1-0; Racing CH      [replay] 
-  Léonel Saint-Preux
+; Victory       ; 1-0; Racing CH      
+Léonel Saint-Preux;
+Replay
+
 
 Round: 4
 Date: 8/13/2010
 
 ; Victory       ; 3-1; Racing G
-  Gaspard Jean-Baptiste 2, Anderson Tcha Beauvais 24,
-   Ricardo Charles 90; Ben Cius 4
+  Gaspard Jean-Baptiste 2, Anderson Tcha Beauvais 24, Ricardo Charles 90; Ben Cius 4
 
 Date: 8/14/2010
 
@@ -125,7 +125,7 @@ Date: 8/14/2010
   Fritznel Louis 82; Cristiano François 88
 
 ; Aigle Noir    ; 0-1; AS Capoise
-  Jackson Jean
+;  Jackson Jean
 
 Date: 8/15/2010
 
@@ -134,46 +134,46 @@ Date: 8/15/2010
 ; Eclair        ; 1-1; St-Louis
 
 ; Tempête       ; 2-1; Carrefour 
-  Vaniel, Belfort; ?
+  Vaniel, Belfort;
 
 ; Don Bosco     ; 0-3; Cavaly   
-  Kimberly François (3)
+;  Kimberly François, Kimberly François, Kimberly François
 
 ; América       ; 1-0; Violette    
-  Jean Gary Lubin
+  Jean Gary Lubin;
 
 Round: 5
 Date: 8/21/2010
 
 ; Baltimore     ; 1-0; AS Capoise
-  Peter Germain 55
+  Peter Germain 55;
 
 Date: 8/22/2010
 
 ; Racing G      ; 1-0; Violette 
-  Jacqueson Jean 24
+  Jacqueson Jean 24;
 
-;; St-Louis;       1-1 Carrefour 
+; St-Louis;       1-1; Carrefour 
   Kervens François 89; Monumat Constant Junior 54
 
 ; Tempête       ; 1-1; Dynamite
   Jean Ernst Ernest 90+4; St-Jean Arnold 78
 
 ; Mirebalais    ; 1-0; Cavaly
-  Jean Baptiste Mc André 2
+  Jean Baptiste Mc André 2;
 
 ; América       ; 1-0; Victory 
-  Rubin Jn Garry 54
+  Rubin Jn Garry 54;
 
 Date: 9/1/2010
 
 ; Don Bosco     ; 0-2; Eclair
-  Wilson Abellard 7, 41
+; Wilson Abellard 7, Wilson Abellard 41
 
 Date: 9/2/2010
 
 ; Racing CH     ; 1-1; Aigle Noir 
-  Darlin Thoby 1-0; Johnny Joseph 1-1
+  Darlin Thoby ; Johnny Joseph
 
 Round: 6 
 Date: 8/25/2010
@@ -207,10 +207,10 @@ Date: 8/29/2010
 ; Jean Julien Fresnel
 
 ; Racing CH     ; 1-0; Mirebalais     
-Darlin Thoby
+Darlin Thoby;
 
 ; Baltimore     ; 1-0; Dynamite
-  Peter Germain (pk)
+  Peter Germain (pk);
 
 Date: 8/30/2010
 
@@ -221,28 +221,28 @@ Round: 8
 Date: 9/3/2010
 
 ; Violette      ; 0-1; AS Capoise
-  Jacqueson Jean (pk)
+;  Jacqueson Jean (pk)
 
 Date: 9/4/2010
 
 ; Tempête       ; 1-0; Don Bosco
-  Thompson Amius
+  Thompson Amius;
 
 Date: 9/5/2010
 
 ; América       ; 1-0; Racing G
-  Cassandy Saint-Sauveur
+  Cassandy Saint-Sauveur;
 
 ; Dynamite      ; 1-0; Eclair 
 
 ; Cavaly        ; 0-1; Victory 
-  Ricardo Charles
+;  Ricardo Charles
 
 ; Aigle Noir    ; 1-0; Baltimore 
-  Johnny Joseph
+  Johnny Joseph;
 
-;; St-Louis;       1-0 Mirebalais 
-  Kelly Rivert
+; St-Louis;       1-0; Mirebalais 
+  Kelly Rivert;
 
 Date: 9/6/2010
 
@@ -252,44 +252,43 @@ Round: 9
 Date: 9/10/2010
 
 ; Don Bosco     ; 0-1; Baltimore
-  Serge Louis
+;  Serge Louis
 
 Date: 9/11/2010
 
 ; Eclair        ; 0-0; AS Capoise
 
 ; Dynamite      ; 0-2; Cavaly 
-  Kimberly Francois, Harold Milor
+;  Kimberly Francois, Harold Milor
 
 Date: 9/12/2010
 
 ; Tempête       ; 3-2; Aigle Noir
-  Kervens Fils Belfort, Thompson Amius, Vaniel Sirin;
-   Delsa Jean Jourdain, Johnny Joseph
+  Kervens Fils Belfort, Thompson Amius, Vaniel Sirin; Delsa Jean Jourdain, Johnny Joseph
 
 ; Mirebalais    ; 0-0; América
 
 ; Racing CH     ; 1-0; Violette
-  Darlin Thoby
+  Darlin Thoby;
 
 ; Racing G      ; 1-0; St-Louis       
-  Jackson Pierre
+  Jackson Pierre;
 
 ; Carrefour     ; 2-1; Victory 
-  Angelo Dieujuste, Monuma Constant Junior; ?
+  Angelo Dieujuste, Monuma Constant Junior;
 
 Round: 10
 Date: 9/15/2010
 
 ; Mirebalais    ; 1-3; Tempête
-  Fébert Fédé; Chedlain Francoeur, Thompson Amius (2)
+  Fébert Fédé; Chedlain Francoeur, Thompson Amius, Thompson Amius
 
 ; Eclair        ; 0-2; Violette
 
 ; Cavaly        ; 0-0; Carrefour
 
-;; St-Louis;       2-1 Don Bosco
-  Noël Sylvestre (pen), Fertyl Mackenson; Jean Jackinto
+; St-Louis;       2-1; Don Bosco
+  Noël Sylvestre (pk), Fertyl Mackenson; Jean Jackinto
 
 ; AS Capoise    ; 1-0; Racing CH 
 
@@ -301,7 +300,7 @@ Date: 9/15/2010
 Date: 9/16/2010
 
 ; Aigle Noir    ; 2-1; América
-  Wedson Anselme, Fritzson Jean-Baptiste; ?
+  Wedson Anselme, Fritzson Jean-Baptiste;
 
 Round: 11
 Date: 9/18/2010
@@ -313,7 +312,7 @@ Date: 9/19/2010
 
 ; América       ; 1-1; Tempête
 ; Carrefour     ; 1-1; Eclair
-;; St-Louis;       0-1 Baltimore
+; St-Louis;       0-1; Baltimore
 ; Don Bosco     ; 0-2; Racing G
 ; Dynamite      ; 0-1; Racing CH
 
@@ -333,50 +332,49 @@ Date: 9/26/2010
   Michael Jean, Emmanuel Jean; Angelot Dieujuste
 
 ; Mirebalais    ; 1-1; Don Bosco
-  Roberts Sainttilus 75pen; Jean Jackinto 45
+  Roberts Sainttilus (pk) 75; Jean Jackinto 45
 
 ; Violette      ; 2-1; Dynamite 
 
 ; Racing G      ; 0-1; Aigle Noir     
-  Wedson Anselme
+;  Wedson Anselme
 
 ; Baltimore     ; 0-2; Tempête      
-  Mackendy Duvergé 41, 45
+; Mackendy Duvergé 41, Mackendy Duvergé 45
 
 ; América       ; 1-0; St-Louis       
-  Kens Germain 37
+  Kens Germain 37;
 
 Round: 13
 Date: 9/28/2010
 
 ; Racing CH     ; 0-1; Don Bosco      
-  Jimmy Sara 83
+;  Jimmy Sara 83
 
 Date: 9/29/2010
 
 ; Carrefour     ; 1-0; Racing G       
-  Wilky Petit-Homme 21
+  Wilky Petit-Homme 21;
 
 ; AS Capoise    ; 1-1; St-Louis       
   Jackson Jean; Réginald David
 
 ; Cavaly        ; 0-3; Baltimore      
-  Peter Germain (2), Fritznel Louis
+;  Peter Germain, Peter Germain, Fritznel Louis
 
 ; Eclair        ; 0-1; Aigle Noir     
-  Fritzson Jean-Baptiste
+;  Fritzson Jean-Baptiste
 
 ; Dynamite      ; 0-1; América        
-  Marcelin Dominique
+;  Marcelin Dominique
 
 ; Violette      ; 1-1; Mirebalais     
-  ?; Fédé Fébert
+  ; Fédé Fébert
 
 Date: 9/30/2010
 
 ; Victory       ; 0-3; Tempête        
-  Mackendy Duverger 16, Hérold Junior Charles 81,
-   Changler Cadet 83
+; Mackendy Duverger 16, Hérold Junior Charles 81, Changler Cadet 83
 
 Round: 14
 Date: 10/2/2010
@@ -390,7 +388,7 @@ Date: 10/3/2010
 ; Tempête       ; 3-0; Eclair               
 ; Mirebalais    ; 0-0; Carrefour                    
 ; Racing G      ; 0-0; AS Capoise                   
-;; St-Louis;       4-2 Cavaly         
+; St-Louis;       4-2; Cavaly         
 
 Date: 10/4/2010
 
@@ -457,13 +455,13 @@ Round: 1
 Date: 10/22/2010
 
 ; Violette      ; 1-3; St-Louis       
-  Luxene Elestin (pen); Alexandre Wiskens (2), Fertyl Markenson
+  Luxene Elestin (pk); Alexandre Wiskens, Alexandre Wiskens, Fertyl Markenson
 
 Date: 10/23/2010
 
-; Victory       ; 2-2; Don Bosco      [abandoned at 2-2 due to power cut; result stood]
-  Beauvais Anderson Cha,          
-   Milien Fritz; Samuel Desroches, Ednerson Raymond
+; Victory       ; 2-2; Don Bosco      
+  Beauvais Anderson Cha, Milien Fritz; Samuel Desroches, Ednerson Raymond
+Notes: abandoned at 2-2 due to power cut; result stood
 
 Date: 10/24/2010
 
@@ -487,7 +485,7 @@ Date: 10/31/2010
 ; Racing G      ; 1-0; Dynamite       
 ; Baltimore     ; 3-1; Eclair         
 ; Don Bosco     ; 1-2; AS Capoise     
-;; St-Louis;       1-0 Racing CH      
+; St-Louis;       1-0; Racing CH      
 
 Round: 3
 Date: 11/9/2010
@@ -495,14 +493,14 @@ Date: 11/9/2010
 ; Aigle Noir    ; 0-0; Don Bosco      
 
 ; Dynamite      ; 1-1; AS Capoise     
-  Hervé Bénèche 1-0; Alain Gustave 1-1
+  Hervé Bénèche; Alain Gustave
 
 Date: 11/10/2010
 
 ; Baltimore     ; 0-0; América        
 
 ; Violette      ; 2-2; Carrefour      
-  Luxène Elestin, Mondésir; Wilcky Petit-homme (2)
+  Luxène Elestin, Mondésir; Wilcky Petit-homme, Wilcky Petit-homme
 
 ; Eclair        ; 0-0; Cavaly         
 
@@ -516,35 +514,34 @@ Round: 4
 Date: 11/13/2010
 
 ; Violette      ; 0-2; América        
-  Marvens Dominique, Kens Germain
+;  Marvens Dominique, Kens Germain
 
 ; Cavaly        ; 0-0; Don Bosco      
 
 Date: 11/14/2010
 
-;; St-Louis;       0-0 Eclair         
+; St-Louis;       0-0; Eclair         
 
 ; Carrefour     ; 2-1; Tempête        
-  Jean-Charles Testi Fabio 1-0, Angelo Dieujuste 2-1;
-   Grégory J. Grand-Pierre 1-1
+  Jean-Charles Testi Fabio, Angelo Dieujuste; Grégory J. Grand-Pierre
 
 ; Dynamite      ; 0-1; Mirebalais     
-  Ultherguens Saint-Victor
+;  Ultherguens Saint-Victor
 
 ; Racing CH     ; 2-1; Baltimore      
-  Jeff Théodore, Dor Frantzdy; Peter Germain (pen)
+  Jeff Théodore, Dor Frantzdy; Peter Germain (pk)
 
 ; AS Capoise    ; 2-1; Aigle Noir     
   Antoine Sardouin, Alain Gustave; Fritzson Jean-Baptiste
 
 ; Racing G      ; 0-1; Victory     
-  Bony Pierre
+;  Bony Pierre
    
 Round: 5
 Date: 11/19/2010
 
 ; Violette      ; 2-0; Racing G       
-  Yvener Guerrier (2, 1 pen)
+  Yvener Guerrier, Yvener Guerrier (pk);
 
 Date: 11/20/2010
 
@@ -558,13 +555,14 @@ Date: 11/21/2010
 *[remaining time]
 
 ; Eclair        ; 0-2; Don Bosco   
-  Jimmy Sara, Ednerson Raymond
+;  Jimmy Sara, Ednerson Raymond
    
 ; Carrefour     ; 3-1; St-Louis       
+
 ; Dynamite      ; 1-1; Tempête        
 
 ; AS Capoise    ; 1-0; Baltimore      
-  Sandro Doréus
+  Sandro Doréus;
 
 ; Victory       ; 3-1; América        
 
@@ -576,7 +574,8 @@ Date: 11/24/2010
 Date: 11/25/2010
 
 ; Don Bosco     ; 0-1; América        
-  [Wolf Dumé]
+; Wolf Dumé
+
 ; Cavaly        ; 2-0; AS Capoise     
 
 Date: 11/26/2010
@@ -584,7 +583,7 @@ Date: 11/26/2010
 ; Victory       ; 1-0; Violette       
 Bony Pierre;
 
-;; St-Louis;       0-0 Aigle Noir     
+; St-Louis;       0-0; Aigle Noir     
 ; Baltimore     ; 0-0; Mirebalais     
 ; Carrefour     ; 4-0; Dynamite       
 ; Racing G      ; 1-0; Tempête        
@@ -594,15 +593,15 @@ Round: 7
 Date: 12/4/2010
 
 ; Violette      ; 1-0; Don Bosco   
-  Luxène Elestin 82
+  Luxène Elestin 82;
 
 ; Tempête       ; 1-0; AS Capoise 
-  Thompson Amius 78
+  Thompson Amius 78;
     
 Date: 12/5/2010
 
 ; Eclair        ; 1-1; Racing G       
-;; St-Louis;       1-0 Victory        
+; St-Louis;       1-0; Victory        
 ; Mirebalais    ; 3-1; Racing CH      
 ; Aigle Noir    ; 0-0; Carrefour      
 
@@ -617,22 +616,22 @@ Date: 12/15/2010
 ; AS Capoise    ; 1-1; Violette       
 
 ; Racing G      ; 1-0; América    
-  Olsen Chéry 23
+  Olsen Chéry 23;
     
 ; Don Bosco     ; 2-2; Tempête   
-  Amy André (2); Charles Hérold Junior (2)
+  Amy André, Amy André; Charles Hérold Junior, Charles Hérold Junior
      
 ; Baltimore     ; 2-0; Aigle Noir     
 
 Date: 12/16/2010
 
 ; Eclair        ; 4-0; Dynamite       
-  Djoulès Valcourt (2), Wilson Abélard, Maxi Bennet
+  Djoulès Valcourt, Djoulès Valcourt, Wilson Abélard, Maxi Bennet;
 
 ; Mirebalais    ; 0-0; St-Louis       
 ; Carrefour     ; 1-0; Racing CH      
 ; Victory       ; 1-0; Cavaly         
-  Ricardo Charles
+  Ricardo Charles;
 
 Round: 9
 Date: 12/18/2010
@@ -648,13 +647,13 @@ Date: 12/19/2010
   Léonel Saint-Preux; Wilson Abélard
 
 ; América       ; 1-0; Mirebalais     
-  Wilguens Louis
+  Wilguens Louis;
 
-;; St-Louis;       2-2 Racing G       
-  Réginald David (pen), James Telfort; Jackson Pierre (2)
+; St-Louis;       2-2; Racing G       
+  Réginald David (pk), James Telfort; Jackson Pierre, Jackson Pierre
 
 ; Violette      ; 2-1; Racing CH      
-  Loubens Eugène (og), Alexandre Boucicaut; Darlin Thoby (pen)
+  Loubens Eugène (og), Alexandre Boucicaut; Darlin Thoby (pk
 
 ; Baltimore     ; 0-0; Don Bosco      
 
@@ -666,19 +665,18 @@ Round: 10
 Date: 12/10/2010
 
 ; Don Bosco     ; 4-0; St-Louis       
-  A.Amy, E.Yveson, A.Walson, N.Sylvestre
+  A.Amy, E.Yveson, A.Walson, N.Sylvestre;
 
 Date: 12/23/2010
 
 ; Racing CH     ; 4-1; AS Capoise     
-  D.Frantzy 1-0, Emma Jean 9og, Darlin Thoby 3-1,
-   Robenson Jean Louis 4-1; Léonel Saint-Preux 2-1
+  D.Frantzy, Emma Jean (og) 9, Darlin Thoby,Robenson Jean Louis; Léonel Saint-Preux
 
 ; Racing G      ; 1-1; Baltimore      
-  Jackson Pierre 1-0; Meshack Jérôme 1-1
+  Jackson Pierre; Meshack Jérôme
 
 ; Dynamite      ; 0-3; Victory        
-  Gaspard Jean-Baptiste, Bony Pierre, Ricardo Charles
+;  Gaspard Jean-Baptiste, Bony Pierre, Ricardo Charles
 
 Date: 12/24/2010
 
@@ -687,7 +685,7 @@ Date: 12/24/2010
 *América        awd Aigle Noir     [awarded 3-0; abandoned at 1-0 in 89',Aigle Noir walked off]
 
 ; Violette      ; 2-0; Eclair          
-  Boucicaut (pen), Bertrand Séïde
+  Boucicaut (pk), Bertrand Séïde;
 
 Round: 11
 Date: 12/29/2010
@@ -699,28 +697,28 @@ Date: 12/29/2010
 Date: 12/30/2010
 
 ; Eclair        ; 1-0; Carrefour      
-  Wilson Abellard
+  Wilson Abellard;
 
 ; Mirebalais    ; 1-0; Aigle Noir     
-  Desamours Schneïder
+  Desamours Schneïder;
 
 ; AS Capoise    ; 0-0; Victory        
 
 ; Violette      ; 0-2; Cavaly         
-  Jean Pascal Milien, Laneus Lems
+;  Jean Pascal Milien, Laneus Lems
 
 ; Tempête       ; 2-2; América        
-  Kervens Fils Belfort (2); Donald Pierre Charles (2)
+  Kervens Fils Belfort, Kervens Fils Belfort; Donald Pierre Charles, Donald Pierre Charles
 
 Round: 12
 Date: 1/8/2011
 
 ; Dynamite      ; 1-3; Violette       
-  Anoual Eliassaint; Luxène Elestin 6, 11, 30
+  Anoual Eliassaint; Luxène Elestin 6, Luxène Elestin 11, Luxène Elestin 30
 
 Date: 1/9/2011
 
-;; St-Louis;       2-1 América        
+; St-Louis;       2-1; América        
 ; Cavaly        ; 0-0; Racing CH      
 ; Carrefour     ; 1-0; AS Capoise     
 ; Tempête       ; 0-0; Baltimore   
@@ -732,29 +730,29 @@ Date: 1/11/2011
 Date: 1/13/2011
 
 ; Victory       ; 4-0; Eclair         
-  Ricardo Charles 37, 70, Wilfrid Brunache 84,
-   Jean-Francois Kismy 90+3
+  Ricardo Charles 37, Ricardo Charles 70, Wilfrid Brunache 84, Jean-Francois Kismy 90+3;
 
 Date: 1/20/2011
 
-; Aigle Noir    ; 0-1; Racing G       [remaining time]     
-  Jackson Pierre
+; Aigle Noir    ; 0-1; Racing G       
+*[remaining time]     
+;  Jackson Pierre
 
 Date: 1/21/2011
 
 ; Don Bosco     ; 3-0; Mirebalais     
-  Stanley Guirand 29, Walson Augustin 44, Amy André 71
+  Stanley Guirand 29, Walson Augustin 44, Amy André 71;
 
 Round: 13
 Date: 1/15/2011
 
 ; Baltimore     ; 1-0; Cavaly         
-  Junior Alexandre 88
+  Junior Alexandre 88;
 
 Date: 1/16/2011
 
 ; Racing G      ; 0-1; Carrefour      
-  Monuma Constant Junior
+;  Monuma Constant Junior
 *Parc Saint-Louis
 
 ; Mirebalais    ; 1-1; Violette     
@@ -762,32 +760,31 @@ Date: 1/16/2011
 
 *América        awd Dynamite       [awarded 3-0, Dynamite dns]
 
-;; St-Louis;       0-0 AS Capoise     
+; St-Louis;       0-0; AS Capoise     
 
 ; Tempête       ; 4-2; Victory         
-  Belfort (2), Valdano, ?; Bony Pierre,
-   Jean Fritz Saint-Germain (pen)
+  Belfort, Belfort, Valdano; Bony Pierre, Jean Fritz Saint-Germain (pk)
 
 Date: 1/17/2011
 
 ; Aigle Noir    ; 1-0; Eclair         
-  Fritzson Jean-Baptiste
+  Fritzson Jean-Baptiste;
 
 Date: 1/18/2011
 
 ; Don Bosco     ; 1-1; Racing CH      
-  Amy André 1-1; Jeff Théodore 0-1
+  Amy André; Jeff Théodore
 
 Round: 14
 Date: 1/22/2011
 
 ; Racing CH     ; 2-0; América     
-  Darlin Thoby (2)
+  Darlin Thoby, Darlin Thoby;
    
 Date: 1/23/2011
 
 ; Eclair        ; 2-1; Tempête        
-  Wilson Abellard (2); Kervens Fils Belfort (pen)
+  Wilson Abellard, Wilson Abellard; Kervens Fils Belfort (pk)
 
 ; Cavaly        ; 0-1; St-Louis       
 
@@ -797,15 +794,15 @@ Date: 1/23/2011
   Monuma C. Junior; Ultherguens Saint-Victor
 
 ; Violette      ; 1-2; Baltimore      
-  Lucson Coriolan; Meshack Jérôme (2)
+  Lucson Coriolan; Meshack Jérôme, Meshack Jérôme
 
 ; Dynamite      ; 0-1; Don Bosco       
-  Guemsly Junior Joseph 23
+;  Guemsly Junior Joseph 23
 
 Date: 1/24/2011
 
 ; Victory       ; 1-2; Aigle Noir     
-  Bony Pierre; Edson Anselme (2)
+  Bony Pierre; Edson Anselme, Edson Anselme
 
 Round: 15 
 Date: 1/30/2011
@@ -816,14 +813,14 @@ Date: 1/30/2011
 ; Tempête       ; 1-1; Cavaly         
 
 ; Baltimore     ; 0-1; Victory        
-  Bauvais Anderson Cha
+;  Bauvais Anderson Cha
 
 ; Aigle Noir    ; 2-1; Violette     
 ; América       ; 3-0; AS Capoise 
-;; St-Louis;       3-0 Dynamite       
+; St-Louis;       3-0; Dynamite       
 
 ; Racing G      ; 3-2; Racing CH      
-  Jackson Pierre (3); ?, ?
+  Jackson Pierre, Jackson Pierre, Jackson Pierre;
 
 ; Mirebalais    ; 1-0; Eclair         
 
@@ -888,7 +885,7 @@ Round: Quarterfinals
 Date: 2/12/2011
 
 ; Aigle Noir    ; 1-1; América        
-Penalty kicks: 9-9 pen
+Penalty kicks: 9-9
 * Aigle Noir on lots]
 
 ; Baltimore     ; 1-0; Carrefour 
