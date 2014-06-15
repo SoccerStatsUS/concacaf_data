@@ -243,39 +243,39 @@ Date: 1/24/1998
 *Apertura Liguilla
 
 Round: Quarterfinals
+Leg: 1
 
-*First Legs
 2/28/1998; Marathon     ; 2-3; Olimpia  
 3/7/1998; Real Espana  ; 0-0; Motagua   
 3/12/1998; Universidad  ; 1-1; Platense 
 
-*Second Legs
+Leg: 2
 3/15/1998; Olimpia      ; 1-0; Marathon   
 3/15/1998; Platense     ; 1-1; Universidad
-*[Platense qualified on league position]
-3/19/1998; Motagua      ; 1-1; Real Espana
-*[Real Espana qualified on away goal]
+Notes: Platense qualified on league position
 
-*Motagua qualified as best loser (league position on Universidad)
+3/19/1998; Motagua      ; 1-1; Real Espana
+Notes: Real Espana qualified on away goal; Motagua qualified as best loser (league position on Universidad)
 
 Round: Semifinals
+Leg: 1
 
-*First Legs [Mar 29]
 3/29/1998; Olimpia      ; 1-2; Motagua
 3/29/1998; Real Espana  ; 2-0; Platense
 
-*Second Legs [Apr 5]
+Leg: 2
+
 4/5/1998; Motagua      ; 0-1; Olimpia     
-*[Motagua qualified on away goals]
+Notes: Motagua qualified on away goals
+
 4/5/1998; Platense     ; 1-1; Real Espana
 
 Round: Final
+Leg: 1
 
-*First Leg 
 4/15/1998; Real Espana  ; 0-3; Motagua
 ; Francisco Ramirez 21, Oscar Lagos 55, Amalo Guevera 89
 
-*Second Leg
 4/19/1998; Motagua      ; 2-1; Real Espana
 Francisco Ramirez 20, Amado Guevara 32; Leonardo Morales 26
 
@@ -575,46 +575,46 @@ Date: 9/5/1998
 Stage: liguilla
 
 Round: Quarterfinals
-
-*First Legs [Sep 20,21]
+Leg: 1
+*[Sep 20,21]
 Date: 9/20/1998
 
 ; Victoria     ; 1-2; Olimpia
 ; Marathon     ; 0-0; Platense
 ; Real Maya    ; 1-4; Motagua
 
-*Second Legs 
+
 Date: 9/27/1998
+Leg: 2
 
 ; Platense     ; 1-1; Marathon    
 Notes: Platense qualified on league position
 
 ; Olimpia      ; 0-1; Victoria    
-Notes: Olimpia qualified on league position
+Notes: Olimpia qualified on league position; Victoria qualified as best loser
 
 ; Motagua      ; 1-1; Real Maya
 
-*Victoria qualified as best loser
-
 Round: Semifinals
-
-*First Legs 
+Leg: 1
 *[Oct 3,4]
+
 10/3/1998; Victoria     ; 2-1; Olimpia
 10/3/1998; Platense     ; 3-3; Motagua
 
-*Second Legs
+Leg: 2
+
 10/11/1998; Motagua      ; 2-1; Platense
 10/11/1998; Olimpia      ; 1-0; Victoria    
 Notes: Olimpia qualified on league position
 
 Round: Final 
+Leg: 1
 
-*First Leg
 10/18/1998; Motagua      ; 0-0; Olimpia
 
-*Second Leg
-10/25/1998; Olimpia      ; 0-1 (asdet); Motagu
+Leg: 2
+10/25/1998; Olimpia      ; 0-1 (asdet); Motagua
 
 *Motagua winners Clausura.
 *Motagua champions as winners of Apertura and Clausura.

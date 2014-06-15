@@ -23,12 +23,12 @@ Season: 1998-1999
 Round: 1
 *[inter-group]
 
-; Tauro        ; 0-0; P Amador
+; Tauro        ; 0-0; Plaza Amador
 ; Chiriqui     ; 0-0; Arabe Unido
 ; Pan Azucar   ; 1-1; Sporting 89
 Small 20; M.Munoz 27
 
-; S Francisco  ; 0-0; Nacional      
+; San Francisco  ; 0-0; Nacional      
 ; Eurokickers  ; 5-2; Panama Viejo
 Wiltshire 14, Agrono 24, N. Diaz 45, N.Diaz 57, Ardines 77; Phillips 70, Garces 72
 
@@ -37,7 +37,7 @@ Round: 2
 ; Panama Viejo ; 1-0; Chiriqui   
 Phillips 69;
 
-; Arabe Unido  ; 2-2; P Amador
+; Arabe Unido  ; 2-2; Plaza Amador
  Barrera 66, Salinas 84;  Raimondi 47, Correa 72
 
 ; Eurokickers  ; 0-0; Pan Azucar 
@@ -45,20 +45,20 @@ Phillips 69;
 ; Sporting 89  ; 1-2; Nacional      
 Cabal 72;  M.Rodriguez 29, Anderson 85
 
-*byes: Tauro (A) and S Francisco (B)
+*byes: Tauro (A) and San Francisco (B)
 
 Round: 3
 
 ; Tauro        ; 2-0; Panama Viejo
    Canizales 30, Parra 89;
 
-; Chiriqui     ; 1-1; P Amador
+; Chiriqui     ; 1-1; Plaza Amador
   Arroyo 65; De los Rios 89
 
 ; Nacional     ; 2-0; Pan Azucar 
    E.Ortega (pk) 78, M.Rodriguez 89;
 
-; Eurokickers  ; 2-2; S Francisco 
+; Eurokickers  ; 2-2; San Francisco 
    N.Diaz 19,  Agrono (pk) 47;  Moreno 69, Calamaris 70
 
 *byes: Arabe Unido (A) and Sporting 89 (B)
@@ -68,10 +68,10 @@ Round: 4
 ; Arabe Unido  ; 2-1; Tauro
    Barrera 65, Blackman 75; Guevara (pk) 90
 
-; Panama Viejo ; 1-4; P Amador
+; Panama Viejo ; 1-4; Plaza Amador
   Cadena 75;  Lorenzo 74,  De los Rios 81,  Correa 84, Rengifo 90
 
-; Pan Azucar   ; 1-1; S Francisco 
+; Pan Azucar   ; 1-1; San Francisco 
   F.Fernandes 44; Pino (pk) 10
 
 ; Eurokickers  ; 3-2; Sporting 89
@@ -86,13 +86,13 @@ Round: 5
 ; Arabe Unido  ; 3-0; Panama Viejo
   Cadena 36, Bartley 60, Blackman 79;
 
-; Sporting 89  ; 1-3; S Francisco 
+; Sporting 89  ; 1-3; San Francisco 
    Brown 42; Calamaris 1, Calamaris 8, Calamaris 53
 
 ; Nacional     ; 0-2; Eurokickers 
 ; Ardinas 4, Ardinas 70
 
-*byes: P Amador (A) and Pan Azucar (B)
+*byes: Plaza Amador (A) and Pan Azucar (B)
 
 Round: 6 
 *[inter-group]
@@ -108,7 +108,7 @@ Round: 6
 ; Nacional     ; 0-4; Panama Viejo
 ; Dasent 42, Phillips 48, Morato 82, V.Herrera 86
 
-; P Amador     ; 1-3; S Francisco
+; Plaza Amador     ; 1-3; San Francisco
   Lorenzo 27; A. Ortega 21, A.Ortega 77, Calamaris 83
 
 Round: 7 
@@ -123,10 +123,10 @@ M.Munoz (pk) 61;
 ; Arabe Unido  ; 0-1; Nacional
 ; E.Ortega 28
 
-; S Francisco  ; 2-0; Panama Viejo
+; San Francisco  ; 2-0; Panama Viejo
   Calamaris 41, O.Hidalgo 89;
 
-; Pan Azucar   ; 1-4; P Amador
+; Pan Azucar   ; 1-4; Plaza Amador
   Avila 57;  De los Rios 47,  Correa 72,  Rivas 76, Lorenzo 84
 
 Round: 8 
@@ -136,13 +136,13 @@ Round: 8
 
 ; Chiriqui     ; 0-0; Nacional
 
-; S Francisco  ; 1-1; Arabe Unido
+; San Francisco  ; 1-1; Arabe Unido
   Calamaris 63; Barrera 45
 
 ; Panama Viejo ; 2-0; Pan Azucar
    Aparicio 6, Phillips 17;
 
-; Eurokickers  ; 2-0; P Amador
+; Eurokickers  ; 2-0; Plaza Amador
    Ardines 2, N.Diaz 60;
 
 Round: 9 
@@ -150,12 +150,12 @@ Round: 9
 
 ; Nacional     ; 0-0; Tauro
 
-; Chiriqui     ; 0-0; S Francisco   
+; Chiriqui     ; 0-0; San Francisco   
 
 ; Pan Azucar   ; 2-5; Arabe Unido
    Lora 10, Small 33; Cadena 5, Cadena 82,  Arias 56,  Salinas 68, Dotch 74
 
-; P Amador     ; 1-0; Sporting 89
+; Plaza Amador     ; 1-0; Sporting 89
 Lorenzo 1;
 
 *byes: Panama Viejo (A) and Eurokickers (B)
@@ -163,7 +163,7 @@ Lorenzo 1;
 Round: 10 
 *[inter-group]
 
-; S Francisco  ; 2-0; Tauro
+; San Francisco  ; 2-0; Tauro
   A.Ortega 4, Pino 39;
 
 ; Pan Azucar   ; 0-3; Chiriqui
@@ -175,12 +175,12 @@ N.Diaz 77;
 ; Panama Viejo ; 1-0; Sporting 89
 Aparicio 4;
 
-; Nacional     ; 2-0; P Amador
+; Nacional     ; 2-0; Plaza Amador
   M. Rodriguez 61, M.Rodriguez 79;
 
 Round: 11
 
-; P Amador     ; 3-4; Tauro
+; Plaza Amador     ; 3-4; Tauro
   De los Rios 53, De los Rios 89, Samaniego 67; Galeano 2, Parra 4, Parra 69, Mendez 72
 
 ; Arabe Unido  ; 1-1; Chiriqui
@@ -189,7 +189,7 @@ Round: 11
 ; Sporting 89  ; 2-1; Pan Azucar
   Tejada 13, Tejada 44; F.Fernandes 76
 
-; Nacional     ; 0-1; S Francisco
+; Nacional     ; 0-1; San Francisco
 ; Kenion 53
 
 *byes: Panama Viejo (A) and Eurokickers (B)
@@ -199,7 +199,7 @@ Round: 12
 ; Chiriqui     ; 1-0; Panama Viejo
   Gordon 84;
 
-; P Amador     ; 0-0; Arabe Unido
+; Plaza Amador     ; 0-0; Arabe Unido
 
 ; Pan Azucar   ; 0-3; Eurokickers
 ; Torres 53,  Ardines 79, N.Diaz 87
@@ -207,20 +207,20 @@ Round: 12
 ; Nacional     ; 0-1; Sporting 89
   ; J.Juarez 29
 
-*byes: Tauro (A) and S Francisco (B)
+*byes: Tauro (A) and San Francisco (B)
 
 Round: 13
 
 ; Panama Viejo ; 0-1; Tauro
   ; Agrazal 60
 
-; P Amador     ; 1-0; Chiriqui      
+; Plaza Amador     ; 1-0; Chiriqui      
  de los Rios 31;
 
 ; Pan Azucar   ; 1-2; Nacional
   C.Rodriguez (pk) 23; Jaramillo (og) 11, M.Rodriguez 80
 
-; Eurokickers  ; 1-2; S Francisco
+; Eurokickers  ; 1-2; San Francisco
   Wiltshire 87; A.Ortega 35, O.Hidalgo 70
 
 *byes: Arabe Unido (A) and Sporting 89 (B)
@@ -230,10 +230,10 @@ Round: 14
 ; Tauro        ; 1-0; Arabe Unido
 L.Parra 17;
 
-; P Amador     ; 0-2; Panama Viejo
+; Plaza Amador     ; 0-2; Panama Viejo
  ; Condumi 21, Phillips 42
 
-; S Francisco  ; 5-1; Pan Azucar
+; San Francisco  ; 5-1; Pan Azucar
   Calamaris 15, Calamaris 32, Calamaris 65, Calamaris 74, A.Ortega 36; O.Avila 57
 
 ; Sporting 89  ; 1-2; Eurokickers  
@@ -251,10 +251,10 @@ Round: 15
 ; Eurokickers  ; 1-1; Nacional
   Ardines 57; Maldonado 17
 
-; S Francisco  ; 2-1; Sporting 89
+; San Francisco  ; 2-1; Sporting 89
   Calamaris 35, O.Hidalgo 82; Atencio 25
 
-*byes: P Amador (A) and Pan Azucar (B)
+*byes: Plaza Amador (A) and Pan Azucar (B)
 
 Round: 16 
 *[inter-group]
@@ -271,7 +271,7 @@ Round: 16
 ; Panama Viejo ; 2-2; Nacional
    Aparicio 11, Aguilar 73;  Victoria 22, M.Rodriguez 47
 
-; S Francisco  ; 1-1; P Amador    
+; San Francisco  ; 1-1; Plaza Amador    
    O.Hidalgo 61; Medina 35
 
 Round: 17 
@@ -286,10 +286,10 @@ Round: 17
 ; Nacional     ; 2-1; Arabe Unido
   Maldonado 15, Paschal 78; Cadena 21
 
-; Panama Viejo ; 2-1; S Francisco
+; Panama Viejo ; 2-1; San Francisco
   Canales 1, Condumi 76; O.Hidalgo 61
 
-; P Amador     ; 2-1; Pan Azucar
+; Plaza Amador     ; 2-1; Pan Azucar
    Rivas 56, Botello (pk) 60; Avila 90
 
 Round: 18 
@@ -301,12 +301,12 @@ Round: 18
 ; Nacional     ; 1-0; Chiriqui
  Davis 52;
 
-; Arabe Unido  ; 0-0; S Francisco
+; Arabe Unido  ; 0-0; San Francisco
 
 ; Pan Azucar   ; 2-6; Panama Viejo
   F.Fernandes 55, Leguisamo 61;  Condumi 5, Condumi 26, Condumi 66, Condumi 73, Canales 38, Dasent 75
 
-; P Amador     ; 1-0; Eurokickers
+; Plaza Amador     ; 1-0; Eurokickers
  B.Rivas 86;
 
 Round: 19 
@@ -315,7 +315,7 @@ Round: 19
 ; Tauro        ; 1-0; Nacional
  Guevara 75;
 
-; S Francisco  ; 2-3; Chiriqui
+; San Francisco  ; 2-3; Chiriqui
   A. Blanco 11, A.Blanco 22; Zagal 30, L.Rodriguez 46, Zuniga 84
 
 ; Arabe Unido  ; 2-1; Pan Azucar
@@ -324,13 +324,13 @@ Round: 19
 ; Panama Viejo ; 2-1; Eurokickers
   Canales 3, Julio 53; Ardines 8
 
-; Sporting 89  ; 2-1; P Amador
+; Sporting 89  ; 2-1; Plaza Amador
   Tejada 77, Tejada 89; Botello 18
 
 Round: 20 
 *[inter-group]
 
-; Tauro        ; 1-1; S Francisco
+; Tauro        ; 1-1; San Francisco
   U.Garcia (pk) 86; Pino 37
 
 ; Chiriqui     ; 0-0; Pan Azucar
@@ -340,7 +340,7 @@ Round: 20
 
 ; Sporting 89  ; 0-0; Panama Viejo
 
-; P Amador     ; 2-3; Nacional
+; Plaza Amador     ; 2-3; Nacional
   B.Rivas 40, Huges 78; Maldonado 37, Maldonado 53, Gudino (pk) 89
 
 *Group A
@@ -386,7 +386,7 @@ Stage: 2
 
 Round: 1
 
-; S Francisco  ; 3-2; Arabe Unido 
+; San Francisco  ; 3-2; Arabe Unido 
 Pino 1,  O.Hidalgo 32,  L.Blanco 45; J.Cadena 56, Chiari 59
 
 ; Tauro        ; 2-1; Eurokickers
@@ -397,7 +397,7 @@ Pino 1,  O.Hidalgo 32,  L.Blanco 45; J.Cadena 56, Chiari 59
 
 Round: 2
 
-; S Francisco  ; 3-1; Tauro
+; San Francisco  ; 3-1; Tauro
   Calamaris 18, Calamaris (pk) 87, L.Blanco 54; Parra 58
 
 ; Panama Viejo ; 0-2; Eurokickers
@@ -408,7 +408,7 @@ Round: 2
 
 Round: 3 
 
-; S Francisco  ; 1-1; Panama Viejo
+; San Francisco  ; 1-1; Panama Viejo
   A.Blanco 85; Canales 42
 
 ; Eurokickers  ; 1-1; Nacional
@@ -425,7 +425,7 @@ Round: 4
 ; Nacional     ; 1-1; Tauro
   M.Rodriguez 52; Guevara 17
 
-; Eurokickers  ; 2-1; S Francisco  
+; Eurokickers  ; 2-1; San Francisco  
    Ardines 40, Agrono 67; Pino 36
 
 Round: 5
@@ -433,7 +433,7 @@ Round: 5
 ; Arabe Unido  ; 1-0; Eurokickers
   A.Cerezo 60;
 
-; Nacional     ; 2-3; S Francisco
+; Nacional     ; 2-3; San Francisco
    Davis 4, Palacios 71; Calamaris 39, Calamaris 80, Calamaris 87
 
 ; Tauro        ; 2-1; Panama Viejo
@@ -463,7 +463,7 @@ Stage: Final Four
 Round: Semifinals
 Leg: 1
 
-1/22/1999; S Francisco  ; 2-0; Arabe Unido
+1/22/1999; San Francisco  ; 2-0; Arabe Unido
 Darinelt Gomez, Luis Calamaris;
 
 1/24/1999; Tauro        ; 3-0; Eurokickers
@@ -474,7 +474,7 @@ Leg: 2
 1/29/1999; Eurokickers  ; 2-0; Tauro
 Ferney Agrono, John Torres;
 
-1/31/1999; Arabe Unido  ; 3-0; S Francisco
+1/31/1999; Arabe Unido  ; 3-0; San Francisco
 Julio Medina III, Reinel Mendez, Jairo Cadena;
 
 
@@ -500,7 +500,7 @@ Tauro: Luis Navas, Ernesto Downer, Alfredo Poyatos, Pablo Sanchez, Jairzinho Ser
 
 Stage: UNCAF Cup Qualifying Match 
 *[Dec 1998]
-; Arabe Unido  ; 1-0; S Francisco
+; Arabe Unido  ; 1-0; San Francisco
    A. Cerezo 88;
 
 

@@ -335,9 +335,8 @@ Date: 11/25/2012
 Stage: Playoff
 
 Round: Quarterfinals
-
-*First Legs 
 Date: 11/28/2012
+Leg: 1
 
 ; Marquense            ; 2-2; Comunicaciones        
 ; Suchitepéquez        ; 1-1; Municipal             
@@ -347,31 +346,31 @@ Date: 11/29/2012
 ; Malacateco           ; 5-0; Xelajú                
 ; Halcones LM          ; 3-1; Heredia               
 
-*Second Legs
+Leg: 2
 Date: 12/1/2012
 
 ; Comunicaciones       ; 3-0; Marquense             
 ; Municipal            ; 3-3; Suchitepéquez         
+Notes: Municipal qualified on better record regular stage
 
 Date: 12/2/2012
 
 ; Xelajú               ; 3-0; Malacateco            
 ; Heredia              ; 5-1; Halcones LM           
 
-*NB: Municipal qualified on better record regular stage
+
 
 Round: Semifinals
-
-*First Legs
 Date: 12/5/2012
+Leg: 1
 
 ; Malacateco           ; 0-0; Comunicaciones        
 
 Date: 12/6/2012
 ; Heredia              ; 1-1; Municipal             
 
-*Second Legs
 Date: 12/8/2012
+Leg: 2
 
 ; Comunicaciones       ; 2-1; Malacateco            
 
@@ -380,21 +379,21 @@ Date: 12/9/2012
 ; Municipal            ; 3-2; Heredia               
 
 Round: Final
+Leg: 1
 
-*First Leg 
 Date: 12/14/2012
 
 ; Municipal            ; 0-3; Comunicaciones        
 
-*Second Leg 
 Date: 12/17/2012
+Leg: 2
 
 ; Comunicaciones       ; 1-0; Municipal             
 
 *NB: Comunicaciones champions Apertura 2012
 
 
-Season: 2013 Clausura
+Season: 2012-2013 Clausura
 Stage: Regular
 
 * 1.Comunicaciones             22  13  5  4  30-14  44  Qualified
@@ -705,11 +704,9 @@ Date: 6/2/2013
 
 
 Stage: Playoff
-
 Round: Quarterfinals
-
-*First Legs
 Date: 6/5/2013
+Leg: 1
 
 ; Univ. San Carlos     ; 2-1; Heredia               
 ; Xelajú               ; 1-2; Comunicaciones        
@@ -719,8 +716,8 @@ Date: 6/6/2013
 ; Halcones LM          ; 3-1; Suchitepéquez         
 ; Marquense            ; 2-0; Malacateco            
 
-*Second Legs
 Date: 6/8/2013
+Leg: 2
 
 ; Comunicaciones       ; 2-1; Xelajú                
 ; Heredia              ; 2-0; Univ. San Carlos      
@@ -731,28 +728,26 @@ Date: 6/9/2013
 ; Malacateco           ; 3-3; Marquense             
 
 Round: Semifinals
-
-*First Legs 
 Date: 6/12/2013
+Leg: 1
 
 ; Marquense            ; 1-1; Comunicaciones        
 ; Halcones LM          ; 2-0; Heredia               
 
-*Second Legs 
 Date: 6/16/2013
+Leg: 2
 
 ; Comunicaciones       ; 2-1; Marquense             
 ; Heredia              ; 4-1; Halcones LM           
 
 Round: Final
-
-*First Leg 
 Date: 6/19/2013
+Leg: 1
 
 ; Heredia              ; 1-2; Comunicaciones        
 
-*Second Leg 
 Date: 6/22/2013
+Leg: 2
 
 ; Comunicaciones       ; 0-0; Heredia               
 
