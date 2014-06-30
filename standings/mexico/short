@@ -1000,7 +1000,7 @@ Key:  position; team; games; wins; ties; losses; goals_for; goals_against; gd; p
 18   ;         Querétaro        ; 17     ; 1      ; 4      ; 12     ; 11     ; 30     ; −19    ; 7;
 
 
-Season: 2012-2013 Clasura
+Season: 2012-2013 Clausura
 BlockSource: http://en.wikipedia.org/wiki/2012%E2%80%9313_Liga_MX_season
 
 1    ;        UANL              ; 17     ; 10     ; 5      ; 2      ; 30     ; 14     ; +16    ; 35;      Advance to the Liguilla
@@ -1066,5 +1066,5 @@ Season: 2013-2014 Clausura
 14  ;    UANL                   ; 17     ; 5      ; 6      ; 6      ; 13     ; 17     ; −4;      21;
 15  ;    Guadalajara            ; 17     ; 5      ; 6      ; 6      ; 13     ; 18     ; −5;      21;
 16  ;    Puebla                 ; 17     ; 4      ; 6      ; 7      ; 14     ; 19     ; −5;      18;
-17  ;    Atlante (R)            ; 17     ; 5      ; 3      ; 9      ; 22     ; 34     ; −12;     18;      Relegated to Ascenso MX
+17  ;    Atlante             ; 17     ; 5      ; 3      ; 9      ; 22     ; 34     ; −12;     18;      Relegated to Ascenso MX
 18  ;    Veracruz               ; 17     ; 3      ; 7      ; 7      ; 14     ; 25     ; −11;     16;
