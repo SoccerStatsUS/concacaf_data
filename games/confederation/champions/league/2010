@@ -1,7 +1,9 @@
 Competition: CONCACAF Champions League
 Season: 2010-2011
+* http://carbon.concacaf.com/wp-content/uploads/reports/CONCACAF%20Champions%20League%202010-2011.pdf
 
-Round: Preliminary
+Stage: Preliminary
+Leg: 1
 
 7/27/2010; Toronto FC; 1-0; Motagua; BMO Field; Terry Vaughn; 18891
 Chad Barrett (Dwayne De Rosario) 20; 
@@ -9,6 +11,7 @@ Toronto FC: Stefan Frei, Maksim Usanov (Dan Gargan 46), Adrian Cann, Nana Attako
 Source: MLS Lineup Database
 
 7/27/2010; San Juan Jabloteh; 0-1; Santos Laguna; Marvin Lee Stadium; Stanley Lancaster; 763
+; Ruiz 83
 
 7/27/2010; Los Angeles Galaxy; 1-4; Puerto Rico Islanders; Home Depot Center; Raymond Bogle; 6783
 Own Goal; 
@@ -16,10 +19,13 @@ Los Angeles Galaxy: Josh Saunders, Eddie Lewis, Gregg Berhalter (Alex Cazumba 64
 Source: MLS Lineup Database
 
 7/27/2010; San Francisco; 2-3; Cruz Azul; Estadio Agustin Sanchez; Neal Brizan; 725
+Jimenez 20, Torres 44; Villa 3, Villa 54, Villa 71
 
 7/28/2010; Tauro; 0-3; Marathon; Estadio Rommel Fernandez; Marlon Mejia; 1237
+; Cardozo 24, Palacios 35, Cardozo 59
 
 7/28/2010; Brujas; 2-2; Joe Public; Estadio Eladio Rosabal Cordero; Juan Carlos Guerra; 253
+Nunez 2, Cordero 66; Baptiste 13, Noel 90+1
 
 7/28/2010; Seattle Sounders; 1-0; Isidro Metapan; Qwest Field; Ricardo Arellano; 17228
 Fredy Montero (unassisted) 60;
@@ -27,8 +33,12 @@ Seattle Sounders: Kasey Keller, Leo Gonzalez, Tyrone Marshall, Taylor Graham, Ja
 Source: MLS Lineup Database
 
 7/29/2010; FAS; 1-1; Xelaju; Estadio Cuscatlan; Francisco Chacon; 4200
+Reyes 44; Crossa 42
+
+Leg: 2
 
 8/3/2010; Cruz Azul; 6-0; San Francisco; Estadio Azul; Walter Quesada; 5000
+Orozco 11, Orozco 45, Orozco 84, Biancucchi 18, Biancucchi 90+2, Garcia 71;
 
 8/3/2010; Motagua; 2-2; Toronto FC; Estadio Tiburcio Carias Andino; Luis Rodriguez; 8000
 ; Dwayne De Rosario (Maicon Santos) 58, Chad Barrett 79	
@@ -46,14 +56,18 @@ Los Angeles Galaxy: Donovan Ricketts, Todd Dunivant, Leonardo, Omar Gonzalez, Se
 Source: MLS Lineup Database
 
 8/4/2010; Santos Laguna; 5-0; San Juan Jabloteh; Estadio Corona; Paul Ward; 10000
+Reyes 3, Salinas 46, Quintero 73, Reyes 80, Gonzalez 83;
 
 8/4/2010; Marathon; 1-2; Tauro; Estadio Olimpico Metropolitano; Mark Geiger; 2528
+Cardozo 24; Renteria 26, Renteria 45
 
 8/5/2010; Joe Public; 4-2; Brujas; Marvin Lee Stadium; Valdin Ledgister; 500
+Baptiste 8, Mitchell 39, Lewis 45, Toussaint 76; Arias 63, Nunez 72
 
 8/5/2010; Xelaju; 0-2; FAS; Estadio Nacional Mateo Flores; Hugo Cruz; 8000
+; Bentos 41, Bentos 77
 
-Round: Group
+Stage: Group
 Group: A
 
 8/17/2010; Toronto FC; 2-1; Cruz Azul; BMO Field; Courtney Campbell; 16862
@@ -76,6 +90,7 @@ Real Salt Lake: Nick Rimando, Chris Wingert, Nat Borchers, Rauwshawn McKenzie, R
 Source: MLS Lineup Database
 
 9/15/2010; Arabe Unido; 0-6; Cruz Azul; Estadio Rommel Fernandez; Terry Vaughn; 2975
+; Orozco 10, Orozco 22, Orozco 27, Villa 67, Villa 80, Biancucchi 86
 
 9/15/2010; Real Salt Lake; 4-1; Toronto FC; Rio Tinto Stadium; Mauricio Morales; 11579
 Kyle Beckerman (Andy Williams) 21, Jamison Olave (Andy Williams) 40, Alvaro Saborio (penalty kick) 69, Paulo Araujo (Robbie Findley) 80; Maicon Santos (O'Brian White) 8	
@@ -99,6 +114,7 @@ Toronto FC: Jon Conway, Maksim Usanov, Adrian Cann, Nana Attakora, Nick Garcia, 
 Source: MLS Lineup Database
 
 9/28/2010; Cruz Azul; 2-0; Arabe Unido; Estadio Azul; Walter Quesada; 5015
+Villa 1, Cortes (pk) 47;
 
 10/19/2010; Toronto FC; 1-0; Arabe Unido; BMO Field; Roberto Garcia Orozco; 10385
 Nana Attakora (Nick LaBrocca) 30;
@@ -113,6 +129,7 @@ Source: MLS Lineup Database
 Group: B
 
 8/18/2010; Joe Public; 2-5; Santos Laguna; Marvin Lee Stadium; Roberto Moreno; 900
+Hislop 11, Hoshide 44; Cardenas 9, Cardenas 24, Cardenas 66, Cardenas 76, Enriquez 90
 
 8/18/2010; Columbus Crew; 1-0; Municipal; Columbus Crew Stadium; Roberto Garcia Orozco; 5745
 Emmanuel Ekpo (Frankie Hejduk) 14;
@@ -124,6 +141,7 @@ Columbus Crew: Andy Gruenebaum, Shaun Francis, Andy Iro, Eric Brunner, Duncan Ou
 Source: MLS Lineup Database
 
 8/26/2010; Municipal; 1-1; Joe Public; Estadio Mateo Flores; Baldomero Toledo; 2498
+Rodriguez 77; Lewis 90+3
 
 9/14/2010; Columbus Crew; 3-0; Joe Public; Columbus Crew Stadium; Walter Lopez; 5445
 Leandre Griffit (unassisted) 47, Jason Garey (Emmanuel Ekpo) 51, Steven Lenhart (Dilly Duka) 79;
@@ -131,6 +149,7 @@ Columbus Crew: Andy Gruenebaum, Shaun Francis, Eric Brunner, Chad Marshall (Andy
 Source: MLS Lineup Database
 
 9/14/2010; Municipal; 2-2; Santos Laguna; Estadio Mateo Flores; Walter Quesada; 10414
+Rodriguez 28, Castillo (pk) 87; Ruiz (pk) 8, Peralta 13
 
 9/21/2010; Columbus Crew; 1-0; Santos Laguna; Columbus Crew Stadium; Courtney Campbell; 6298
 Andres Mendoza (unassisted) 87;
@@ -138,6 +157,7 @@ Columbus Crew: Andy Gruenebaum, Shaun Francis, Andy Iro, Chad Marshall (Eric Bru
 Source: MLS Lineup Database
 
 9/23/2010; Joe Public; 2-3; Municipal; Marvin Lee Stadium; Joel Aguilar; 500
+Toussaint 15, Toussaint 67; Ramirez 17, Ramirez 48, Guevara 90+2
 
 9/29/2010; Municipal; 2-1; Columbus Crew; Estadio Mateo Flores; Jose Pineda; 3545
 ; Andy Iro (Duncan Oughton) 45
@@ -145,8 +165,10 @@ Columbus Crew: Andy Gruenebaum, Gino Padula, Andy Iro, Eric Brunner, Josh Willia
 Source: MLS Lineup Database
 
 9/29/2010; Santos Laguna; 5-1; Joe Public; Nuevo Estadio Corona; Mark Geiger; 7000
+Reyes 4, Torres 14, Quintero 60, Cardenas 67, Figueroa 79; Baptiste 32
 
 10/19/2010; Santos Laguna; 6-1; Municipal; Nuevo Estadio Corona; Roberto Moreno; 3600
+Peralta 20, Luduena 27, Ruiz 40, Peralta 51, Quintero 81, Luduena 87; Castillo 39
 
 10/21/2010; Joe Public; 1-4; Columbus Crew; Marvin Lee Stadium; Stanley Lancaster; 110
 ; Andres Mendoza (Jason Garey) 20, Emilio Renteria (penalty kick) 50, Emilio Renteria (unassisted) 81, Duncan Oughton (Dilly Duka) 92+	
@@ -156,6 +178,7 @@ Source: MLS Lineup Database
 Group: C
 
 8/17/2010; Monterrey; 1-0; Saprissa; Estadio Tecnologico; Ricardo Salazar; 12042
+de Nigris 25;
 
 8/19/2010; Marathon; 2-1; Seattle Sounders; Estadio Olimpico Metropolitano; Juan Carlos Guerra; 1990
 ; Roger Levesque (Blaise Nkufo) 17
@@ -167,8 +190,10 @@ Seattle Sounders: Kasey Keller, Leo Gonzalez, Patrick Ianni, Jeff Parke, James R
 Source: MLS Lineup Database
 
 8/26/2010; Saprissa; 4-1; Marathon; Estadio Ricardo Saprissa
+Sequeira 34, Arrieta 52, Martinez 77, Alonso 86; Berrios 32
 
 9/14/2010; Monterrey; 2-0; Marathon; Estadio Tecnologico; Raymond Bogle; 9628
+de Nigris 23, Paredes 55;
 
 9/14/2010; Saprissa; 2-0; Seattle Sounders; Estadio Ricardo Saprissa; Marco Antonio Rodriguez Moreno; 3000
 Seattle Sounders: Terry Boss, Leo Gonzalez, Tyrone Marshall, Taylor Graham, Zach Scott, Steve Zakuani (Tyson Wahl 46), Osvaldo Alonso, Nathan Sturgis (Alvaro Fernandez 64), Sanna Nyassi, Roger Levesque (Michael Fucito 72), Fredy Montero
@@ -180,8 +205,10 @@ Seattle Sounders: Terry Boss, Zach Scott, Tyrone Marshall, Taylor Graham, Tyson 
 Source: MLS Lineup Database
 
 9/22/2010; Marathon; 2-1; Saprissa; Estadio Olimpico Metropolitano; Roberto Moreno; 1820
+Berrios 49, Sirias (og) 64; Arrieta 66
 
 9/28/2010; Saprissa; 2-2; Monterrey; Estadio Ricardo Saprissa; Terry Vaughn; 1635
+Meza (og) 16, Mena 65; Rodriguez 5, Carreno 31
 
 9/29/2010; Seattle Sounders; 2-0; Marathon; Qwest Field; Paul Ward; 11768
 Mike Fucito (unassisted) 21, Mike Fucito (unassisted) 68;
@@ -194,32 +221,43 @@ Seattle Sounders: Kasey Keller, Zach Scott, Tyrone Marshall, Taylor Graham, Tyso
 Source: MLS Lineup Database
 
 10/20/2010; Marathon; 0-1; Monterrey; Estadio Olimpico Metropolitano; Walter Lopez; 500
+; Santana 69
 
 Group: D
 
 8/17/2010; Puerto Rico Islanders; 1-1; CD Olimpia; Juan Ramon Loubriel Stadium; Marco Antonio Rodriguez Moreno; 2632
+Addlery 40; Copete 68
 
 8/18/2010; FAS; 0-0; Toluca; Estadio Cuscatlan; Walter Quesada; 3500
 
 8/25/2010; Puerto Rico Islanders; 4-1; FAS; Juan Ramon Loubriel Stadium; Neal Brizan; 2050
+Foley 16, Fana 22, Fana 45+1, Addlery 84; Reyes 24
 
 8/26/2010; Toluca; 4-0; CD Olimpia; Estadio Nemesio Diez; Hugo Cruz; 7463
+Cuevas 4, Cuevas 10, Mancilla 63, Arevalo (og) 86;
 
 9/15/2010; Toluca; 3-0; Puerto Rico Islanders; Estadio Nemesio Diez; Jose Pineda; 5165
+Gonzalez 18, Cuevas (pk) 76, Cerda 90+3;
 
 9/16/2010; CD Olimpia; 2-0; FAS; Estadio Tiburcio Carias Andino; Hugo Cruz; 9200
+Rojas 14, Rojas 81;
 
 9/22/2010; FAS; 0-0; Puerto Rico Islanders; Estadio Cuscatlan; Paul Enrique Delgadillo Haro; 3500
 
 9/23/2010; CD Olimpia; 2-1; Toluca; Estadio Olimpico Metropolitano; Walter Lopez; 4654
+Garcia 14, Rojas 25; Cuevas (pk) 39
 
 9/29/2010; Puerto Rico Islanders; 3-2; Toluca; Juan Ramon Loubriel Stadium; Raymond Bogle; 4122
+Foley 54, Horst 70, Horst 90+1; Mancilla 10, Mancilla 23
 
 9/30/2010; FAS; 1-4; CD Olimpia; Estadio Cuscatlan; Jair Marrufo; 1000
+Lopez 72; Bruschi 29, Bruschi 45+2, Barahona 52, Lozano 89
 
 10/20/2010; Toluca; 5-0; FAS; Estadio Nemesio Diez; Mark Geiger; 3985
+Mancilla 19, Mancilla 56, Mancilla 90, Cuevas (pk) 55, Calderon 87;
 
 10/20/2010; CD Olimpia; 3-0; Puerto Rico Islanders; Estadio Tiburcio Carias Andino; Benito Archundia; 5550
+Rojas 53, Rojas 77, de Souza 81;
 
 Round: Quarterfinals
 Leg: 1
@@ -227,40 +265,54 @@ Leg: 1
 2/22/2011; Columbus Crew; 0-0; Real Salt Lake; Columbus Crew Stadium; Jair Marrufo; 4665
 
 2/22/2011; Cruz Azul; 2-0; Santos Laguna; Estadio Azul, Mexico City; Paul Delgadillo; 14062
+Orozco 58, Gimenez 68;
 
 2/23/2011; Toluca; 0-1; Monterrey; Estadio Nemesio Diez; Francisco Chacon; 11236
+; O. Martinez 82
 
 2/24/2011; Saprissa; 1-0; CD Olimpia; Estadio Ricardo Saprissa; Walter Lopez; 12344
+Alonso 23;
 
 Leg: 2
 
 3/1/2011; Santos Laguna; 1-3; Cruz Azul; Nuevo Estadio Corona, Torreon; Roberto Garcia Orozco; 25000
+Benitez 71; Villa 37, Villa 53, Gimenez 50
 
 3/1/2011; Real Salt Lake; 4-1; Columbus Crew; Rio Tinto Stadium; Mark Geiger; 15405
+Saborio 23, Morales 36, Morales 77, Williams 90+5; Mendoza 49
 
 3/2/2011; Monterrey; 1-0; Toluca; Estadio Tecnologico; Marco Antonio Rodriguez Moreno; 22000
+Cardozo 88;
 
 3/2/2011; CD Olimpia; 1-2; Saprissa; Estadio Tiburcio Carias Andino; Joel Aguilar; 20000
+Rojas 53; Alonso 26, Cordero 63
 
+Stage: elimination
 Round: Semifinals
 Leg: 1
 
 3/15/2011; Real Salt Lake; 2-0; Saprissa; Rio Tinto Stadium; Enrico Wijngaarde; 16668
+Saborio 9, Espindola 57;
 
 3/16/2011; Monterrey; 2-1; Cruz Azul; Estadio Tecnologico, Monterrey; Paul Delgadillo; 22469
+Cardozo 9, Santana 55; Cortes 48
 
 Leg: 2
 
 4/5/2011; Saprissa; 2-1; Real Salt Lake; Estadio Ricardo Saprissa; Marco Antonio Rodriguez Moreno; 21065
+L. Cordero 46, Solis (pk) 87; Olave 61
 
 4/6/2011; Cruz Azul; 1-1; Monterrey; Estadio Azul, Mexico City; Francisco Chacon; 24574
+Villaluz 23; Suazo (pk) 81
 
 Round: Finals
 Leg: 1
 
 4/20/2011; Monterrey; 2-2; Real Salt Lake; Estadio Tecnologico, Monterrey; Joel Aguilar; 30247
+de Nigris 18, Suazo (pk) 62; Borchers 35, Morales 89
 
 Leg: 2
 
 4/27/2011; Real Salt Lake; 0-1; Monterrey; Rio Tinto Stadium; Roberto Moreno; 20738
+; Suazo 45
 
