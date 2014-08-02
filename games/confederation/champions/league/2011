@@ -1,7 +1,8 @@
 Competition: CONCACAF Champions League
 Season: 2011-2012
+BlockSource: http://carbon.concacaf.com/wp-content/uploads/reports/CONCACAF%20Champions%20League%202011-2012.pdf
 
-Round: Preliminary
+Stage: Preliminary
 
 7/26/2011; San Francisco; 1-0; Seattle Sounders; Estadio Rommel Fernandez; David Espana, Ronaldo de la Cruz, Cesar Ruano, Oscar Reyna; 700
 Roberto Brown (pk) 28;
@@ -12,6 +13,7 @@ Substitutes Not Used: 29-Josh Ford, 20-Zach Scott, 23-Servando Carrasco, 21-Nate
 Source: http://www.mlssoccer.com/matchcenter/2011-07-26-san-francisco-vs-seattle-sounders/recap
 
 7/26/2011; Herediano; 8-0; Alpha United; Estadio Nacional de Costa Rica; Oscar Davila; 7335
+Cubero 10, Cancela 30, Arias 38, Salazar 59, Barbosa 70, Barbosa 77, Barbosa 89, Cordero 90+4;
 
 7/27/2011; Toronto FC; 2-1; Real Esteli; BMO Field; Ricardo Salazar, Kermit Quisenberry, Eric Boria, Edwin Jurisevic; 9241
 Joao Plata 56, Joao Plata 72; Alesandro Calero 80
@@ -22,16 +24,22 @@ Substitutes Not Used: Justo Lorento, David Martínez, Elvis Figueroa
 Source: http://www.mlssoccer.com/matchcenter/2011-07-27-toronto-fc-vs-real-estel%C3%AD/recap
 
 7/27/2011; Isidro Metapan; 2-0; Puerto Rico Islanders; Estadio Jorge Calero Suarez; Jafeth Perea; 1658
+E. Sanchez 65, Allan Kardeck 87
 
 7/27/2011; Santos Laguna; 3-1; CD Olimpia; Estadio Corona; Joel Aguilar; 7500
+Peralta 29, Rodriguez (pk) 61, Quintero 63; Bekeles 66
 
 7/28/2011; Morelia; 5-0; Tempete; Estadio Morelos; Hector Rodriguez; 6954
+Huiqui 15, Sabah (pk) 63, Rojas 67, Sepulveda 70, Lozano 76;
 
 7/28/2011; Alianza; 0-1; FC Dallas; Estadio Cuscatlan; David Gantar; 7301
+; Jackson 70
 
 7/28/2011; Motagua; 4-0; Municipal; Estadio Tiburcio Carias Andino; Roberto Moreno; 6000
+Bengtson 42, Borjas 56, Guevara 69, G. Ramirez 76;
 
 8/2/2011; Real Esteli; 1-2; Toronto FC; Estadio Independencia, Esteli; Raul Castro; 4500
+Rosas (pk) 45+1; Johnson 37, Johnson 47
 Source: http://www.mlssoccer.com/matchcenter/2011-08-02-real-esteli-vs-toronto-fc/recap
 
 8/3/2011; FC Dallas; 1-0; Alianza; Pizza Hut Park; David Gantar, Darren Clark, Philippe Briere, Paul Ward; 3400
@@ -43,91 +51,130 @@ Substitutes Not Used: Douglas Batrez, Mauricio Quintanilla, Mauricio Arevalo, El
 Source: http://www.mlssoccer.com/matchcenter/2011-07-28-alianza-vs-fc-dallas/recap
 
 8/3/2011; Tempete; 0-2; Morelia; Estadio Morelos; Javier Santos; 6919
+; Sepulveda 31, Sepulveda 78
 
 8/3/2011; Puerto Rico Islanders; 3-1; Isidro Metapan; Juan Ramon Loubriel Stadium; Valdin Legister; 1125
+Foley (pk) 60, Foley (pk) 68, Richardson 90+5; Blanco 56
 
 8/3/2011; Seattle Sounders; 2-0 (aet); San Francisco; CenturyLink Field; Jeffrey Solis; 21233
+Fernandez 41, Jaqua 98;
 
 8/3/2011; CD Olimpia; 2-1; Santos Laguna; Estadio Tiburcio Carias Andino; Jair Marrufo; 10644
+Rojas 16, Beckeles 86; Suarez 14
 
 8/4/2011; Alpha United; 2-2; Herediano; Providence Stadium; Adrian Skeete; 600
+Abrams 34, Grant 75; Hernandez 78, Barbosa 84
 
 8/4/2011; Municipal; 2-0; Motagua; Estadio Mateo Flores; Ricardo Arellano; 1500
+Romero 32, Romero (pk) 43;
 
-Round: Group
+Stage: Group
 Group: A
 
 8/16/2011; Los Angeles Galaxy; 2-0; Motagua; Home Depot Center; Enrico Wijngaarde; 8196
+Cristman 13, Donovan 60;
 
 8/16/2011; Alajuelense; 1-0; Morelia; Estadio Alejandro Morera Soto; Roberto Moreno; 7000
+McDonald 77;
 
 8/25/2011; Los Angeles Galaxy; 2-0; Alajuelense; Home Depot Center; Marco Rodriguez; 9855
+Gonzalez 38, Barrett 77;
 
 8/25/2011; Morelia; 4-0; Motagua; Estadio Morelos; Elmer Bonilla; 5463
+Marquez Lugo 2, Rojas 50, Jimenez 70, Lugo 72;
 
 9/13/2011; Morelia; 2-1; Los Angeles Galaxy; Estadio Morelos; Benigno Pineda; 16000
+Aldrete 83, Sabah 90+2; Keane 52
 
 9/15/2011; Motagua; 2-4; Alajuelense; Estadio Tiburcio Carias Andino; Paul Delgadillo; 1928
+Bengtson 5, Guevara 68; Valle 41, McDonald 51, Guevara 84, Guevara 86
 
 9/21/2011; Alajuelense; 1-0; Los Angeles Galaxy; Estadio Alejandro Morera Soto; Courtney Campbell; 13377
+Gabas 28;
 
 9/22/2011; Motagua; 0-2; Morelia; Estadio Tiburcio Carias Andino; Javier Santos; 1752
+; Corona 55, Manso 58
 
 9/28/2011; Los Angeles Galaxy; 2-1; Morelia; Home Depot Center; Joel Aguilar; 7500
+Magee 21, Juninho 90+1; Marquez Lugo 59
 
 9/29/2011; Alajuelense; 1-0; Motagua; Estadio Alejandro Morera Soto; Valdin Legister; 9099
+McDonald 27;
 
 10/18/2011; Morelia; 2-1; Alajuelense; Estadio Morelos; Roberto Moreno; 15000
+Rojas 56, Sabah 59; Gabas 36
 
 10/20/2011; Motagua; 0-1; Los Angeles Galaxy; Estadio Tiburcio Carias Andino; Walter Lopez; 14000
+; Juninho 29
 
 Group: B
 
 8/16/2011; Santos Laguna; 3-2; Real CD Espana; Estadio Corona; Walter Quesada; 5500
+Enriquez 28, Bica (og) 51, Suarez 74; Delgado 42, Lalin 68
 
 8/17/2011; Colorado Rapids; 3-2; Isidro Metapan; DSG Park; Trevor Taylor; 4165
+Kandji 16, Kandji 45, Akpan 50; Kardeck (pk) 2, Suarez 25
 
 8/23/2011; Real CD Espana; 1-1; Colorado Rapids; Estadio Francisco Morazan; Roberto Garcia; 5841
+Rodriguez 87; Larentowicz 45+1
 
 8/24/2011; Isidro Metapan; 2-0; Santos Laguna; Estadio Jorge Calero Suarez; Raymond Bogle; 3260
+Suarez 45, Bautista 52;
 
 9/13/2011; Real CD Espana; 1-2; Isidro Metapan; Estadio Francisco Morazan; Walter Lopez; 3358
+Pavon (pk) 80; Aquino 8, Kardeck 57
 
 9/13/2011; Colorado Rapids; 1-4; Santos Laguna; DSG Park; Roberto Moreno; 9760
+Mullan 77; Luduena 14, Peralta 27, Quintero 64, Suarez 71
 
 9/21/2011; Colorado Rapids; 1-2; Real CD Espana; DSG Park; Enrico Wijngaarde; 4512
+Akpan 18; Pavon 12, Pavon 33
 
 9/22/2011; Santos Laguna; 6-0; Isidro Metapan; Estadio Corona; David Gantar; 5500
+Cardenas 21, Quintero 28, Peralta 38, Quintero 55, Ochoa 79, Peralta 86
 
 9/28/2011; Real CD Espana; 1-1; Santos Laguna; Estadio Francisco Morazan; Elmar Rodas; 6296
+Mario Martinez 61; Ochoa 51
 
 9/28/2011; Isidro Metapan; 1-3; Colorado Rapids; Estadio Jorge Calero Suarez; Raul Castro; 1920
+Pancheco 36; Ababio 31, Amarikwa 49, Cummings 77
 
 10/19/2011; Santos Laguna; 2-0; Colorado Rapids; Estadio Corona; Courtney Campbell; 6000
+Galindo 55, Escoboza 6;
 
 10/20/2011; Isidro Metapan; 3-2; Real CD Espana; Estadio Jorge Calero Suarez; Walter Quesada; 2020
+Suarez 50, Sanchez 68, Suarez 82; Delgado 56, Maynor Martinez 90+2
 
 Group: C
 
 8/17/2011; UNAM; 0-1; FC Dallas; Estadio Olimpico Universitario; Jose Molina; 4000
+; Chavez 66
 
 8/18/2011; Tauro; 1-2; Toronto FC; Estadio Rommel Fernandez; Marcos Brea; 1905
+Moreno (pk) 76; Johnson 21, De Guzman 24
 
 8/25/2011; Toronto FC; 0-1; FC Dallas; BMO Field; Javier Santos; 500
+; Stewart 45+1
 
 8/25/2011; Tauro; 0-0; UNAM; Estadio Rommel Fernandez; Mauricio Navarro; 1621
 
 9/14/2011; FC Dallas; 1-1; Tauro; Pizza Hut Park; Walter Quesada; 3001
+Cruz 1; Moreno (pk) 41
 
 9/14/2011; UNAM; 4-0; Toronto FC; Estadio Olimpico Universitario; Raymond Bogle; 3382
+Bravo 17, Velarde 21, Bravo 33, Bravo 42
 
 9/20/2011; Toronto FC; 1-0; Tauro; BMO Field; Terry Vaughn; 10132
+Koevermans 40;
 
 9/21/2011; FC Dallas; 0-2; UNAM; Pizza Hut Park; Walter Lopez; 4985
+; Herrera 84, Izazola 90+1
 
 9/27/2011; Toronto FC; 1-1; UNAM; BMO Field; Neal Brizan; 9115
+Marosevic 35; Palacios 51
 
 9/28/2011; Tauro; 5-3; FC Dallas; Estadio Rommel Fernandez; Marco Rodriguez; 316
+Moreno 12, Gallardo 33, T. Perez 77, Sanchez 81, T. Perez 86; Benitez (pk) 23, Luna 84, Luna (pk) 90+3
 
 10/18/2011; FC Dallas; 0-3; Toronto FC; Pizza Hut Park; Roberto Garcia, Marvin Torrentera, Hector Delgadillo, Francisco Chacon; 2578
 ; Danny Koevermans 29, Joao Plata 69, Joao Plata 81
@@ -138,28 +185,39 @@ Substitutes Not Used: Bobby Warshaw, Jack Stewart, Victor Ulloa, Chris Seitz
 Source: http://www.mlssoccer.com/matchcenter/2011-10-18-fc-dallas-vs-toronto-fc/recap
 
 10/19/2011; UNAM; 1-0; Tauro; Estadio Olimpico Universitario; Joel Aguilar; 5522
+Cacho 45;
 
 Group: D
 
 8/16/2011; Seattle Sounders; 4-1; Comunicaciones; CenturyLink Field; Paul Delgadillo; 10017
+Evans 35, Fucito 61, Fucito 67, Gomez (og) 87; Arreola 2
 
 8/17/2011; Herediano; 0-5; Monterrey; Estadio Nacional de Costa Rica; Marlon Mejia; 8959
+; Carreno 21, Carreno 22, Carreno 35, Corona 36, de Nigris 56
 
 8/23/2011; Monterrey; 0-1; Seattle Sounders; Estadio Tecnologico; Elmar Rodas; 10234
+; Fernandez 38
 
 8/24/2011; Comunicaciones; 2-0; Herediano; Estadio Cementos Progreso; Mark Geiger; 726
+Ceballos 73, Ordonez 90+4
 
 9/14/2011; Herediano; 1-2; Seattle Sounders; Estadio Alejandro Morera Soto; Jafeth Perea; 514
+Cncela 45+1; Montero 3, Montero 54
 
 9/14/2011; Comunicaciones; 1-0; Monterrey; Estadio Cementos Progreso; Joel Aguilar; 3552
+Ramirez 45;
 
 9/20/2011; Monterrey; 3-1; Comunicaciones; Estadio Tecnologico; Jair Marrufo; 10578
+Santana 32, Perez 68, Suazo 86; Mejia 83
 
 9/20/2011; Seattle Sounders; 0-1; Herediano; CenturyLink Field; Neal Brizan; 10163
+; Arias 25
 
 9/27/2011; Comunicaciones; 2-2; Seattle Sounders; Estadio Cementos Progreso; Roberto Garcia; 4500
+Montepeque 7, R. Morales 64; Alonso 44, Alonso 89
 
 9/27/2011; Monterrey; 1-0; Herediano; Estadio Tecnologico; Elmer Bonilla; 12445
+de Nigris 30;
 
 10/18/2011; Seattle Sounders; 1-2; Monterrey; CenturyLink Field; Enrico Wijngaarde, Ramon Louisville, Egberth Paesch, Rudolph Angela; 15866
 Fredy Montero (unassisted) 42; Abraham Darío Carreño (Humberto Suazo) 3, César Delgado (unassisted) 61
@@ -170,47 +228,62 @@ Substitutes Not Used: Brad Evans, Álvaro Fernández, Pat Noonan, Kasey Keller.
 Source: http://www.mlssoccer.com/matchcenter/2011-10-18-seattle-sounders-vs-monterrey/recap
 
 10/19/2011; Herediano; 4-1; Comunicaciones; Estadio Alejandro Morera Soto; Mauricio Navarro; 200
+Barbosa 13, Barbosa 41, Montero 49, Cordero 61; Mejia 8
 
+Stage: elimination
 Round: Quarterfinals
 Leg: 1
 
 3/6/2012; Morelia; 1-3; Monterrey; Estadio Morelos; Francisco Chacon; 14951
+Huiqui 60; Suazo 28, Suazo 44, Carreno 90+1
 
 3/7/2012; Toronto FC; 2-2; Los Angeles Galaxy; Rogers Centre; Courtney Campbell; 47658
+Johnson 12, Silva 17; Magee 29, Donovan 89
 
 3/7/2012; Seattle Sounders; 2-1; Santos Laguna; CenturyLink Field; Walter Quesada; 23433
+Estrada 12, Evans 63; Gomez 61
 
 3/8/2012; Isidro Metapan; 2-1; UNAM; Estadio Jorge Calero Suarez; Walter Lopez; 4131
+Blanco 27, Blanco 49; Herrera 67
 
 Leg: 2
 
 3/13/2012; Monterrey; 4-1; Morelia; Estadio Tecnologico; Roberto Garcia; 33000
+Suazo (pk) 44, Suazo 71, Perez (pk) 61, Ayovi 83; Sepulveda (pk) 78
 
 3/14/2012; Santos Laguna; 6-1; Seattle Sounders; Estadio Corona, Torreon; Joel Aguilar; 14278
+Suarez 8, Suarez 76, Peralta 10, Gomez 49, Gomez 68, Ochoa 81; Fernandez 37
 
 3/14/2012; Los Angeles Galaxy; 1-2; Toronto FC; Home Depot Center; Roberto Moreno; 7500
+Harden (og) 55; Johnson 34, Soolsma 67
 
 3/15/2012; UNAM; 8-0; Isidro Metapan; Estadio Olimpico Universitario, Mexico City; Mark Geiger; 7800
+A. Escobar (og) 25, Herrera 26, Velarde 39, Bravo 54, Herrera 63, Garcia 69, Espinoza 73, Cacho 88;
 
 Round: Semifinals
 Leg: 1
 
 3/28/2012; Toronto FC; 1-1; Santos Laguna; BMO Field; Ricardo Salazar; 18950
+Aceval 37; Gomez 30
 
 3/28/2012; Monterrey; 3-0; UNAM; Estadio Tecnologico, Monterrey; Jose Alfredo Penaloza; 26716
+Morales 7, de Nigris 60, de Nigris 72;
 
 Leg: 2
 
 4/4/2012; Santos Laguna; 6-2; Toronto FC; Estadio Corona, Torreon; Benigno Pineda; 26843
+Gomez 31, Gomez 45+2, Rodriguez (pk) 56, Rodriguez (pk) 64, Peralta, Luduena 90+2; Plata 15, Plata 43
 
 4/4/2012; UNAM; 1-1; Monterrey; Estadio Olimpico Universitario, Mexico City; 7300
+Garcia 71; Reyna 35
 
 Round: Finals
 Leg: 1
 
 4/18/2012; Monterrey; 2-0; Santos Laguna; Estadio Tecnologico, Monterrey; Francisco Chacon; 29300
+Suazo 60, Suazo 86;
 
 Leg: 2
 
 4/25/2012; Santos Laguna; 2-1; Monterrey; Estadio Corona, Torreon; Roberto Garcia; 28000
-
+Luduena 45+3, Peralta 51; Cardozo 82
