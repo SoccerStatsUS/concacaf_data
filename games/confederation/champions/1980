@@ -101,15 +101,20 @@ Round: 3
 * Robin Hood               Sur  Transvaal                Sur                x
 * results unknown but Robin Hood qualified for the final tournament
 
-Round: Final Tournament
+Stage: Final
+Round: 
 
-2/8/1981; UNAM; 3-0; Robin Hood; Tegucigalpa, Honduras
+2/8/1981; UNAM; 3-0; SV Robinhood; Estadio Tiburcio Carias Andino; Mauricio Rolando Morazan
 Hugo Sanchez 38, Hugo Sanchez 85, Ricardo Ferreti 69; 
+Source: http://carbon.concacaf.com/wp-content/uploads/reports/CONCACAF%20Champions%20League%202011-2012.pdf
 
-2/10/1981; Universidad (Honduras); 1-1; Robin Hood; Tegucigalpa, Honduras
+2/10/1981; Universidad (Honduras); 1-1; SV Robinhood; Estadio Tiburcio Carias Andino; Danilo Ardon
+Juan Cruz Murillo 35; Roy George 90
+Source: http://carbon.concacaf.com/wp-content/uploads/reports/CONCACAF%20Champions%20League%202011-2012.pdf
 
-2/12/1981; Universidad (Honduras); 0-2; UNAM; Tegucigalpa, Honduras
+2/12/1981; Universidad (Honduras); 0-2; UNAM; Estadio Tiburcio Carias Andino; Romulo Mendez
 ; Ricardo Ferreti 43, Hugo Sanchez (pk) 60
+Source: http://carbon.concacaf.com/wp-content/uploads/reports/CONCACAF%20Champions%20League%202011-2012.pdf
 
 
 Season: 1981
@@ -190,10 +195,15 @@ Round: 3
 10/4/1981; Transvaal; 2-0; SUBT
 
 Round: Final
+Leg: 1
 
-1/30/1982; Transvaal; 1-0; Atletico Marte; Paramaribo, Suriname
+1/30/1982; Transvaal; 1-0; Atletico Marte; Andre Kamperveen Stadium
+Johan Leisberger 84;
+Source: http://carbon.concacaf.com/wp-content/uploads/reports/CONCACAF%20Champions%20League%202011-2012.pdf
 
-2/2/1982; Atletico Marte; 1-1; Transvaal; Paramaribo, Suriname
+2/2/1982; Atletico Marte; 1-1; Transvaal; Andre Kamperveen Stadium
+Wilfredo Huezo; Wensley Bundel
+Source: http://carbon.concacaf.com/wp-content/uploads/reports/CONCACAF%20Champions%20League%202011-2012.pdf
 
 
 Season: 1982
@@ -259,11 +269,16 @@ Round: 3
 ; Robin Hood; 5-2; Defence Force
 
 Round: Final
+Leg: 1
 
-11/14/1982; Robin Hood; 0-0; UNAM; Queretaro, Mexico
+11/14/1982; SV Robinhood; 0-0; UNAM; Estadio Municipal (Queretaro); John Johnston
+Source: http://carbon.concacaf.com/wp-content/uploads/reports/CONCACAF%20Champions%20League%202011-2012.pdf
 
-11/17/1982; UNAM; 3-2; Robin Hood; Mexico City, Mexico
+Leg: 2
+
+11/17/1982; UNAM; 3-2; SV Robinhood; Estadio Olimpico Mexico 68; Jose Luis Urena
 Ricardo Ferreti 1, Ricardo Ferreti 41, Luis Flores 25; Klinker 27, Rustemberg (pk) 44
+Source: http://carbon.concacaf.com/wp-content/uploads/reports/CONCACAF%20Champions%20League%202011-2012.pdf
 
 
 Season: 1983
@@ -356,11 +371,14 @@ Round: 3
 12/3/1983; Robin Hood; 2-0; SUBT
 
 Round: Final 
+Leg: 1
 
-1/22/1983; Robin Hood; 1-1; Atlante
+1/22/1983; Robin Hood; 1-1; Atlante; National Stdium (Suriname); Juan Pablo Escobar
 Andre; Gonzalo Farfan
 
-2/1/1983; Atlante; 5-0; Robin Hood
+Leg: 2
+
+2/1/1983; Atlante; 5-0; Robin Hood; Estadio Azulgrana; Romulo Mendez; 6000
 ; Gonzalo Farfan 4, Gonzalo Farfan 63, Ricardo Castro 9, Ricardo Castro 47, Eduardo Moses 70
 
 
@@ -462,7 +480,7 @@ Notes: this result may be incorrect. Violette AC progressed
 
 Round: Final
 
-; Violette AC; W-L; Nobody
+; Violette AC; W-L; No Team
 Notes: Violette AC declared winners after both Guadalajara and New York Pancyprian Freedoms were disqualified over their failure to agree on match dates
 
 
@@ -575,18 +593,24 @@ Round: 3
 
 Round: Final 
 Group: 
+Leg: 1
 
-1/19/1986; Defence Force; 2-0; CD Olimpia
+1/19/1986; Defence Force; 2-0; CD Olimpia; National Stadium (Trinidad and Tobago)
+Andre Kenneth, Andre Kenneth;
+Source: http://carbon.concacaf.com/wp-content/uploads/reports/CONCACAF%20Champions%20League%202011-2012.pdf
 
-1/26/1986; CD Olimpia; 1-0; Defence Force
+Leg: 2
+
+1/26/1986; CD Olimpia; 1-0; Defence Force; Estadio Tiburcio Carias Andino; Jose Chinchilla
 Juan Carlos Espinoza;
+Source: http://carbon.concacaf.com/wp-content/uploads/reports/CONCACAF%20Champions%20League%202011-2012.pdf
   
 
 Season: 1986
 BlockSource: http://www.rsssf.com/tablesc/cacups86.html
 
 Group: Northern
-Round: First Round 
+Round: 1
 
 3/22/1986; Pembroke Hamilton Club; 1-0; New York Greek-Americans
 
@@ -595,7 +619,7 @@ Notes: Pembroke HC win on penalties; according to CONCACAF site, Pembroke won bo
 
 * Club Verdes              Blz  bye
   
-Round: Second Round 
+Round: 2
 
 6/22/1986; Club Verdes; 2-1; Pembroke Hamilton Club
 
@@ -720,12 +744,15 @@ Penalty kicks: 3-4
 * [?, ?; Transvaal penalties scored by Wilfred Miller, Glenn Kemble, Eric Godlieb and Ricardo Peneux]
 
 Round: Final 
+Leg: 1
 
-2/7/1987; Alajuelense; 4-1; Transvaal; Alajuela, Costa Rica
+2/7/1987; Alajuelense; 4-1; Transvaal; Estadio Alejandro Morera Soto; Juan Pablo Escobar
 Luis Fernandez 10, Jorge Ulate 30, Jose Chavez 59, Juan Cayasso 80; Eric Godlieb 17
 
-2/11/1987; Transvaal; 1-2; Alajuelense; Alajuela, Costa Rica
-; Luis Fernandez, Juan Cayasso
+Leg: 2
+
+2/11/1987; Transvaal; 1-2; Alajuelense; Estadio Alejandro Morera Soto; Mario Efrain Escobar
+Regelio Doest; Luis Fernandez, Juan Cayasso
 
 
 Season: 1987
@@ -880,12 +907,17 @@ Notes: Date uncertain
 
 Round: Final 
 Group: 
+Leg: 1
 
-10/21/1987; Defence Force; 1-1; Club America; Hasely Crawford Stadium
+10/21/1987; Defence Force; 1-1; Club America; Hasely Crawford Stadium; Frederick Hoyte; 1200
 Sutton 7; Juan Antonio Luna 43
+Source: http://carbon.concacaf.com/wp-content/uploads/reports/CONCACAF%20Champions%20League%202011-2012.pdf
 
-10/28/1987; Defence Force; 0-2; Club America; Estadio Azteca; Luis Hernandez
+Leg: 2
+
+10/28/1987; Defence Force; 0-2; Club America; Estadio Azteca; Luis Guillermo Hernandez; 7000
 ; Juan Antonio Luna 63, Antonio Carlos Santos 90
+Source: http://carbon.concacaf.com/wp-content/uploads/reports/CONCACAF%20Champions%20League%202011-2012.pdf
 
 
 Season: 1988
@@ -1040,19 +1072,28 @@ Group:
 12/11/1988; Defence Force; 2-0; Robin Hood
 
 Round: Final
+Leg: 1
 
-12/19/1988; CD Olimpia; 2-0; Defence Force; Puerto Cortes
+12/19/1988; CD Olimpia; 2-0; Defence Force; Puerto Cortes, Honduras; Enrique Melendez; 21228
+Nahun Espinoza 16, Juan Flores 46
+* Estadio Tiburcio Carias Andino?
 
-12/21/1988; CD Olimpia; 2-0; Defence Force; Estadio Nacional, Tegucigalpa; Brizio Carter; 24637
-Caballero 48, Cabellero 60;
-Notes: other sources list date of Tegucigalpa match as Dec 28
+Leg: 2
+
+*12/21/1988; CD Olimpia; 2-0; Defence Force; Estadio Nacional, Tegucigalpa; Brizio Carter; 24637
+*Caballero 48, Cabellero 60;
+*Notes: other sources list date of Tegucigalpa match as Dec 28
+
+12/21/1988; Defence Force; 0-2; CD Olimpia; Estadio Tiburcio Carias Andino; Berny Ulloa; 17965
+; Juan Carlos Contreras 9, Juan Flores 80
+Source: http://carbon.concacaf.com/wp-content/uploads/reports/CONCACAF%20Champions%20League%202011-2012.pdf
 
 
 Season: 1989
 BlockSource: http://www.rsssf.com/tablesc/cacups89.html
 
+Stage: preliminary
 Group: North/Central
-Round: Preliminary Round
 
 4/16/1989; Coke Milpros; 3-0; Diriangen
 4/30/1989; Diriangen; 1-1; Coke Milpros
@@ -1210,9 +1251,13 @@ Round: 4
 
 Round: Final 
 Group: 
+Leg: 1
 
-1/16/1990; Pinar del Rio; 1-1; UNAM
+1/16/1990; Pinar del Rio; 1-1; UNAM; Estadio Pedro Marrero
 Oswaldo Medina 55; Juan Carlos Vera 69
+Source: http://carbon.concacaf.com/wp-content/uploads/reports/CONCACAF%20Champions%20League%202011-2012.pdf
 
-2/6/1990; UNAM; 3-1; Pinar del Rio
+Leg: 2
+
+2/6/1990; UNAM; 3-1; Pinar del Rio; Estadio Olimpico Universitario; Juan Pablo Escobar
 Raimundo Garcia (pk) 45; Juan Carlos Vera 8, Jorge Campos 37, Manuel Negrete (pk) 61
