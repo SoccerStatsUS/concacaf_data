@@ -1,7 +1,8 @@
 Competition: CONCACAF Champions League
 Season: 2011-2012
 
-Key: name; position; birthdate; nationality; games; goals; yellow_cards; red_cards
+Key: name
+*; position; birthdate; nationality; games; goals; yellow_cards; red_cards
 
 Team: Alpha United
 
@@ -70,32 +71,64 @@ Marvell Wynne
 
 Team: CSD Comunicaciones
 
-Jorge Eduardo Aparicio Jairo Arreola
-Dagoberto Arriola Carlos Mauricio Castrillo Marvin Jose Ceballos Marco Tulio Ciani
-Jose Javier Del Aguila Andy Furtado Rigoberto Gomez David Guerra
-Kendel Omar Herrarte Osmar Danibel Lopez Adolfo Machado
+Jorge Eduardo Aparicio 
+Jairo Arreola
+Dagoberto Arriola 
+Carlos Mauricio Castrillo 
+Marvin Jose Ceballos 
+Marco Tulio Ciani
+Jose Javier Del Aguila 
+Andy Furtado 
+Rigoberto Gomez 
+David Guerra
+Kendel Omar Herrarte 
+Osmar Danibel Lopez 
+Adolfo Machado
 Jean Marquez
 Edgard Martinez
 Carlos Mejia
-Transito Montepeque Erwin Armando Morales Rafael Humberto Morales Bryan Alexander Ordoñez Juan Jose Paredes
-Carlos Andres Ramirez Hernan Sandoval Fredy Thompson Abner Trigueros
+Transito Montepeque 
+Erwin Armando Morales 
+Rafael Humberto Morales 
+Bryan Alexander Ordonez
+Juan Jose Paredes
+Carlos Andres Ramirez 
+Hernan Sandoval 
+Fredy Thompson 
+Abner Trigueros
 *TD/DT: Ivan Franco SOPEGNO
 
 
 Team: FC Dallas
 
-Eric Alexander Eric Avila
-Jair Benitez Fabian Castillo Marvin Chavez Daniel Cruz Maykel Galindo Jackson Goncalves Bruno Guarda Jeremy Hall
-Kevin Hartman Daniel Hernandez Moises Hernandez Ugochukwu Ihemelu Andrew Jackson George John
+Eric Alexander 
+Eric Avila
+Jair Benitez 
+Fabian Castillo 
+Marvin Chavez 
+Daniel Cruz 
+Maykel Galindo 
+Jackson Goncalves 
+Bruno Guarda 
+Jeremy Hall
+Kevin Hartman 
+Daniel Hernandez 
+Moises Hernandez 
+Ugochukwu Ihemelu 
+Andrew Jackson 
+George John
 Josh Lambo
 Zach Loyd
 Ruben Luna
 Chris Seitz
 Brek Shea
-Jack Stewart Victor Ulloa Ricardo Villar Bobby Warshaw Andrew Wiedeman
+Jack Stewart 
+Victor Ulloa 
+Ricardo Villar 
+Bobby Warshaw 
+Andrew Wiedeman
 
-
-
+Key: name; position
 Team: CS Herediano
 
 Junior Alvarado; MD 
@@ -118,7 +151,7 @@ Carlos Hernandez; MD
 Diego Madrigal; MD 
 Cristian Montero; DF 
 Leonel Moreira; GK 
-Victor Nuñe;z AT
+Victor Nune;z AT
 Marvin Obando; DF 
 Esteban Ramirez; MD 
 Michael Rodriguez; DF 
@@ -131,32 +164,31 @@ Jason Zarate; DF
 
 Team: Isidro Metapan
 
-Mario Edgardo Aguilar Posadas MD 
-Jose Ricardo Alvarado DF 
-Ernesto Noel Aquino DF 
-Christian Javier Bautista AT 
-Mark Lester Blanco AT 
-Allan Kardeck Dos Santos AT 
-Oscar Daniel Escalante MD 
-Alexander Escobar DF 
-Andres Alberto Flores AT 
-Andres Alexander Flores MD 
-Hector Omar Mejia MD 
-Milton Alexander Molina DF 
-Fidel Eduardo Mondragon GK 
-Marvin Wilfredo Monterroza AT 
-Miguel Angel Montes GK 
-Jorge Luis Moran MD 
-Alfredo Alberto Pacheco DF 
-Diego Bertin Peraza MD 
-Rene Alexander Ramos DF 
-Edwin Ernesto Sanchez MD 
-Ramon Alberto Sanchez MD 
-Rodolfo Paolo Suarez AT
+Mario Edgardo Aguilar Posadas; MD 
+Jose Ricardo Alvarado; DF 
+Ernesto Noel Aquino; DF 
+Christian Javier Bautista; AT 
+Mark Lester Blanco; AT 
+Allan Kardeck Dos Santos; AT 
+Oscar Daniel Escalante; MD 
+Alexander Escobar; DF 
+Andres Alberto Flores; AT 
+Andres Alexander Flores; MD 
+Hector Omar Mejia; MD 
+Milton Alexander Molina; DF 
+Fidel Eduardo Mondragon; GK 
+Marvin Wilfredo Monterroza; AT 
+Miguel Angel Montes; GK 
+Jorge Luis Moran; MD 
+Alfredo Alberto Pacheco; DF 
+Diego Bertin Peraza; MD 
+Rene Alexander Ramos; DF 
+Edwin Ernesto Sanchez; MD 
+Ramon Alberto Sanchez; MD 
+Rodolfo Paolo Suarez; AT
 
-
+Key: name
 Team: LA Galaxy
-
 
 Juan Pablo Angel 
 Chad Barrett
@@ -182,7 +214,8 @@ Jovan Kirovski
 Miguel Lopez
 Mike Magee
 Jack McBean
-Mark Dustin McCarty Thomas Meyer
+Mark Dustin McCarty 
+Thomas Meyer
 Vitor Pereira 
 Brian Perk 
 Donovan Ricketts 
@@ -209,7 +242,7 @@ Damian Manso
 Rafael Marquez Lugo 
 Diego Andre Mejia 
 Mario Antonio Moreno 
-Alejandro Muñoz
+Alejandro Munoz
 Luis Miguel Noriega 
 Ernest Nungaray 
 Enrique Perez 
@@ -227,20 +260,76 @@ Edinson Toloza
 Jesus Yair Urbina 
 Federico Vilar
 
+Key: name; position; 
+Team: CF Monterrey
 
-Team: Monterrey
+Othoniel Arce; AT 
+Walter Orlando Ayovi; MD 
+Jose Maria Basanta; DF
+Neri Raul Cardozo; AT 
+Abraham Dario Carren;o AT
+Marcelo Cazaubon; AT 
+Darvin Francisco Chavez; DF 
+Jesus Manuel Corona; MD 
+Jesus Alejandro Dautt; GK 
+Cesar De La Pena; MD
+Cesar Fabian Delgado; AT 
+Jesus Aldo De Nigris; AT 
+Alejandro Arturo Garcia; DF 
+Oscar Sebastian Garcia; DF 
+Eduardo Guevara; DF 
+Juan De Dios Ibarra; GK 
+Cesar Martinez; MD 
+Severo Efrain Meza; DF 
+Hiram Ricardo Mier; DF 
+Hector Miguel Morales; DF 
+Jonathan Emmanuel Orozco; GK 
+Ricardo Osorio; DF 
+William Alberto Paredes; DF 
+Luis Ernesto Perez; MD 
+Sergio Perez; DF 
+Marvin Leonardo Pino;n MD
+ Angel Eduardo Reyna; MD 
+Luis Alfonso Rodrígue;z MD
+ Sergio Alejandro Santana; AT 
+Humberto Andres Suazo; AT 
+Jesus Eduardo Zavala; MD
 
-Othoniel Arce AT Walter Orlando Ayovi MD Jose Maria Basanta DF Neri Raul Cardozo AT Abraham Dario Carreño AT Marcelo Cazaubon AT Darvin Francisco Chavez DF Jesus Manuel Corona MD Jesus Alejandro Dautt GK Cesar De La Peña MD Cesar Fabian Delgado AT Jesus Aldo De Nigris AT Alejandro Arturo Garcia DF Oscar Sebastian Garcia DF Eduardo Guevara DF Juan De Dios Ibarra GK Cesar Martinez MD Severo Efrain Meza DF Hiram Ricardo Mier DF Hector Miguel Morales DF Jonathan Emmanuel Orozco GK Ricardo Osorio DF William Alberto Paredes DF Luis Ernesto Perez MD Sergio Perez DF Marvin Leonardo Piñon MD Angel Eduardo Reyna MD Luis Alfonso Rodríguez MD Sergio Alejandro Santana AT Humberto Andres Suazo AT Jesus Eduardo Zavala MD
 
-
+Key: name
 Team: CD Motagua
 
-Aly Christofer Arriola Rene Alejandro Banegas Jerry Bengtson
-Odis Orlando Borjas Jorge Aaron Claros Emilson Nictael Cruz Kerpo Gabriel De Leon Carlos Israel Discua Omar Josue Elvir
-Jorge Edwardo Escobar Brayan Alexander Garcia Mario Alberto Giron Mario Ivan Guerrero Amado Guevara
-Junior Gustavo Izaguirre Johnny Harold Leveron Marlon Javier Licona Luis Alfredo Lopez Sergio Giovany Mendoza David Alejandro Molina Roger Omar Mondragon Donaldo Morales
-Carlos Fernando Moran Roby Alberto Norales Jhon Jairo Palacios Edras Isai Padilla
-Junior Jesus Padilla Adan Enrique Ramirez Guillermo Ramirez Milton Alexander Reyes Marty Magon Wood
+Aly Christofer Arriola 
+Rene Alejandro Banegas 
+Jerry Bengtson
+Odis Orlando Borjas 
+Jorge Aaron Claros 
+Emilson Nictael Cruz 
+Kerpo Gabriel De Leon 
+Carlos Israel Discua 
+Omar Josue Elvir
+Jorge Edwardo Escobar 
+Brayan Alexander Garcia 
+Mario Alberto Giron 
+Mario Ivan Guerrero 
+Amado Guevara
+Junior Gustavo Izaguirre 
+Johnny Harold Leveron 
+Marlon Javier Licona 
+Luis Alfredo Lopez 
+Sergio Giovany Mendoza 
+David Alejandro Molina 
+Roger Omar Mondragon 
+Donaldo Morales
+Carlos Fernando Moran 
+Roby Alberto Norales 
+Jhon Jairo Palacios 
+Edras Isai Padilla
+Junior Jesus Padilla 
+Adan Enrique Ramirez 
+Guillermo Ramirez 
+Milton Alexander Reyes 
+Marty Magon Wood
 
 
 Team: CSD Municipal
@@ -251,7 +340,8 @@ Kenroy Arana
 David Aroche
 Marvin Avila
 Juan Jose Castillo
-Byron De La Cruz Evandro Ferreira
+Byron De La Cruz 
+Evandro Ferreira
 Dennis Flores
 Yony Flores
 Franklin Garcia
@@ -259,26 +349,50 @@ Oscar Isaula
 Kevin Lemus
 Manuel Leon
 Hamilton Lopez
-Jose Rodrigo Monterroso Cristian Noriega
+Jose Rodrigo Monterroso 
+Cristian Noriega
 Darwin Oliva
 Jaime Penedo
 Saul Phillip
-Eliseo Quintanilla Mario Rodriguez Gonzalo Romero Gregory Lester Ruiz Pedro Samayoa Marlon Renato Sequen Pablo Solorzano Jaime Vides
-Carlos Villa Ronald Zavala
+Eliseo Quintanilla 
+Mario Rodriguez 
+Gonzalo Romero 
+Gregory Lester Ruiz 
+Pedro Samayoa 
+Marlon Renato Sequen 
+Pablo Solorzano 
+Jaime Vides
+Carlos Villa 
+Ronald Zavala
 
 
 Team: CD Olimpia
 
 
 Brayan Beckeles
-Henry Bermudez Washington Ramiro Bruschi Miguel Angel Castillo Walter Joel Castro
+Henry Bermudez 
+Washington Ramiro Bruschi 
+Miguel Angel Castillo 
+Walter Joel Castro
 Fabio De Souza
-Fredixon Gerardo Elvir Donis Escober
-Jose Alexander Garcia Juan Carlos Garcia
+Fredixon Gerardo 
+Elvir Donis Escober
+Jose Alexander Garcia 
+Juan Carlos Garcia
 Oscar Boniek Garcia
-Bryan Arturo Johnson Alexander Agustin Lopez Antony Ruben Lozano Nestor Nahum Martinez Douglas Caetano Mattoso Lesvin Fernando Medina Carlos Will Mejia
-Oliver David Morazan Johnny Palacios
-Javier Arnaldo Portillo Francisco Javier Reyes Roger Fabricio Rojas Jonathan Tejada
+Bryan Arturo Johnson 
+Alexander Agustin Lopez 
+Antony Ruben Lozano 
+Nestor Nahum Martinez 
+Douglas Caetano Mattoso 
+Lesvin Fernando Medina 
+Carlos Will Mejia
+Oliver David Morazan 
+Johnny Palacios
+Javier Arnaldo Portillo 
+Francisco Javier Reyes 
+Roger Fabricio Rojas 
+Jonathan Tejada
 Reynaldo Tiguath
 Elvis Danilo Turcios
 Noel Valladares
@@ -287,35 +401,88 @@ Noel Valladares
 
 Team: Puerto Rico Islanders
 
-Nicholas Addlery Matthew Bouraee Raymond Burse Jamie Cunningham Noah Delgado
-Logan Emory Jonathan Faña Farias David Foley
+Nicholas Addlery 
+Matthew Bouraee 
+Raymond Burse 
+Jamie Cunningham 
+Noah Delgado
+Logan Emory 
+Jonathan Fana Farias
+David Foley
 Scott Jones
-Cody Laurendi Leonardo Ly Richard Martin Richard Martinez Jay Needham Yaikel Perez
-Aaron Pitchkolan Gregory Richardson Alexis Rivera Joseph Salem
-Osei Telesford Jarad Van Schaik Marco Velez
-Kevon Villaroel Petter Villegas Tyler Wilson
+Cody Laurendi Leonardo 
+Ly Richard Martin 
+Richard Martinez 
+Jay Needham 
+Yaikel Perez
+Aaron Pitchkolan 
+Gregory Richardson 
+Alexis Rivera 
+Joseph Salem
+Osei Telesford 
+Jarad Van Schaik
+Marco Velez
+Kevon Villaroel 
+Petter Villegas 
+Tyler Wilson
 
 Team: Real CD Espana
 
-Juan Carlos Acevedo Henry Edgardo Acosta Ever Gonzalo Alvarado Sergio Esteban Bica Johnny Josue Calderon Hilder Jobany Colon Edder Delgado
+Juan Carlos Acevedo 
+Henry Edgardo Acosta 
+Ever Gonzalo Alvarado 
+Sergio Esteban Bica 
+Johnny Josue Calderon 
+Hilder Jobany Colon 
+Edder Delgado
 Kevin Hernandez
 Allan Moises Lalìn
-Luis Roberto Lobo Marcelo Antonio Macìas Christian Samir Martinez Mario Roberto Martinez Maynor Bonifacio Martinez Alfredo Antonio Mejia Jesùs Alberto Munguia Carlos Pavon
-Jairo Daniel Puerto Johny Leonel Rivera Gerson Rodas
-Diego Ricardo Rodriguez Julio Pablo Rodriguez David Alejandro Roura Daniel Tejeda
-Selvin Ariel Tinoco Clayvin Zùniga Jose Rafael Zùniga
+Luis Roberto Lobo 
+Marcelo Antonio 
+Macìas Christian
+ Samir Martinez 
+Mario Roberto Martinez 
+Maynor Bonifacio Martinez 
+Alfredo Antonio Mejia 
+Jesùs Alberto Munguia
+ Carlos Pavon
+Jairo Daniel Puerto 
+Johny Leonel Rivera 
+Gerson Rodas
+Diego Ricardo Rodriguez 
+Julio Pablo Rodriguez 
+David Alejandro Roura 
+Daniel Tejeda
+Selvin Ariel Tinoco 
+Clayvin Zùniga
+ Jose Rafael Zùniga
 
 
 Team: Real Esteli
 
 Jefery Araica
 Rudel Calero
-Oscar Danilo Castellon Elvis Angel Figuero Romniel Agustin Figuero Jose Antonio Flores Salvador Antonio Garcia Luis Fernando Gonzalez Francisco Ramon Lopez Franklin Ulises Lopez Justo Lorente
-Henry Alberto Maradiaga David Milton Martinez Marlon Jose Medina Elmer Mejia
-Carlos Reinaldo Mendieta Francisco Esteban Paz Felix Dorian Rodriguez Manuel Rosas
+Oscar Danilo Castellon 
+Elvis Angel Figuero 
+Romniel Agustin Figuero 
+Jose Antonio Flores 
+Salvador Antonio Garcia 
+Luis Fernando Gonzalez 
+Francisco Ramon Lopez 
+Franklin Ulises Lopez 
+Justo Lorente
+Henry Alberto Maradiaga 
+David Milton Martinez 
+Marlon Jose Medina 
+Elmer Mejia
+Carlos Reinaldo Mendieta 
+Francisco Esteban Paz 
+Felix Dorian Rodriguez 
+Manuel Rosas
 Jaime Raul Ruiz
 Wilber Sanchez
-Samuel Israel Wilson Felix Eliud Zeledon
+Samuel Israel Wilson 
+Felix Eliud Zeledon
 
 
 Team: San Francisco FC
@@ -326,16 +493,23 @@ Fredy Arizala
 Eybir Bonaga
 Roberto Brown
 Roberto Chen
-Johann Alejandro De Avila Jefrey Diaz
+Johann Alejandro De Avila 
+Jefrey Diaz
 Jose Garces
 Martin Gomez
 Alexis Gondola
 Eric Hughes
 Pedro Jeanine
 Eduardo Jimenez
-Isaac Aron Luna Roderick Miller
-Luis Felipe Olivardia Edgardo Antonio Panezo Jose Pimentel
-Bryan Santamaria Manuel Torres Miguel Torres Amir Waite
+Isaac Aron Luna 
+Roderick Miller
+Luis Felipe Olivardia 
+Edgardo Antonio Panezo 
+Jose Pimentel
+Bryan Santamaria 
+Manuel Torres 
+Miguel Torres 
+Amir Waite
 
 
 
@@ -345,90 +519,201 @@ Felipe Baloy
 Miguel Becerra
 Jose Maria Cardenas
 Marc Crosas
-Juan Carlos Enriquez Jesus Alonso Escoboza Jorge Ivan Estrada
-Rafael Alejandro Figueroa Aaron Galindo
-Luis Alberto Garcia Herculez Gomez
+Juan Carlos Enriquez 
+Jesus Alonso Escoboza 
+Jorge Ivan Estrada
+Rafael Alejandro 
+Figueroa Aaron Galindo
+Luis Alberto Garcia 
+Herculez Gomez
 Arnulfo Gonzalez
-Julio Jose Gonzalez Santiago Abel Hoyos Cesar Alberto Ibañez Enrique Lopez
-Daniel Emanuel Ludueña Osmar Mares
-Carlos Adrian Morales Edson Francisco Morua Carlos Augusto Ochoa Jose Antonio Olvera Carlos Darwin Quintero Carlos Andrei Parra
+Julio Jose Gonzalez 
+Santiago Abel Hoyos 
+Cesar Alberto Ibanez
+ Enrique Lopez
+Daniel Emanuel Luduena
+ Osmar Mares
+Carlos Adrian Morales 
+Edson Francisco Morua 
+Carlos Augusto Ochoa 
+Jose Antonio Olvera 
+Carlos Darwin Quintero 
+Carlos Andrei Parra
 Oribe Peralta
-Candido Saul Ramirez Juan Pablo Rodriguez Rodolfo Salinas
-Oswaldo Sanchez Christian Andres Suarez Jaime Toledo
+Candido Saul Ramirez 
+Juan Pablo Rodriguez 
+Rodolfo Salinas
+Oswaldo Sanchez 
+Christian Andres Suarez 
+Jaime Toledo
 Luis Fernando Vazquez
 
 
 Team: Seattle Sounders
 
-Osvaldo Alonso Terence Boss Marc Burch Servando Carrasco David Estrada Bradley Evans Alvaro Fernandez Joshua Ford
+Osvaldo Alonso 
+Terence Boss 
+Marc Burch 
+Servando Carrasco 
+David Estrada 
+Bradley Evans 
+Alvaro Fernandez 
+Joshua Ford
 Erik Friberg
-Michael Fucito Leonardo Gonzalez Taylor Graham Michael Gspurning Jhon Kennedy Hurtado Patrick Ianni
+Michael Fucito 
+Leonardo Gonzalez 
+Taylor Graham 
+Michael Gspurning 
+Jhon Kennedy Hurtado 
+Patrick Ianni
 Jonathan Jaqua
-Adam Johansson Edward Johnson
+Adam Johansson 
+Edward Johnson
 Kasey Keller
 Roger Levesque
 Bryan Meredith
 Fredy Montero
 Lamar Neagle
-Patrick Noonan Samuel Ochoa
+Patrick Noonan 
+Samuel Ochoa
 Jeffrey Parke
 James Riley
-Mauro Rosales Amadou Sanyang
+Mauro Rosales 
+Amadou Sanyang
 Zach Scott
-Michael Seamon Christian Sivebaek Michael Tetteh
+Michael Seamon 
+Christian Sivebaek 
+Michael Tetteh
 Tyson Wahl
 O’Brian White
 
 
 Team: Tauro FC
 
-William Aguilar Alvaro Anzola Adnihell Ariano Azmahar Ariano Juan Ramon Barrera Rolando Botello Diego Nicolas Canali Paul Dasent
-Auriel Antonio Gallardo Reinel Herrera
-Jose Manuel Marmolejo Ruben Antonio Martinez Jean McLean
-Jhoan Andres Melo Victor Mendieta
+William Aguilar 
+Alvaro Anzola 
+Adnihell Ariano 
+Azmahar Ariano 
+Juan Ramon Barrera 
+Rolando Botello 
+Diego Nicolas Canali 
+Paul Dasent
+Auriel Antonio Gallardo 
+Reinel Herrera
+Jose Manuel Marmolejo 
+Ruben Antonio Martinez 
+Jean McLean
+Jhoan Andres Melo 
+Victor Mendieta
 Luis Moreno
-Isaias Emanuel Olmedo Luis Emanuel Ortiz Leonel Parris
-Juan Perez Temistocles Perez Gabriel Rios
-Carlos Rodriguez Marcos Anibal Sanchez Manuel Vargas
+Isaias Emanuel Olmedo 
+Luis Emanuel Ortiz 
+Leonel Parris
+Juan Perez 
+Temistocles Perez 
+Gabriel Rios
+Carlos Rodriguez 
+Marcos Anibal Sanchez 
+Manuel Vargas
 
-
+Key: name; position
 Team: Tempete FC
 
-Thompson Amius MD Changler Cadet MD Herold Junior Charles MD Frantz Rooby Dalusma MD Itor Lua De Pontes AT Makendy Durverger DF Anoual Eliacin AT Junior Etienne DF Mysson Fenelus DF Chedlin Francoeur DF Wisnick Germinor MD Jackson Jean MD Gregory Joachim MD Sony Labranche AT Elie Paul DF Valdano Paul MD Guilherme Roger DF Guerry Romondt GK Vaniel Sirin AT William Soares Franca MD Guilherme Victor Costa Souza MD Ojuless Valcourt MD Tony Valsaint GK Fabien Vorbe AT
+Thompson Amius; MD 
+Changler Cadet; MD 
+Herold Junior Charles; MD 
+Frantz Rooby Dalusma; MD 
+Itor Lua De Pontes; AT 
+Makendy Durverger; DF 
+Anoual Eliacin; AT 
+Junior Etienne; DF 
+Mysson Fenelus; DF 
+Chedlin Francoeur; DF 
+Wisnick Germinor; MD 
+Jackson Jean; MD 
+Gregory Joachim; MD 
+Sony Labranche; AT 
+Elie Paul; DF 
+Valdano Paul; MD 
+Guilherme Roger; DF 
+Guerry Romondt; GK 
+Vaniel Sirin; AT 
+William Soares Franca; MD 
+Guilherme Victor Costa Souza; MD 
+Ojuless Valcourt; MD 
+Tony Valsaint; GK 
+Fabien Vorbe; AT
 
-
+Key: name
 Team: Toronto FC
 
-Miguel Angel Aceval Danleigh Borman Oscar Cordon Julian DeGuzman Maicon Dos Santos Terrence Dunfield Richard Eckersley Stefan Frei
-Torsten Frings Daniel Gargan Matthew Gold Leandre Griffit Robert Tyrel Harden Doneil Henry Andrew Iro
+Miguel Angel Aceval 
+Danleigh Borman 
+Oscar Cordon 
+Julian DeGuzman 
+Maicon Dos Santos 
+Terrence Dunfield 
+Richard Eckersley 
+Stefan Frei
+Torsten Frings 
+Daniel Gargan 
+Matthew Gold 
+Leandre Griffit 
+Robert Tyrel Harden 
+Doneil Henry 
+Andrew Iro
 Ryan Johnson
 Milos Kocic
-Danny Koevermans Javier Martina Perica Marosevic Aaron Maund Ashtone Morgan Demitrius Omphroy Joao Jimmy Plata Dasan Robinson Luis Silva
+Danny Koevermans 
+Javier Martina 
+Perica Marosevic 
+Aaron Maund 
+Ashtone Morgan 
+Demitrius Omphroy 
+Joao Jimmy Plata 
+Dasan Robinson 
+Luis Silva
 Nicky Sooisma
 Matthew Stinson
 Nathan Sturgis
-Reginald Thompson-Lambe Eddy Viator
-Mikael Yourassowsky Gianluca Zavarise
+Reginald Thompson-Lambe 
+Eddy Viator
+Mikael Yourassowsky 
+Gianluca Zavarise
 
 
 Team: UNAM
 
 
-Eduardo Aguirre Eduardo Barron
+Eduardo Aguirre 
+Eduardo Barron
 Martin Bravo
 David Cabrera
-Juan Carlos Cacho Carlos Alberto Campos Michelle Arturo Castro Javier Cortes
+Juan Carlos Cacho 
+Carlos Alberto Campos 
+Michelle Arturo Castro 
+Javier Cortes
 Diego De Buen
 Fernando Espinosa
-Luis Fernando Fuentes Eduardo Manuel Gamez Jose Antonio Garcia Humberto Gonzalez David Izazola
+Luis Fernando Fuentes 
+Eduardo Manuel Gamez 
+Jose Antonio Garcia 
+Humberto Gonzalez 
+David Izazola
 Salvador Medina
 Alfonso Nieto
-Carlos Emilio Orrantia Marco Antonio Palacios Miguel Alejandro Palacios Juan Francisco Palencia Odin Patiño
+Carlos Emilio Orrantia 
+Marco Antonio Palacios 
+Miguel Alejandro Palacios 
+Juan Francisco Palencia 
+Odin Patino
 Manuel Perez
-Kevin Quiñones
-Juan Carlos Ramirez Alfredo Saldivar
+Kevin Quinones
+Juan Carlos Ramirez 
+Alfredo Saldivar
 Cesar Ivan Sanchez
-Aaron Alexis Sandoval Raul Servin
+Aaron Alexis Sandoval 
+Raul Servin
 Neftali Teja
 Efrain Velarde
 Erik Vera
