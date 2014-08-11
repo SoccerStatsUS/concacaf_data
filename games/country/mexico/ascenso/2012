@@ -1,9 +1,7 @@
 BlockSource: http://www.rsssf.com/tablesm/mex2013.html
 Competition: Ascenso MX
 Season: 2012-2013
-
-
-Season: 2012 Apertura
+Stage: Apertura
 
 *- Titanes de Tulancingo 2011-12 Second Division champions (third level) excluded for not complying 
 *  with league conditions
@@ -351,39 +349,42 @@ Date: 11/4/2012
 *NB: Necaxa bye to semifinals
 
 Round: Quarterfinals 
+Leg: 1
 
-*First Legs
 11/10/2012; La Piedad        ; 2-1; Estudiantes UAG 
 11/10/2012; Mérida           ; 3-0; Lobos BUAP
 11/11/2012; Dorados          ; 1-0; Neza
 
-*Second Legs
+Leg: 2
+
 11/17/2012; Estudiantes      ; 1-3; La Piedad
 11/17/2012; Lobos BUAP       ; 4-0; Mérida
 11/18/2012; Neza             ; 1-2; Dorados
 
 Round: Semifinals
+Leg: 1
 
-*First Legs
 11/21/2012; Dorados          ; 1-1; Necaxa
 11/22/2012; La Piedad        ; 1-2; Lobos BUAP
 
-*Second Legs
+Leg: 2
+
 11/24/2012; Necaxa           ; 2-2; Dorados
 11/25/2012; Lobos BUAP       ; 0-2; La Piedad
 
 *NB: Dorados on away goals
 
 Round: Final
+Leg: 1
 
-*First Leg 
 11/28/2012; Dorados          ; 1-0; La Piedad
 
-*Second Leg
+Leg: 2
+
 12/1/2012; La Piedad        ; 3-1 (aet); Dorados
 
 
-Season: 2013 Clausura
+Stage: Clausura
 
 
 *Necaxa (Aguascalientes)  
@@ -744,74 +745,56 @@ Date: 4/21/2013
 *NB: Leones Negros bye to semifinals
 
 Round: Quarterfinals 
+Leg: 1
 
-*First Legs
-Date: 4/24/2013
+4/24/2013; Neza             ; 2-1; Lobos BUAP
+4/24/2013; Celaya           ; 1-1; Correcaminos UAT
+4/24/2013; Necaxa           ; 3-2; Veracruz
 
-; Neza             ; 2-1; Lobos BUAP
-; Celaya           ; 1-1; Correcaminos UAT
-; Necaxa           ; 3-2; Veracruz
+Leg: 2
 
-*Second Legs
-Date: 4/27/2013
-
-; Veracruz         ; 1-3; Necaxa
-; Lobos BUAP       ; 0-1; Neza
-; Correcaminos UAT ; 3-0; Celaya
+4/27/2013; Veracruz         ; 1-3; Necaxa
+4/27/2013; Lobos BUAP       ; 0-1; Neza
+4/27/2013; Correcaminos UAT ; 3-0; Celaya
 
 
 Round: Semifinals
+Leg: 1
 
-*First Legs
-Date: 5/1/2013
+5/1/2013; Necaxa           ; 3-1; Correcaminos UAT
 
-; Necaxa           ; 3-1; Correcaminos UAT
+5/2/2013; Neza             ; 2-1; Leones Negros
 
-Date: 5/2/2013
+Leg: 2
 
-; Neza             ; 2-1; Leones Negros
+5/4/2013; Correcaminos UAT ; 3-3; Necaxa
 
-*Second Legs
-
-Date: 5/4/2013
-
-; Correcaminos UAT ; 3-3; Necaxa
-
-Date: 5/5/2013
-
-; Leones Negros    ; 0-2; Neza
+5/5/2013; Leones Negros    ; 0-2; Neza
 
 
 Round: Final
+Leg: 1
 
-*First Leg 
-Date: 5/8/2013
+5/8/2013; Neza             ; 3-0; Necaxa
 
-; Neza             ; 3-0; Necaxa
+Leg: 2
 
-*Second Leg 
-Date: 5/11/2013
-
-; Necaxa           ; 0-1; Neza
+5/11/2013; Necaxa           ; 0-1; Neza
 
 *Neza FC Clausura champions
 
 
 
-Round: Promotion Playoff
+Stage: Promotion Playoff
+*Stage: Championship Final
 
+Leg: 1
 
-*Championship Final
+5/15/2013; La Piedad        ; 0-1; Neza
 
-*First Leg 
-Date: 5/15/2013
+Leg: 2
 
-; La Piedad        ; 0-1; Neza
-
-*Second Leg 
-Date: 5/18/2013
-
-; Neza             ; 0-1 (aet); La Piedad  
+5/18/2013; Neza             ; 0-1 (aet); La Piedad  
 Penalty kicks: 3-5
 
 *La Piedad promoted

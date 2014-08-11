@@ -1,9 +1,7 @@
 BlockSource: http://www.rsssf.com/tablesm/mex2012.html
 Competition: Ascenso MX
 Season: 2011-2012
-
-
-Season: 2011-2012 Apertura
+Stage: Apertura
 
 
 *Changes before season:
@@ -65,199 +63,274 @@ Season: 2011-2012 Apertura
 *    clubs finishing 2nd to 7th qualify to quarterfinals.
 
 Round: 1 
-[Jul 29]
-Necaxa            1-0 Mérida
-Correcaminos UAT  3-3 León
-Leones Negros     1-1 Celaya
-[Jul 30]
-Lobos BUAP        1-0 Cruz Azul Hidalgo
-Pumas Morelos     2-0 Veracruz
-Irapuato          2-3 La Piedad
-Indios            1-0 Dorados
-[Jul 31]
-Neza              3-0 Altamira
+Date: 7/29/2011
+
+; Necaxa           ; 1-0; Mérida
+; Correcaminos UAT ; 3-3; León
+; Leones Negros    ; 1-1; Celaya
+
+Date: 7/30/2011
+
+; Lobos BUAP       ; 1-0; Cruz Azul Hidalgo
+; Pumas Morelos    ; 2-0; Veracruz
+; Irapuato         ; 2-3; La Piedad
+; Indios           ; 1-0; Dorados
+
+Date: 7/31/2011
+
+; Neza             ; 3-0; Altamira
 
 Round: 2
-[Aug 5]
-Altamira          0-0 Lobos BUAP
-[Aug 6]
-Veracruz          0-2 Irapuato
-Mérida            1-1 Indios
-Dorados           2-2 Neza
-León              2-0 Necaxa
-Celaya            0-1 Pumas Morelos
-[Aug 7]
-Cruz Azul Hidalgo 2-2 Leones Negros
-La Piedad         2-1 Correcaminos UAT
+Date: 8/5/2011
+
+; Altamira         ; 0-0; Lobos BUAP
+
+Date: 8/6/2011
+
+; Veracruz         ; 0-2; Irapuato
+; Mérida           ; 1-1; Indios
+; Dorados          ; 2-2; Neza
+; León             ; 2-0; Necaxa
+; Celaya           ; 0-1; Pumas Morelos
+
+Date: 8/7/2011
+
+; Cruz Azul Hidalgo; 2-2; Leones Negros
+; La Piedad        ; 2-1; Correcaminos UAT
 
 Round: 3
-[Aug 12]
-Correcaminos UAT  1-1 Necaxa
-Leones Negros     0-3 Altamira
-[Aug 13]
-Pumas Morelos     1-0 Cruz Azul Hidalgo
-Indios            0-1 León
-Irapuato          3-1 Celaya
-[Aug 14]
-Neza              2-1 Mérida
-Lobos BUAP        0-1 Dorados
-La Piedad         2-0 Veracruz
+Date: 8/12/2011
+
+; Correcaminos UAT ; 1-1; Necaxa
+; Leones Negros    ; 0-3; Altamira
+
+Date: 8/13/2011
+
+; Pumas Morelos    ; 1-0; Cruz Azul Hidalgo
+; Indios           ; 0-1; León
+; Irapuato         ; 3-1; Celaya
+
+Date: 8/14/2011
+
+; Neza             ; 2-1; Mérida
+; Lobos BUAP       ; 0-1; Dorados
+; La Piedad        ; 2-0; Veracruz
 
 Round: 4
-[Aug 19]
-Altamira          3-1 Pumas Morelos
-Necaxa            3-2 Indios
-[Aug 20]
-Veracruz          1-0 Correcaminos UAT
-Dorados           3-3 Leones Negros
-Mérida            0-0 Lobos BUAP
-León              2-2 Neza
-Celaya            2-1 La Piedad
-[Aug 21]
-Cruz Azul Hidalgo 1-0 Irapuato
+Date: 8/19/2011
+
+; Altamira         ; 3-1; Pumas Morelos
+; Necaxa           ; 3-2; Indios
+
+Date: 8/20/2011
+
+; Veracruz         ; 1-0; Correcaminos UAT
+; Dorados          ; 3-3; Leones Negros
+; Mérida           ; 0-0; Lobos BUAP
+; León             ; 2-2; Neza
+; Celaya           ; 2-1; La Piedad
+
+Date: 8/21/2011
+
+; Cruz Azul Hidalgo; 1-0; Irapuato
 
 Round: 5
-[Aug 26]
-Correcaminos UAT  2-0 Indios
-Leones Negros     2-1 Mérida
-[Aug 27]
-Pumas Morelos     1-1 Dorados
-Veracruz          1-1 Celaya
-Irapuato          6-1 Altamira
-[Aug 28]
-La Piedad         1-0 Cruz Azul Hidalgo
-Neza              1-0 Necaxa
-Lobos BUAP        1-2 León
+Date: 8/26/2011
+
+; Correcaminos UAT ; 2-0; Indios
+; Leones Negros    ; 2-1; Mérida
+
+Date: 8/27/2011
+
+; Pumas Morelos    ; 1-1; Dorados
+; Veracruz         ; 1-1; Celaya
+; Irapuato         ; 6-1; Altamira
+
+Date: 8/28/2011
+
+; La Piedad        ; 1-0; Cruz Azul Hidalgo
+; Neza             ; 1-0; Necaxa
+; Lobos BUAP       ; 1-2; León
 
 Round: 6
-[Sep 9]
-Altamira          1-0 La Piedad
-Necaxa            1-1 Lobos BUAP
-[Sep 10]
-Cruz Azul Hidalgo 1-1 Veracruz
-Dorados           2-1 Irapuato
-Mérida            0-0 Pumas Morelos
-Indios            0-2 Neza
-León              1-1 Leones Negros
-Celaya            3-4 Correcaminos UAT
+Date: 9/9/2011
+
+; Altamira         ; 1-0; La Piedad
+; Necaxa           ; 1-1; Lobos BUAP
+
+Date: 9/10/2011
+
+; Cruz Azul Hidalgo; 1-1; Veracruz
+; Dorados          ; 2-1; Irapuato
+; Mérida           ; 0-0; Pumas Morelos
+; Indios           ; 0-2; Neza
+; León             ; 1-1; Leones Negros
+; Celaya           ; 3-4; Correcaminos UAT
 
 Round: 7
-[Sep 16]
-Correcaminos UAT  4-0 Neza
-Leones Negros     0-1 Necaxa
-[Sep 17]
-Pumas Morelos     2-1 León
-Veracruz          1-0 Altamira
-Irapuato          1-0 Mérida
-Celaya            1-1 Cruz Azul Hidalgo
-[Sep 18]
-Lobos BUAP        1-6 Indios
-La Piedad         4-3 Dorados
+Date: 9/16/2011
+
+; Correcaminos UAT ; 4-0; Neza
+; Leones Negros    ; 0-1; Necaxa
+
+Date: 9/17/2011
+
+; Pumas Morelos    ; 2-1; León
+; Veracruz         ; 1-0; Altamira
+; Irapuato         ; 1-0; Mérida
+; Celaya           ; 1-1; Cruz Azul Hidalgo
+
+Date: 9/18/2011
+
+; Lobos BUAP       ; 1-6; Indios
+; La Piedad        ; 4-3; Dorados
 
 Round: 8
-[Sep 23]
-Altamira          0-1 Celaya
-Necaxa            1-0 Pumas Morelos
-[Sep 24]
-Mérida            2-3 La Piedad
-Dorados           1-2 Veracruz
-Indios            0-1 Leones Negros
-León              1-1 Irapuato
-[Sep 25]
-Cruz Azul Hidalgo 2-2 Correcaminos UAT
-Neza              2-2 Lobos BUAP
+Date: 9/23/2011
+
+; Altamira         ; 0-1; Celaya
+; Necaxa           ; 1-0; Pumas Morelos
+
+Date: 9/24/2011
+
+; Mérida           ; 2-3; La Piedad
+; Dorados          ; 1-2; Veracruz
+; Indios           ; 0-1; Leones Negros
+; León             ; 1-1; Irapuato
+
+Date: 9/25/2011
+
+; Cruz Azul Hidalgo; 2-2; Correcaminos UAT
+; Neza             ; 2-2; Lobos BUAP
 
 Round: 9
-[Sep 30]
-Correcaminos UAT  2-1 Lobos BUAP
-Leones Negros     1-0 Neza
-[Oct 1]
-Veracruz          3-0 Mérida
-Irapuato          0-1 Necaxa
-Celaya            1-0 Dorados
-[Oct 2]
-Cruz Azul Hidalgo 1-2 Altamira
-La Piedad         0-0 León
-Pumas Morelos     2-2 Indios
+Date: 9/30/2011
+
+; Correcaminos UAT ; 2-1; Lobos BUAP
+; Leones Negros    ; 1-0; Neza
+
+Date: 10/1/2011
+
+; Veracruz         ; 3-0; Mérida
+; Irapuato         ; 0-1; Necaxa
+; Celaya           ; 1-0; Dorados
+
+Date: 10/2/2011
+
+; Cruz Azul Hidalgo; 1-2; Altamira
+; La Piedad        ; 0-0; León
+; Pumas Morelos    ; 2-2; Indios
 
 Round: 10
-[Oct 6]
-Lobos BUAP        1-0 Leones Negros
-[Oct 7]
-Altamira          4-4 Correcaminos UAT
-Necaxa            0-1 La Piedad
-[Oct 8]
-Mérida            3-0 Celaya
-Dorados           1-1 Cruz Azul Hidalgo
-Indios            1-2 Irapuato
-León              3-0 Veracruz
-[Oct 9]
-Neza              1-1 Pumas Morelos
+Date: 10/6/2011
+
+; Lobos BUAP       ; 1-0; Leones Negros
+
+Date: 10/7/2011
+
+; Altamira         ; 4-4; Correcaminos UAT
+; Necaxa           ; 0-1; La Piedad
+
+Date: 10/8/2011
+
+; Mérida           ; 3-0; Celaya
+; Dorados          ; 1-1; Cruz Azul Hidalgo
+; Indios           ; 1-2; Irapuato
+; León             ; 3-0; Veracruz
+
+Date: 10/9/2011
+
+; Neza             ; 1-1; Pumas Morelos
 
 Round: 11
-[Oct 14]
-Altamira          2-0 Dorados
-Correcaminos UAT  2-2 Leones Negros
-[Oct 15]
-Pumas Morelos     2-2 Lobos BUAP
-Veracruz          1-1 Necaxa
-Irapuato          4-3 Neza
-Celaya            1-1 León
-[Oct 16]
-Cruz Azul Hidalgo 0-3 Mérida
-La Piedad         3-1 Indios
+Date: 10/14/2011
+
+; Altamira         ; 2-0; Dorados
+; Correcaminos UAT ; 2-2; Leones Negros
+
+Date: 10/15/2011
+
+; Pumas Morelos    ; 2-2; Lobos BUAP
+; Veracruz         ; 1-1; Necaxa
+; Irapuato         ; 4-3; Neza
+; Celaya           ; 1-1; León
+
+Date: 10/16/2011
+
+; Cruz Azul Hidalgo; 0-3; Mérida
+; La Piedad        ; 3-1; Indios
 
 Round: 12
-[Oct 21]
-Necaxa            1-1 Celaya
-Leones Negros     0-0 Pumas Morelos
-[Oct 22]
-Mérida            0-0 Altamira
-Dorados           1-4 Correcaminos UAT
-Indios            2-0 Veracruz
-León              1-1 Cruz Azul Hidalgo
-[Oct 23]
-Neza              2-1 La Piedad
-Lobos BUAP        1-0 Irapuato
+Date: 10/21/2011
+
+; Necaxa           ; 1-1; Celaya
+; Leones Negros    ; 0-0; Pumas Morelos
+
+Date: 10/22/2011
+
+; Mérida           ; 0-0; Altamira
+; Dorados          ; 1-4; Correcaminos UAT
+; Indios           ; 2-0; Veracruz
+; León             ; 1-1; Cruz Azul Hidalgo
+
+Date: 10/23/2011
+
+; Neza             ; 2-1; La Piedad
+; Lobos BUAP       ; 1-0; Irapuato
 
 Round: 13
-[Oct 28]
-Altamira          1-1 León
-Correcaminos UAT  2-0 Pumas Morelos
-[Oct 29]
-Veracruz          2-2 Neza
-Irapuato          2-1 Leones Negros
-Dorados           3-1 Mérida
-Celaya            1-0 Indios
-[Oct 30]
-Cruz Azul Hidalgo 2-1 Necaxa
-La Piedad         0-2 Lobos BUAP
+Date: 10/28/2011
+
+; Altamira         ; 1-1; León
+; Correcaminos UAT ; 2-0; Pumas Morelos
+
+Date: 10/29/2011
+
+; Veracruz         ; 2-2; Neza
+; Irapuato         ; 2-1; Leones Negros
+; Dorados          ; 3-1; Mérida
+; Celaya           ; 1-0; Indios
+
+Date: 10/30/2011
+
+; Cruz Azul Hidalgo; 2-1; Necaxa
+; La Piedad        ; 0-2; Lobos BUAP
 
 Round: 14
-[Nov 4]
-Necaxa            2-1 Altamira
-Correcaminos UAT  2-1 Mérida
-Leones Negros     0-2 La Piedad
-[Nov 5]
-Lobos BUAP        0-2 Veracruz
-Pumas Morelos     1-0 Irapuato
-Indios            2-1 Cruz Azul Hidalgo
-León              6-1 Dorados
-[Nov 6]
-Neza              3-1 Celaya
+Date: 11/4/2011
+
+; Necaxa           ; 2-1; Altamira
+; Correcaminos UAT ; 2-1; Mérida
+; Leones Negros    ; 0-2; La Piedad
+
+Date: 11/5/2011
+
+; Lobos BUAP       ; 0-2; Veracruz
+; Pumas Morelos    ; 1-0; Irapuato
+; Indios           ; 2-1; Cruz Azul Hidalgo
+; León             ; 6-1; Dorados
+
+Date: 11/6/2011
+
+; Neza             ; 3-1; Celaya
 
 Round: 15
-[Nov 18]
-Altamira          4-2 Indios
-[Nov 19]
-Veracruz          3-2 Leones Negros
-Irapuato          0-0 Correcaminos UAT
-Mérida            2-1 León
-Dorados           1-1 Necaxa
-Celaya            0-0 Lobos BUAP
-[Nov 20]
-Cruz Azul Hidalgo 1-2 Neza
-La Piedad         3-1 Pumas Morelos 
+Date: 11/18/2011
+
+; Altamira         ; 4-2; Indios
+
+Date: 11/19/2011
+
+; Veracruz         ; 3-2; Leones Negros
+; Irapuato         ; 0-0; Correcaminos UAT
+; Mérida           ; 2-1; León
+; Dorados          ; 1-1; Necaxa
+; Celaya           ; 0-0; Lobos BUAP
+
+Date: 11/20/2011
+
+; Cruz Azul Hidalgo; 1-2; Neza
+; La Piedad        ; 3-1; Pumas Morelos 
 
 
 
@@ -286,48 +359,49 @@ La Piedad         3-1 Pumas Morelos
 *    clubs finishing 2nd to 7th qualify to quarterfinals.
 
 
-Playoff Stage
-
+Stage: Apertura Playoff 
 *NB: La Piedad bye to semifinals
 
-Quarterfinals 
+Round: Quarterfinals 
+Leg: 1
+Date: 
 
-First Legs 
-Irapuato          0-1 León        
-Altamira          2-1 Correcaminos UAT            
-Necaxa            0-1 Neza         
+; Irapuato         ; 0-1; León        
+; Altamira         ; 2-1; Correcaminos UAT            
+; Necaxa           ; 0-1; Neza         
  
-Second Legs 
-León              2-0 Irapuato     
-Neza              2-2 Necaxa          
-Correcaminos UAT  1-0 Altamira
+Leg: 2
 
-NB: Correcaminos UAT on better position        
+; León             ; 2-0; Irapuato     
+; Neza             ; 2-2; Necaxa          
+; Correcaminos UAT ; 1-0; Altamira
 
-Semifinals
+*NB: Correcaminos UAT on better position        
 
-First Legs
-[Dec 1]
-Neza              2-1 Correcaminos UAT
-León              3-5 La Piedad
+Round: Semifinals
+Leg: 1
 
-Second Legs
-[Dec 4]
-La Piedad         1-2 León
-Correcaminos UAT  2-1 Neza
+12/1/2011; Neza             ; 2-1; Correcaminos UAT
+12/1/2011; León             ; 3-5; La Piedad
 
-NB: Correcaminos UAT on better position        
+Leg: 2
 
-Final
+12/4/2011; La Piedad        ; 1-2; León
+12/4/2011; Correcaminos UAT ; 2-1; Neza
 
-First Leg [Dec 7]
-Correcaminos UAT  3-1 La Piedad
+*NB: Correcaminos UAT on better position        
 
-Second Leg [Dec 10]
-La Piedad         0-1 Correcaminos UAT
+Round: Final
+Leg: 1
+
+12/7/2011; Correcaminos UAT ; 3-1; La Piedad
+
+Leg: 2
+
+12/10/2011; La Piedad        ; 0-1; Correcaminos UAT
 
 
-Season: 2011-2012 Clausura
+Stage: Clausura
 
 *Change before season:
 *- Indios (Ciudad Juárez) withdrew 
@@ -356,201 +430,281 @@ Season: 2011-2012 Clausura
 *    clubs finishing 2nd to 7th qualify to quarterfinals.
 
 Round: 1 
-[Jan 6]
-Altamira          1-2 Neza
-[Jan 7]
-Veracruz          1-0 Pumas Morelos
-Mérida            2-0 Necaxa
-León              2-0 Correcaminos UAT
-Celaya            1-2 Leones Negros
-[Jan 8]
-Cruz Azul Hidalgo 2-3 Lobos BUAP
-[Apr 4]
-La Piedad         3-0 Irapuato
-Bye: Dorados
+Date: 1/6/2012
+
+; Altamira         ; 1-2; Neza
+
+Date: 1/7/2012
+
+; Veracruz         ; 1-0; Pumas Morelos
+; Mérida           ; 2-0; Necaxa
+; León             ; 2-0; Correcaminos UAT
+; Celaya           ; 1-2; Leones Negros
+
+Date: 1/8/2012
+
+; Cruz Azul Hidalgo; 2-3; Lobos BUAP
+
+Date: 4/4/2012
+
+; La Piedad        ; 3-0; Irapuato
+
+*Bye: Dorados
 
 Round: 2
-[Jan 13]
-Necaxa            1-1 León
-Correcaminos UAT  2-2 La Piedad
-Leones Negros     1-1 Cruz Azul Hidalgo
-[Jan 14]
-Pumas Morelos     2-1 Celaya
-Irapuato          2-1 Veracruz
-[Jan 15]
-Neza              1-1 Dorados
-Lobos BUAP        3-1 Altamira
-Bye: Mérida
+Date: 1/13/2012
+
+; Necaxa           ; 1-1; León
+; Correcaminos UAT ; 2-2; La Piedad
+; Leones Negros    ; 1-1; Cruz Azul Hidalgo
+
+Date: 1/14/2012
+
+; Pumas Morelos    ; 2-1; Celaya
+; Irapuato         ; 2-1; Veracruz
+
+Date: 1/15/2012
+
+; Neza             ; 1-1; Dorados
+; Lobos BUAP       ; 3-1; Altamira
+*Bye: Mérida
 
 Round: 3
-[Jan 20]
-Altamira          1-0 Leones Negros
-Necaxa            1-0 Correcaminos UAT
-[Jan 21]
-Veracruz          2-3 La Piedad
-Dorados           1-0 Lobos BUAP
-Mérida            1-1 Neza
-Celaya            2-1 Irapuato
-[Jan 22]
-Cruz Azul Hidalgo 0-0 Pumas Morelos
-Bye: León
+Date: 1/20/2012
+
+; Altamira         ; 1-0; Leones Negros
+; Necaxa           ; 1-0; Correcaminos UAT
+
+Date: 1/21/2012
+
+; Veracruz         ; 2-3; La Piedad
+; Dorados          ; 1-0; Lobos BUAP
+; Mérida           ; 1-1; Neza
+; Celaya           ; 2-1; Irapuato
+
+Date: 1/22/2012
+
+; Cruz Azul Hidalgo; 0-0; Pumas Morelos
+*Bye: León
 
 Round: 4
-[Jan 27]
-Correcaminos UAT  1-2 Veracruz
-Leones Negros     2-0 Dorados
-[Jan 28]
-Pumas Morelos     0-1 Altamira
-Irapuato          1-0 Cruz Azul Hidalgo
-[Jan 29]
-Neza              3-4 León
-Lobos BUAP        1-2 Mérida
-La Piedad         1-2 Celaya
-Bye: Necaxa
+Date: 1/27/2012
+
+; Correcaminos UAT ; 1-2; Veracruz
+; Leones Negros    ; 2-0; Dorados
+
+Date: 1/28/2012
+
+; Pumas Morelos    ; 0-1; Altamira
+; Irapuato         ; 1-0; Cruz Azul Hidalgo
+
+Date: 1/29/2012
+
+; Neza             ; 3-4; León
+; Lobos BUAP       ; 1-2; Mérida
+; La Piedad        ; 1-2; Celaya
+*Bye: Necaxa
 
 Round: 5
-[Feb 3]
-Altamira          1-1 Irapuato
-Necaxa            0-2 Neza
-[Feb 4]
-Dorados           2-0 Pumas Morelos
-Mérida            0-1 Leones Negros
-León              5-2 Lobos BUAP
-Celaya            2-1 Veracruz
-[Feb 5]
-Cruz Azul Hidalgo 2-1 La Piedad
-Bye: Correcaminos UAT
+Date: 2/3/2012
+
+; Altamira         ; 1-1; Irapuato
+; Necaxa           ; 0-2; Neza
+
+Date: 2/4/2012
+
+; Dorados          ; 2-0; Pumas Morelos
+; Mérida           ; 0-1; Leones Negros
+; León             ; 5-2; Lobos BUAP
+; Celaya           ; 2-1; Veracruz
+
+Date: 2/5/2012
+
+; Cruz Azul Hidalgo; 2-1; La Piedad
+*Bye: Correcaminos UAT
 
 Round: 6
-[Feb 10]
-Lobos BUAP        1-2 Necaxa
-Correcaminos UAT  1-1 Celaya
-Leones Negros     0-0 León
-[Feb 11]
-Veracruz          1-1 Cruz Azul Hidalgo
-Irapuato          1-0 Dorados
-[Feb 12]
-La Piedad         2-0 Altamira
-[Mar 7]
-Pumas Morelos     1-0 Mérida
-Bye: Neza
+Date: 2/10/2012
+
+; Lobos BUAP       ; 1-2; Necaxa
+; Correcaminos UAT ; 1-1; Celaya
+; Leones Negros    ; 0-0; León
+
+Date: 2/11/2012
+
+; Veracruz         ; 1-1; Cruz Azul Hidalgo
+; Irapuato         ; 1-0; Dorados
+
+Date: 2/12/2012
+
+; La Piedad        ; 2-0; Altamira
+
+Date: 3/7/2012
+
+; Pumas Morelos    ; 1-0; Mérida
+*Bye: Neza
 
 Round: 7
-[Feb 17]
-Altamira          2-0 Veracruz
-Necaxa            1-0 Leones Negros
-[Feb 18]
-Dorados           1-2 La Piedad
-Mérida            1-0 Irapuato
-León              3-0 Pumas Morelos
-[Feb 19]
-Cruz Azul Hidalgo 2-3 Celaya
-Neza              1-1 Correcaminos UAT
-Bye: Lobos BUAP
+Date: 2/17/2012
+
+; Altamira         ; 2-0; Veracruz
+; Necaxa           ; 1-0; Leones Negros
+
+Date: 2/18/2012
+
+; Dorados          ; 1-2; La Piedad
+; Mérida           ; 1-0; Irapuato
+; León             ; 3-0; Pumas Morelos
+
+Date: 2/19/2012
+
+; Cruz Azul Hidalgo; 2-3; Celaya
+; Neza             ; 1-1; Correcaminos UAT
+*Bye: Lobos BUAP
 
 Round: 8
-[Feb 24]
-Correcaminos UAT  5-0 Cruz Azul Hidalgo
-[Feb 25]
-Pumas Morelos     1-1 Necaxa
-Veracruz          1-0 Dorados
-Irapuato          1-2 León
-Celaya            2-0 Altamira
-[Feb 26]
-Lobos BUAP        0-1 Neza
-La Piedad         0-0 Mérida
-Bye: Leones Negros
+Date: 2/24/2012
+
+; Correcaminos UAT ; 5-0; Cruz Azul Hidalgo
+
+Date: 2/25/2012
+
+; Pumas Morelos    ; 1-1; Necaxa
+; Veracruz         ; 1-0; Dorados
+; Irapuato         ; 1-2; León
+; Celaya           ; 2-0; Altamira
+
+Date: 2/26/2012
+
+; Lobos BUAP       ; 0-1; Neza
+; La Piedad        ; 0-0; Mérida
+*Bye: Leones Negros
 
 Round: 9
-[Mar 2]
-Lobos BUAP        2-0 Correcaminos UAT
-Altamira          3-4 Cruz Azul Hidalgo
-Necaxa            3-1 Irapuato
-[Mar 3]
-Dorados           2-1 Celaya
-Mérida            1-1 Veracruz
-León              1-1 La Piedad
-[Mar 4]
-Neza              3-0 Leones Negros
-Bye: Pumas Morelos
+Date: 3/2/2012
+
+; Lobos BUAP       ; 2-0; Correcaminos UAT
+; Altamira         ; 3-4; Cruz Azul Hidalgo
+; Necaxa           ; 3-1; Irapuato
+
+Date: 3/3/2012
+
+; Dorados          ; 2-1; Celaya
+; Mérida           ; 1-1; Veracruz
+; León             ; 1-1; La Piedad
+
+Date: 3/4/2012
+
+; Neza             ; 3-0; Leones Negros
+*Bye: Pumas Morelos
 
 Round: 10
-[Mar 9]
-Correcaminos UAT  4-0 Altamira
-Leones Negros     2-3 Lobos BUAP
-[Mar 10]
-Pumas Morelos     1-0 Neza
-Veracruz          2-5 León
-Celaya            1-2 Mérida
-[Mar 11]
-Cruz Azul Hidalgo 1-1 Dorados
-La Piedad         1-2 Necaxa
-Bye: Irapuato
+Date: 3/9/2012
+
+; Correcaminos UAT ; 4-0; Altamira
+; Leones Negros    ; 2-3; Lobos BUAP
+
+Date: 3/10/2012
+
+; Pumas Morelos    ; 1-0; Neza
+; Veracruz         ; 2-5; León
+; Celaya           ; 1-2; Mérida
+
+Date: 3/11/2012
+
+; Cruz Azul Hidalgo; 1-1; Dorados
+; La Piedad        ; 1-2; Necaxa
+*Bye: Irapuato
 
 Round: 11
-[Mar 16]
-Lobos BUAP        1-1 Pumas Morelos
-Necaxa            3-0 Veracruz
-Leones Negros     0-0 Correcaminos UAT
-[Mar 17]
-Mérida            1-0 Cruz Azul Hidalgo
-Dorados           4-3 Altamira
-León              5-0 Celaya
-[Mar 18]
-Neza              2-2 Irapuato
-Bye: La Piedad
+Date: 3/16/2012
+
+; Lobos BUAP       ; 1-1; Pumas Morelos
+; Necaxa           ; 3-0; Veracruz
+; Leones Negros    ; 0-0; Correcaminos UAT
+
+Date: 3/17/2012
+
+; Mérida           ; 1-0; Cruz Azul Hidalgo
+; Dorados          ; 4-3; Altamira
+; León             ; 5-0; Celaya
+
+Date: 3/18/2012
+
+; Neza             ; 2-2; Irapuato
+*Bye: La Piedad
 
 Round: 12
-[Mar 23]
-Altamira          0-2 Mérida
-Correcaminos UAT  4-2 Dorados
-[Mar 24]
-Pumas Morelos     0-1 Leones Negros
-Irapuato          2-0 Lobos BUAP
-Celaya            2-2 Necaxa
-[Mar 25]
-Cruz Azul Hidalgo 0-3 León
-La Piedad         2-2 Neza
-Bye: Veracruz
+Date: 3/23/2012
+
+; Altamira         ; 0-2; Mérida
+; Correcaminos UAT ; 4-2; Dorados
+
+Date: 3/24/2012
+
+; Pumas Morelos    ; 0-1; Leones Negros
+; Irapuato         ; 2-0; Lobos BUAP
+; Celaya           ; 2-2; Necaxa
+
+Date: 3/25/2012
+
+; Cruz Azul Hidalgo; 0-3; León
+; La Piedad        ; 2-2; Neza
+*Bye: Veracruz
 
 Round: 13
-[Mar 30]
-Lobos BUAP        1-0 La Piedad
-Necaxa            1-0 Cruz Azul Hidalgo
-Leones Negros     0-0 Irapuato
-[Mar 31]
-Pumas Morelos     1-2 Correcaminos UAT
-Mérida            1-0 Dorados
-León              5-0 Altamira
-[Apr 1]
-Neza              2-1 Veracruz
-Bye: Celaya
+Date: 3/30/2012
+
+; Lobos BUAP       ; 1-0; La Piedad
+; Necaxa           ; 1-0; Cruz Azul Hidalgo
+; Leones Negros    ; 0-0; Irapuato
+
+Date: 3/31/2012
+
+; Pumas Morelos    ; 1-2; Correcaminos UAT
+; Mérida           ; 1-0; Dorados
+; León             ; 5-0; Altamira
+
+Date: 4/1/2012
+
+; Neza             ; 2-1; Veracruz
+*Bye: Celaya
 
 Round: 14
-[Apr 6]
-Altamira          2-0 Necaxa
-[Apr 7]
-Veracruz          0-2 Lobos BUAP
-Mérida            1-0 Correcaminos UAT
-Irapuato          0-0 Pumas Morelos
-Dorados           1-3 León
-Celaya            1-1 Neza
-[Apr 8]
-La Piedad         1-2 Leones Negros
-Bye: Cruz Azul Hidalgo
+Date: 4/6/2012
+
+; Altamira         ; 2-0; Necaxa
+
+Date: 4/7/2012
+
+; Veracruz         ; 0-2; Lobos BUAP
+; Mérida           ; 1-0; Correcaminos UAT
+; Irapuato         ; 0-0; Pumas Morelos
+; Dorados          ; 1-3; León
+; Celaya           ; 1-1; Neza
+
+Date: 4/8/2012
+
+; La Piedad        ; 1-2; Leones Negros
+*Bye: Cruz Azul Hidalgo
 
 Round: 15
-[Apr 13]
-Necaxa            3-0 Dorados
-Correcaminos UAT  2-1 Irapuato
-Leones Negros     0-0 Veracruz
-[Apr 14]
-Pumas Morelos     0-3 La Piedad
-León              2-2 Mérida
-[Apr 15]
-Lobos BUAP        1-1 Celaya
-Neza              4-1 Cruz Azul Hidalgo
-Bye: Altamira
+Date: 4/13/2012
+
+; Necaxa           ; 3-0; Dorados
+; Correcaminos UAT ; 2-1; Irapuato
+; Leones Negros    ; 0-0; Veracruz
+
+Date: 4/14/2012
+
+; Pumas Morelos    ; 0-3; La Piedad
+; León             ; 2-2; Mérida
+
+Date: 4/15/2012
+
+; Lobos BUAP       ; 1-1; Celaya
+; Neza             ; 4-1; Cruz Azul Hidalgo
+*Bye: Altamira
 
 
 * 1.León                                14  10  4  0  41-13   34 (semifinals)  
@@ -574,60 +728,63 @@ Bye: Altamira
 *NB: winners qualify to semifinals;
 *    clubs finishing 2nd to 7th qualify to quarterfinals.
 
-Playoff Stage
+Stage: Clausura Playoff
 
 
 *León bye to Semifinals
 
-Quarterfinals
+Round: Quarterfinals
+Leg: 1
 
-First Legs
-[Apr 18]
-Correcaminos UAT  2-0 Mérida
-Leones Negros     1-1 Necaxa
-[Apr 19]
-Lobos BUAP        1-0 Neza
+4/18/2012; Correcaminos UAT ; 2-0; Mérida
 
-Second Legs
-[Apr 21]
-Necaxa            0-0 Leones Negros
-Mérida            1-1 Correcaminos UAT
-[Apr 22]
-Neza              0-0 Lobos BUAP
+4/18/2012; Leones Negros    ; 1-1; Necaxa
 
-NB: Necaxa qualified on better season record
+4/19/2012; Lobos BUAP       ; 1-0; Neza
 
-Semifinals
+Leg: 2
+Date: 
 
-First Legs
-[Apr 25]
-Lobos BUAP        3-0 Necaxa
-Correcaminos UAT  0-1 León
+4/21/2012; Necaxa           ; 0-0; Leones Negros
 
-Second Legs
-[Apr 28]
-Necaxa            1-0 Lobos BUAP
-León              0-0 Correcaminos UAT
+4/21/2012; Mérida           ; 1-1; Correcaminos UAT
 
-Final
+4/22/2012; Neza             ; 0-0; Lobos BUAP
 
-First Leg [May 2]
-Lobos BUAP        3-3 León
+*NB: Necaxa qualified on better season record
 
-Second Leg [May 5]
-León              4-0 Lobos BUAP
+Round: Semifinals
+Leg: 1
+
+4/25/2012; Lobos BUAP       ; 3-0; Necaxa
+
+4/25/2012; Correcaminos UAT ; 0-1; León
+
+Leg: 2
+Date: 
+
+4/28/2012; Necaxa           ; 1-0; Lobos BUAP
+
+4/28/2012; León             ; 0-0; Correcaminos UAT
+
+Round: Final
+Leg: 1
+
+5/2/2012; Lobos BUAP       ; 3-3; León
+
+5/5/2012; León             ; 4-0; Lobos BUAP
 
 *León Clausura champions
 
+
 *Promotion Playoff
+Stage: Championship Final
+Leg: 1
 
-
-*Championship Final
-
-*First Leg [May 9]
 5/9/2012; Correcaminos UAT ; 2-1; León
 
-*Second Leg [May 12]
+Leg: 2
+
 5/12/2012; León             ; 5-0; Correcaminos UAT
 
 

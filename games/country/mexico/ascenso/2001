@@ -1,16 +1,12 @@
 BlockSource: http://www.rsssf.com/tablesm/mex02.html
 Competition: Ascenso MX
 Season: 2000-2001
-
+Stage: Invierno
 
 
 *Primera A (Second Division)
-*
 *Winter 2001
-*===========
-*
-*Tables:
-*
+
 *Group 1
 * 1.Zacatepec            19  9  6  4 32-19 33  Qualified
 * 2.Veracruz             19  8  6  5 25-19 30  Qualified
@@ -39,54 +35,55 @@ Season: 2000-2001
 * 4.Real Sociedad        19  7  4  6 28-28 25 
 * 5.Bachilleres          19  4  8  7 31-27 20 
 
-Playoff
+Stage: Invierno Playoff
+Leg: 1
 
-Firts Leg
 ; Atlético Mexiquense    ; 3-0;  Nacional Tijuana
 
-Second Leg
+Leg: 2
+
 ; Nacional Tijuana       ; 3-0;  Atlético Mexiquense
 
-Quarterfinals
+Round: Quarterfinals
+Leg: 1
 
-First Legs
 ; Aguascalientes         ; 3-1;  Veracruz
 ; Real San Luis               ; 3-1;  Querétaro
 ; Cruz Azul Hidalgo           ; 1-0;  Zacatepec
 ; Nacional Tijuana            ; 1-1;  U.A.T.
 
-Second Legs
+Leg: 2
+
 ; Veracruz               ; 2-0;  Aguascalientes
 ; Querétaro                   ; 3-2;  Real San Luis
 ; Zacatepec                        ; 1-1;  Cruz Azul Hidalgo
 ; U.A.T.                                     ; 0-0;  Nacional Tijuana
 
-Semifinals
+Round: Semifinals
+Leg: 1
 
-First Legs
 ; Cruz Azul Hidalgo      ; 2-1;  Veracruz
 ; Real San Luis               ; 2-0;  U.A.T.
 
-Second Legs
+Leg: 2
+
 ; Veracruz               ; 1-0;  Cruz Azul Hidalgo
 ; U.A.T.                           ; 2-1;  Real San Luis
 
-Final
+Round: Final
+Leg: 1
 
-First Leg
 ; Real San Luis          ; 2-2;  Veracruz
 
-Second Leg
+Leg: 2
+
 ; Veracruz               ; 2-0;  Real San Luis
 
 Veracruz winner Invierno 2002
 
 
-Summer 2002
-===========
+Stage: Verano
 
-*Tables:
-*
 *Group 1
 * 1.Zacatepec            19 10  5  4 34-28 35  Qualified
 * 2.Oaxaca               19  7  6  6 34-33 27  [*]
@@ -117,72 +114,79 @@ Summer 2002
 
 *[*] Play the Promocial (Play-Out), not enter in quarterfinals
 
-Playoff
+Stage: Verano Playoff
+Leg: 1
 
-First Leg
 ; Tigrillos (Saltillo)   ; 3-1;  Toros Neza
 
-Second Leg
+Leg: 2
+
 ; Toros Neza             ; 2-2;  Tigrillos (Saltillo)
 
-Quarterfinals
+Round: Quarterfinals
+Leg: 1
 
-First Legs
 ; Aguascalientes         ; 0-0;  Zacatepec
 ; Real San Luis               ; 3-0;  Atlético Chiapas
 ; Querétaro                        ; 2-2;  Tampico-Madero
 ; Tigrillos (Saltillo)             ; 1-0;  Atlético Mexiquense
 
-Second Legs
+Leg: 2
+
 ; Zacatepec              ; 2-3;  Aguascalientes
 ; Atlético Chiapas       ; 3-1;  Real San Luis
 ;; Tampico-Madero;               2-0  Querétaro
 ; Atlético Mexiquense         ; 1-1;  Tigrillos (Saltillo)
 
-Semifinals
+Round: Semifinals
+Leg: 1
 
-First Legs
 ; Tigrillos (Saltillo)   ; 4-1;  Tampico-Madero
 ; Aguascalientes              ; 0-2;  Real San Luis
 
-Second Legs
+Leg: 2
+
 ;; Tampico-Madero;          1-2  Tigrillos (Saltillo)
 ; Real San Luis               ; 3-2;  Aguascaliense
 
-Final
+Round: Final
+Leg: 1
 
-First Leg
 ; Tigrillos (Saltillo)   ; 4-1;  Real San Luis
 
-Second Leg
+Leg: 2
+
 ; Real San Luis          ; 3-0;  Tigrillos (Saltillo)       [San Luis pn penalties]
 
-Real San Luis winner Verano 2002
+*Real San Luis winner Verano 2002
 
-PROMOTION FINAL
+Stage: Promotion Final
+Leg: 1
 
-First Leg
 ; Veracruz               ; 1-1;  Real San Luis
 
-Second Leg
+Leg: 2
+
 ; Real San Luis          ; 3-1;  Veracruz
 
-Real San Luis champions and promoted to First Division.
+*Real San Luis champions and promoted to First Division.
 
 
-Promotion/Relegation Playoff
+Stage: Promotion/Relegation Playoff
 
-NB: between worst team 1st level (Leon) and financially strong (5 million USD) 
-    team 2nd level (Veracruz)
+*NB: between worst team 1st level (Leon) and financially strong (5 million USD) 
+*    team 2nd level (Veracruz)
 
-First Leg [May 29]
-; Veracruz   ; 3-1; León
-  [Carlos Casartelli 13, 44, Fernando Juárez 61; Jorge Toledano 77]
+Leg: 1
 
-Second Leg [Jun 1]
-; León       ; 0-0; Veracruz
+5/29/2002; Veracruz   ; 3-1; León
+Carlos Casartelli 13, Carlos Casartelli 44, Fernando Juárez 61; Jorge Toledano 77
 
-León relegated, Veracruz promoted
+Leg: 2
+
+6/1/2002; León       ; 0-0; Veracruz
+
+*León relegated, Veracruz promoted
 
 
 
