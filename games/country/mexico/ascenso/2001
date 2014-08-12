@@ -79,7 +79,7 @@ Leg: 2
 
 ; Veracruz               ; 2-0;  Real San Luis
 
-Veracruz winner Invierno 2002
+*Veracruz winner Invierno 2002
 
 
 Stage: Verano
@@ -135,7 +135,7 @@ Leg: 2
 
 ; Zacatepec              ; 2-3;  Aguascalientes
 ; Atlético Chiapas       ; 3-1;  Real San Luis
-;; Tampico-Madero;               2-0  Querétaro
+; Tampico-Madero;               2-0;  Querétaro
 ; Atlético Mexiquense         ; 1-1;  Tigrillos (Saltillo)
 
 Round: Semifinals
@@ -146,7 +146,7 @@ Leg: 1
 
 Leg: 2
 
-;; Tampico-Madero;          1-2  Tigrillos (Saltillo)
+; Tampico-Madero;          1-2;  Tigrillos (Saltillo)
 ; Real San Luis               ; 3-2;  Aguascaliense
 
 Round: Final

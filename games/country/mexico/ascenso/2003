@@ -454,7 +454,7 @@ Date: 10/12/2003
   Juan Carlos Martinez 30; Omar Santacruz 4, Omar Santacruz 63, Jaime Hernandez 36, Carlos Gutierrez 58, Daniel Rosello 80
 
 ; Durango       ; 3-3; Tlaxcala
-  Marco Cardona 54, Edson Zwaricz 83, Gerardo Márquez 89; Juan Manuel Guerra 24, 70, Guillermo Calvillo 76
+  Marco Cardona 54, Edson Zwaricz 83, Gerardo Márquez 89; Juan Manuel Guerra 24, Juan Manuel Guerra 70, Guillermo Calvillo 76
 
 ; Acapulco      ; 1-2; Correcaminos
   Fausto Domiguez 85; Carlos Casartelli 75, Diego Melillo 88
@@ -542,7 +542,7 @@ Date: 10/29/2003
   Carlos Manuel Rivas 76; Alfredo Sosa 18
 
 ; Cruz Azul Oax.; 0-2; Tabasco
-;  Bardo Fierros 57; Gustavo Gaytán 89
+;  Bardo Fierros 57, Gustavo Gaytán 89
 
 ; Correcaminos  ; 0-0; Tigrillos
 
@@ -628,7 +628,7 @@ Date: 11/9/2003
 ;  Armando Begines (og) 58
 
 ; Correcaminos  ; 3-0; Tlaxcala
-  Diego Melillo 24, Diego Melillo 34, Guillermo Casanova 76
+  Diego Melillo 24, Diego Melillo 34, Guillermo Casanova 76;
 
 ; Jaguares      ; 2-3; Culiacán
   Alejandro Nava 49, David Rangel 89; Diego Latorre 23, Horacio Gimenes 42, Horacio Gimenes 66
@@ -797,10 +797,10 @@ Leg: 1
 Leg: 2
 
 12/13/2003; Zacatepec     ; 0-1; Cobras
-  Héctor del Angel 16
+;  Héctor del Angel 16
 
 12/13/2003; Culiacán      ; 1-0; Celaya    
-  Hector Gimenez 88
+  Hector Gimenez 88;
 
 Round: Final
 Leg: 1
@@ -896,7 +896,7 @@ Round: 3
 Date: 1/30/2004
 
 ; Leon          ; 5-1; Trotamundos Salamanca
-  Hector Alvarez 4, Hector Alvarez 79, Claudio Sarrìa 44, Claudio Sarrìa 49; Luis Romero 66; Domingo Ramirez 40
+  Hector Alvarez 4, Hector Alvarez 79, Claudio Sarrìa 44, Claudio Sarrìa 49, Luis Romero 66; Domingo Ramirez 40
 
 Date: 1/31/2004
 
@@ -1001,7 +1001,7 @@ Date: 2/14/2004
 ;  Josemir Lujambio 39
 
 ; Salamanca     ; 1-0; Tapatío
-  Julio César Colman 56;;
+  Julio César Colman 56;
 
 ; Tabasco       ; 4-1; Cobras
   Omar Santacruz 1, Omar Santacruz 45, Omar Santacruz 47, Daniel Rosello 80; Israel García 36
@@ -1178,7 +1178,7 @@ Date: 3/13/2004
 ; Roberto Nurse 23
 
 ; León          ; 4-0; Correcaminos
-  Claudio Sarría 1, Ricardo Echeverría 38, Héctor Álvarez 78, Antonio Chávez 90
+  Claudio Sarría 1, Ricardo Echeverría 38, Héctor Álvarez 78, Antonio Chávez 90;
 
 ; Culiacán      ; 2-1; Tlaxcala
   Héctor Gimenez 28, Héctor Gimenez 35; Josias Ferreira 55
@@ -1341,7 +1341,7 @@ Date: 4/11/2004
   Manuel Alejandro Vela 16;
 
 ; Altamira      ; 3-0; Tigrillos
-  Lucas Silva 65, Pedro Solís 67, Pedro Solís 83
+  Lucas Silva 65, Pedro Solís 67, Pedro Solís 83;
 
 ; Morelos       ; 4-2; Durango
   Francisco Bravo 31, Miguel Angel Salcedo 65, Miguel Angel Salcedo 76, Roberto Nurse 82; Rodolfo Lemos 37, Israel Ayala 48
@@ -1401,7 +1401,7 @@ Round: 19
 Date: 5/1/2004
 
 ; Coatzacoalcos ; 1-1; Cobras
-  Jorge Toledano 66, Héctor del Angel 83
+  Jorge Toledano 66; Héctor del Angel 83
 
 ; Culiacan      ; 0-0; Celaya
 
@@ -1467,7 +1467,7 @@ Leg: 1
 Date: 5/5/2004
 
 ; Cruz Azul Oax.; 1-1; Celaya
-  Luis Alberto Orozco 58, Mauro Gerk 9
+  Luis Alberto Orozco 58; Mauro Gerk 9
 
 Leg: 2
 Date: 5/8/2004

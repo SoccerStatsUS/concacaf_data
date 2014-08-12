@@ -1,0 +1,402 @@
+BlockSource: http://www.rsssf.com/tablesm/mex2014.html
+Competition: Ascenso MX
+Season: 2013-2014
+
+Stage: Apertura
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points; notes
+
+ 1; Alebrijes                          ; 14  ; 7 ; 4 ; 3;  28;17  ; 25; (semifinals)
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2; Necaxa                             ; 14  ; 7 ; 4 ; 3;  21;15  ; 25; (quarterfinals) 
+ 3; Delfines                           ; 14  ; 7 ; 3 ; 4;  24;12  ; 24; (quarterfinals)
+ 4; Mérida FC                          ; 14  ; 6 ; 5 ; 3;  22;13  ; 23; (quarterfinals)
+ 5; Leones Negros                      ; 14  ; 7 ; 2 ; 5;  21;21  ; 23; (quarterfinals)
+ 6; Correcaminos UAT                   ; 14  ; 6 ; 4 ; 4;  25;20  ; 22; (quarterfinals)  
+ 7; Atlético San Luis                  ; 14  ; 5 ; 7 ; 2;  19;17  ; 22; (quarterfinals)
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 8; Dorados                            ; 14  ; 3 ; 9 ; 2;  15;11  ; 18;
+ 9; Altamira FC                        ; 14  ; 5 ; 3 ; 6;  26;26  ; 18; 
+10; Cruz Azul Hidalgo                  ; 14  ; 4 ; 5 ; 5;  16;18  ; 17;
+11; Lobos BUAP                         ; 14  ; 5 ; 2 ; 7;   9;17  ; 17;
+12; Estudiantes UAG                    ; 14  ; 3 ; 7 ; 4;  21;20  ; 16;
+13; Celaya FC                          ; 14  ; 3 ; 5 ; 6;  18;25  ; 14;  
+14; Ballenas                           ; 14  ; 3 ; 4 ; 7;  14;28  ; 13;
+15; Zacatepec 1948                     ; 14  ; 1 ; 2 ;11;   9;28  ;  5;  
+
+
+
+
+BlockSource: http://www.rsssf.com/tablesm/mex2013.html
+Competition: Ascenso MX
+Season: 2012-2013
+Stage: Apertura
+
+
+
+ 1; Necaxa                             ; 14  ; 9 ; 4 ; 1;  30;18  ; 31; (semifinals) 
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2; Neza FC                            ; 14  ; 6 ; 6 ; 2;  19;14  ; 24; (quarterfinals)
+ 3; Estudiantes UAG                    ; 14  ; 6 ; 5 ; 3;  16;12  ; 23; (quarterfinals) 
+ 4; Lobos BUAP                         ; 14  ; 7 ; 2 ; 5;  20;17  ; 23; (quarterfinals)  
+ 5; Mérida FC                          ; 14  ; 6 ; 5 ; 3;  14;12  ; 23; (quarterfinals)
+ 6; La Piedad                          ; 14  ; 6 ; 4 ; 4;  21;16  ; 22; (quarterfinals) 
+ 7; Dorados                            ; 14  ; 6 ; 4 ; 4;  23;22  ; 22; (quarterfinals)
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 8; Correcaminos UAT                   ; 14  ; 5 ; 3 ; 6;  19;16  ; 18;  
+ 9; Cruz Azul Hidalgo                  ; 14  ; 4 ; 5 ; 5;  14;17  ; 17;
+10; Celaya FC                          ; 14  ; 4 ; 4 ; 6;  18;19  ; 16;  
+11; Irapuato                           ; 14  ; 3 ; 7 ; 4;  16;19  ; 16;  
+12; Veracruz                           ; 14  ; 3 ; 5 ; 6;  14;16  ; 14;
+13; Altamira FC                        ; 14  ; 4 ; 2 ; 8;  14;20  ; 14; 
+14; Leones Negros                      ; 14  ; 3 ; 3 ; 8;  14;23  ; 12;
+15; Pumas Morelos                      ; 14  ; 1 ; 5 ; 8;   8;19  ;  8;  
+
+
+
+
+Stage: Clausura
+
+
+ 1; Leones Negros                      ; 14  ; 9 ; 3 ; 2;  15; 7  ; 30; (semifinals)
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2; Correcaminos UAT                   ; 14  ; 8 ; 2 ; 4;  17;10  ; 26; (quarterfinals)  
+ 3; Lobos BUAP                         ; 14  ; 8 ; 1 ; 5;  16;10  ; 25; (quarterfinals)  
+ 4; Veracruz                           ; 14  ; 7 ; 4 ; 3;  23;18  ; 25; (quarterfinals)
+ 5; Necaxa                             ; 14  ; 5 ; 6 ; 3;  23;15  ; 21; (quarterfinals)
+ 6; Neza FC                            ; 14  ; 6 ; 2 ; 6;  19;14  ; 20; (quarterfinals)
+ 7; Celaya FC                          ; 14  ; 4 ; 8 ; 2;  17;16  ; 20; (quarterfinals)
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 8; Estudiantes UAG                    ; 14  ; 5 ; 4 ; 5;  11;10  ; 19;  
+ 9; Dorados                            ; 14  ; 5 ; 4 ; 5;  11;14  ; 19; 
+10; Altamira FC                        ; 14  ; 4 ; 6 ; 4;  18;18  ; 18; 
+11; Pumas Morelos                      ; 14  ; 4 ; 5 ; 5;  13;15  ; 17;  
+12; Mérida FC                          ; 14  ; 2 ; 7 ; 5;  13;18  ; 13; 
+13; La Piedad                          ; 14  ; 3 ; 3 ; 8;  13;17  ; 12;  
+14; Cruz Azul Hidalgo                  ; 14  ; 3 ; 3 ; 8;  13;26  ; 12;
+15; Irapuato                           ; 14  ; 1 ; 4 ; 9;   7;21  ;  7;  
+
+
+
+BlockSource: http://www.rsssf.com/tablesm/mex2012.html
+Competition: Ascenso MX
+Season: 2011-2012
+Stage: Apertura
+
+
+ 1; La Piedad                          ; 15  ;10 ; 1 ; 4;  26;17  ; 31; (semifinals)
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2; Correcaminos UAT                   ; 15  ; 7 ; 6 ; 2;  33;21  ; 27; (quarterfinals) 
+ 3; Neza                               ; 15  ; 7 ; 5 ; 3;  27;22  ; 26; (quarterfinals)
+ 4; León                               ; 15  ; 5 ; 8 ; 2;  26;16  ; 23; (quarterfinals) 
+ 5; Irapuato                           ; 15  ; 7 ; 2 ; 6;  24;17  ; 23; (quarterfinals) 
+ 6; Necaxa                             ; 15  ; 6 ; 5 ; 4;  15;14  ; 23; (quarterfinals) 
+ 7; Altamira FC                        ; 15  ; 6 ; 4 ; 5;  22;22  ; 22; (quarterfinals)
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 8; Veracruz                           ; 15  ; 6 ; 4 ; 5;  17;19  ; 22;
+ 9; Pumas Morelos                      ; 15  ; 5 ; 6 ; 4;  15;16  ; 21;  
+10; Celaya FC                          ; 15  ; 4 ; 6 ; 5;  15;20  ; 18;  
+11; Lobos BUAP                         ; 15  ; 4 ; 6 ; 5;  13;18  ; 18;  
+12; Leones Negros                      ; 15  ; 3 ; 6 ; 6;  16;22  ; 15;
+13; Indios Juárez                      ; 15  ; 4 ; 2 ; 9;  20;24  ; 14;
+14; Dorados                            ; 15  ; 3 ; 5 ; 7;  20;30  ; 14;
+15; Mérida FC                          ; 15  ; 3 ; 4 ; 8;  15;19  ; 13;
+16; Cruz Azul Hidalgo                  ; 15  ; 2 ; 6 ; 7;  14;21  ; 12;
+
+
+
+
+Stage: Clausura
+
+
+ 1; León                               ; 14  ;10 ; 4 ; 0;  41;13  ; 34; (semifinals)  
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2; Mérida FC                          ; 14  ; 8 ; 4 ; 2;  16; 8  ; 28; (quarterfinals)
+ 3; Necaxa                             ; 14  ; 8 ; 3 ; 3;  20;13  ; 27; (quarterfinals) 
+ 4; Neza                               ; 14  ; 6 ; 6 ; 2;  25;16  ; 24; (quarterfinals)
+ 5; Lobos BUAP                         ; 14  ; 6 ; 2 ; 6;  20;20  ; 20; (quarterfinals)  
+ 6; Leones Negros                      ; 14  ; 5 ; 5 ; 4;  11;11  ; 20; (quarterfinals)
+ 7; Correcaminos UAT                   ; 14  ; 5 ; 4 ; 5;  22;16  ; 19; (quarterfinals) 
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 8; La Piedad                          ; 14  ; 5 ; 4 ; 5;  22;17  ; 19; 
+ 9; Celaya FC                          ; 14  ; 5 ; 4 ; 5;  20;23  ; 19;  
+10; Irapuato                           ; 14  ; 4 ; 4 ; 6;  13;17  ; 16;  
+11; Dorados                            ; 14  ; 4 ; 2 ; 8;  15;23  ; 14;
+12; Pumas Morelos                      ; 14  ; 3 ; 4 ; 7;   7;16  ; 13;  
+13; Altamira FC                        ; 14  ; 4 ; 1 ; 9;  15;29  ; 13; 
+14; Veracruz                           ; 14  ; 3 ; 3 ; 8;  13;24  ; 12;
+15; Cruz Azul Hidalgo                  ; 14  ; 2 ; 4 ; 8;  14;28  ; 10;
+
+
+
+BlockSource: http://www.rsssf.com/tablesm/mex2011.html#ascenso
+Competition: Ascenso MX
+Season: 2010-2011
+Stage: Apertura
+
+
+
+ 1; Club Tijuana                       ; 17  ;11 ; 5 ; 1;  19; 7  ;38 ; [1]
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2; Indios (Ciudad Juarez)             ; 17  ; 8 ; 5 ; 4;  32;27  ;29 ; Qualified
+ 3; Alacranes de Durango               ; 17  ; 8 ; 4 ; 5;  24;19  ;28 ; Qualified
+ 4; Lobos BUAP (Puebla)                ; 17  ; 8 ; 3 ; 6;  23;13  ;27 ; Qualified
+ 5; Veracruz                           ; 17  ; 7 ; 6 ; 4;  25;18  ;27 ; Qualified
+ 6; Irapuato                           ; 17  ; 8 ; 3 ; 6;  23;22  ;27 ; Qualified
+ 7; Albinegros de Orizaba              ; 17  ; 7 ; 4 ; 6;  21;15  ;25 ; Qualified
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 8; León                               ; 17  ; 7 ; 4 ; 6 ; 26; 21 ; 25;
+ 9; Guerreros de Hermosillo            ; 17  ; 6 ; 7 ; 4 ; 19; 21 ; 25;
+10; Altamira FC                        ; 17  ; 6 ; 6 ; 5 ; 23; 20 ; 24;
+11; Dorados de Sinaloa (Culiacán)      ; 17  ; 6 ; 5 ; 6 ; 22; 26 ; 23;
+12; Cruz Azul Hidalgo (Cd. Cooperativa); 17  ; 5 ; 7 ; 5 ; 19; 16 ; 22;
+13; Pumas Morelos (Cuernavaca)         ; 17  ; 4 ; 8 ; 5 ; 16; 21 ; 20;
+14; Leones Negros UG (Guadalajara)     ; 17  ; 5 ; 4 ; 8 ; 26; 30 ; 19;  [3]
+15; La Piedad                          ; 17  ; 4 ; 6 ; 7 ; 21; 28 ; 18;
+16; Correcaminos UAT (Ciudad Victoria) ; 17  ; 3 ; 6 ; 8 ; 14; 18 ; 15;
+17; Mérida FC                          ; 17  ; 3 ; 4 ;10 ; 13; 27 ; 13;
+18; Atlante UTN (Nezahualcoyotl)       ; 17  ; 2 ; 3 ;12 ; 17; 34 ;  9;  [2]
+
+*[1] full name Club Tijuana Xoloitzcuintles de Caliente 
+*[2] full name Atlante de la Universidad Tecnológico de Neza
+*[3] full name Leones Negros de la Universidad de Guadalajara
+
+
+
+Stage: Clausura
+
+ 1; León                               ; 16  ;10 ; 4 ; 2 ; 30; 16 ; 34;
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2; Irapuato                           ; 16  ;10 ; 3 ; 3 ; 28; 16 ; 33;
+ 3; Neza UTN (Nezahualcoyotl)          ; 16  ; 8 ; 5 ; 3 ; 19; 12 ; 29;  [2]
+ 4; Club Tijuana                       ; 16  ; 7 ; 5 ; 4 ; 23; 18 ; 26;  [1]
+ 5; Veracruz                           ; 16  ; 7 ; 5 ; 4 ; 18; 14 ; 26;
+ 6; Cruz Azul Hidalgo (Cd. Cooperativa); 16  ; 6 ; 6 ; 4 ; 24; 18 ; 24;
+ 7; Correcaminos UAT (Ciudad Victoria) ; 16  ; 7 ; 3 ; 6 ; 25; 21 ; 24;
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 8; Dorados de Sinaloa (Culiacán)      ; 16  ; 6 ; 6 ; 4 ; 22; 21 ; 24;
+ 9; Altamira FC                        ; 16  ; 6 ; 3 ; 7 ; 17; 22 ; 21;
+10; Indios (Ciudad Juarez)             ; 16  ; 6 ; 2 ; 8 ; 14; 20 ; 20;
+11; Pumas Morelos (Cuernavaca)         ; 16  ; 6 ; 1 ; 9 ; 18; 24 ; 19;
+12; Albinegros de Orizaba              ; 16  ; 4 ; 6 ; 6 ; 15; 17 ; 18;
+13; Mérida FC                          ; 16  ; 3 ; 7 ; 6 ; 17; 21 ; 16;
+14; La Piedad                          ; 16  ; 3 ; 6 ; 7 ; 14; 21 ; 15;
+15; Lobos BUAP (Puebla)                ; 16  ; 4 ; 3 ; 9 ; 26; 34 ; 15;
+16; Leones Negros UG (Guadalajara)     ; 16  ; 2 ; 8 ; 6 ; 20; 24 ; 14;  [3]
+17; Alacranes de Durango               ; 16  ; 3 ; 3 ;10 ; 16; 27 ; 12;
+* -.Guerreros de Hermosillo             withdrew
+
+*[1] full name Club Tijuana Xoloitzcuintles de Caliente 
+*[2] formerly Atlante UTN (Atlante de la Universidad Tecnológico de Neza)
+*[3] full name Leones Negros de la Universidad de Guadalajara
+
+
+
+
+BlockSource: http://www.rsssf.com/tablesm/mex2-2010.html
+Competition: Ascenso MX
+Season: 2009-2010 
+Stage: Apertura
+
+
+ 1; Irapuato                           ; 16  ;10 ; 2 ; 4 ; 28; 18 ; 32;
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2; Lobos BUAP (Puebla)                ; 16  ; 8 ; 4 ; 4 ; 19; 13 ; 28;
+ 3; Necaxa (Aguascalientes)            ; 16  ; 8 ; 4 ; 4 ; 23; 18 ; 28;
+ 4; Veracruz                           ; 16  ; 8 ; 4 ; 4 ; 18; 13 ; 28;
+ 5; Dorados de Sinaloa (Culiacán)      ; 16  ; 8 ; 2 ; 6 ; 23; 22 ; 26;
+ 6; Cruz Azul Hidalgo (Cd. Cooperativa); 16  ; 7 ; 4 ; 5 ; 21; 22 ; 25;
+ 7; Atlante UTN                        ; 16  ; 6 ; 6 ; 4 ; 24; 21 ; 24;  [*3]
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 8; Mérida FC                          ; 16  ; 6 ; 6 ; 4 ; 18; 15 ; 24;
+ 9; Pumas Morelos (Cuernavaca)         ; 16  ; 4 ; 9 ; 3 ; 21; 19 ; 21;
+10; León                               ; 16  ; 6 ; 3 ; 7 ; 27; 26 ; 21;
+11; Club Tijuana                       ; 16  ; 5 ; 5 ; 6 ; 18; 14 ; 20;  [*1]
+12; Alacranes de Durango               ; 16  ; 5 ; 5 ; 6 ; 23; 24 ; 20;
+13; Correcaminos UAT (Ciudad Victoria) ; 16  ; 6 ; 1 ; 9 ; 18; 22 ; 19;
+14; La Piedad                          ; 16  ; 4 ; 6 ; 6 ; 22; 21 ; 18;
+15; Albinegros de Orizaba              ; 16  ; 3 ; 4 ; 9 ; 12; 19 ; 13;  [*2]
+16; Universidad de Guadalajara         ; 16  ; 2 ; 7 ; 7 ; 11; 21 ; 13;
+17; Guerreros de Hermosillo FC         ; 16  ; 2 ; 4 ;10 ;  6; 24 ; 10;
+
+
+
+Stage: Clausura
+
+
+ 1; León                               ; 16  ;10 ; 4 ; 2 ; 25; 13 ; 34;
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2; Necaxa (Aguascalientes)            ; 16  ; 8 ; 8 ; 0 ; 25; 13 ; 32;
+ 3; Club Tijuana                       ; 16  ; 8 ; 3 ; 5 ; 24; 15 ; 27;  [*1]
+ 4; Pumas Morelos (Cuernavaca)         ; 16  ; 8 ; 2 ; 6 ; 21; 16 ; 26;
+ 5; La Piedad                          ; 16  ; 8 ; 1 ; 7 ; 16; 19 ; 25;
+ 6; Correcaminos UAT (Ciudad Victoria) ; 16  ; 7 ; 3 ; 6 ; 22; 17 ; 24;
+ 7; Lobos BUAP (Puebla)                ; 16  ; 7 ; 3 ; 6 ; 17; 22 ; 24;
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 8; Irapuato                           ; 16  ; 6 ; 5 ; 5 ; 21; 18 ; 23;
+ 9; Cruz Azul Hidalgo (Cd. Cooperativa); 16  ; 6 ; 5 ; 5 ; 17; 14 ; 23;
+10; Mérida FC                          ; 16  ; 5 ; 7 ; 4 ; 21; 14 ; 22;
+11; Albinegros de Orizaba              ; 16  ; 4 ;10 ; 2 ; 19; 17 ; 22;  [*2]
+12; Dorados de Sinaloa (Culiacán)      ; 16  ; 5 ; 4 ; 7 ; 18; 20 ; 19;
+13; Atlante UTN                        ; 16  ; 4 ; 5 ; 7 ; 24; 26 ; 17;  [*3]
+14; Alacranes de Durango               ; 16  ; 4 ; 3 ; 9 ; 20; 28 ; 15;
+15; Veracruz                           ; 16  ; 4 ; 3 ; 9 ; 18; 26 ; 15;
+16; Universidad de Guadalajara         ; 16  ; 3 ; 4 ; 9 ; 15; 28 ; 13;
+17; Guerreros de Hermosillo FC         ; 16  ; 2 ; 4 ;10 ; 11; 28 ; 10;
+
+
+
+BlockSource: http://www.rsssf.com/tablesm/mex09.html
+Competition: Ascenso MX
+Season: 2008-2009
+
+Stage: Apertura
+
+
+*Grupo 1
+* 1.León                      16  10  5  1  21-12  35  *
+* 2.Club Tijuana              16   9  5  2  20- 8  32  *  [1]
+* 3.Irapuato                  16   8  6  2  20- 6  30  *
+* 4.Tapatío                   16   5  4  7  12-16  19     (Guadalajara) (Guadalajara Filial)
+* 5.Tecos UAG                 16   4  5  7  17-16  17     (Zapopán) (Tecos UAG Filial)
+* 6.Académicos                16   3  7  6  12-14  16     [Guadalajara] (Atlas Filial)
+* 7.Real Colima               16   3  6  7  10-18  15
+* 8.Dorados de Sinaloa        16   4  3  9  11-21  15  *  [Culiacán] (Necaxa Filial) 
+* 9.Petroleros de Salamanca   16   2  7  7  10-22  13     (San Luis Filial)
+*[1] full name Club Tijuana Xoloitzcuintles de Caliente 
+
+*Group 2
+* 1.Querétaro                 16  10  3  3  36-20  33  *
+* 2.Correcaminos UAT          16   9  4  3  21-12  31  *  [Ciudad Victoria]
+* 3.Tigres B                  16   9  2  5  19-12  29     [San Nicolas de Los Garza] (Tigres UANL Filial)
+* 4.Indios de Chihuahua       16   6  3  7  25-28  21     (Indios Filial)
+* 5.Alacranes de Durango      16   4  8  4  15-16  20  *
+* 6.Socio Águila              16   5  4  7  13-16  19     [Distr.Federal] (America Filial)
+* 7.Tampico Madero            16   4  5  7  25-30  17     [Tampico] 
+* 8.Santos Laguna             16   4  3  9  18-27  15  *  [Torreón] (Santos Laguna Filial) 
+* 9.Rayados de Monterrey 1ªA  16   2  6  8  19-30  12     (Monterrey Filial)
+
+*Group 3
+* 1.Pumas Morelos             16  11  2  3  27-12  35     [Cuernavaca] (Pumas UNAM Filial)
+* 2.Mérida FC                 16  10  2  4  22-13  32     (Monarcas Morelia Filial)
+* 3.Veracruz                  16   8  4  4  25-16  28  *
+* 4.Cruz Azul Hidalgo         16   7  3  6  25-15  24  *  [Cd. Cooperativa] (Cruz Azul Filial) 
+* 5.Lobos BUAP                16   6  3  7  22-30  21  *  [Puebla] (Puebla FC Filial) 
+* 6.Atlético Mexiquense       16   5  4  7  19-19  19  *  [Toluca] (Toluca Filial) 
+* 7.Tiburones Rojos           16   4  7  5  14-16  19     (Coatzacoalcos) (Pachuca Filial)
+* 8.Potros Chetumal           16   1  8  7  15-28  11     (Atlante Filial)
+* 9.Jaguares de Chiapas       16   1  5 10  12-32   8     (Tuxtla Gutiérrez) (Jaguares de Chiapas Filial)
+
+
+Stage: Clausura
+
+*Grupo 1
+* 1.Mérida FC                 16   9  3  4  25-13  30     (Monarcas Morelia Filial)
+* 2.Socio Águila              16   8  3  5  21-18  27     [Distr.Federal] (America Filial)
+* 3.Petroleros de Salamanca   16   7  4  4  22-20  26     (San Luis Filial)
+* 4.Potros Chetumal           16   5  6  5  23-20  21     (Atlante Filial)
+* 5.Querétaro                 16   6  2  8  28-25  20  *
+* 6.Irapuato                  16   5  5  6  17-23  20  *
+* 7.Indios de Chihuahua       16   5  5  6  19-26  20     (Indios Filial)
+* 8.Santos Laguna             16   5  3  8  17-20  18  *  [Torreón] (Santos Laguna Filial)
+* 9.Real Colima               16   3  6  7  16-23  15
+ 
+*Group 2
+* 1.Dorados de Sinaloa        16   8  7  1  30-15  31  *  [Culiacán] (Necaxa Filial)
+* 2.Veracruz                  16   8  6  2  27-14  30  *
+* 3.Pumas Morelos             16   6  6  4  26-15  24     [Cuernavaca] (Pumas UNAM Filial)
+* 4.León                      16   6  5  5  21-19  23  *
+* 5.Correcaminos UAT          16   4  8  4  17-18  20  *  [Ciudad Victoria]
+* 6.Tigres B                  16   4  6  6  14-23  18     [San Nicolas de Los Garza] (Tigres UANL Filial)
+* 7.Atlético Mexiquense       16   4  4  8  12-23  16  *  [Toluca] (Toluca Filial)
+* 8.Tampico Madero            16   3  6  7  18-28  15     [Tampico] 
+* 9.Tapatío (Guadalajara)     16   2  6  8  16-26  12     (Guadalajara Filial)
+ 
+*Group 3
+* 1.Club Tijuana              16   9  6  1  28-16  33  *  [1]
+* 2.Cruz Azul Hidalgo         16   7  6  3  23-16  27  *  [Cd. Cooperativa] (Cruz Azul Filial)
+* 3.Lobos BUAP                16   6  7  3  25-17  25  *  [Puebla] (Puebla FC Filial)
+* 4.Alacranes de Durango      16   5 10  1  24-16  25  *
+* 5.Albinegros de Orizaba     16   5  5  6  15-16  20     (Pachuca Filial)
+* 6.Rayados de Monterrey 1ªA  16   5  5  6  16-18  20     (Monterrey Filial)
+* 7.Jaguares de Chiapas       16   3  7  6  18-21  16     (Tuxtla Gutiérrez) (Jaguares de Chiapas Filial)
+* 8.Académicos                16   1  8  7  15-27  11     [Guadalajara] (Atlas Filial)
+* 9.Tecos UAG                 16   1  6  9   8-25   9     (Zapopán) (Tecos UAG Filial) 
+*[1] full name Club Tijuana Xoloitzcuintles de Caliente 
+
+
+
+BlockSource: http://www.rsssf.com/tablesm/mex08.html
+Competition: Ascenso MX
+Season: 2007-2008
+Stage: Apertura
+
+*Grupo A
+* 1.León                       17 12  4  1  35-17  40  [León]          (Atlante Filial)
+* 2.Dorados de Sinaloa         17 10  5  2  36-18  35  [Culiacán]      (Necaxa Filial)
+* 3.Académicos                 17  8  5  4  20-14  29  [Tonalá]        (Atlas Filial)
+* 4.Club Tijuana               17  7  3  7  22-22  24  [*1]  (Tijuana)
+* - - - - - - - - - - - - - - - - - - - - - - - - - -
+* 5.Queretaro                  17  5  8  4  32-27  23  [*2]
+* 6.Real de Colima             17  6  4  7  28-29  22  [Colima] 
+* 7.Tapatío                    17  6  4  7  25-30  22  (Guadalajara)   (Guadalajara Filial)
+* 8.Tecos UAG Zapopán          17  4  5  8  19-21  17  (Zapopán)       (Tecos UAG Filial)
+* 9.Monarcas Atlético          17  3  8  6  24-27  17  (Morelia)       (Monarcas Morelia Filial)
+*10.Petroleros de Salamanca FC 17  4  5  8  22-31  17  [Salamanca]     (San Luis Filial)
+*11.Durango                    17  4  4  9  18-27  16  [Durango] 
+*12.Santos Laguna 1ªA          17  3  6  8  22-30  15  [Torreón]       (Santos Laguna Filial)
+*[*1] full name Club Tijuana Xoloitzcuintles de Caliente 
+*[*2] aka Monarcas Atlético (Morelia) 
+*
+*Grupo B
+* 1.Correcaminos UAT           17 11  3  3  24-14  36  [Ciudad Victoria]
+* 2.Lobos BUAP                 17  9  3  5  24-19  30  [Puebla]        (Puebla FC Filial)
+* 3.Indios de Ciudad Juárez    17  9  3  5  26-22  30  [Ciudad Juárez] (Pachuca Filial)
+* 4.Atlético Mexiquense        17  8  3  6  29-21  27  [Toluca]        (Toluca Filial)
+* - - - - - - - - - - - - - - - - - - - - - - - - - -
+* 5.Rayados 1ªA                17  6  7  4  18-16  25  [Monterrey]     (Monterrey Filial)
+* 6.CD Cruz Azul Hidalgo       17  6  7  4  20-20  25                  (Cruz Azul Filial)
+* 7.Tampico Madero FC          17  7  2  8  35-29  23  [Tampico] 
+* 8.Tiburones Rojos            17  6  5  6  21-24  23  [Coatzacoalcos] (Veracruz Filial)
+* 9.Tigres B                   17  4  7  6  16-21  19  [Reynosa]       (Tigres UANL Filial)
+*10.Jaguares de Tapachula      17  4  4  9  17-29  16                  (Jaguares de Chiapas Filial)
+*11.Pumas Morelos              17  2  8  7  16-22  14  [Cuernavaca]    (Pumas UNAM Filial)
+*12.Socio Aguila FC            17  1  5 11  16-35   8  [Distr.Federal] (America Filial)
+
+
+Stage: Clausura
+
+
+
+*Grupo A
+* 1.Dorados de Sinaloa         17 10  5  2  31-14  35  [Culiacán]      (Necaxa Filial)
+* 2.León                       17  9  6  2  45-23  33  [León]          (Atlante Filial)
+* 3.Durango                    17  9  4  4  28-23  31  [Durango] 
+* 4.Club Tijuana               17  8  3  6  23-16  27  [*1]  (Tijuana)
+* - - - - - - - - - - - - - - - - - - - - - - - - - -
+* 5.Petroleros de Salamanca FC 17  7  3  7  21-23  24  [Salamanca]     (San Luis Filial)
+* 6.Tecos UAG Zapopán          17  6  4  7  17-21  22  (Zapopán)       (Tecos UAG Filial)
+* 7.Tapatío                    17  6  3  8  14-21  21  (Guadalajara)   (Guadalajara Filial)
+* 8.Monarcas Atlético          17  4  6  7  21-25  18  (Morelia)       (Monarcas Morelia Filial)
+* 9.Queretaro                  17  4  6  7  23-30  18  [*2]
+*10.Real de Colima             17  4  5  8  19-26  17  [Colima] 
+*11.Académicos                 17  4  4  9  18-27  16  [Tonalá]        (Atlas Filial)
+*12.Santos Laguna 1ªA          17  3  3 11  16-31  12  [Torreón]       (Santos Laguna Filial)
+*[*1] full name Club Tijuana Xoloitzcuintles de Caliente 
+*[*2] aka Monarcas Atlético (Morelia) 
+
+*Grupo B
+* 1.Tiburones Rojos            17  8  6  3  21-18  30  [Coatzacoalcos] (Veracruz Filial)
+* 2.Tampico Madero FC          17  8  5  4  23-23  29  [Tampico] 
+* 3.Tigres B                   17  7  7  3  22-15  28  [Reynosa]       (Tigres UANL Filial)
+* 4.CD Cruz Azul Hidalgo       17  8  4  5  21-15  28                  (Cruz Azul Filial)
+* - - - - - - - - - - - - - - - - - - - - - - - - - -
+* 5.Indios de Ciudad Juárez    17  6  8  3  27-14  26  [Ciudad Juárez] (Pachuca Filial)
+* 6.Lobos BUAP                 17  7  4  6  22-16  25  [Puebla]        (Puebla FC Filial)
+* 7.Pumas Morelos              17  7  4  6  23-26  25  [Cuernavaca]    (Pumas UNAM Filial)
+* 8.Atlético Mexiquense        17  6  5  6  17-16  23  [Toluca]        (Toluca Filial)
+* 9.Correcaminos UAT           17  5  6  6  23-17  21  [Ciudad Victoria]
+*10.Rayados 1ªA                17  4  6  7  23-28  18  [Monterrey]     (Monterrey Filial)
+*11.Socio Aguila FC            17  5  2 10  14-26  17  [Distr.Federal] (America Filial)
+*12.Jaguares de Tapachula      17  3  3 11  14-32  12                  (Jaguares de Chiapas Filial)
+*NB: top-4 of each group qualify to playoff
