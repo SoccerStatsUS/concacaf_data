@@ -25,7 +25,7 @@ home-first
 *  8.- Torreon            34   8  11  15  35  55  0.64  27  Relegation Playoff
 *  9.- Irapuato           34   2  12  20  26  50  0.52  16  Relegation Playoff
  
-Round: Round 1                                      
+Round: 1                                      
 
 ; Club León                ; 1 - 1; Puebla              
 ; Jalisco             ; 2 - 1; Cruz Azul           
@@ -37,7 +37,7 @@ Round: Round 1
 ; Monterrey           ; 2 - 0; Guadalajara         
 ; Irapuato            ; 0 - 0; Zacatepec           
                                                
-Round: Round 2                                        
+Round: 2                                        
 
 ; Atletico Espanol           ; 0 - 5; Club León                
 ; Torreon             ; 1 - 1; Jalisco             
@@ -49,7 +49,7 @@ Round: Round 2
 ; Cruz Azul           ; 1 - 3; Monterrey           
 ; A.Pachuca           ; 1 - 0; Irapuato            
                                                
-Round: Round 3                                        
+Round: 3                                        
 
 ; Atlante             ; 0 - 1; Atletico Espanol           
 ; Monterrey           ; 1 - 0; Torreon             
@@ -61,7 +61,7 @@ Round: Round 3
 ; Laguna              ; 1 - 1; Cruz Azul           
 ; Zacatepec           ; 2 - 0; A.Pachuca           
                                                
-Round: Round 4                                        
+Round: 4                                        
 
 ; San Luis            ; 4 - 0; Atlante             
 ; Puebla              ; 0 - 0; Monterrey           
@@ -73,7 +73,7 @@ Round: Round 4
 ; Torreon             ; 0 - 2; Laguna              
 ; U.N.A.M.            ; 1 - 0; Zacatepec           
                                                
-Round: Round 5                                        
+Round: 5                                        
 
 ; Jalisco             ; 0 - 1; San Luis            
 ; Laguna              ; 1 - 0; Puebla              
@@ -85,7 +85,7 @@ Round: Round 5
 ; Veracruz            ; 3 - 2; Torreon             
 ; A.Pachuca           ; 0 - 0; U.N.A.M.            
                                                
-Round: Round 6                                        
+Round: 6                                        
 
 ; Toluca              ; 2 - 1; Jalisco             
 ; Atletico Espanol           ; 3 - 1; Laguna              
@@ -97,7 +97,7 @@ Round: Round 6
 ; Puebla              ; 4 - 2; Veracruz            
 ; Guadalajara         ; 2 - 2; A.Pachuca           
                                                
-Round: Round 7                                        
+Round: 7                                        
 
 ; Monterrey           ; 1 - 0; Toluca              
 ; Veracruz            ; 1 - 2; Atletico Espanol           
@@ -109,7 +109,7 @@ Round: Round 7
 ; Irapuato            ; 3 - 1; Puebla              
 ; U.N.A.M.            ; 0 - 1; Guadalajara         
                                                
-Round: Round 8                                        
+Round: 8                                        
 
 ; Club León                ; 5 - 2; Monterrey           
 ; San Luis            ; 0 - 0; Veracruz            
@@ -121,7 +121,7 @@ Round: Round 8
 ; Atletico Espanol           ; 0 - 0; Irapuato            
 ; Cruz Azul           ; 1 - 0; U.N.A.M.            
                                                
-Round: Round 9                                        
+Round: 9                                        
 
 ; Laguna              ; 1 - 1; Club León                
 ; Irapuato            ; 2 - 3; San Luis            
@@ -133,7 +133,7 @@ Round: Round 9
 ; Zacatepec           ; 2 - 1; Atletico Espanol           
 ; Guadalajara         ; 0 - 2; Cruz Azul           
                                                
-Round: Round 10                                       
+Round: 10                                       
 
 ; Atlante             ; 1 - 0; Laguna              
 ; Toluca              ; 1 - 0; Irapuato            
@@ -145,7 +145,7 @@ Round: Round 10
 ; San Luis            ; 1 - 1; Zacatepec           
 ; Torreon             ; 2 - 1; Guadalajara         
                                                
-Round: Round 11                                       
+Round: 11                                       
 
 ; Veracruz            ; 2 - 2; Atlante             
 ; Zacatepec           ; 2 - 1; Toluca              
@@ -157,7 +157,7 @@ Round: Round 11
 ; A.Pachuca           ; 0 - 2; San Luis            
 ; Cruz Azul           ; 3 - 1; Torreon             
                                                
-Round: Round 12                                       
+Round: 12                                       
 
 ; Jalisco             ; 1 - 0; Veracruz            
 ; Club León                ; 2 - 2; Zacatepec           
@@ -169,7 +169,7 @@ Round: Round 12
 ; Toluca              ; 1 - 3; A.Pachuca           
 ; Puebla              ; 1 - 2; Cruz Azul           
                                                
-Round: Round 13                                        
+Round: 13                                        
 
 ; Irapuato            ; 1 - 1; Jalisco             
 ; A.Pachuca           ; 2 - 0; Club León                
@@ -181,7 +181,7 @@ Round: Round 13
 ; U.N.A.M.            ; 2 - 2; Toluca              
 ; Torreon             ; 2 - 2; Puebla              
                                                
-Round: Round 14                                       
+Round: 14                                       
 
 ; Monterrey           ; 1 - 0; Irapuato            
 ; Atlante             ; 0 - 1; A.Pachuca           
@@ -193,7 +193,7 @@ Round: Round 14
 ; Club León                ; 3 - 1; U.N.A.M.            
 ; Atletico Espanol           ; 4 - 0; Torreon             
                                                
-Round: Round 15                                       
+Round: 15                                       
 
 ; Zacatepec           ; 2 - 0; Monterrey           
 ; U.N.A.M.            ; 0 - 2; Atlante             
@@ -205,7 +205,7 @@ Round: Round 15
 ; Guadalajara         ; 1 - 0; Club León                
 ; Puebla              ; 1 - 2; Atletico Espanol           
                                                
-Round: Round 16                                       
+Round: 16                                       
 
 ; San Luis            ; 1 - 0; Puebla              
 ; Club León                ; 0 - 3; Cruz Azul           
@@ -217,7 +217,7 @@ Round: Round 16
 ; Veracruz            ; 0 - 0; Irapuato            
 ; Laguna              ; 0 - 1; Zacatepec           
                                                
-Round: Round 17                                       
+Round: 17                                       
 
 ; Atletico Espanol           ; 2 - 1; San Luis            
 ; Cruz Azul           ; 2 - 1; Atlante             
@@ -229,7 +229,7 @@ Round: Round 17
 ; Zacatepec           ; 0 - 0; Veracruz            
 ; Torreon             ; 2 - 1; Club León                
                                                
-Round: Round 18                                       
+Round: 18                                       
 
 ; U.N.A.M.            ; 0 - 0; Laguna              
 ; Cruz Azul           ; 2 - 2; Jalisco             
@@ -241,7 +241,7 @@ Round: Round 18
 ; Torreon             ; 2 - 1; Atlante             
 ; San Luis            ; 2 - 1; Club America             
                                                
-Round: Round 19                                       
+Round: 19                                       
 
 ; Atlante             ; 2 - 0; Puebla              
 ; Club America             ; 1 - 1; Zacatepec           
@@ -253,7 +253,7 @@ Round: Round 19
 ; Veracruz            ; 1 - 0; U.N.A.M.            
 ; Laguna              ; 2 - 0; Guadalajara         
                                                
-Round: Round 20                                        
+Round: 20                                        
 
 ; Guadalajara         ; 1 - 0; Veracruz            
 ; Torreon             ; 1 - 1; Monterrey           
@@ -265,7 +265,7 @@ Round: Round 20
 ; Puebla              ; 1 - 1; Jalisco             
 ; Toluca              ; 1 - 2; Club America             
                                                
-Round: Round 21                                       
+Round: 21                                       
 
 ; Irapuato            ; 0 - 0; Guadalajara         
 ; Laguna              ; 1 - 0; Torreon             
@@ -277,7 +277,7 @@ Round: Round 21
 ; Monterrey           ; 0 - 0; Puebla              
 ; Club León                ; 4 - 1; Toluca              
                                                
-Round: Round 22                                       
+Round: 22                                       
 
 ; Cruz Azul           ; 2 - 0; Irapuato            
 ; Puebla              ; 1 - 1; Laguna              
@@ -289,7 +289,7 @@ Round: Round 22
 ; Atletico Espanol           ; 2 - 3; Monterrey           
 ; Club León                ; 2 - 2; Club America             
                                                
-Round: Round 23                                       
+Round: 23                                       
 
 ; Zacatepec           ; 0 - 2; Cruz Azul           
 ; Veracruz            ; 1 - 1; Puebla              
@@ -301,7 +301,7 @@ Round: Round 23
 ; Laguna              ; 3 - 4; Atletico Espanol           
 ; Atlante             ; 1 - 1; Club León                
                                                
-Round: Round 24                                       
+Round: 24                                       
 
 ; Torreon             ; 0 - 0; Zacatepec           
 ; Atletico Espanol           ; 0 - 2; Veracruz            
@@ -313,7 +313,7 @@ Round: Round 24
 ; San Luis            ; 1 - 1; Laguna              
 ; Atlante             ; 1 - 2; Club America             
                                                
-Round: Round 25                                       
+Round: 25                                       
 
 ; A.Pachuca           ; 2 - 1; Torreon             
 ; Irapuato            ; 4 - 4; Atletico Espanol           
@@ -325,7 +325,7 @@ Round: Round 25
 ; Veracruz            ; 4 - 2; San Luis            
 ; Jalisco             ; 2 - 1; Atlante             
                                                
-Round: Round 26                                       
+Round: 26                                       
 
 ; Puebla              ; 2 - 1; A.Pachuca           
 ; San Luis            ; 1 - 0; Irapuato            
@@ -337,7 +337,7 @@ Round: Round 26
 ; Toluca              ; 5 - 2; Veracruz            
 ; Jalisco             ; 4 - 3; Club America             
                                                
-Round: Round 27                                       
+Round: 27                                       
 
 ; U.N.A.M.            ; 3 - 2; Puebla              
 ; Zacatepec           ; 0 - 0; San Luis            
@@ -349,7 +349,7 @@ Round: Round 27
 ; Irapuato            ; 2 - 2; Toluca              
 ; Monterrey           ; 4 - 3; Jalisco             
                                                
-Round: Round 28                                       
+Round: 28                                       
 
 ; Atletico Espanol           ; 3 - 1; U.N.A.M.            
 ; Toluca              ; 2 - 0; Zacatepec           
@@ -361,7 +361,7 @@ Round: Round 28
 ; Club León                ; 2 - 5; Irapuato            
 ; Monterrey           ; 0 - 1; Club America             
                                                
-Round: Round 29                                       
+Round: 29                                       
 
 ; Guadalajara         ; 5 - 3; Atletico Espanol           
 ; A.Pachuca           ; 3 - 0; Toluca              
@@ -373,7 +373,7 @@ Round: Round 29
 ; Zacatepec           ; 2 - 1; Club León                
 ; Laguna              ; 1 - 1; Monterrey           
                                                
-Round: Round 30                                       
+Round: 30                                       
 
 ; San Luis            ; 1 - 1; Guadalajara         
 ; Club León                ; 6 - 1; A.Pachuca           
@@ -385,7 +385,7 @@ Round: Round 30
 ; Atlante             ; 2 - 1; Zacatepec           
 ; Laguna              ; 1 - 1; Club America             
                                                
-Round: Round 31                                       
+Round: 31                                       
 
 ; Cruz Azul           ; 3 - 1; San Luis            
 ; U.N.A.M.            ; 4 - 3; Club León                
@@ -397,7 +397,7 @@ Round: Round 31
 ; A.Pachuca           ; 0 - 2; Atlante             
 ; Veracruz            ; 2 - 0; Laguna              
                                                
-Round: Round 32                                         
+Round: 32                                         
 
 ; Toluca              ; 2 - 1; Cruz Azul           
 ; Atlante             ; 1 - 0; U.N.A.M.            
@@ -409,7 +409,7 @@ Round: Round 32
 ; Jalisco             ; 2 - 2; A.Pachuca           
 ; Veracruz            ; 3 - 2; Club America             
                                                
-Round: Round 33                                       
+Round: 33                                       
 
 ; Torreon             ; 1 - 1; Toluca              
 ; Guadalajara         ; 1 - 1; Atlante             
@@ -421,7 +421,7 @@ Round: Round 33
 ; U.N.A.M.            ; 1 - 2; Jalisco             
 ; Irapuato            ; 0 - 0; Veracruz            
                                                
-Round: Round 34                                       
+Round: 34                                       
 
 ; Club León                ;11 - 3; Torreon             
 ; Jalisco             ; 0 - 2; Guadalajara         
