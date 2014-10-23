@@ -2,9 +2,8 @@ Competition: CONCACAF Giants Cup
 BlockSource: http://www.rsssf.com/tablesc/cacups01.html#gc
 
 Season: 2001
-
-
-Round: Preliminary Round
+* Stage: preliminary
+Round: 1
 
 3/4/2001; Transvaal; 1-1; Arnett Gardens; André Kamperveen Stadion, Paramaribo, Suriname; Urvin Faneijte
 Benny Kijansi 31; Gerald Neil 63
@@ -29,7 +28,7 @@ Héctor Caraballo 42; Martín Machón 15
 3/14/2001; CD Aguila; 1-1; Municipal; Estadio Mateo Flores, Guatemala City, Guatemala; Vivian Rodriguez
 Selvin Ponciano 74; Rodinei Martins 19
 
-
+Stage: knockout
 Round: Quarterfinals
 
 4/4/2001; Arnett Gardens; 0-3; DC United; Tony Spaulding Sports Complex, Kingston, Jamaica; 

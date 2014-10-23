@@ -11,17 +11,14 @@ Group: Northern
 11/9/1991; Brooklyn Italians; 1-3; Universidad Guadalajara; La Primavera Training Field
 Mueller 50; Eduardo Chagas 22, Carlos Faria 29, Octavio Mora 75
 
-
 Group: Caribbean
-
-Round: First Round
+Round: 1
 
 10/29/1991; AS Javouhey Mana; 0-1; Racing Club de Gonaives
 
 11/11/1991; Racing Club de Gonaives; 3-0; AS Javouhey Mana
 
-
-Round: Second Round
+Round: 2
 
 12/3/1991; Gauloise (Basse-Terre); 2-2; Racing Club de Gonaives
 
@@ -29,8 +26,8 @@ Round: Second Round
 
 
 Group: Central American
-
-Round: Preliminary Round
+Stage: preliminary
+* Round: Preliminary Round
 
 *Round: Final Tournament 
 *Group: Central Zone 
@@ -62,6 +59,7 @@ Contreras, Chacón, Bauza (pk); Coronado, Coronado, Coronado
 * 4.Real Estelí                     3  0  0  3  1-26  0
 
 *Final Tournament (in Guatemala, 1992)
+Stage: final
 
 1/15/1992; Comunicaciones; 1-1; Racing Club de Gonaives; Guatemala
 Vargas; Daclinat
@@ -91,7 +89,7 @@ Season: 1993
 
 
 Group: Northern
-Round: First Round
+Round: 1
 
 11/18/1992; San Jose Oaks; 1-4; Monterrey
 John Hughes 78; Carlos Alberto Bianchezi 14, Carlos Alberto Bianchezi 70, Carlos Alberto Bianchezi 90, Sergio Verdirame 22
@@ -112,7 +110,7 @@ Group: Central
 
 
 Group: Caribbean
-Round: Preliminary Round
+Round: Preliminary
 
 11/10/1992; Solidarite Scolaire; 5-0; Lion Hill Spliff
 
@@ -120,8 +118,7 @@ Round: Preliminary Round
 
 11/22/1992; PVV; 4-0; ASJ Mana
 
-
-Round: First Round 
+Round: 1
 
 12/16/1992; Solidarite Scolaire; 2-2; PVV
 
@@ -132,8 +129,7 @@ Penalty kicks: 5-3
 Forfeit
 Notes: Yobbo Rangers withdrew before 1st leg
 
-
-Round: Second Round 
+Round: 2
 
 1/6/1993; US Robert; 4-1; Solidarite Scolaire
 
@@ -147,7 +143,7 @@ Marie Luce 16, Robert Bounge 65; own goal 70
 3/10/1993; Monterrey; 2-0; US Robert
 Juan Antonio Flores Barrera 60, Juan Antonio Flores Barrera 92;
 
-
+Stage: final
 *Final Tournament
 
 7/28/1993; Monterrey; 1-1; Real CD Espana; Nou Camp Stadium, Monterey Park, CA
@@ -178,7 +174,7 @@ Season: 1994
 
 * Round: Qualifying Rounds
 Group: Caribbean
-Round: Preliminary Round 
+Round: Preliminary
 
 11/12/1993; Lambada; 1-0; Racing Club Saint Joseph
 
@@ -186,7 +182,7 @@ Round: Preliminary Round
 ; Raymond Agricole
   
 
-Round: First Round 
+Round: 1
 
 11/12/1993; SNL; 0-0; Olympique (Morne-a-l'Eau)
 
@@ -198,7 +194,6 @@ Anthony Dhanoola;
 
 12/12/1993; Malta Caribs; 1-2; Lambada
 Anthony Dhanoola;
-
 
 Round: Quarterfinals
 
@@ -219,7 +214,6 @@ Raul Calderon; Jorge Salazar, Oscar Martinez
 Jose Angulo 39; Luis Americo Scatolaro 2, Luis Americo Scatolaro 50, Ivo Basay, Ivo Basay, Ricardo Pelaez
 * Check goals
 
-
 Round: Semifinals 
 
 12/2/1993; Real Maya; 1-2; Aurora
@@ -228,12 +222,10 @@ Nelson Rosales 62; Roderico Mendez (or Julio Giron?) 24, Jose Montepeque 87
 12/2/1993; Lambada; 1-4; Necaxa
 Steve Mark 63; Manuel Sol 30, Ivo Basay 58, Efrain Herrera 79, Ricardo Pelaez 86
 
-
 Round: Third Place 
 
 12/4/1993; Real Maya; 1-0; Lambada
 Jose Hernandez (pk) 44;
-
 
 Round: Final 
 
@@ -260,7 +252,7 @@ Group: Central A
 
 Group: Central B
 
-Round: Preliminary Round
+Round: Preliminary
 
 3/14/1995; Marathon; 4-0; Cosmos FC
 
@@ -271,8 +263,7 @@ Round: Preliminary Round
 
 4/12/1995; Acros Crystal; 2-2; Suchitepequez  
 
-
-Round: Final Round 
+Round: Final
 
 7/16/1995; Suchitepequez; 1-1; Marathon; Mazatenango
 
@@ -281,7 +272,7 @@ Round: Final Round
 
 
 * Caribbean Zone
-Round: Preliminary Round
+Round: Preliminary
 * F.I.C.A. (Hai) withdrew; Western Tigers FC (Guy) qualified.
 
 3/8/1995; Arsenal (Petit-Bourg); 1-0;  Racing Club Aruba
@@ -295,16 +286,14 @@ Regis Allen, Marc Dinga, Miguel Massia;
 4/5/1995; Club Colonial; 0-5; Jong Colombia
   
 
-Round: First Round 
+Round: 1
 * US Robert (Mtq) withdrew; Western Tigers FC (Guy) qualified.
 
 5/19/1995; Jong Colombia; 2-1; Arsenal (Petit-Bourg)
 
 6/10/1995; Jong Colombia; 0-0; Arsenal (Petit-Bourg)
 
-
-
-Round: Second Round 
+Round: 2
 
 9/23/1995; Jong Colombia; 5-3; Western Tigers FC
 
@@ -313,8 +302,8 @@ Round: Second Round
 * Jong Colombia (DAn) qualified for Final Tournament
 
 
-* Round: Final Tournament 
-Round: Semi-Finals 
+Stage: Final Tournament 
+Round: Semifinals 
 
 4/2/1996; UAG; 2-1; Marathon; Santa Ana, CA
 Felipe Del Angel Malibran 22, Eustacio Rizo Escote 89; Jurandy De Jesus Damacena 35
@@ -322,12 +311,10 @@ Felipe Del Angel Malibran 22, Eustacio Rizo Escote 89; Jurandy De Jesus Damacena
 4/2/1996; LA Firpo; 8-0; Jong Colombia; Santa Ana, CA
 Julio Millan 11, Ari Da Silva 15, Ari Da Silva 63, Ari Da Silva 83, Klay Marzon 21, Klay Marzon 75, Pedro Vasquez 40, Pedro Vasquez 57; 
    
-
 Round: Third Place 
 
 4/4/1996; Marathon; 12-0; Jong Colombia; Santa Ana, CA
 Byron Suazo 1, Otavio Santana 7, Otavio Santana 14, Otavio Santana 17, Otavio Santana 37, Otavio Santana 61, Otavio Santana 76, Otavio Santana 82, Luis Perdomo 12, Pompilio Cacho 22, Mario Beata 66, Jose Christiano Pinheiro De Araujo 78;
-
 
 Round: Final 
 
@@ -335,7 +322,6 @@ Round: Final
 Felipe Del Angel Malibran 24, Agustin Garcia 88; Geovani Trigueros 34
 UAG: Carlos Briones, Mauricio Gomez, Sergio Gomez (Agustin Garcia 57), Gilberto Adame, Markus Lopez, Mauricio Gallaga, Felipe Del Angel Malibran, Flavio Davino, Hector Enriquez Rosales, Angel Monares (Juan Parra 66), Luis Armando Gonzalez (Eustacio Rizo Escote 57)
 LA Firpo: Misael Alfaro, Geovani Trigueros, Leonel Carcamo, Julio Millan, Pedro Vasquez, Raul Toro, Juan Garcia Gamez, Mauricio D'Santo, Ari Da Silva, Fernando Lazo, Klay Marzon (Celio Rodriguez Da Silva 46);
-
 
 
 BlockSource: http://www.rsssf.com/tablesc/cacups96.html#cwc
@@ -352,14 +338,13 @@ Group: Caribbean
 *    changed afterwards
 
 
-Round: Round 1
+Round: 1
 
 11/17/1996; United Petrotrin; 4-1; SV Robinhood
 
 12/1/1996; SV Robinhood; 0-2; United Petrotrin
 
-
-Round: Round 2 
+Round: 2
 *(Dec 8 & 18)
 
 12/8/1996; United Petrotrin; 0-1; Siroco Les Abymes
@@ -370,13 +355,12 @@ Round: Round 2
 
 
 Group: Central
+Round: 2
 
-Round: Round 1
 *Juventus (Orange Walk)   Blz  San Marcos Carazo        Nic      w/o       x
 *x San Marcos Carazo withdrew
 
-Round: Round 2
-
+Round: 2
 
 5/31/1997; Arabe Unido; 0-1; CD Olimpia
 
@@ -407,8 +391,7 @@ Round: Round 2
 Competition: Recopa CONCACAF 
 Season: 1997
 
-
-Round: Qualifying Rounds
+Stage: qualification
 
 Group: Northern
 * Dallas Burn (USA) bye to final round.
@@ -416,8 +399,7 @@ Group: Northern
 * Necaxa (Mexico) bye to final round.
 
 Group: Central
-
-Round: First Round
+Round: 1
 
 ; Deportivo FAS; 2-2; Amatitlan
 

@@ -2,10 +2,8 @@ Competition: North American SuperLiga
 BlockSource: MLS Lineup Database
 
 Season: 2007
-
-Round: Group Stage
-
-Group: Group 1
+Stage: group
+Group: 1
 
 07/24/2007; FC Dallas; 1-1; CD Guadalajara; Pizza Hut Park; Walter Quesada, Kermit Quisenberry, Kyle Borne, Jair Marrufo; 12641
 Arturo Álvarez (Carlos Ruiz) 56; José Antonio Olvera (ua) 67
@@ -44,7 +42,7 @@ Los Angeles Galaxy: Joe Cannon, Ty Harden, Ante Jazic, Troy Roberts, Abel Xavier
 07/31/2007; CD Guadalajara; 0-1; Pachuca CF; Dick's Sporting Goods Park, Denver, Colorado; Marco Antonio Rodriguez; 14069
 ; Rafael Márquez Lugo 62
 
-Group: Group 2
+Group: 2
 
 07/25/2007; DC United; 1-1; CA Monarcas Morelia; Robert F. Kennedy Memorial, Washington, DC; Courtney Campbell, C.J. Morgante, Nate Clement, Alex Prus; 13335
 Christian Gómez (ua) 6; Diego Martínez (Adrian Aldrete) 79
@@ -88,7 +86,7 @@ Houston Dynamo: Zach Wells, Craig Waibel, Ryan Cochrane, Eddie Robinson, Wade Ba
 08/01/2007; Club América; 3-2; CA Monarcas Morelia; Toyota Park, Chicago, Illinois; Hugo Leon Guajardo; 10623
 Juan Carlos Mosqueda 16, Salvador Cabañas (penalty kick) 56, Federico Insúa 85; Gabriel Choy González 67, Luis Ángel Landín 72
 
-
+Stage: knockout
 Round: Semifinals
 
 08/14/2007; Houston Dynamo; 2-2; Pachuca CF; Robertson Stadium, Houston, Texas; Ricardo Salazar; 21712
@@ -111,10 +109,8 @@ Video: http://www.youtube.com/watch?v=Uatqm7JnNp8
 Penalty kicks: 3-4
 
 Season: 2008
-
-Round: Group Stage
-
-Group: Group 1
+Stage: group
+Group: 1
 
 07/12/2008; DC United; 1-2; CD Guadalajara; Robert F. Kennedy Memorial, Washington DC; Walter Quesada; 22453
 Luciano Emilio (Bryan Namoff) 76; Omar Arellano Riverón 26, Gonzalo Pineda 72
@@ -143,7 +139,7 @@ Video: http://www.youtube.com/watch?v=tyB7OpJlnhw
 07/19/2008; Atlante FC; 2-0; CD Guadalajara; Buck Shaw Stadium, Santa Clara, California; Hugo Leon Guajardo; 10370
 Giancarlo Maldonado 42, Gerardo Espinoza 87; 
 
-Group: Group 2
+Group: 2
 
 07/13/2008; New England Revolution; 1-0; Santos Laguna; Gillette Stadium, Foxboro, Massachusetts; Enrico Wijngaarde; 10118
 Kheli Dube (Steve Ralston) 69; 
@@ -175,6 +171,7 @@ Video: http://www.youtube.com/watch?v=W9MBVIoIAsc
 07/20/2008; Santos Laguna; 1-1; Pachuca CF; Pizza Hut Park, Frisco, Texas; German Arredondo; 6157
 Christian Benítez 70; Damián Ariel Álvarez 4
 
+Stage: knockout
 Round: Semifinals
 
 07/29/2008; Houston Dynamo; 2-0; Pachuca CF; Robertson Stadium, Houston, Texas; Neal Brizan; 16679
@@ -199,10 +196,8 @@ Video: http://www.youtube.com/watch?v=GeHf3GP7SdA
 
 
 Season: 2009
-
-Round: Group Stage
-
-Group: Group 1
+Stage: group
+Group: 1
 
 06/20/2009; Chicago Fire; 1-0; San Luis FC; Toyota Park, Bridgeview, Illinois; Silviu Petrescu; 8421
 Brian McBride (Cuauhtemoc Blanco) 69; 
@@ -234,7 +229,7 @@ Chicago Fire: Jon Busch, Daniel Woolard, Wilman Conde, Austin Washington, Brando
 Atiba Harris (Bojan Stepanovic) 88; Alfredo David Moreno (penalty kick) 53
 Chivas USA: Zach Thornton (Lance Parker 46), Carey Talley (Cesar Zamora 61), Claudio Suarez (Jim Curtin 37), Shavar Thomas, Jorge Flores, Jesse Marsch (Sasha Victorine 46), Paulo Nagamura, Bojan Stepanovic, Chukwudi Chijindu, Maykel Galindo (Atiba Harris 46), Eduardo Lillingston,
 
-Group: Group 2
+Group: 2
 
 06/21/2009; Kansas City Wizards; 0-0; CA Atlas; Robert R. Hermann Stadium, St. Louis, Missouri; Joel Aguilar; 5278
 Kansas City Wizards: Kevin Hartman, Lance Watson, Jimmy Conrad, Aaron Hohlbein, Matt Besler (Abe Thompson 76), Jack Jewsbury, Davy Arnaud (Michael Harrington 63), Santiago Hirsig, Herculez Gomez (Roger Espinoza 38), Josh Wolff, Claudio Lopez (Jonathan Leathers 91+).
@@ -258,6 +253,7 @@ New England Revolution: Matt Reis, Amaechi Igwe, Emmanuel Osei, Darrius Barnes, 
 Claudio López 80; Agustín Enrique Herrera 60, Vicente Matías Vuoso 74, Juan Pablo Rodríguez 94
 Kansas City Wizards: Kevin Hartman, Matt Besler, Jimmy Conrad (Rauwshan McKenzie 45), Aaron Hohlbein (Michael Harrington 65), Lance Watson (Davy Arnaud 46), Roger Espinoza, Jack Jewsbury, Santiago Hirsig, Herculez Gomez (Michael Kraus 75), Josh Wolff, Claudio Lopez
 
+Stage: knockout
 Round:  Semifinals
 
 07/15/2009; New England Revolution; 1-2; Chicago Fire; Gillette Stadium, Foxboro, Massachusetts; Paul Ward; 7215
@@ -275,11 +271,10 @@ Patrick Nyarko (Gonzalo Segares, Logan Pause) 9; Itamar Batista 42
 Chicago Fire: Jon Busch, Brandon Prideaux, C.J. Brown, Bakary Soumare (Daniel Woolard 92+), Gonzalo Segares, Chris Rolfe, Logan Pause, Tim Ward (Baggio Husidic 46), Marco Pappa (Justin Mapp 76), Patrick Nyarko (Mike Banner 90), Cuauhtemoc Blanco.
 Penalty kicks: 3-4
 
+
 Season: 2010
-
-Round: Group Stage
-
-Group: Group 1
+Stage: group
+Group: 1
 
 07/15/2010; Houston Dynamo; 2-1; Pachuca CF; Robertson Stadium, Houston, Texas; Jerry Solis; 10400
 Joseph Ngwenya 19, Joseph Ngwenya (Corey Ashe) 85; Damián Alejandro Manso 51
@@ -305,7 +300,7 @@ Houston Dynamo: Tally Hall, Mike Chabala, Ryan Cochrane, Adrian Serioux, Andrew 
 Giancarlo Maldonado (Ante Jazic) 7; 
 Chivas USA: Dan Kennedy, Ante Jazic (Jorge Flores 46), Carlos Borja, Dario Delgado, Mariano Trujillo, Rodolfo Espinoza (Gerson Mayen 72), Osael Romero, Ben Zemanski, Blair Gavin, Jesus Padilla, Giancarlo Maldonado (Chukwudi Chijindu 55)
 
-Group: Group 2
+Group: 2
 
 07/14/2010; New England Revolution; 1-0; Pumas UNAM; Gillette Stadium, Foxboro, Massachusetts; Silviu Petrescu; 7201
 Zack Schilawski (Marko Perovic) 18;
@@ -332,6 +327,7 @@ New England Revolution: Matt Reis, Seth Sinovic, Darrius Barnes, Emmanuel Osei, 
 Wilman Conde (Marco Pappa) 34; 
 Chicago Fire: Sean Johnson, Krzysztof Krol, Wilman Conde, C.J. Brown, Tim Ward (Kwame Watson-Siriboe 53), Justin Mapp (Stefan Dimitrov 67), Deris Umanzor, Mike Banner, Marco Pappa, Corben Bone, Collins John (Brian McBride 72)
 
+Stage: knockout
 Round:  Semifinals
 
 08/04/2010; New England Revolution; 1-1; Puebla FC; Gillette Stadium; Roberto Moreno; 5854

@@ -1,25 +1,27 @@
 BlockSource: http://www.rsssf.com/tablesg/guyana2012.html#nfl
+Season: 2012-2013
 
-Guyana 2012/13
+Stage: Qualifying
+*  Playoff
+
+Leg: 1
+
+10/7/2012; BV/Triumph United    ; 2-1; Silver Shattas
+  Akin Curry 37, Delroy Deen 66; Colwin David 60
+
+10/7/2012; Uitvlugt Warriors    ; 3-2; New Amsterdam United
+  Jamal Harvey (pk) 10, Jamal Petty 27, Marlon Brandis 66; Delroy Ferdinand 6, Adrian Adams (pk) 90
+
+Leg: 2
+
+10/14/2012; Silver Shattas       ; 2-8; BV/Triumph United       
+  Robin Adams 22, Calwin David 87; Reon Hopkinson 8, Reon Hopkinson 11, Reon Hopkinson 33, Delroy Deen 27, Delroy Deen 29, Ian Dooker 59, Shawn Daniels 82, Shawn Daniels 86
+ 
+10/14/2012; New Amsterdam United ; 1-1; Uitvlugt Warriors  
+  Jamal Harvey 1-1; Adrian Adams 9
 
 
-Qualifying Playoff
-
-First Legs [Oct 7]
-BV/Triumph United     2-1 Silver Shattas
-  [Akin Curry 37, Delroy Deen 66; Colwin David 60]
-Uitvlugt Warriors     3-2 New Amsterdam United
-  [Jamal Harvey 10pen, Jamal Petty 27, Marlon Brandis 66;
-   Delroy Ferdinand 6, Adrian Adams 90pen]
-
-Second Legs [Oct 14]
-Silver Shattas        2-8 BV/Triumph United       
-  [Robin Adams 22, Calwin David 87; Reon Hopkinson 8, 11, 33,
-   Delroy Deen 27, 29, Ian Dooker 59, Shawn Daniels 82, 86]
-New Amsterdam United  1-1 Uitvlugt Warriors  
-  [Jamal Harvey 1-1; Adrian Adams 9]
-
-NB: BV/Triumph United and Uitvlugt Warriors qualified.
+* NB: BV/Triumph United and Uitvlugt Warriors qualified.
 
 * 1.Western Tigers              7   4  2  1  10- 7  14
 * 2.Pele                        7   3  3  1   9- 4  12
@@ -33,75 +35,108 @@ NB: BV/Triumph United and Uitvlugt Warriors qualified.
 * 9.BV/Triumph United           6   1  2  3   5-10   5
 *10.Milerock                    7   1  1  5   8-14   4
 
-Round 1 
-[Oct 28]
-Western Tigers        1-0 Uitvlugt Warriors
-BV/Triumph United     3-3 Amelia's Ward
-Rosignol United       2-3 Milerock
-Den Amstel            1-2 Buxton United
-[Oct 31]
-Alpha United          0-0 Pele
+Round: 1 
+Date: 10/28/2012
 
-Round 2 [Nov 4]
+; Western Tigers       ; 1-0; Uitvlugt Warriors
+
+; BV/Triumph United    ; 3-3; Amelia's Ward
+
+; Rosignol United      ; 2-3; Milerock
+
+; Den Amstel           ; 1-2; Buxton United
+
+Date: 10/31/2012
+
+; Alpha United         ; 0-0; Pele
+
+
+Round: 2 
+Date: 11/4/2012
+
 Den Amstel            2-2 Western Tigers
 Uitvlugt Warriors     2-1 Alpha United
 BV/Triumph United     2-1 Milerock
 Buxton United         1-0 Pele
 Rosignol United       2-2 Amelia's Ward
 
-Round 3
-[Nov 11]
+Round: 3
+
+Date: 11/11/2012
+
 Buxton United         1-1 Rosignol United       
 Uitvlugt Warriors     4-3 Milerock
 Western Tigers        1-1 Amelia's Ward
 Pele                  1-1 Den Amstel            
-[Nov 22]
+
+Date: 11/22/2012
+
 Alpha United          3-0 BV/Triumph United     
 
-Round 4
-[Nov 13]
+Round: 4
+
+Date: 11/13/2012
+
 BV/Triumph United     0-0 Buxton United         
 Rosignol United       4-1 Western Tigers        
 Uitvlugt Warriors     2-0 Den Amstel            
 Pele                  0-0 Milerock
-[Feb 13]
+
+Date: 2/13/2013
+
 Alpha United           -  Amelia's Ward
 
-Round 5
-[Nov 18]
+Round: 5
+
+Date: 11/18/2012
+
 BV/Triumph United     0-2 Pele                  
 Buxton United         0-3 Western Tigers        
 Uitvlugt Warriors     1-2 Amelia's Ward
 Den Amstel            1-0 Milerock
-[Feb 10]
+
+Date: 2/10/2013
+
 Rosignol United        -  Alpha United          
 
-Round 6
-[Nov 25]
+Round: 6
+
+Date: 11/25/2012
+
 Buxton United         0-3 Alpha United
 Pele                  3-2 Rosignol United
 Western Tigers        1-0 Milerock
-[Feb 10]
+
+Date: 2/10/2013
+
 Den Amstel             -  Amelia's Ward
 Uitvlugt Warriors      -  BV/Triumph United     
 
-Round 7 
-[Feb 6]
+Round: 7 
+
+Date: 2/6/2013
+
 Milerock               -  Amelia's Ward
-[Feb 17]
+
+Date: 2/17/2013
+
 Rosignol United        -  BV/Triumph United     
 Uitvlugt Warriors      -  Buxton United         
 Pele                   -  Western Tigers        
 Den Amstel             -  Alpha United          
 
-Round 8 [Dec 9]
+Round: 8 
+Date: 12/9/2012
+
 BV/Triumph United     0-1 Western Tigers        
 Buxton United         1-0 Amelia's Ward
 Alpha United          4-1 Milerock              
 Uitvlugt Warriors     0-3 Pele                  
 Den Amstel            1-1 Rosignol United       
 
-Round 9 [Feb 3]
+Round: 9 
+Date: 2/3/2013
+
 Rosignol United        -  Uitvlugt Warriors     
 Buxton United          -  Milerock              
 BV/Triumph United      -  Den Amstel            
@@ -135,36 +170,54 @@ Berbice (1):    Rosignol United
 NB: for the first time ever, no matches will be played in Linden, the town where the
     tournament originated
 
-Round 1
-[Dec 16]
+Round: 1
+
+Date: 12/16/2012
+
 Pele                  6-0 Buxton Stars  
 Amelia's Ward United  2-0 Mill Ballers  
-[Dec 19]
+
+Date: 12/19/2012
+
 BV/Triumph United     3-1 Timehri Panthers                          
 Winners Connection    1-3 Buxton United          
-[Dec 21]
+
+Date: 12/21/2012
+
 Western Tigers        7-0 Grove Hi-Tech              
 Alpha United          3-1 Rosgnol United 
-[Dec 23]
+
+Date: 12/23/2012
+
 Silver Shattas        3-3 Uitvlugt Warriors     [aet, 4-1 pen]  
 Den Amstel            2-1 Milerock              [aet]  
  
 Quarterfinals
-[Dec 25]
+
+Date: 12/25/2012
+
 BV/Triumph United     0-4 Alpha United 
 Silver Shattas        0-4 Pele 
-[Dec 26]
+
+Date: 12/26/2012
+
 Buxton United         1-0 Western Tigers        [aet] 
 Amelia's Ward United  0-0 Den Amstel            [aet, 9-8 pen]  
  
-Semifinals [Dec 29]
+Semifinals 
+Date: 12/29/2012
+
 Pele                  1-2 Amelia's Ward United
 Buxton United         1-0 Alpha United  
  
-Third Place Match [Jan 1]
+Third Place Match 
+Date: 1/1/2013
+
 Alpha United          3-1 Pele
  
-Final [Jan 1]
+Final 
+Date: 1/1/2013
+
 Amelia's Ward United  0-0 Buxton United         [aet, 4-5 pen]  
  
 
@@ -175,35 +228,49 @@ Berbice
 
 Ross & Bush senior male KO football tournament
 
-Round 1
-[Mar 24]
+Round: 1
+
+Date: 3/24/2013
+
 New Amsterdam United  7-0 Hardlanders FC (Ithaca)
 Rosignol United       6-0 Manchester United (Corentyne) 
-[Mar 25]
+
+Date: 3/25/2013
+
 Cougars               8-0 Courtland United
 Monedderlust          2-0 Hopetown United
  
-Semifinals [Mar 31]
+Semifinals 
+Date: 3/31/2013
+
 
 East Demerara
 
 Easter Cup Knock-out Tournament
 
-Round 1
-[Mar 30]
+Round: 1
+
+Date: 3/30/2013
+
 BV Triumph United      -  Buxton United
 Golden Grove           -  Ann's Grove United
 Victoria Kings         -  Mahaica Determinators
-[Apr 1]
+
+Date: 4/1/2013
+
 Buxton Stars           -  Plaisance United
  
-Semifinals [Apr 7]
+Semifinals 
+Date: 4/7/2013
+
  
-Final [Apr 14]
+Final 
+Date: 4/14/2013
+
 
 Stag Beer Senior League 2012
 
-Round 1
+Round: 1
 [Jul 7]
 Ann's Grove           awd Golden Stars          [awarded 2-0, Golden Stars dns]
 Victoria Kings        1-0 Mahaica Determinators
@@ -211,7 +278,7 @@ Victoria Kings        1-0 Mahaica Determinators
 BV/Triumph United     2-0 Buxton United
 Buxton Stars          0-0 Plaisance
  
-Round 2
+Round: 2
 [Jul 14]
 Buxron United          -  Mahaica Determinators
 Ann's Grove           1-1 Buxton Stars
@@ -219,7 +286,7 @@ Ann's Grove           1-1 Buxton Stars
 Victoria Kings        bt  Golden Stars
 Plaisance             drw BV/Triumph United   
 
-Round 3
+Round: 3
 [Jul 21]
 Buxton Stars          1-0 Mahaica Determinators
 Buxton United         2-1 Ann's Grove
@@ -227,7 +294,7 @@ Buxton United         2-1 Ann's Grove
 Plaisance             0-0 Golden Stars
 Victoria Kings        1-2 BV/Triumph United    
 
-Round 5?
+Round: 5?
 [Aug 18]
 Ann's Grove           1-0 BV/Triumph United
 Victoria Kings        awd Plaisance             [Plaisance dns; awarded to Victoria Kings]
@@ -284,17 +351,25 @@ Reported Table:
  7.Plaisance                   7   0  3  4   2-     3
  8.Golden Stars                7   0  1  6   4-     1
 
-[Oct 20]
+
+Date: 10/20/2012
+
 Golden Stars           -  Ann's Grove           
 BV/Triumph United      -  Victoria Kings
-[Oct 21]
+
+Date: 10/21/2012
+
 Mahaica Determinators  -  Buxton United
 Plaisance              -  Buxton Stars
 
-[Dec 1]
+
+Date: 12/1/2012
+
 Golden Stars           -  Buxton United                  
 Plaisance              -  Victoria Kings                           
-[Dec 2]
+
+Date: 12/2/2012
+
 Mahaica Determinators  -  Buxton Stars                           
 [tba]
 BV/Triumph United      -  Ann's Grove
@@ -304,23 +379,35 @@ Karibee Rice Football Competition 2012
 NB: second edition
 
 Quarterfinals
-[Oct 7]
+
+Date: 10/7/2012
+
 Pistons United        o/w Monedderlust          [Pistons could not field more than 6 players] 
 Western Tigers       10-1 Young Achievers       [Young Achievers replaced Den Amstel]
 Pele                  w/o Victoria Kings        [Victoria Kings dns]  
-[Oct 13]
+
+Date: 10/13/2012
+
 Cougars               0-3 Rosignol United
  
 Semifinals 
-[Oct 13]
+
+Date: 10/13/2012
+
 Western Tigers        1-0 Pele
-[Oct 19]
+
+Date: 10/19/2012
+
 Monedderlust          0-1 Rosignol United       
 
-Third Place Match [Oct 21]
+Third Place Match 
+Date: 10/21/2012
+
 Pele                  3-0 Monedderlust
 
-Final [Oct 21]
+Final 
+Date: 10/21/2012
+
 Western Tigers        2-1 Rosignol United      
 
 
@@ -328,7 +415,9 @@ Georgetown
 
 Powerade Pee Wee Football Tournament
  
-[Mar ?]
+
+Date: 3/?/2013
+
 Santos                4-0 GFC
 Renaissance           1-0 Santos
 Conquerors            2-0 Camptown
@@ -360,11 +449,15 @@ Top Final Table (Jun 2012):
 
 President Beer Super 8 KO Tournament 2012
 
-Round 1
-[Oct 12]
+Round: 1
+
+Date: 10/12/2012
+
 GDF                   5-0 Guyana Police Force
 Fruta Conquerors      3-1 Riddim Squad          [aet]
-[Oct 17]
+
+Date: 10/17/2012
+
 Santos                bt  Northern Rangers
 GFC                   lt  Camptown
 
@@ -385,56 +478,86 @@ Participants include: Houston Stars, GFC, Riddim Squad, GDF, GPF, Fruta Conquero
 NB: nationwide tournament organised by the Georgetown FA, which is in conflict with the Guyana
     federation, in competition with the Kashif & Shanghai competition
 
-Preliminary Round 1 [Dec 9]
+Preliminary Round: 1 
+Date: 12/9/2012
+
 Banks All Stars       0-1 Kwakwani Stars 
 Victoria Kings        1-2 Eagles United
 NB: Kwakwani Stars aka Rusal
 
-Preliminary Round 2
-[Dec 12]
+Preliminary Round: 2
+
+Date: 12/12/2012
+
 Ann's Grove           1-0 Botafogo
-[Dec ?]
+
+Date: 12/?/2012
+
 Kwakwani Strikers     3-2 Eagles United         [aet]
-[Dec 19]
+
+Date: 12/19/2012
+
 Blueberry Hill        3-2 Caribbean United 
 
-Preliminary Round 3
-[Dec 16]
+Preliminary Round: 3
+
+Date: 12/16/2012
+
 Camptown              5-0 Houston Stars
 Fruta Conquerors     11-0 Flamingo  
-[Dec 21]
+
+Date: 12/21/2012
+
 Ann's Grove           2-3 Blueberry Hill
  
 1/8 Finals
-[Dec 19]
+
+Date: 12/19/2012
+
 Kwakwani Strikers     2-1 GFC 
-[Dec 21]
+
+Date: 12/21/2012
+
 Riddim Squad          1-0 Beacon United
-[Dec 23]
+
+Date: 12/23/2012
+
 Santos               12-0 University of Guyana
 Fruta Conquerors     11-0 Flamingo
 Camptown              5-0 Houston Stars
 Northern Rangers      2-1 Blueberry Hill
-[Dec 25]
+
+Date: 12/25/2012
+
 Netrockers            3-1 Police
 GDF                   8-1 Black Pearl
  
 Quarterfinals 
-[Dec 26]
+
+Date: 12/26/2012
+
 Riddim Squad          1-0 Fruta Conquerors       
 Camptown              2-1 Kwakwani Strikers    
-[Dec 28]
+
+Date: 12/28/2012
+
 Santos                0-2 Northern Rangers
 GDF                   4-1 Netrockers
  
-Semifinals [Dec 30]
+Semifinals 
+Date: 12/30/2012
+
 Riddim Squad          2-1 GDF 
 Camptown              3-0 Northern Rangers      [aet]
  
-Third Place Match [Jan 1]
+Third Place Match 
+Date: 1/1/2013
+
 GDF                   1-3 Northern Rangers
  
-Final [Jan 1]
+Final 
+Date: 1/1/2013
+
 Camptown              2-0 Riddim Squad
   [Devon Forde 51, 60]
 
@@ -447,10 +570,14 @@ First Division
 
 Start: Mar 20
  
-[Mar 20]
+
+Date: 3/20/2013
+
 Topp XX               1-3 Winners Connection
 Silver Shattas        3-2 Net Rockers
-[Mar 23]
+
+Date: 3/23/2013
+
 Winners Connection     -  Amelia's Ward
 Milerock               -  Net Rockers
 
@@ -471,13 +598,15 @@ Nimes/Bagotville (newcomers)
  
 NB: played as single round robin followed by a knock-out tournament between the top-4
 
-Round 1
-[Jun 3]
+Round: 1
+
+Date: 6/3/2013
+
 Uitvlugt Warriors     3-1 Stewartville
 Den Amstel            2-0 Seawall 
 NB: unclear whether matches were played Jun 1 or 2
 
-Round 2
+Round: 2
 [Jun 8]
 Eagles                ppd Wales United 
 Beavers               ppd Young Achievers
@@ -486,7 +615,7 @@ Nimes/Bagotville     1-13 Seawall
 Den Amstel            3-1 Stewartville    
 Uitvlugt Warriors     bye
 
-Round 3
+Round: 3
 [Jun 16]
 Uitvlugt Warriors     7-1 Wales United 
 Young Achievers       3-2 Den Amstel     
@@ -507,7 +636,7 @@ Table:
  8.Wales United                1   0  0  1   1- 7   0
  9.Nimes/Bagotville            2   0  0  2   1-16   0
 
-Round 4
+Round: 4
 [Jun 23]
 Nimes/Bagotville       -  Wales United 
 Seawall               3-1 Eagles                
@@ -516,12 +645,12 @@ Stewartville          1-2 Young Achievers
 Uitvlugt Warriors     2-1 Beavers               
 Den Amstel            bye
 
-Round 5
+Round: 5
 [Jul 1]
 Stewartville          4-0 Seawall
 Den Amstel            2-3 Uitvlugt Warriors
 
-Round 6
+Round: 6
 [Jul 7]
 Uitvlugt Warriors     0-2 Young Achievers
 Beavers               3-0 Eagles
@@ -558,43 +687,41 @@ Uitvlugt Warriors     bye
 Den Amstel            2-3 Beavers
 Stewartville          awd Nimes/Bagotville      [Nimes/B. dns; awarded to Stewartville]
  
-Table:
+* 1.Pouderoyen Young Achievers  8   6  1  1  17- 5  19
+* 2.Uitvlugt Warriors           7   5  1  1  23- 9  16
+* 3.Stewartville                8   5  0  3  31-12  15
+* 4.Den Amstel                  8   5  0  3  30-12  15
+* 5.Beavers                     8   5  0  3  13-12  15
+* 6.Seawall                     7   3  2  2  19-12  11
+* 7.Wales United                7   1  1  5   8-29   4
+* 8.Eagles                      8   1  1  6   8-30   4
+* 9.Nimes/Bagotville            7   0  0  7   3-30   0
+*NB: overall goal difference +1
 
- 1.Pouderoyen Young Achievers  8   6  1  1  17- 5  19
- 2.Uitvlugt Warriors           7   5  1  1  23- 9  16
- 3.Stewartville                8   5  0  3  31-12  15
- 4.Den Amstel                  8   5  0  3  30-12  15
- 5.Beavers                     8   5  0  3  13-12  15
- 6.Seawall                     7   3  2  2  19-12  11
- 7.Wales United                7   1  1  5   8-29   4
- 8.Eagles                      8   1  1  6   8-30   4
- 9.Nimes/Bagotville            7   0  0  7   3-30   0
+Round: Semifinals [Sep 17]
+; Den Amstel           ; 4-0; Young Achievers
+
+; Uitvlugt             ; 1-0; Stewartville 
+
  
-NB: overall goal difference +1
 
-Semifinals [Sep 17]
-Den Amstel            4-0 Young Achievers
-Uitvlugt              1-0 Stewartville 
- 
-Third Place Match [Nov 25]
-Stewartville          1-1 Young Achievers       [4-5 pen]
- 
-Final [Nov 24]
-Den Amstel            0-0 Uitvlugt              [3-1 pen]
+Round: Third Place Match 
+Date: 11/25/2012
 
 
-2011/12
+; Stewartville         ; 1-1; Young Achievers       
+Penalty kicks: 4-5
 
-list of champions
+Round: Final 
+Date: 11/24/2012
 
-list of cup winners
+; Den Amstel           ; 0-0; Uitvlugt              
+Penalty kicks: 3-1
 
-About this document
 
-Prepared and maintained by Ian King and Hans Schöggl for the Rec.Sport.Soccer Statistics Foundation
 
-Authors: Ian King and Hans Schöggl 
-Last updated: 10 Jan 2013
-
-(C) Copyright Ian King, Hans Schöggl and RSSSF 2012/13
-You are free to copy this document in whole or part provided that proper acknowledgement is given to the authosr. All rights reserved.
+*Prepared and maintained by Ian King and Hans Schöggl for the Rec.Sport.Soccer Statistics Foundation
+*Authors: Ian King and Hans Schöggl 
+*Last updated: 10 Jan 2013
+*(C) Copyright Ian King, Hans Schöggl and RSSSF 2012/13
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the authosr. All rights reserved.
