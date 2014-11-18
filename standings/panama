@@ -1,12 +1,9 @@
 Competition: Liga Panameña de Fútbol
-
 Key: position; team; games; wins; ties; losses; goals_for; goals_against; points
-
 BlockSource: http://www.rsssf.com/tablesp/panama01b.html
 
 Season: 2001 Apertura
-
-Round: First Round
+Stage: first
 
  1; San Francisco FC     ; 9;  5;  2;  2;  17; 13;  17  
  2; Panama Viejo FC      ; 9;  4;  4;  1;  16; 12;  16  
@@ -19,7 +16,7 @@ Round: First Round
  9; Atletico Nacional (Panama) ; 9;  2;  3;  4;   7; 12;   9
 10; Chiriqui FC          ; 9;  0;  2;  7;   9; 23;   2  
 
-Round: Hexagonal
+Stage: Hexagonal
 
  1; CD Arabe Unido       ; 5;  2;  2;  1;   8;  8;   8
  2; CD Plaza Amador      ; 5;  2;  1;  2;   7;  8;   7
@@ -30,6 +27,7 @@ Round: Hexagonal
 
 
 Season: 2001 Clausura
+Stage: first
 
  1; CD Plaza Amador      ; 9;  5;  2;  2;  16; 12;  17
  2; Alianza FC           ; 9;  5;  1;  3;  14; 11;  16
@@ -43,7 +41,7 @@ Season: 2001 Clausura
 10; Chiriqui FC          ; 9;  1;  1;  7;   7; 23;   4  
 
 
-Round: Hexagonal
+Stage: Hexagonal
 
  1; CD Plaza Amador      ; 5;  3;  2;  0;  10;  5;  11
  2; CD Arabe Unido       ; 5;  3;  0;  2;   8;  7;   9
@@ -54,17 +52,16 @@ Round: Hexagonal
 
 
 BlockSource: http://www.rsssf.com/tablesp/panama02.html
-
 Season: 2002 Apertura
 
-Group: Group A
+Group: A
 
  1; Deportivo Arabe Unido; 10;  5;  4;  1;  16; 11;  19
  2; Tauro FC             ; 10;  5;  3;  2;  18; 10;  18
  3; Alianza FC           ; 10;  4;  3;  3;  13; 14;  15
  4; El Chorrillo FC      ; 10;  4;  2;  4;  16; 16;  14
 
-Group: Group B
+Group: B
 
  5; San Francisco FC     ; 10;  5;  3;  2;  14; 10;  16  
  6; Sporting SM          ; 10;  4;  2;  4;  12; 14;  14  
@@ -73,7 +70,6 @@ Group: Group B
 
 
 Season: 2002 Clausura
-
 
  1; Tauro FC             ; 14;  7;  6;  1;  22; 14;  27 
  2; CD Plaza Amador      ; 14;  6;  6;  2;  26; 15;  24
@@ -86,8 +82,6 @@ Season: 2002 Clausura
 
 
 BlockSource: http://www.rsssf.com/tablesp/panama03.html
-
-
 Season: 2003 Apertura
 
  1; Deportivo Arabe Unido; 14;  7;  6;  1;  20; 10;  27  
@@ -100,7 +94,8 @@ Season: 2003 Apertura
  8; Sporting Cocle       ; 14;  1;  3; 10;  10; 30;   6  
 
 
-Round: Cuadrangular Semifinal
+Stage: Cuadrangular
+* Semifinal
 
 * 1; Deportivo Arabe Unido ; 6 ; 3 ; 3 ; 0 ; 10;  4 ; 12
 * 2; Tauro FC              ; 6 ; 3 ; 1 ; 2 ;  7;  5 ; 10
@@ -121,7 +116,6 @@ Season: 2003 Clausura
 
 
 BlockSource: http://www.rsssf.com/tablesp/panama04.html
-
 Season: 2004 Apertura
 
  1; Deportivo Arabe Unido; 18; 14;  1;  3;  31; 16;  43 
@@ -152,7 +146,6 @@ Season: 2004 Clausura
 
 
 BlockSource: http://www.rsssf.com/tablesp/panama05.html
-
 Season: 2005 Apertura
 
  1; Tauro FC             ; 18; 11;  5;  2;  22;  7;  38
@@ -165,10 +158,9 @@ Season: 2005 Apertura
  8; Sporting '89         ; 18;  4;  5;  9;  13; 21;  17 
  9; Atletico Veraguense  ; 18;  3;  4; 11;   9; 30;  13
 10; Colón River FC       ; 18;  1;  2; 15;  14; 47;   5 
+
 * Colon River excluded?
-
 * [*] Sporting Cocle were renamed Sporting before the season
-
 
 
 Season: 2005 Clausura
@@ -186,7 +178,6 @@ Season: 2005 Clausura
 
 
 BlockSource: http://www.rsssf.com/tablesp/panama06.html
-
 Season: 2006 Apertura
 
  1; Tauro FC             ; 18; 10;  5;  3;  25; 14;  35 
@@ -218,7 +209,6 @@ Season: 2006 Clausura
 
 
 Key: position; team; games; wins; ties; losses; goals_for; goals_against; points; notes
-
 BlockSource: http://www.rsssf.com/tablesp/panama07.html
 Season: 2007 Apertura
 
