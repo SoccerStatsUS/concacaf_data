@@ -635,78 +635,72 @@ Date: 11/10/2013
 *Joao Robin Rojas        Cruz Azul        6
 *Mariano Pavone          Cruz Azul        6
 
-*Playoffs
-*
+Stage: Playoffs
 *NB: between top-8 of regular season
-*
-*Quarterfinals
-*
-*First Legs
-*
-*Date: 11/23/2013
-*
-*Toluca             3-0 Cruz Azul          
-*  [Oscar Ricardo Rojas 30, Jair Pereira 37og, Francisco Gamboa 78]
-*Morelia            3-3 León               
-*  [Jefferson Montero 28, Ever Guzmán 72, 83; Luis Arturo Montes 15,
-*   Mauro Boselli 21,  Elías Hernández 38]
-*
-*Date: 11/24/2013
-*
-*Tigres             2-2 América            
-*  [Alan Pulido 30, Guido Pizarro 35; Juan Carlos Valenzuela 13,
-*   Aquivaldo Mosquera 89]
-*Querétaro          2-3 Santos             
-*  [Isaac Romo 77, 78; Carlos Darwin Quintero 15, 51, Jesús Alonso Escoboza 70]
-*
-*Second Legs
-*
-*Date: 11/30/2013
-*
-*Cruz Azul          1-1 Toluca             
-*  [Christian Giménez (pk) 32; Pablo César Velázquez 78]
-*León               4-0 Morelia            
-*  [Hernán Darío Burbano 27, Mauro Boselli 56, Matías Britos 67,
-*   José Juan Vázquez 68]
-*[Dec 1]
-*América            1-1 Tigres             
-*  [Raúl Alonso Jiménez 52; Alan Pulido 57]
-*Santos             3-1 Querétaro          
-*  [Oribe Peralta 46, Carlos Darwin Quintero 67, 78; Isaac Romo 55]   
-*
-*Semifinals
-*
-*First Legs [Dec 5]
-*Toluca             2-1 América            
-*  [Isaac Brizuela 49, Edgar Benítez 55; Luis Gabriel Rey 33]
-*León               3-1 Santos             
-*  [José Juan Vázquez 34, Carlos Alberto Peña 42, Franco Arizala 70;
-*   Javier Orozco 90+1]
-*
-*Second Legs [Dec 8]
-*América            2-0 Toluca             
-*  [Aquivaldo Mosquera 12, Jesús Antonio Molina 84]
-*Santos             2-2 León               
-*  [Oribe Peralta 50, Juan Pablo Rodríguez (pk) 90+3; Mauro Boselli 56,
-*   Carlos Alberto Peña 88]
-*
-*Final
-*
-*First Leg [Dec 12]
-*León               2-0 América            
-*  [Carlos Alberto Peña 10, Mauro Boselli 76]
-*
-*Second Leg [Dec 15]
-*América            1-3 León               
-*  [Juan Ignacio González 42og; Mauro Boselli 12, Juan Ignacio González 51,
-*   Edwin Hernández 72]
-*
+Round: Quarterfinals
+Leg: 1
+
+11/23/2013; Toluca            ; 3-0; Cruz Azul          
+  Oscar Ricardo Rojas 30, Jair Pereira (og) 37, Francisco Gamboa 78;
+
+11/23/2013; Morelia           ; 3-3; León               
+  Jefferson Montero 28, Ever Guzmán 72, 83; Luis Arturo Montes 15, Mauro Boselli 21,  Elías Hernández 38
+
+11/24/2013; Tigres            ; 2-2; América            
+  Alan Pulido 30, Guido Pizarro 35; Juan Carlos Valenzuela 13, Aquivaldo Mosquera 89
+
+11/24/2013; Querétaro         ; 2-3; Santos             
+  Isaac Romo 77, Isaac Romo 78; Carlos Darwin Quintero 15, Carlos Darwin Quintero 51, Jesús Alonso Escoboza 70
+
+Leg: 2
+Date: 11/30/2013
+
+; Cruz Azul         ; 1-1; Toluca             
+  Christian Giménez (pk) 32; Pablo César Velázquez 78
+
+; León              ; 4-0; Morelia            
+  Hernán Darío Burbano 27, Mauro Boselli 56, Matías Britos 67, José Juan Vázquez 68;
+
+12/1/2013; América           ; 1-1; Tigres             
+  Raúl Alonso Jiménez 52; Alan Pulido 57
+
+12/1/2013; Santos            ; 3-1; Querétaro          
+  Oribe Peralta 46, Carlos Darwin Quintero 67, Carlos Darwin Quintero 78; Isaac Romo 55
+   
+Round: Semifinals
+Leg: 1
+
+12/5/2013; Toluca            ; 2-1; América            
+  Isaac Brizuela 49, Edgar Benítez 55; Luis Gabriel Rey 33
+
+12/5/2013; León              ; 3-1; Santos             
+  José Juan Vázquez 34, Carlos Alberto Peña 42, Franco Arizala 70; Javier Orozco 90+1
+
+Leg: 2
+
+12/8/2013; América           ; 2-0; Toluca             
+  Aquivaldo Mosquera 12, Jesús Antonio Molina 84;
+
+12/8/2013; Santos            ; 2-2; León               
+  Oribe Peralta 50, Juan Pablo Rodríguez (pk) 90+3; Mauro Boselli 56, Carlos Alberto Peña 88
+
+Round: Final
+Leg: 1
+
+12/12/2013; León              ; 2-0; América            
+  Carlos Alberto Peña 10, Mauro Boselli 76;
+
+Leg: 2
+
+12/15/2013; América           ; 1-3; León               
+  Juan Ignacio González (og) 42; Mauro Boselli 12, Juan Ignacio González 51, Edwin Hernández 72
+
+
 
 
 *Copa Libertadores 2014 qualification
-*
 *NB: top-3 of Apertura 2013 Final Table qualify
-*
+
 * 1.América                             17  11  4  2  31-12  37 [CONCACAF Ch. League]
 * 2.Santos                              17   9  6  2  32-20  33 [Copa Libertadores Group Phase]
 * 3.León                                17   8  6  3  25-14  30 [Copa Libertadores Group Phase]
@@ -715,10 +709,10 @@ Date: 11/10/2013
 * 6.Morelia                             17   8  3  6  26-23  27 [Copa Libertadores Prel. Round:]  
 * 7.Querétaro                           17   7  5  5  20-19  26   
 * 8.Tigres                              17   6  7  4  23-20  25 
-*
+
 *NB: Santos and León qualified to Group Phase,
 *    Morelia qualified to Preliminary Round:
-*
+
 
 Season: 2013-2014 Clausura
 
@@ -1021,30 +1015,175 @@ Date: 4/6/2014
 ; Pumas             ; 2-1; Jaguares           
 ; Atlante           ; 0-2; Tigres             
 
+Round: 15
 
-* 1.Cruz Azul                           14  10  2  2  23-11  32
-* 2.Toluca                              14   9  1  4  22-11  28
-* 3.Pumas                               14   6  3  5  23-17  21
-* 4.Santos Laguna                       14   5  6  3  25-21  21
-* 5.América                             14   6  2  6  19-16  20
-* 6.Pachuca                             14   6  2  6  16-14  20
-* 7.Tijuana                             14   6  2  6  18-19  20
-* 8.Guadalajara                         14   5  5  4  12-15  20
+4/11/2014; Querétaro         ; 1-0; Atlas              
+  Camilo Da Silva 69;
+
+[Apr 12]
+4/12/2014; Cruz Azul         ; 2-2; Pachuca            
+  Christian Giménez 83, Michael Farfán 91; Enner Valencia 57, Enner Valencia 62
+
+4/12/2014; Veracruz          ; 1-1; Pumas              
+  Alfredo David Moreno 19; Josecarlos Van Rankin 50
+
+4/12/2014; Tigres            ; 1-1; Tijuana            
+  Carlos Salcido 8; Richard Ruiz 84
+
+4/12/2014; Jaguares          ; 1-1; Monterrey          
+  Javier Muñoz Mustafá 75; Neri Raúl Cardozo 12
+
+4/13/2014; Puebla            ; 0-1; América            
+;  Miguel Layún 1
+
+4/13/2014; Toluca            ; 2-1; León               
+  Gabriel Velasco 40, Oscar Ricardo Rojas 56; Mauricio Castañeda 18
+
+4/13/2014; Guadalajara       ; 1-1; Morelia            
+  Carlos Gerardo Rodríguez 53; Jorge Alejandro Zárate 1
+
+4/13/2014; Santos            ; 4-3; Atlante            
+  Carlos Darwin Quintero 18, Carlos Darwin Quintero 32, Carlos Darwin Quintero 88, José Javier Abella 78; Ángel Baltazar Sepúlveda 57, Luis Guillermo Madrigal 87, Luis Guillermo Madrigal 94
+
+Round: 16
+
+4/18/2014; Morelia           ; 5-1; Cruz Azul          
+  Aldo Leao Ramírez 17, Héctor Raúl Mancilla 25, Héctor Raúl Mancilla (pk) 44, Duvier Orlando Riascos 75, Oscar Fernández 86; Achille Emana 41
+
+4/19/2014; América           ; 0-0; Querétaro          
+
+4/19/2014; Monterrey         ; 4-1; Veracruz           
+  César Delgado 26, Humberto Andrés Suazo 39, Humberto Andrés Suazo 91, Neri Raúl Cardozo 66; Alfredo David Moreno 21
+
+4/19/2014; Pachuca           ; 1-2; Puebla             
+  Hugo Isaac Rodríguez 65; Carlos Andrés Sánchez 23, Jesús Roberto Chávez 69
+
+4/19/2014; Santos            ; 2-3; Jaguares           
+  Andrés Rentería 17, Oribe Peralta (pk) 91; Lucas Viatri (pk) 28, Félix de Jesús Araujo 33,  Wilberto Cosme 36
+
+4/19/2014; León              ; 3-0; Tigres             
+  Luis Miguel Franco 37, Miguel Sabah 48, Miguel Sabah 77;
+
+4/19/2014; Atlas             ; 1-0; Toluca             
+  Rodrigo Millar 70;
+
+4/20/2014; Pumas             ; 1-0; Guadalajara       
+  Roberto Daniel Ramírez 54;
+ 
+4/20/2014; Atlante           ; 1-2; Tijuana           
+  Francisco Javier Estrada 42; Fidel Martínez 53, Darío Benedetto 83
+
+Round: 17
+
+4/25/2014; Querétaro         ; 3-4; Pachuca            
+  Ricardo Da Silva 44, Ricardo Da Silva 65, Camilo Da Silva 53; Enrique Esqueda 74, Enrique Esqueda 88, Abraham Darío Carreño 79, Abraham Darío Carreño 90
+
+4/25/2014; Tijuana           ; 1-2; León               
+  Cristian Pellerano 80; Nelson Maz 15, Luis Arturo Montes 65
+
+4/26/2014; Cruz Azul         ; 2-1; Pumas              
+  Rogelio Chávez 79, Mauro Formica 81; Roberto Daniel Ramírez 72
+
+4/26/2014; Veracruz          ; 2-2; Santos             
+  Cristian Martínez Borja 5, Alfredo David Moreno 67; Jesús Alonso Escoboza 34, Oribe Peralta 60
+
+4/26/2014; Tigres            ; 2-1; Atlas              
+  Hugo Ayala 36, Alan Pulido 75; Jahir Alejandro Barraza 72
+
+4/26/2014; Jaguares          ; 5-2; Atlante            
+  Lucas Viatri 14, Lucas Viatri 31, Javier Muñoz Mustafá 41, Wilberto Cosme 44, Wilberto Cosme 70; Alberto Jorge García 34, Alberto Jorge García 38
+
+4/27/2014; Puebla            ; 3-1; Morelia            
+  Gustavo Matías Alustiza 26, Mario de Luna 79, Carlos Andrés Sánchez 76; Oscar Fernández 90
+
+4/27/2014; Toluca            ; 1-1; América            
+  Raúl Nava 7; Andrés Ríos 77
+
+4/27/2014; Guadalajara       ; 0-1; Monterrey          
+;  Efraín Juárez 84
+
+* 1.Cruz Azul                           17  11  3  3  28-19  36  Qualified
+* 2.Toluca                              17  10  2  5  25-14  32  Qualified
+* 3.Pumas                               17   7  4  6  26-20  25  Qualified
+* 4.Santos Laguna                       17   6  7  4  33-29  25  Qualified
+* 5.América                             17   7  4  6  21-17  25  Qualified
+* 6.Pachuca                             17   7  3  7  23-21  24  Qualified
+* 7.Tijuana                             17   7  3  7  22-23  24  Qualified
+* 8.León                                17   6  5  6  23-17  23  Qualified
 * - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-* 9.Atlas                               14   4  6  4  15-15  18
-*10.Atlante                             14   5  3  6  16-23  18
-*11.León                                14   4  5  5  17-14  17
-*12.Morelia                             14   4  5  5  14-15  17
-*13.Tigres                              14   4  5  5  10-12  17
-*14.Querétaro                           14   5  2  7  14-18  17
-*15.Jaguares                            14   4  4  6  14-18  16
-*16.Monterrey                           14   4  4  6  14-18  16
-*17.Veracruz                            14   3  5  6  10-18  14
-*18.Puebla                              14   2  6  6   9-16  12
+* 9.Jaguares                            17   6  5  6  23-23  23
+*10.Monterrey                           17   6  5  6  20-20  23
+*11.Morelia                             17   5  6  6  21-20  21
+*12.Atlas                               17   5  6  6  17-18  21
+*13.Querétaro                           17   6  3  8  18-22  21
+*14.Tigres                              17   5  6  6  13-17  21
+*15.Guadalajara                         17   5  6  6  13-18  21
+*16.Puebla                              17   4  6  7  14-19  18
+*17.Atlante                             17   5  3  9  22-34  18
+*18.Veracruz                            17   3  7  7  14-25  16
+
+
+Stage: Playoffs
+*NB: between top-8 of regular season
+Round: Quarterfinals
+Leg: 1
+
+4/30/2014; América           ; 5-3; Santos             
+  Oswaldo David Martínez 11, Raúl Alonso Jiménez 59, Raúl Alonso Jiménez 80, 86, Rubens Sambueza 92; Rodolfo Salinas 25, Carlos Darwin Quintero 48, Ribair Rodríguez 53
+
+4/30/2014; León              ; 1-1; Cruz Azul          
+  José María Cárdenas 20; Mariano Pavone 3
+
+5/1/2014; Pachuca           ; 1-1; Pumas              
+  Abraham Darío Carreño 70; Javier Cortés 93
+
+5/1/2014; Tijuana           ; 0-0; Toluca             
+
+Leg: 2
+
+5/3/2014; Cruz Azul         ; 2-2; León               
+  Mariano Pavone 11, Mauro Formica 20; Mauro Boselli 40, Luis Arturo Montes 58
+
+5/3/2014; Santos            ; 3-1; América            
+  Juan Carlos Valenzuela (og) 27, Ribair Rodríguez 83, Andrés Rentería 87; Rubens Sambueza 89
+
+5/4/2014; Toluca            ; 3-1; Tijuana            
+  Antonio Ríos 30, Miguel Ángel Ponce 59, Edgar Benítez 88; Darío Benedetto 48
+
+5/4/2014; Pumas             ; 2-4; Pachuca            
+  Efraín Velarde 15, Josecarlos Van Rankin 32; Enner Valencia 11, Enner Valencia 24, Enner Valencia 46, Hugo Isaac Rodríguez 54
+
+Round: Semifinals
+Leg: 1
+
+5/7/2014; Pachuca           ; 2-0; Santos             
+  Diego de Buen 43, Hugo Isaac Rodríguez 63;
+
+5/8/2014; León              ; 1-0; Toluca             
+  Luis Arturo Montes 23;
+
+Leg: 2
+
+5/10/2014; Santos            ; 4-2; Pachuca            
+  Rafael Figueroa 10, Rafael Figueroa 93, Juan Pablo Rodríguez (pk) 67, Javier Orozco 77; Enner Valencia 26, Dieter Villalpando 45
+
+5/11/2014; Toluca            ; 0-1; León               
+; Carlos Alberto Peña 50
+
+Round: Final
+Leg: 1
+
+5/15/2014; León              ; 2-3; Pachuca            
+  Carlos Alberto Peña 33, Miguel Ángel Herrera (og) 76; Enner Valencia 41, Enner Valencia60, Hirving Lozano 68
+
+Leg: 2
+
+5/18/2014; Pachuca           ; 0-2 (aet); León               
+;  Mauro Boselli 66, Juan Ignacio González 112
 
 
 *Prepared and maintained by Erik Francisco Lugo for the Rec.Sport.Soccer Statistics Foundation
 *Author: Erik Francisco Lugo (eaglelugo@yahoo.com.mx) 
-*Last updated: 10 Apr 2014
+*Last updated: 11 Sep 2014
 *(C) Copyright Erik Francisco Lugo and RSSSF 2013/14
 *You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.

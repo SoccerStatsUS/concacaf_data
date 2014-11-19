@@ -640,32 +640,110 @@ Date: 4/9/2014
 ; Herediano    ; 0-0; Pérez Zeledón 
 ; Puntarenas   ; 2-3; UCR           
 
-Date: 4/10/2014
+4/10/2014; Belén        ; 3-2; Limón         
+4/10/2014; Alajuelense  ; 1-1; Cartaginés    
 
-; Belén         ; v;  Limón         
-; Alajuelense   ; v;  Cartaginés    
+Round: 19
 
+4/12/2014; Carmelita    ; 2-0; Puntarenas    
+4/12/2014; Saprissa     ; 3-1; Alajuelense   
 
-* 1.Deportivo Saprissa         18  11  6  1  35-15  39
-* 2.CS Herediano               18  10  4  4  35-19  34
-* 3.LD Alajuelense             16   9  4  3  34-16  31
-* 4.Universidad de Costa Rica  18   8  2  8  24-30  26
+Date: 4/13/2014
+
+; Cartaginés   ; 1-2; Belén         
+; Limón        ; 3-0; Uruguay       
+; Pérez Zeledón; 3-1; Santos        
+; UCR          ; 2-0; Herediano     
+ 
+Round 20
+Date: 4/16/2014
+
+; UCR          ; 2-1; Uruguay       
+; Cartaginés   ; 2-0; Santos        
+; Saprissa     ; 1-1; Herediano     
+; Pérez Zeledón; 4-2; Puntarenas    
+
+4/17/2014; Carmelita    ; 4-2; Limón         
+4/17/2014; Alajuelense  ; 1-0; Belén         
+
+Round: 21
+
+4/19/2014; Limón        ; 0-2; Herediano     
+
+Date: 4/20/2014
+
+; Uruguay      ; 3-0; Puntarenas    
+; Pérez Zeledón; 2-2; Cartaginés    
+; Carmelita    ; 1-0; Santos        
+; UCR          ; 0-1; Alajuelense   
+; Saprissa     ; 4-0; Belén         
+
+Round: 22
+Date: 4/23/2014
+
+; Belén        ; 2-2; Uruguay       
+; Puntarenas   ; 1-1; Limón         
+; Herediano    ; 3-1; Carmelita     
+; Santos       ; 0-3; UCR           
+; Alajuelense  ; 1-1; Pérez Zeledón 
+; Cartaginés   ; 1-0; Saprissa      
+
+* 1.Deportivo Saprissa         22  13  7  2  43-18  46  Qualified
+* 2.LD Alajuelense             22  12  6  4  40-21  42  Qualified
+* 3.CS Herediano               22  12  5  5  41-23  41  Qualified
+* 4.Universidad de Costa Rica  22  11  2  9  31-32  35  Qualified
 * - - - - - -- - - - - - - - - - - - - - - - - - - - -
-* 5.CS Uruguay (Coronado)      18   7  3  8  21-24  24
-* 6.AD Carmelita               17   6  4  7  22-21  22
-* 7.Belén Siglo XXI            17   6  4  7  20-26  22
-* 8.Limón FC                   17   5  6  6  18-21  21
-* 9.SD Santos (Guapilés)       18   4  7  7  22-28  19
-*10.D Municipal Puntarenas FC  18   3  7  8  21-30  16
-*11.CS Cartaginés              17   3  7  7  14-24  16
-*12.AD Municipal Pérez Zeledón 18   3  6  9  18-30  15
+* 5.AD Carmelita               22   9  4  9  30-27  31
+* 6.Belén Siglo XXI            22   8  5  9  27-36  29
+* 7.CS Uruguay (Coronado)      22   8  4 10  27-31  28
+* 8.Limón FC                   22   6  7  9  26-31  25
+* 9.CS Cartaginés              22   5  9  8  21-29  24
+*10.AD Municipal Pérez Zeledón 22   5  8  9  28-36  23
+*11.SD Santos (Guapilés)       22   4  7 11  23-37  19
+*12.D Municipal Puntarenas FC  22   3  8 11  24-40  17
 
 
-*Playoff Stage
-* MISSING
+Stage: Playoff
+Round: Semifinals
+Leg: 1
+
+4/27/2014; UCR          ; 2-2; Saprissa      
+4/27/2014; Herediano    ; 1-1; Alajuelense   
+
+Leg: 2
+
+4/30/2014; Saprissa     ; 2-0; UCR           
+4/30/2014; Alajuelense  ; 3-1; Herediano     
+
+Round: Final
+Leg: 1
+
+5/5/2014; Alajuelense  ; 0-0; Saprissa      
+
+Leg: 2
+
+5/10/2014; Saprissa     ; 1-0; Alajuelense   
+
+
+*Aggregate Table 2013/14
+* 1.CS Herediano               44  27  9  8  90-46  90
+* 2.LD Alajuelense             44  27  8  9  78-39  89
+* 3.Deportivo Saprissa         44  25 13  6  81-43  88
+* 4.Universidad de Costa Rica  44  17 11 16  56-58  62
+* 5.AD Carmelita               44  15 12 17  59-60  57
+* 6.CS Cartaginés              44  12 20 12  45-52  56
+* 7.CS Uruguay (Coronado)      44  12 13 19  50-61  49
+* 8.SD Santos (Guapilés)       44  11 13 20  55-69  46
+* 9.AD Municipal Pérez Zeledón 44  11 13 20  60-79  46
+*10.Belén Siglo XXI            44  11 13 20  50-72  46
+*11.Limón FC                   44  11 12 21  49-70  45
+*-----------------------------------------------------
+*12.D Municipal Puntarenas FC  44   9 15 20  45-69  42  Relegated
+*Promoted: AS Puma Generaleña (San Isidro de El General)
+
 
 *Prepared and maintained by Karel Stokkermans for the Rec.Sport.Soccer Statistics Foundation
 *Author: Karel Stokkermans (karel@rsssf.com) 
-*Last updated: 10 Apr 2014
+* Last updated: 11 Sep 2014
 *(C) Copyright Karel Stokkermans and RSSSF 2013/14
 *You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
