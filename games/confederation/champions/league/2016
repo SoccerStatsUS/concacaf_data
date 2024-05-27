@@ -1,6 +1,7 @@
-BlockSource: https://en.wikipedia.org/wiki/2016%E2%80%9317_CONCACAF_Champions_League
+Competition: CONCACAF Champions League
 Season: 2016-2017
-Source: https://en.wikipedia.org/wiki/2015%E2%80%9316_CONCACAF_Champions_League
+BlockSource: https://en.wikipedia.org/wiki/2016%E2%80%9317_CONCACAF_Champions_League
+* Source: https://en.wikipedia.org/wiki/2015%E2%80%9316_CONCACAF_Champions_League
 
 * Draw
 *Pot 1: Plaza Amador, Alianza, Dragón, Real Estelí, Police United, Central, W Connection, Don Bosco
@@ -8,7 +9,6 @@ Source: https://en.wikipedia.org/wiki/2015%E2%80%9316_CONCACAF_Champions_League
 *Pot 3: UANL, Pachuca, UNAM, Monterrey, Portland Timbers, New York Red Bulls, FC Dallas, Sporting Kansas City
 
 Stage: group
-
 Group: A
 
 8/3/2016; W Connection; 2-4; UNAM; Ato Boldon Stadium; Ato Boldon Stadium; Adrian Skeete
@@ -205,7 +205,6 @@ FC Dallas: Gonzalez; Figueroa, Hedges, Zimmerman, Harris; Acosta (Rosales 82), G
 Real Esteli: Lorente; Rosas, Mosquera, Copete, Quijano; Lopez, Kasado; Santana (Berdun 46, Paz 76), Torres, Wilson; Calero (Mejia 66)
 Source: http://matchcenter.mlssoccer.com/matchcenter/2016-08-04-fc-dallas-vs-real-esteli-fc/feed
 
-
 8/18/2016; Suchitepequez; 1-0; Real Esteli; Estadio Mateo Flores; Ricangel de Leca
 Kevin Ruiz (fk) 90+1; 
 Suchitepequez: Sosa; Armas, Morales (Gonzalez 46), Ruiz, Morales; Esquivel, Tagua, Cardona; Villatoro (Lopez 57)x, Lalinde, Escoto (Barrillas 73)
@@ -218,7 +217,8 @@ Real Esteli: Lorente; Quijano, Copete, Casco, Paz (Mosquera 46); Rosas, Lopez (W
 FC Dallas: Gonzalez; David, Figueroa, Hedges, Harris; Ulloa, Ortiz; Akindele, Rosales (Lizarazo 73), Hollingshead (Barrios 62); Getterson (Acosta 85)
 Source: http://matchcenter.mlssoccer.com/matchcenter/2016-08-24-real-esteli-fc-vs-fc-dallas/feed
 
-9/13/2016; Real Esteli; v; Suchitepequez; Estadio Independencia (Esteli)
+9/13/2016; Real Esteli; 1-1; Suchitepequez; Estadio Independencia (Esteli); Kevin Morrison
+Samuel Wilson 70; Amaury Escoto 49
 
 9/28/2016; FC Dallas; 0-0; Suchitepequez; Toyota Stadium (Frisco); Roberto García Orozco, José Luis Camargo Callado, Alberto Morín Méndez, Jorge Isaac Rojas Castillo
 FC Dallas: Gonzalez; Hollingshead, Guillen, Paparatto, David; Ulloa (Acosta 69), Ortiz; Getterson, Lizarazo (Pitter 77), Craft (Akindele 56); Ruiz
@@ -236,22 +236,104 @@ Source: http://matchcenter.mlssoccer.com/matchcenter/2016-10-20-cd-suchitepequez
 
 Stage: knockout
 Round: Quarterfinals
+
 BlockSource: http://www.mlssoccer.com/post/2016/10/21/quarterfinal-matchups-set-2016-17-concacaf-champions-league
+BlockSource: https://en.wikipedia.org/wiki/2016%E2%80%9317_CONCACAF_Champions_League
 
-2/22/2017; NY Red Bulls; v; Vancouver Whitecaps; Red Bull Arena
-3/2/2017; Vancouver Whitecaps; v; NY Red Bulls; BC Place
+Leg: 1
 
-2/23/2017; FC Dallas; v; Arabe Unido; Toyota Stadium (Frisco)
-3/1/2017; Arabe Unido; v; FC Dallas; Estadio Maracana
+2/21/2017; NY Red Bulls; 1-1; Vancouver Whitecaps; Red Bull Arena; César Arturo Ramos Palazuelos, Marvin César Torrentera Rivera, Miguel Ángel Hernández Paredes, José Alfredo Peñaloza Soto; 3231
+Bradley Wright-Phillips (Veron, Zizzo) 62; Manneh (Waston, Techera) 39
+NY Red Bulls: Robles; Bilyeu, Long, Collin, Zizzo; Felipe; Royer (Etienne 74), Kljestan; Davis; Bradley Wright-Phillips (Grella 87), Veron
+Vancouver Whitecaps: Ousted; Harvey, Parker, Waston, Nerwinski (Williams 76); Teibert, Laba; Davies, Manneh (Greig 80), Techera; Hurtado (Barnes 63)
+Red Card: ; Techera 70
+Yellow Card: Kljestan 80; Parker 41, Hurtado 55
+Source: http://matchcenter.mlssoccer.com/matchcenter/2017-02-22-new-york-red-bulls-vs-vancouver-whitecaps-fc/feed
 
-2/21/2017; Saprissa; v; Pachuca; Estadio Ricardo Saprissa
-2/28/2017; Pachuca; v; Saprissa; Estadio Hidalgo
+2/21/2017; FC Dallas; 4-0; Arabe Unido; Toyota Stadium (Frisco); Ricardo Montero, Juan Carlos Mora, Osvaldo Luna, William Anderson; 4019
+Colman (Gruezo) 30, Acosta (Lamah) 55, Acosta (Akindele) 86, Barrios (Akindele) 90+1;
+FC Dallas: Seitz; Figueroa, Hedges, Zimmerman, Grana (Harris 84); Acosta; Lamah (Akindele 75), Barrios; Gruezo; Urruti, Colman (Morales 70)
+Arabe Unido: Lloyd; Ortiz, Chen, Caesar, Nino; Heraldez; Gomez (Pino 62), Addles; Henriquez; Gonzalez, Small (Hincapie 78)
+Yellow Card: Figueroa 58; Caesar 17, Addles 28, Henriquez 49
+Source: http://matchcenter.mlssoccer.com/matchcenter/2017-02-23-fc-dallas-vs-arabe-unido/feed
+Source: https://www.fcdallas.com/post/2017/02/23/match-recap-fc-dallas-tops-arabe-unido-4-0-ccl-quarterfinal-leg-one
 
-2/22/2017; UANL; v; UNAM; Estadio Universitario (San Nicolas de los Garza)
-3/1/2017; UNAM; v; UANL; Estadio Olimpico Universitario
+2/21/2017; Saprissa; 0-0; Pachuca; Estadio Ricardo Saprissa; Oscar Moncada
+
+2/21/2017; UANL; 1-1; UNAM; Estadio Universitario (San Nicolas de los Garza)
+Vargas 41; Britos 62
+
+
+Leg: 2
+
+2/28/2017; Vancouver Whitecaps; np; NY Red Bulls; BC Place
+* Notes: rescheduled
+
+3/2/2017; Vancouver Whitecaps; 2-0; NY Red Bulls; BC Place; Valdin Legister; 14183
+Davies 5, Montero 76; 
+
+2/28/2017; Arabe Unido; 2-1; FC Dallas; Estadio Rommel Fernandez; Joel Aguilar, William Torres, Juan Zumba, Jaime Alfredo Herrera
+Chen (Addles) 90, Heraldez (Hincapie) 90+2; Heraldez (og) 23
+Arabe Unido: Lloyd; Ortiz, Chen, Algadona, Heraldez; Gomez (Hincapie 46), Henriquez, Gonzalez, Addles; Carlos Small (Pino 69), Enrico Small (Brown 57)
+FC Dallas: Seitz; Guillen, Hedges, Zimmerman, Grana; Gruezo, Acosta (Pomykal 63); Akindele, Morales, Barrios (Harris 46); Urruti (Colman 46)
+Yellow Card: Gonzalez 18, Addles 85; Seitz 28, Hedges 35, Acosta 61
+Source: https://matchcenter.mlssoccer.com/matchcenter/2017-03-01-arabe-unido-vs-fc-dallas/feed
+
+2/28/2017; Pachuca; 4-0; Saprissa; Estadio Hidalgo
+Guzman 29, Urretaviscaya 31, Jara 69, Lozano 80; 
+
+2/28/2017; UNAM; 0-3; UANL; Estadio Olimpico Universitario
+; Damm 33, Damm 65, Quinones 87
 
 
 Round: Semifinals
+Leg: 1
+
+3/14/2017; UANL; 2-0; Vancouver Whitecaps; Estadio Universitario (San Nicolas de los Garza); Oscar Moncada, Melvin Cruz, Jesús Tabora, Raúl Castro; 31197
+Waston (og) 66, Vargas (Sosa) 87;
+UANL: Guzman; Jorge Torres (Zelarayan 46), Meza, Ayala, Advincula (Sosa 64); Quinones, Duenas, Pizarro, Damm; Gignac, Vargas
+Vancouver Whitecaps: Ousted; Harvey, Parker, Waston, Williams; de Jong (Bolanos 56), Laba, Jacobson, Davies (Techera 78); Shea, Montero (Mezquida 64)
+Yellow Card: ; de Jong 19, Waston 22, Shea 60, Williams 64
+Source: https://matchcenter.mlssoccer.com/matchcenter/2017-03-14-tigres-uanl-vs-vancouver-whitecaps-fc/feed
+Source: https://matchcenter.mlssoccer.com/matchcenter/2017-03-14-tigres-uanl-vs-vancouver-whitecaps-fc/recap
+
+3/15/2017; FC Dallas; 2-1; Pachuca; Toyota Stadium (Frisco); Jhon Pitti, Gabriel Victoria, Christian Ramirez, Melvin Matamoros; 8961
+Urruti (ua) 43, Acosta (ua) 58; Jara (Aguirre) 3
+FC Dallas: Seitz; Figueroa, Hedges, Zimmerman, Grana; Lamah (Guillen 90+3), Gruezo, Acosta, Barrios (Akindele 81); Urruti, Colman (Harris 84)
+Pachuca: Blanco; Medina, Murillo, Gonzalez, Lopez; Guzman (Rodriguez 74), Gutierrez, Hernandez; Aguirre (Alvarado 82), Jara, Urreta
+Yellow Card: Hedges 33, Grana 45, Gruezo 62; Medina 35, Murillo 57, Hernandez 89
+Source: https://matchcenter.mlssoccer.com/matchcenter/2017-03-15-fc-dallas-vs-pachuca/feed
+
+Leg: 2
+
+4/4/2017; Pachuca; 3-1; FC Dallas; Estadio Hidalgo; Melvin Matamoros, Hermenerito Leal, Walter López, Mario Escobar
+Jara (Urreta) 38, Lozano (Gutierrez) 80, Lozano (Jara) 90+2; Colman (Gruezo) 86
+Pachuca: Blanco; Garcia, Murillo, Gonzalez, Lopez; Gutierrez, Hernandez, Urreta; Lozano, Jara, Guzman
+FC Dallas: Seitz; Figueroa, Hedges, Zimmerman, Grana; Lamah, Gruezo, Acosta (Morales 85), Barrios (Akindele 73); Colman, Urruti (Harris 90+4)
+Yellow Card: ; Zimmerman 63, Hedges 88
+Source: https://matchcenter.mlssoccer.com/matchcenter/2017-04-04-pachuca-vs-fc-dallas/feed
+
+4/5/2017; Vancouver Whitecaps; 1-2; UANL; BC Place; Javier Santos, Juan Carlos Mora, Carlos Fernandez, William Anderson; 16258
+Shea (ua) 3; Gignac (Aquino) 63, Alvarez (Aquino, Zelarayan) 64
+Vancouver Whitecaps: David Ousted; Sheanon Williams (Kyle Greig 78), Kendall Waston [c], Tim Parker, Jordan Harvey; Andrew Jacobson (Tony Tchani 61), Matías Laba; Cristian Techera, Christian Bolaños, Brek Shea (Alphonso Davies 10); Fredy Montero 
+UANL: Nahuel Guzmán; Luis Rodríguez, Hugo Ayala, Juninho [c] (Francisco Meza 86), Jorge Torres Nilo; Ismael Sosa (Damián Álvarez 83), Jesús Dueñas, Guido Pizarro, Javier Aquino; Eduardo Vargas (Lucas Zelarayán 78), André-Pierre Gignac
+Yellow Card: Laba 43; 
+Source: https://www.whitecapsfc.com/post/2017/04/05/caps-knocked-out-champions-league-2-1-loss-mexican-champs-tigres-uanl
+Source: https://matchcenter.mlssoccer.com/matchcenter/2017-04-05-vancouver-whitecaps-fc-vs-tigres-uanl/feed
+
 
 Round: Finals
+BlockSource: https://en.wikipedia.org/wiki/2017_CONCACAF_Champions_League_Finals
+
+Leg: 1
+
+4/18/2017; UANL; 1-1; Pachuca; Estadio Universitario (San Nicolas de los Garza); Mark Geiger; 35147
+Sosa 32; Lopez 3
+
+Leg: 2
+
+4/26/2017; Pachuca; 1-0; UANL; Estadio Hidalgo; Cesar Arturo Ramos
+Jara 83; 
+
+
 
