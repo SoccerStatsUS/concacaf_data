@@ -1,0 +1,92 @@
+Competition: Canadian Premier League
+Key: _; team; games; wins; ties; losses; goals_for; goals_against; goal_difference; points; _
+
+Season: 2019
+
+* Pos; Team; Pld; W; D; L; GF; GA; GD; Pts; Qualification
+1; Cavalry FC; 10; 8; 0; 2; 16; 7; +9; 24; 2019 Canadian Premier League Finals
+2; Forge FC; 10; 6; 1; 3; 15; 7; +8; 19; 2019 CONCACAF League preliminary round[a]
+3; FC Edmonton; 10; 4; 2; 4; 8; 9; −1; 14; 
+4; HFX Wanderers; 10; 3; 2; 5; 8; 11; −3; 11; 
+5; Pacific FC; 10; 3; 2; 5; 11; 15; −4; 11; 
+6; York9; 10; 2; 5; 3; 9; 11; −2; 11; 
+7; Valour FC; 10; 3; 0; 7; 8; 15; −7; 9; 
+
+Season: 2020
+BlockSource: https://en.wikipedia.org/wiki/2020_Canadian_Premier_League_season
+
+* Pos; Team; Pld; W; D; L; GF; GA; GD; Pts; Qualification
+1; Cavalry FC; 7; 4; 1; 2; 10; 7; +3; 13; Advance to group stage
+2; HFX Wanderers; 7; 3; 3; 1; 12; 7; +5; 12; [a]
+3; Forge FC ; 7; 3; 3; 1; 13; 9; +4; 12; [a]
+4; Pacific FC; 7; 3; 2; 2; 10; 8; +2; 11; 
+5; York9; 7; 2; 4; 1; 8; 7; +1; 10; 
+6; Valour FC; 7; 2; 2; 3; 8; 9; −1; 8; [b]
+7; Atlético Ottawa; 7; 2; 2; 3; 7; 12; −5; 8; [b]
+8; FC Edmonton; 7; 0; 1; 6; 5; 14; −9; 1; 
+
+Season: 2021
+BlockSource: https://en.wikipedia.org/wiki/2021_Canadian_Premier_League_season
+
+* Pos; Team; Pld; W; D; L; GF; GA; GD; Pts; Qualification
+1; Forge FC; 28; 16; 2; 10; 39; 24; +15; 50; Advance to playoffs
+2; Cavalry FC; 28; 14; 8; 6; 34; 30; +4; 50; 
+3; Pacific FC; 28; 13; 6; 9; 47; 34; +13; 45; 
+4; York United; 28; 8; 12; 8; 35; 39; −4; 36; 
+5; Valour FC; 28; 10; 5; 13; 38; 36; +2; 35; ; 
+6; HFX Wanderers; 28; 8; 11; 9; 28; 34; −6; 35; 
+7; FC Edmonton; 28; 6; 10; 12; 34; 41; −7; 28; 
+8; Atlético Ottawa; 28; 6; 8; 14; 30; 47; −17; 26; 
+
+Season: 2022
+BlockSource: https://en.wikipedia.org/wiki/2022_Canadian_Premier_League_season
+
+* Pos; Team; Pld; W; D; L; GF; GA; GD; Pts; Qualification
+1; Atlético Ottawa; 28; 13; 10; 5; 36; 29; +7; 49; Advance to playoffs
+2; Forge FC; 28; 14; 5; 9; 47; 25; +22; 47; 
+3; Cavalry FC; 28; 14; 5; 9; 39; 33; +6; 47; 
+4; Pacific FC; 28; 13; 7; 8; 36; 33; +3; 46; 
+5; Valour FC; 28; 10; 7; 11; 36; 34; +2; 37; 
+6; York United; 28; 9; 7; 12; 31; 37; −6; 34; 
+7; HFX Wanderers; 28; 8; 5; 15; 24; 38; −14; 29; 
+8; FC Edmonton; 28; 4; 8; 16; 31; 51; −20; 20; 
+
+Season: 2023
+BlockSource: https://en.wikipedia.org/wiki/2023_Canadian_Premier_League_season
+
+* Pos; Team; Pld; W; D; L; GF; GA; GD; Pts; Playoff qualification
+1; Cavalry FC; 28; 16; 7; 5; 46; 27; +19; 55; First semifinal
+2; Forge FC; 28; 11; 9; 8; 39; 32; +7; 42; [a]
+3; HFX Wanderers; 28; 11; 9; 8; 39; 32; +7; 42; [a] Quarterfinal
+4; Pacific FC; 28; 11; 7; 10; 42; 35; +7; 40; Play-in round
+5; York United; 28; 11; 5; 12; 35; 44; −9; 38; 
+6; Atlético Ottawa; 28; 10; 6; 12; 38; 34; +4; 36; 
+7; Vancouver FC; 28; 8; 5; 15; 28; 50; −22; 29; 
+8; Valour FC; 28; 6; 8; 14; 25; 38; −13; 26; 
+
+Season: 2024
+BlockSource: https://en.wikipedia.org/wiki/2024_Canadian_Premier_League_season
+
+* Pos; Team; Pld; W; D; L; GF; GA; GD; Pts; Playoff qualification
+1; Forge FC; 28; 15; 5; 8; 45; 31; +14; 50; First semifinal
+2; Cavalry FC; 28; 12; 12; 4; 39; 27; +12; 48; 
+3; Atlético Ottawa; 28; 11; 11; 6; 42; 31; +11; 44; Quarterfinal
+4; York United; 28; 11; 6; 11; 35; 36; −1; 39; Play-in round
+5; Pacific FC; 28; 9; 7; 12; 27; 32; −5; 34; 
+6; HFX Wanderers; 28; 7; 9; 12; 37; 43; −6; 30; [a]
+7; Vancouver FC; 28; 7; 9; 12; 29; 43; −14; 30; [a]
+8; Valour FC; 28; 7; 7; 14; 31; 42; −11; 28; 
+
+Season: 2025
+BlockSource: https://en.wikipedia.org/wiki/2025_Canadian_Premier_League_season
+
+1; Forge FC; 28; 16; 10; 2; 51; 22; +29; 58; First semifinal and 2026 CONCACAF Champions Cup
+2; Atlético Ottawa; 28; 15; 11; 2; 54; 28; +26; 56; First semifinal
+3; Cavalry FC; 28; 11; 9; 8; 47; 36; +11; 42; Quarterfinal
+4; HFX Wanderers; 28; 11; 6; 11; 41; 34; +7; 39; Play-in round
+5; York United; 28; 10; 8; 10; 43; 38; +5; 38; 
+6; Valour FC; 28; 7; 5; 16; 35; 62; −27; 26; 
+7; Pacific FC; 28; 5; 8; 15; 30; 59; −29; 23; 
+8; Vancouver FC; 28; 4; 9; 15; 35; 57; −22; 21; 2026 CONCACAF Champions Cup[a]
+
+Season: 2026
