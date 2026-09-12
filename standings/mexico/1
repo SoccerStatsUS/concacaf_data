@@ -15,7 +15,7 @@ Season: 1943-1944
 6   ;    Guadalajara   ;  18   ;   8     ;  0    ;   10  ;   16;    50   ;   51   
 7   ;    Veracruz      ;  18   ;   7     ;  2    ;   9   ;   16;    48   ;   57   
 8   ;    Club America       ;  18   ;   6     ;  1    ;   11  ;   13;    42   ;   58   
-9   ;    A.D.O.        ;  18   ;   5     ;  2    ;   11  ;   12;    37   ;   54   
+9   ;    Albinegros de Orizaba        ;  18   ;   5     ;  2    ;   11  ;   12;    37   ;   54   
 10  ;    Marte (Mexico)         ;  18   ;   4     ;  4    ;   10  ;   12;    32   ;   47   
 
 
@@ -32,7 +32,7 @@ Season: 1944-1945
 9   ;    Club America                ;   24  ;    9    ;   4   ;    11 ;    22;     47  ;    64  
 10  ;    Guadalajara            ;   24  ;    6    ;   9   ;    9  ;    21;     50  ;    60  
 11  ;    Marte (Mexico)                  ;   24  ;    9    ;   3   ;    12 ;    21;     51  ;    67  
-12  ;    A.D.O.                 ;   24  ;    8    ;   3   ;    13 ;    19;     46  ;    57  
+12  ;    Albinegros de Orizaba                 ;   24  ;    8    ;   3   ;    13 ;    19;     46  ;    57  
 13  ;    Oro                    ;   24  ;    4    ;   4   ;    16 ;    12;     38  ;    71  
 
 
@@ -45,14 +45,14 @@ Season: 1945-1946
 5  ;     Oro                ;     30  ;    17  ;    4  ;     9   ;    38;    83   ;   61  
 6  ;     Moctezuma          ;     30  ;    15  ;    3  ;     12  ;    33;    85   ;   69  
 7  ;     Real Club España   ;     30  ;    15  ;    2  ;     13  ;    32;    91   ;   68  
-8  ;     A.D.O.             ;     30  ;    14  ;    4  ;     12  ;    32;    49   ;   52  
+8  ;     Albinegros de Orizaba             ;     30  ;    14  ;    4  ;     12  ;    32;    49   ;   52  
 9  ;     Atlas              ;     30  ;    13  ;    5  ;     12  ;    31;    71   ;   69  
 10 ;     Asturias           ;     30  ;    12  ;    4  ;     14  ;    28;    71   ;   74  
 11 ;     Guadalajara        ;     30  ;    11  ;    5  ;     14  ;    27;    60   ;   64  
 12 ;     Marte (Mexico)              ;     30  ;    9   ;    7  ;     14  ;    25;    67   ;   87  
 13 ;     Tampico Madero            ;     30  ;    9   ;    3  ;     18  ;    21;    61   ;   97  
 14 ;     Club America            ;     30  ;    7   ;    5  ;     18  ;    19;    71   ;   101 
-15 ;     San Sebastian      ;     30  ;    5   ;    5  ;     20  ;    15;    46   ;   87  
+15 ;     San Sebastian de Leon     ;     30  ;    5   ;    5  ;     20  ;    15;    46   ;   87  
 16 ;     Monterrey          ;     30  ;    5   ;    4  ;     21  ;    14;    58   ;   133 
 
 Season: 1946-1947
@@ -68,8 +68,8 @@ Season: 1946-1947
 9  ;     Real Club España   ;     28  ;    11  ;    3  ;     14  ;    25;    53   ;   57  
 10 ;     Asturias           ;     28  ;    10  ;    5  ;     13  ;    25;    53   ;   65  
 11 ;     Guadalajara        ;     28  ;    7   ;    9  ;     12  ;    23;    58   ;   61  
-12 ;     A.D.O.             ;     28  ;    7   ;    5  ;     16  ;    19;    51   ;   62  
-13 ;     San Sebastian      ;     28  ;    7   ;    5  ;     16  ;    19;    55   ;   88  
+12 ;     Albinegros de Orizaba             ;     28  ;    7   ;    5  ;     16  ;    19;    51   ;   62  
+13 ;     San Sebastian de Leon     ;     28  ;    7   ;    5  ;     16  ;    19;    55   ;   88  
 14 ;     Club America            ;     28  ;    7   ;    3  ;     18  ;    17;    53   ;   80  
 15 ;     Marte (Mexico)              ;     28  ;    5   ;    7  ;     16  ;    17;    56   ;   99  
 
@@ -79,8 +79,8 @@ Season: 1947-1948
 2  ;     Oro                ;     28  ;    16  ;    4  ;     8   ;    36;    80   ;   49  
 3  ;     Atlas              ;     28  ;    14  ;    7  ;     7   ;    35;    69   ;   50  
 4  ;     Puebla             ;     28  ;    15  ;    5  ;     8   ;    35;    40   ;   34  
-5  ;     A.D.O.             ;     28  ;    13  ;    5  ;     10  ;    31;    68   ;   66  
-6  ;     San Sebastian      ;     28  ;    12  ;    4  ;     12  ;    28;    50   ;   76  
+5  ;     Albinegros de Orizaba             ;     28  ;    13  ;    5  ;     10  ;    31;    68   ;   66  
+6  ;     San Sebastian de Leon     ;     28  ;    12  ;    4  ;     12  ;    28;    50   ;   76  
 7  ;     Real Club España   ;     28  ;    10  ;    7  ;     11  ;    27;    56   ;   53  
 8  ;     Tampico Madero            ;     28  ;    11  ;    5  ;     12  ;    27;    62   ;   64  
 9  ;     Veracruz           ;     28  ;    12  ;    3  ;     13  ;    27;    62   ;   66  
@@ -98,8 +98,8 @@ Season: 1948-1949
 3 ;      Guadalajara       ;      28 ;     17 ;     4 ;      7  ;     38;     54  ;    37 
 4 ;      Puebla            ;      28 ;     14 ;     4 ;      10 ;     32;     53  ;    50 
 5 ;      Asturias          ;      28 ;     12 ;     6 ;      10 ;     30;     58  ;    44 
-6 ;      A.D.O.            ;      28 ;     10 ;     8 ;      10 ;     28;     56  ;    54 
-7 ;      San Sebastian     ;      28 ;     10 ;     8 ;      10 ;     28;     47  ;    53 
+6 ;      Albinegros de Orizaba            ;      28 ;     10 ;     8 ;      10 ;     28;     56  ;    54 
+7 ;      San Sebastian de Leon    ;      28 ;     10 ;     8 ;      10 ;     28;     47  ;    53 
 8 ;      Moctezuma         ;      28 ;     11 ;     4 ;      13 ;     26;     58  ;    64 
 9 ;      Real Club España  ;      28 ;     9  ;     6 ;      13 ;     24;     55  ;    56 
 10;      Veracruz          ;      28 ;     7  ;     10;      11 ;     24;     51  ;    59 

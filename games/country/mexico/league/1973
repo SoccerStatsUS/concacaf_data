@@ -35,13 +35,13 @@ Round: 1
 ; Leon                ; 2 - 3; Jalisco             
 ; Veracruz            ; 0 - 2; Monterrey           
 ; Zacatepec           ; 0 - 0; Atlante             
-; Laguna              ; 3 - 1; Madero              
+; Laguna              ; 3 - 1; Ciudad Madero              
                                                
 Round: 2                                        
 
 ; Atlante             ; 2 - 2; Atlas               
 ; Jalisco             ; 2 - 1; Club America             
-; Madero              ; 1 - 2; Cruz Azul           
+; Ciudad Madero              ; 1 - 2; Cruz Azul           
 ; Monterrey           ; 1 - 0; Guadalajara         
 ; San Luis            ; 2 - 3; Atletico Espanol           
 ; Torreon             ; 2 - 2; Leon                
@@ -53,7 +53,7 @@ Round: 3
 
 ; Laguna              ; 3 - 2; Atlante             
 ; San Luis            ; 1 - 2; Jalisco             
-; Veracruz            ; 1 - 2; Madero              
+; Veracruz            ; 1 - 2; Ciudad Madero              
 ; Leon                ; 2 - 0; Monterrey           
 ; Atletico Espanol           ; 1 - 0; Zacatepec           
 ; Club America             ; 2 - 0; Torreon             
@@ -69,7 +69,7 @@ Round: 4
 ; Puebla              ; 2 - 1; Leon                
 ; Jalisco             ; 3 - 3; Atletico Espanol           
 ; Monterrey           ; 2 - 1; Club America             
-; Madero              ; 0 - 0; Guadalajara         
+; Ciudad Madero              ; 0 - 0; Guadalajara         
 ; Zacatepec           ; 2 - 2; Atlas               
 ; Atlante             ; 1 - 4; Cruz Azul           
        
@@ -81,7 +81,7 @@ Round: 5
 ; Club America             ; 0 - 1; Puebla              
 ; Atletico Espanol           ; 5 - 1; Atlas               
 ; San Luis            ; 1 - 5; Monterrey           
-; Leon                ; 1 - 1; Madero              
+; Leon                ; 1 - 1; Ciudad Madero              
 ; Laguna              ; 0 - 0; Zacatepec           
 ; Veracruz            ; 2 - 0; Atlante             
                                                
@@ -90,7 +90,7 @@ Round: 6
 ; Zacatepec           ; 2 - 2; Cruz Azul           
 ; Monterrey           ; 0 - 2; Jalisco             
 ; Atlante             ; 2 - 2; Guadalajara         
-; Madero              ; 0 - 2; Club America             
+; Ciudad Madero              ; 0 - 2; Club America             
 ; Torreon             ; 1 - 1; Atletico Espanol           
 ; Puebla              ; 6 - 0; San Luis            
 ; Toluca              ; 0 - 0; Leon                
@@ -102,7 +102,7 @@ Round: 7
 ; Veracruz            ; 1 - 1; Zacatepec           
 ; Torreon             ; 1 - 5; Monterrey           
 ; Leon                ; 2 - 0; Atlante             
-; San Luis            ; 2 - 1; Madero              
+; San Luis            ; 2 - 1; Ciudad Madero              
 ; Atletico Espanol           ; 2 - 2; Laguna              
 ; Jalisco             ; 1 - 2; Puebla              
 ; Club America             ; 1 - 2; Toluca              
@@ -116,7 +116,7 @@ Round: 8
 ; U.N.A.M.            ; 2 - 3; Leon                
 ; Toluca              ; 2 - 1; San Luis            
 ; Monterrey           ; 2 - 2; Atletico Espanol           
-; Madero              ; 2 - 2; Jalisco             
+; Ciudad Madero              ; 2 - 2; Jalisco             
 ; Atlante             ; 1 - 4; Club America             
 ; Laguna              ; 0 - 0; Cruz Azul           
 ; Zacatepec           ; 2 - 2; Guadalajara         
@@ -128,7 +128,7 @@ Round: 9
 ; Club America             ; 2 - 1; U.N.A.M.            
 ; Jalisco             ; 4 - 0; Toluca              
 ; Atletico Espanol           ; 0 - 3; Cruz Azul           
-; Torreon             ; 4 - 3; Madero              
+; Torreon             ; 4 - 3; Ciudad Madero              
 ; San Luis            ; 4 - 1; Atlante             
 ; Veracruz            ; 1 - 1; Laguna              
 ; Leon                ; 3 - 1; Zacatepec           
@@ -136,7 +136,7 @@ Round: 9
 Round: 10                                       
 
 ; Laguna              ; 3 - 1; Guadalajara         
-; Madero              ; 3 - 0; Monterrey           
+; Ciudad Madero              ; 3 - 0; Monterrey           
 ; Zacatepec           ; 3 - 0; Club America             
 ; Atlante             ; 2 - 1; Jalisco             
 ; Puebla              ; 1 - 1; Atletico Espanol           
@@ -148,7 +148,7 @@ Round: 10
 Round: 11                                       
 
 ; Leon                ; 1 - 1; Laguna              
-; Puebla              ; 0 - 1; Madero              
+; Puebla              ; 0 - 1; Ciudad Madero              
 ; San Luis            ; 0 - 1; Zacatepec           
 ; Torreon             ; 3 - 1; Atlante             
 ; Atletico Espanol           ; 2 - 0; Veracruz            
@@ -163,7 +163,7 @@ Round: 12
 ; Toluca              ; 0 - 1; Puebla              
 ; Atlas               ; 1 - 0; San Luis            
 ; U.N.A.M.            ; 4 - 1; Torreon             
-; Madero              ; 0 - 2; Atletico Espanol           
+; Ciudad Madero              ; 0 - 2; Atletico Espanol           
 ; Atlante             ; 0 - 3; Monterrey           
 ; Zacatepec           ; 1 - 2; Jalisco             
 ; Veracruz            ; 1 - 3; Guadalajara         
@@ -172,7 +172,7 @@ Round: 12
 Round: 13                                       
 
 ; Club America             ; 2 - 1; Cruz Azul           
-; Madero              ; 1 - 1; Toluca              
+; Ciudad Madero              ; 1 - 1; Toluca              
 ; Jalisco             ; 2 - 3; Atlas               
 ; Monterrey           ; 1 - 0; U.N.A.M.            
 ; Atletico Espanol           ; 3 - 1; Guadalajara         
@@ -184,7 +184,7 @@ Round: 13
 Round: 14                                       
 
 ; Veracruz            ; 0 - 0; Club America             
-; Atlante             ; 2 - 2; Madero              
+; Atlante             ; 2 - 2; Ciudad Madero              
 ; Laguna              ; 3 - 3; Jalisco             
 ; Zacatepec           ; 2 - 7; Monterrey           
 ; Toluca              ; 3 - 0; Atletico Espanol           
@@ -200,7 +200,7 @@ Round: 15
 ; Torreon             ; 4 - 0; Laguna              
 ; Puebla              ; 3 - 1; Zacatepec           
 ; Atletico Espanol           ; 3 - 1; Leon                
-; Madero              ; 0 - 1; U.N.A.M.            
+; Ciudad Madero              ; 0 - 1; U.N.A.M.            
 ; Monterrey           ; 0 - 2; Atlas               
 ; Club America             ; 0 - 1; Guadalajara         
 ; Jalisco             ; 1 - 2; Cruz Azul           
@@ -212,7 +212,7 @@ Round: 16
 ; Cruz Azul           ; 4 - 1; Torreon             
 ; Atlas               ; 3 - 2; Puebla              
 ; Atletico Espanol           ; 3 - 2; Atlante             
-; Zacatepec           ; 6 - 0; Madero              
+; Zacatepec           ; 6 - 0; Ciudad Madero              
 ; Laguna              ; 2 - 4; Monterrey           
 ; Leon                ; 2 - 2; Club America             
 ; Veracruz            ; 2 - 0; Jalisco             
@@ -222,7 +222,7 @@ Round: 17
 ; Jalisco             ; 0 - 1; Guadalajara         
 ; Atlante             ; 0 - 2; U.N.A.M.            
 ; Monterrey           ; 1 - 0; Cruz Azul           
-; Madero              ; 1 - 3; Atlas               
+; Ciudad Madero              ; 1 - 3; Atlas               
 ; Club America             ; 3 - 0; Atletico Espanol           
 ; Toluca              ; 1 - 1; Zacatepec           
 ; Puebla              ; 0 - 0; Laguna              
@@ -239,7 +239,7 @@ Round: 18
 ; Jalisco             ; 1 - 1; Leon                
 ; Monterrey           ; 1 - 0; Veracruz            
 ; Atlante             ; 1 - 1; Zacatepec           
-; Madero              ; 2 - 1; Laguna              
+; Ciudad Madero              ; 2 - 1; Laguna              
                                                
 Round: 19                                       
 
@@ -251,13 +251,13 @@ Round: 19
 ; Club America             ; 2 - 0; Jalisco             
 ; Guadalajara         ; 1 - 1; Monterrey           
 ; Atlas               ; 1 - 1; Atlante             
-; Cruz Azul           ; 5 - 0; Madero              
+; Cruz Azul           ; 5 - 0; Ciudad Madero              
                                                
 Round: 20                                       
 
 ; Atlante             ; 2 - 1; Laguna              
 ; Jalisco             ; 2 - 1; San Luis            
-; Madero              ; 3 - 3; Veracruz            
+; Ciudad Madero              ; 3 - 3; Veracruz            
 ; Monterrey           ; 2 - 0; Leon                
 ; Zacatepec           ; 2 - 0; Atletico Espanol           
 ; Torreon             ; 3 - 2; Club America             
@@ -269,7 +269,7 @@ Round: 21
 
 ; Cruz Azul           ; 3 - 2; Atlante             
 ; Atletico Espanol           ; 3 - 0; Jalisco             
-; Guadalajara         ; 3 - 0; Madero              
+; Guadalajara         ; 3 - 0; Ciudad Madero              
 ; Club America             ; 0 - 1; Monterrey           
 ; Atlas               ; 0 - 1; Zacatepec           
 ; San Luis            ; 1 - 0; Torreon             
@@ -285,7 +285,7 @@ Round: 22
 ; Puebla              ; 2 - 1; Club America             
 ; Atlas               ; 2 - 2; Atletico Espanol           
 ; Monterrey           ; 2 - 1; San Luis            
-; Madero              ; 1 - 1; Leon                
+; Ciudad Madero              ; 1 - 1; Leon                
 ; Zacatepec           ; 0 - 1; Laguna              
 ; Atlante             ; 2 - 4; Veracruz            
                                                
@@ -297,7 +297,7 @@ Round: 23
 ; San Luis            ; 2 - 1; Puebla              
 ; Laguna              ; 1 - 0; Atlas               
 ; Jalisco             ; 0 - 1; Monterrey           
-; Club America             ; 1 - 1; Madero              
+; Club America             ; 1 - 1; Ciudad Madero              
 ; Cruz Azul           ; 4 - 0; Zacatepec           
 ; Guadalajara         ; 1 - 0; Atlante             
                                                
@@ -306,7 +306,7 @@ Round: 24
 ; Zacatepec           ; 3 - 1; Veracruz            
 ; Monterrey           ; 3 - 1; Torreon             
 ; Atlante             ; 1 - 1; Leon                
-; Madero              ; 1 - 1; San Luis            
+; Ciudad Madero              ; 1 - 1; San Luis            
 ; Laguna              ; 2 - 0; Atletico Espanol           
 ; Puebla              ; 0 - 0; Jalisco             
 ; Toluca              ; 2 - 2; Club America             
@@ -318,7 +318,7 @@ Round: 25
 ; Guadalajara         ; 2 - 2; Zacatepec           
 ; Atletico Espanol           ; 3 - 1; Monterrey           
 ; Club America             ; 2 - 2; Atlante             
-; Jalisco             ; 6 - 3; Madero              
+; Jalisco             ; 6 - 3; Ciudad Madero              
 ; Cruz Azul           ; 1 - 1; Laguna              
 ; Torreon             ; 0 - 1; Puebla              
 ; San Luis            ; 0 - 2; Toluca              
@@ -332,7 +332,7 @@ Round: 26
 ; U.N.A.M.            ; 1 - 1; Club America             
 ; Toluca              ; 0 - 1; Jalisco             
 ; Cruz Azul           ; 3 - 3; Atletico Espanol           
-; Madero              ; 4 - 0; Torreon             
+; Ciudad Madero              ; 4 - 0; Torreon             
 ; Atlante             ; 4 - 0; San Luis            
 ; Laguna              ; 2 - 0; Veracruz            
 ; Zacatepec           ; 0 - 2; Leon                
@@ -344,7 +344,7 @@ Round: 27
 ; San Luis            ; 1 - 1; U.N.A.M.            
 ; Torreon             ; 2 - 2; Toluca              
 ; Veracruz            ; 2 - 2; Cruz Azul           
-; Monterrey           ; 3 - 0; Madero              
+; Monterrey           ; 3 - 0; Ciudad Madero              
 ; Jalisco             ; 0 - 2; Atlante             
 ; Guadalajara         ; 3 - 1; Laguna              
 ; Club America             ; 3 - 2; Zacatepec           
@@ -352,7 +352,7 @@ Round: 27
 Round: 28                                       
 
 ; Laguna              ; 0 - 1; Leon                
-; Madero              ; 1 - 1; Puebla              
+; Ciudad Madero              ; 1 - 1; Puebla              
 ; Zacatepec           ; 3 - 0; San Luis            
 ; Atlante             ; 0 - 0; Torreon             
 ; Veracruz            ; 0 - 0; Atletico Espanol           
@@ -364,7 +364,7 @@ Round: 28
 Round: 29                                       
 
 ; Club America             ; 1 - 0; Laguna              
-; Atletico Espanol           ; 7 - 0; Madero              
+; Atletico Espanol           ; 7 - 0; Ciudad Madero              
 ; Jalisco             ; 1 - 0; Zacatepec           
 ; Monterrey           ; 3 - 1; Atlante             
 ; Guadalajara         ; 1 - 0; Veracruz            
@@ -376,7 +376,7 @@ Round: 29
 Round: 30                                       
 
 ; Cruz Azul           ; 4 - 2; Club America             
-; Toluca              ; 4 - 0; Madero              
+; Toluca              ; 4 - 0; Ciudad Madero              
 ; Atlas               ; 1 - 1; Jalisco             
 ; U.N.A.M.            ; 0 - 4; Monterrey           
 ; Guadalajara         ; 1 - 0; Atletico Espanol           
@@ -394,7 +394,7 @@ Round: 31
 ; Leon                ; 4 - 2; Guadalajara         
 ; Puebla              ; 2 - 2; U.N.A.M.            
 ; San Luis            ; 1 - 2; Cruz Azul           
-; Madero              ; 0 - 0; Atlante             
+; Ciudad Madero              ; 0 - 0; Atlante             
 ; Torreon             ; 1 - 2; Atlas               
                                                
 Round: 32                                       
@@ -403,7 +403,7 @@ Round: 32
 ; Atlante             ; 3 - 2; Toluca              
 ; Cruz Azul           ; 2 - 1; Jalisco             
 ; Guadalajara         ; 0 - 2; Club America             
-; U.N.A.M.            ; 4 - 0; Madero              
+; U.N.A.M.            ; 4 - 0; Ciudad Madero              
 ; Leon                ; 2 - 2; Atletico Espanol           
 ; Veracruz            ; 2 - 0; San Luis            
 ; Zacatepec           ; 1 - 0; Puebla              
@@ -418,12 +418,12 @@ Round: 33
 ; Toluca              ; 2 - 2; U.N.A.M.            
 ; Puebla              ; 2 - 2; Atlas               
 ; San Luis            ; 1 - 1; Guadalajara         
-; Madero              ; 1 - 2; Zacatepec           
+; Ciudad Madero              ; 1 - 2; Zacatepec           
 ; Torreon             ; 0 - 1; Cruz Azul           
                                                
 Round: 34                                       
 
-; Atlas               ; 1 - 2; Madero              
+; Atlas               ; 1 - 2; Ciudad Madero              
 ; Atletico Espanol           ; 3 - 3; Club America             
 ; Cruz Azul           ; 2 - 0; Monterrey           
 ; Guadalajara         ; 0 - 1; Jalisco             
