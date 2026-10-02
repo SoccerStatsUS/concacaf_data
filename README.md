@@ -88,3 +88,14 @@ Email chris@soccerstats.us or [contact](http://www.soccerstats.us/contact)
 
 An open source soccer statistics database and website
 More [soccerstats.us](http://www.soccerstats.us)
+
+## License
+
+The data in this repository is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Use it for anything, including commercially, as long as you credit the source:
+
+> Data from soccerstats.us (https://soccerstats.us), CC BY 4.0.
+
+Individual facts (scores, dates, attendances) aren't copyrightable. The license covers this compilation.
+
+The PDFs under `raw/` are CONCACAF publications kept as source material. They aren't covered by this license.
